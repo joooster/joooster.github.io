@@ -1,0 +1,2173 @@
+{
+  "updated_on": 1766328547,
+  "sku": "aaaa0007",
+  "gameset_data": {
+    "gameset_language": "Germany",
+    "gameset_name": "Hitster Original - Schlager Party",
+    "cards": [
+      {
+        "CardNumber": "00309",
+        "Spotify": "4BH3bwOLMm7VLqMNuU5VT6",
+        "title": "Stark - Long Version",
+        "artist": "Ich + Ich, Adel Tawil",
+        "release_date": "2008-11-21"
+      },
+      {
+        "CardNumber": "00308",
+        "Spotify": "680Ilgt8TtFEb9baEEr0bu",
+        "title": "Mein Herz schlägt Schlager - Stereoact Remix",
+        "artist": "Vanessa Mai",
+        "release_date": "2016-10-21"
+      },
+      {
+        "CardNumber": "00307",
+        "Spotify": "3JMOwZynYYvRGrNLPlQOD9",
+        "title": "Du Du Du",
+        "artist": "Vincent Gross",
+        "release_date": "2017-03-24"
+      },
+      {
+        "CardNumber": "00306",
+        "Spotify": "5UVXLUq8m3CnehQ283wkrv",
+        "title": "'54, '74, '90, 2006",
+        "artist": "Sportfreunde Stiller",
+        "release_date": "2006-05-19"
+      },
+      {
+        "CardNumber": "00305",
+        "Spotify": "2EdQfODNo4itCgnh6rlxfi",
+        "title": "Verliebt, verlobt, verflixt nochmal",
+        "artist": "Beatrice Egli",
+        "release_date": "2018-03-16"
+      },
+      {
+        "CardNumber": "00304",
+        "Spotify": "72QYg34KFQdcHd9Tuy7mOf",
+        "title": "Ich bau dir ein Schloss - Schlager Radio Mix",
+        "artist": "Jürgen Drews",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00303",
+        "Spotify": "6N8bnX5uNPMAEblonTn5Fq",
+        "title": "Is was",
+        "artist": "Jürgen von der Lippe",
+        "release_date": "1989-04-21"
+      },
+      {
+        "CardNumber": "00302",
+        "Spotify": "6LGpIWaJstYdRzGl1RE49z",
+        "title": "Noch in 100.000 Jahren - Single Version",
+        "artist": "DJ Ötzi",
+        "release_date": "2008"
+      },
+      {
+        "CardNumber": "00301",
+        "Spotify": "3LE0oKAZ8PCHIHjrsZ5IRg",
+        "title": "Ich wünsch' mir 'ne kleine Miezekatze",
+        "artist": "Wum's Gesang",
+        "release_date": "2008-03-14"
+      },
+      {
+        "CardNumber": "00300",
+        "Spotify": "4j8zZZWeP6Ijn5oKLlfelE",
+        "title": "Schatzi schenk mir ein Foto",
+        "artist": "Mickie Krause",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00299",
+        "Spotify": "1s4gzBftZzmxLYEv3aISf3",
+        "title": "Gloria",
+        "artist": "Nik P.",
+        "release_date": "2013-01-08"
+      },
+      {
+        "CardNumber": "00298",
+        "Spotify": "74ppWSwsyJYxQ9xQRuuPnB",
+        "title": "Hinter den Kulissen von Paris",
+        "artist": "Mireille Mathieu",
+        "release_date": "2006-09-15"
+      },
+      {
+        "CardNumber": "00297",
+        "Spotify": "5T0YtQ9KPWK6lIsaSjEXU9",
+        "title": "Heimweh",
+        "artist": "Plüsch",
+        "release_date": "2002-10-28"
+      },
+      {
+        "CardNumber": "00296",
+        "Spotify": "0xJCFn6sMc3jgPmraCK0l6",
+        "title": "Wieder Alles Im Griff - Single Mix '99",
+        "artist": "Jürgen Drews",
+        "release_date": "2006-09-27"
+      },
+      {
+        "CardNumber": "00295",
+        "Spotify": "4FMXjWh8KS8hNG0rkhCyLV",
+        "title": "Sieben Tage",
+        "artist": "Die Flippers",
+        "release_date": "1992-07-25"
+      },
+      {
+        "CardNumber": "00294",
+        "Spotify": "02lOuEnqVotV0nDmYUXK6B",
+        "title": "Freundschaftsring",
+        "artist": "Anna-Maria Zimmermann, Olaf Henning",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00293",
+        "Spotify": "5MvoIM3l6dO7sysVDTfBLG",
+        "title": "Küss' die Hand schöne Frau - Neuaufnahme 2005",
+        "artist": "EAV (Erste Allgemeine Verunsicherung)",
+        "release_date": "2008-04-18"
+      },
+      {
+        "CardNumber": "00292",
+        "Spotify": "7EzRdo7g2oeVrTviOgaYbU",
+        "title": "Was soll das",
+        "artist": "Herbert Grönemeyer",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00291",
+        "Spotify": "5ZSfGGi8OF1vSSVNAWdQT1",
+        "title": "Ein bisschen Frieden",
+        "artist": "Nicole",
+        "release_date": "2005-11-02"
+      },
+      {
+        "CardNumber": "00290",
+        "Spotify": "5mWceciQV51RPCBQCLAm3U",
+        "title": "Herzbeben",
+        "artist": "Helene Fischer",
+        "release_date": "2017-05-12"
+      },
+      {
+        "CardNumber": "00289",
+        "Spotify": "2ipwltYElIXuzmhAtxtv8N",
+        "title": "Rock mi",
+        "artist": "voXXclub",
+        "release_date": "2019-09-27"
+      },
+      {
+        "CardNumber": "00288",
+        "Spotify": "6BIwQcpjCTmziCwgTwDZsA",
+        "title": "Willkommen im Leben",
+        "artist": "Ute Freudenberg",
+        "release_date": "2012-04-27"
+      },
+      {
+        "CardNumber": "00287",
+        "Spotify": "7MNyM2DCnKx3KdXYldisdo",
+        "title": "Egal was andere sagen",
+        "artist": "Eloy de Jong",
+        "release_date": "2018-10-05"
+      },
+      {
+        "CardNumber": "00286",
+        "Spotify": "4cVG5xxA7hndcFGOgLtDw6",
+        "title": "... es kribbelt und es prickelt...",
+        "artist": "Kristina Bach",
+        "release_date": "1997"
+      },
+      {
+        "CardNumber": "00285",
+        "Spotify": "2NPZ09aKySR09OoDbB8oVg",
+        "title": "Theo, wir fahr'n nach Lodz",
+        "artist": "Vicky Leandros",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00284",
+        "Spotify": "6lQZLaTrHZBIzTFOUkBpg2",
+        "title": "Schöne Maid",
+        "artist": "Tony Marshall",
+        "release_date": "2008-02-15"
+      },
+      {
+        "CardNumber": "00283",
+        "Spotify": "1pMsWnQCaLQvL3O0vaMp5H",
+        "title": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "artist": "Tobee",
+        "release_date": "2017-12-08"
+      },
+      {
+        "CardNumber": "00282",
+        "Spotify": "5SJMWWAzyQ5K3eoy0Vt4Pb",
+        "title": "Ein Stern, der Deinen Namen trägt",
+        "artist": "Nik P.",
+        "release_date": "2007-10-30"
+      },
+      {
+        "CardNumber": "00281",
+        "Spotify": "3r1h1kMQzGlRXskhZeZPPJ",
+        "title": "Haben Sie Wien schon bei Nacht geseh'n",
+        "artist": "Rainhard Fendrich",
+        "release_date": "2016-09-02"
+      },
+      {
+        "CardNumber": "00280",
+        "Spotify": "333aeVEMhnYg58ZzQl6u82",
+        "title": "Ich mal für dich den Himmel blau",
+        "artist": "Olaf Henning",
+        "release_date": "2011-04-29"
+      },
+      {
+        "CardNumber": "00279",
+        "Spotify": "4OH0l5mfOTe7bPpfLvMsqk",
+        "title": "Du liebst mich nicht",
+        "artist": "Sabrina Setlur, Schwester S., Moses Pelham",
+        "release_date": "1997-03-24"
+      },
+      {
+        "CardNumber": "00278",
+        "Spotify": "7sgbBeINoJ4TDUDIloK9li",
+        "title": "Goldener Reiter",
+        "artist": "Joachim Witt",
+        "release_date": "1981"
+      },
+      {
+        "CardNumber": "00277",
+        "Spotify": "4wbjZT1BXYbPyMFjJyPjLf",
+        "title": "Halleluja - Auf das Leben",
+        "artist": "Patrick Lindner",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00276",
+        "Spotify": "7r8IVN20TFSGq5pE4gR76C",
+        "title": "Ein Lied auf das Leben",
+        "artist": "Feuerherz",
+        "release_date": "2017-06-02"
+      },
+      {
+        "CardNumber": "00275",
+        "Spotify": "1x7NkMszGxP2FM7UrleXgX",
+        "title": "Ich bin kein Model und kein Superstar",
+        "artist": "Ole ohne Kohle",
+        "release_date": "2014-07-25"
+      },
+      {
+        "CardNumber": "00274",
+        "Spotify": "6COzABVCHQzyvc3rTMtrXn",
+        "title": "Er gehört zu mir",
+        "artist": "Marianne Rosenberg",
+        "release_date": "1994-02-14"
+      },
+      {
+        "CardNumber": "00273",
+        "Spotify": "2yF34rSpTLrsYERpJGhnZD",
+        "title": "Wir tanzen Lambada - Single Version",
+        "artist": "Andrea Jürgens",
+        "release_date": "1977"
+      },
+      {
+        "CardNumber": "00272",
+        "Spotify": "2QnAg9u1MmoNpm4O7zrYA4",
+        "title": "Schnappi, das kleine Krokodil",
+        "artist": "Schnappi, Joy",
+        "release_date": "2005-02-28"
+      },
+      {
+        "CardNumber": "00271",
+        "Spotify": "48dosoGX5Bey5mk6BhCgKM",
+        "title": "Stadt met K",
+        "artist": "Kasalla",
+        "release_date": "2015-02-06"
+      },
+      {
+        "CardNumber": "00270",
+        "Spotify": "3EIwjmVzjV7RACEuR0t7eS",
+        "title": "Atemlos",
+        "artist": "Christian Lais",
+        "release_date": "2020-01-31"
+      },
+      {
+        "CardNumber": "00269",
+        "Spotify": "0ksebE6LrZocf2L5f4N1q7",
+        "title": "Dschinghis Khan - 2007 Version",
+        "artist": "Dschinghis Khan",
+        "release_date": "2007-05-11"
+      },
+      {
+        "CardNumber": "00268",
+        "Spotify": "2LivGZu4LX8XGcDruLQcv0",
+        "title": "Sieben Tafeln Schokolade",
+        "artist": "Bernhard Brink",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00267",
+        "Spotify": "4xi3H3mVF5otEQuh5ChflP",
+        "title": "Guildo hat euch lieb! - Radio Version",
+        "artist": "Guildo Horn & Die Orthopädischen Strümpfe, Alf Igel",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00266",
+        "Spotify": "2f8wJ142yv641OGfRbDN2h",
+        "title": "Herzensschöner",
+        "artist": "Rosenstolz",
+        "release_date": "2016-10-28"
+      },
+      {
+        "CardNumber": "00265",
+        "Spotify": "5aMFZEH70hweRP65CQjPrp",
+        "title": "Du bist wie Feuer im Vulkan",
+        "artist": "Die Amigos",
+        "release_date": "2010-07-23"
+      },
+      {
+        "CardNumber": "00264",
+        "Spotify": "3dHzw1D0j2r8NtBAUm5JWK",
+        "title": "Küssen kann man nicht alleine",
+        "artist": "Max Raabe",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00263",
+        "Spotify": "6snrhpcIeThzC82aYBvOVG",
+        "title": "Kein Schwein ruft mich an",
+        "artist": "Max Raabe",
+        "release_date": "2017-01-27"
+      },
+      {
+        "CardNumber": "00262",
+        "Spotify": "18q9XvWQgY1iO3PLGMit8l",
+        "title": "Ich war noch niemals in New York",
+        "artist": "Udo Jürgens",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00261",
+        "Spotify": "5bAYcyOEQP8vuQFK7fPWcc",
+        "title": "Das rote Pferd",
+        "artist": "Markus Becker",
+        "release_date": "2022-07-26"
+      },
+      {
+        "CardNumber": "00260",
+        "Spotify": "7dBGhQKRVw80qBH0l0O1fS",
+        "title": "Weil ich so sexy bin",
+        "artist": "Trude Herr",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00259",
+        "Spotify": "7pmnNvK57vUPyE6G40w9cv",
+        "title": "Du, die Wanne ist voll",
+        "artist": "Dieter Hallervorden, Helga Feddersen",
+        "release_date": "2015-11-20"
+      },
+      {
+        "CardNumber": "00258",
+        "Spotify": "6mrZ7QI1oXRljeIj65bzGB",
+        "title": "7 Leben",
+        "artist": "Mitch Keller",
+        "release_date": "2015-09-18"
+      },
+      {
+        "CardNumber": "00257",
+        "Spotify": "2o4d3FuAqSEPmrLv58kgUB",
+        "title": "Du-nur-du-nur-du",
+        "artist": "Isabel Varell",
+        "release_date": "2002-03-04"
+      },
+      {
+        "CardNumber": "00256",
+        "Spotify": "6eMtXTaaO3PhIm4HDxwqi8",
+        "title": "Für dich",
+        "artist": "Brunner & Brunner",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00255",
+        "Spotify": "6KzWkQmHEJKn7OjjY3DWOF",
+        "title": "Ich wär so gern so blöd wie du",
+        "artist": "Tic Tac Toe",
+        "release_date": "1997-04-21"
+      },
+      {
+        "CardNumber": "00254",
+        "Spotify": "0AwEdicbbKKAoB7ft7pJWI",
+        "title": "Theater",
+        "artist": "Katja Ebstein",
+        "release_date": "1994-07-04"
+      },
+      {
+        "CardNumber": "00253",
+        "Spotify": "7vLC1dwhUssdCnigdtisYG",
+        "title": "Immer wieder sonntags",
+        "artist": "Cindy & Bert",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00252",
+        "Spotify": "08uFXeEZX4eN28TT37jdfI",
+        "title": "Irgendwann ist jetzt",
+        "artist": "Max Giesinger",
+        "release_date": "2021-11-12"
+      },
+      {
+        "CardNumber": "00251",
+        "Spotify": "2g8pMDC1lck27f85wSnO13",
+        "title": "Na und?!",
+        "artist": "Ben Zucker",
+        "release_date": "2018-06-01"
+      },
+      {
+        "CardNumber": "00250",
+        "Spotify": "2qBFgxIxCJXNmyibBSsQGP",
+        "title": "7 Tage hat die Woche (Album-Version)",
+        "artist": "Manuela Fellner",
+        "release_date": "2012-11-06"
+      },
+      {
+        "CardNumber": "00249",
+        "Spotify": "3xlh9SdTDdMH7Nu24mjyBE",
+        "title": "Dich hat der Himmel geschickt",
+        "artist": "Bernd Clüver",
+        "release_date": "1993-04-19"
+      },
+      {
+        "CardNumber": "00248",
+        "Spotify": "3fKTXIm1WM6WPC3xh5Dq1y",
+        "title": "Sieben Tage, Sieben Nächte",
+        "artist": "Monique",
+        "release_date": "2020-03-06"
+      },
+      {
+        "CardNumber": "00247",
+        "Spotify": "7IO1odRUNwFrYGbWXic984",
+        "title": "Bianca",
+        "artist": "Freddy Breck",
+        "release_date": "2010-02-05"
+      },
+      {
+        "CardNumber": "00246",
+        "Spotify": "6bBaeJTENy0a1oqYy8fLxw",
+        "title": "Deine braunen Augen",
+        "artist": "Alisha",
+        "release_date": "2021-04-30"
+      },
+      {
+        "CardNumber": "00245",
+        "Spotify": "6szt9Xu72ArW2Tm06YYBa9",
+        "title": "Ich hab Alain Delon geseh'n",
+        "artist": "Christoff",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00244",
+        "Spotify": "1ewNSEjaSpjLQTgfk1JaZG",
+        "title": "Er hat ein knallrotes Gummiboot",
+        "artist": "Wencke Myhre",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00243",
+        "Spotify": "076TvwvwODg9xYZyIhwcWq",
+        "title": "Eine Frau die mich nach Hause trägt",
+        "artist": "PS Alex",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00242",
+        "Spotify": "6wxzz8s7JTEihnNGCNYjR8",
+        "title": "Hal-Le-Lu-Ja",
+        "artist": "Klostertaler, Kastelruther Spatzen, Nockis",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00241",
+        "Spotify": "5nY9iOFNTNr5vtFKrgxgOo",
+        "title": "Ein Himmelbett im Internet",
+        "artist": "Ibo",
+        "release_date": "1999-04-06"
+      },
+      {
+        "CardNumber": "00240",
+        "Spotify": "5xUncmIYqgFadMb52tGRa0",
+        "title": "E Vogel ohni Flügel",
+        "artist": "Peter Reber",
+        "release_date": "1985-07-01"
+      },
+      {
+        "CardNumber": "00239",
+        "Spotify": "7gaWPR6yofnDxfgRMNyKCH",
+        "title": "Wenn nicht jetzt, wann dann? - Weltmeister Version",
+        "artist": "Höhner",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00238",
+        "Spotify": "4pqwROGdu8LCtspHXzlF0D",
+        "title": "Schwarz und Weiss - Radio Edit",
+        "artist": "Oliver Pocher",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00237",
+        "Spotify": "4uqr9DDzQxGNxs2RzhE21I",
+        "title": "Wer hat dir das Küssen beigebracht",
+        "artist": "Gaby Baginsky",
+        "release_date": "1999-10-18"
+      },
+      {
+        "CardNumber": "00236",
+        "Spotify": "79hX0z70ufkP63Ocr4Jz4K",
+        "title": "Sternenhimmel",
+        "artist": "Hubert Kah",
+        "release_date": "1982-01-01"
+      },
+      {
+        "CardNumber": "00235",
+        "Spotify": "0xyd446fcUjbUScrubDFWg",
+        "title": "Schön ist es auf der Welt zu sein",
+        "artist": "Roy Black",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00234",
+        "Spotify": "1RcWWgnw5fVm3wcNq11zBu",
+        "title": "Mama Laudaaa",
+        "artist": "Almklausi, Specktakel",
+        "release_date": "2018-02-07"
+      },
+      {
+        "CardNumber": "00233",
+        "Spotify": "75YlMCq6AkEX55qQAvBwYQ",
+        "title": "Ein Augenblick in Rot",
+        "artist": "Münchener Freiheit",
+        "release_date": "2009-03-20"
+      },
+      {
+        "CardNumber": "00232",
+        "Spotify": "013CergxczW8KTIrWfOdWo",
+        "title": "10 Nackte Friseusen",
+        "artist": "Mickie Krause",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00231",
+        "Spotify": "1YurdoxtWECzyQ03osV73w",
+        "title": "Ich versprech dir nichts und geb dir alles",
+        "artist": "Wolkenfrei",
+        "release_date": "2014-02-10"
+      },
+      {
+        "CardNumber": "00230",
+        "Spotify": "2NLOe1cJU8sJvc6ys67WHO",
+        "title": "Wini-Wini",
+        "artist": "Die Tahiti Tamoures",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00229",
+        "Spotify": "4agMrs0Xv2x24I6jme8x8d",
+        "title": "Junge, komm bald wieder - [Musicalfassung",
+        "artist": "Freddy Quinn",
+        "release_date": "1987-01-01"
+      },
+      {
+        "CardNumber": "00228",
+        "Spotify": "7GrhTbGEjXbXKoiEwYeEWW",
+        "title": "Herzilein",
+        "artist": "Die Wildecker Herzbuben",
+        "release_date": "1990-03-16"
+      },
+      {
+        "CardNumber": "00227",
+        "Spotify": "5o6CnxKo7JQSTJguOSexsm",
+        "title": "Ein Leben lang",
+        "artist": "Kastelruther Spatzen",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00226",
+        "Spotify": "1U9F9mUWAVkVvN8kFu3j1a",
+        "title": "Bist du dafür bereit?",
+        "artist": "Marie Reim",
+        "release_date": "2022-08-05"
+      },
+      {
+        "CardNumber": "00225",
+        "Spotify": "3KiZGBcD1mUpU3b4HrrL6r",
+        "title": "Hör meinen Herzschlag",
+        "artist": "Norman Langen",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00224",
+        "Spotify": "0TvcLuXOCVXQZwspgXPOZb",
+        "title": "Das geht ab - Wir feiern die ganze Nacht",
+        "artist": "Die Atzen",
+        "release_date": "2019-08-16"
+      },
+      {
+        "CardNumber": "00223",
+        "Spotify": "137OpkvgQaDcpuz1Lae5Jv",
+        "title": "Es Schiesst Ein Blitz In Meinen Kopf",
+        "artist": "Michael Morgan",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00222",
+        "Spotify": "4FD6YvxLRRVStHP7VS9mvK",
+        "title": "Du kannst nicht immer 17 sein",
+        "artist": "Chris Roberts",
+        "release_date": "2001-03-12"
+      },
+      {
+        "CardNumber": "00221",
+        "Spotify": "3XqgqDim4XESbdDOBUPqSo",
+        "title": "Der Nippel - Live",
+        "artist": "Mike Krüger",
+        "release_date": "1980-01-01"
+      },
+      {
+        "CardNumber": "00220",
+        "Spotify": "2EHqCAYuSMZrTrNECNLOog",
+        "title": "Lederhosenrock",
+        "artist": "Melissa Naschenweng",
+        "release_date": "2020-10-30"
+      },
+      {
+        "CardNumber": "00219",
+        "Spotify": "0ftIaUx27vc9K0ztdiZgHf",
+        "title": "So schmeckt der Sommer",
+        "artist": "Edward Reekers",
+        "release_date": "2019-06-14"
+      },
+      {
+        "CardNumber": "00218",
+        "Spotify": "4xkSmQEgAfA5bR4jQ0dbO2",
+        "title": "Guten Morgen, liebe Sorgen",
+        "artist": "Jürgen von der Lippe",
+        "release_date": "1987-05-02"
+      },
+      {
+        "CardNumber": "00217",
+        "Spotify": "0W52vwENhl06m7KJM9t8QL",
+        "title": "Grüezi Wohl, Frau Stirnimaa - Original Version",
+        "artist": "Die Minstrels",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00216",
+        "Spotify": "3NVWukdx01CKSsoC1lowGJ",
+        "title": "Millionen Frauen lieben mich - Radio 2008",
+        "artist": "Karl Dall",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00215",
+        "Spotify": "0MZXfdHy25Co8CSOAwB24q",
+        "title": "Willst du mit mir geh'n",
+        "artist": "Daliah Lavi",
+        "release_date": "1972-01-01"
+      },
+      {
+        "CardNumber": "00214",
+        "Spotify": "4Msadmmr07wR75QMkm5EHl",
+        "title": "Ich kann nicht ohne Dich - Fox Mix",
+        "artist": "Frank Lars",
+        "release_date": "2021-09-03"
+      },
+      {
+        "CardNumber": "00213",
+        "Spotify": "2HHhqspYQQ1F08QWQ81AR0",
+        "title": "Wir haben Grund zum Feiern",
+        "artist": "Otto Waalkes",
+        "release_date": "2018-08-31"
+      },
+      {
+        "CardNumber": "00212",
+        "Spotify": "27DEhFC0G2olRFgCTksnfw",
+        "title": "Nur geträumt",
+        "artist": "Nena",
+        "release_date": "1983-09-23"
+      },
+      {
+        "CardNumber": "00211",
+        "Spotify": "4GtMdXZGS7NNW7j8FXlTkz",
+        "title": "Sex & Seine Konsequenzen (DJ-Mix)",
+        "artist": "Anja Regitz",
+        "release_date": "2006-06-02"
+      },
+      {
+        "CardNumber": "00210",
+        "Spotify": "6s3bDxWkPizTw8hsWv1iIi",
+        "title": "Ich will alles",
+        "artist": "Gitte Haenning",
+        "release_date": "1986-05-12"
+      },
+      {
+        "CardNumber": "00209",
+        "Spotify": "6TWdSrzqbsmbcr8SlfXsbT",
+        "title": "Moos Hamma",
+        "artist": "Münchner Zwietracht, Rudolph Moshammer",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00208",
+        "Spotify": "4i6mkvKRIO07bHANBNRDWe",
+        "title": "Und es war Sommer",
+        "artist": "Peter Maffay",
+        "release_date": "1976-06-07"
+      },
+      {
+        "CardNumber": "00207",
+        "Spotify": "5yrc8eSlQXZ7ZUEznaQTFX",
+        "title": "Alles wird gut",
+        "artist": "Thomas Anders, Florian Silbereisen",
+        "release_date": "2022-12-02"
+      },
+      {
+        "CardNumber": "00206",
+        "Spotify": "6wlMwfmNDtyi09cZmKZO47",
+        "title": "Ich bin kein Dichter, kein Poet",
+        "artist": "Tom Astor",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00205",
+        "Spotify": "45P5X44bMEMZUsSU4Ij7GE",
+        "title": "Katzeklo",
+        "artist": "Helge Schneider",
+        "release_date": "1993-11-24"
+      },
+      {
+        "CardNumber": "00204",
+        "Spotify": "17eP4UcSwuLZdGtV4gIGLr",
+        "title": "Oberammergau - Après Ski Mix",
+        "artist": "Peter Wackel",
+        "release_date": "2020-01-03"
+      },
+      {
+        "CardNumber": "00203",
+        "Spotify": "2iJ6TNWbmG39pxwSwZbY0A",
+        "title": "Einen Traum Für Diese Welt",
+        "artist": "Xanadu",
+        "release_date": "1990"
+      },
+      {
+        "CardNumber": "00202",
+        "Spotify": "3jUdAELIWYWCIWU6rGlCXL",
+        "title": "Lebt denn dr alte Holzmichl noch?",
+        "artist": "De Randfichten",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00201",
+        "Spotify": "3T5j2HrD8sG7iFzX8aXCLk",
+        "title": "Anton aus Tirol",
+        "artist": "DJ Ötzi",
+        "release_date": "2010-04-24"
+      },
+      {
+        "CardNumber": "00200",
+        "Spotify": "4z60dbymqBotiLzXQCdII0",
+        "title": "Willkommen im Club",
+        "artist": "Ross Antony",
+        "release_date": "2021-08-13"
+      },
+      {
+        "CardNumber": "00199",
+        "Spotify": "7bxfRoLTj35uJqQSeV7xWB",
+        "title": "Nimm einmal noch meine Hand",
+        "artist": "Ines Adler",
+        "release_date": "1998-03-02"
+      },
+      {
+        "CardNumber": "00198",
+        "Spotify": "4CUOMhDYc8NqDZTHhpKHxO",
+        "title": "Der rote Mond von Agadir",
+        "artist": "Fernando Express",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00197",
+        "Spotify": "5RdeEPFIN94JuJfUeEOop2",
+        "title": "Herzilein",
+        "artist": "Rudolf Rock & Die Schocker",
+        "release_date": "1990"
+      },
+      {
+        "CardNumber": "00196",
+        "Spotify": "2NErf4ow27T3rZZZrjoh5i",
+        "title": "So a Nacht",
+        "artist": "Spider Murphy Gang",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00195",
+        "Spotify": "2gxV47AHMGT7NI25NpO6Pj",
+        "title": "Es gibt nur Wasser",
+        "artist": "Santiano",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00194",
+        "Spotify": "0pLNUaFp98Ll2eTwMeXv4x",
+        "title": "Du warst der geilste Fehler meines Lebens",
+        "artist": "Nockis",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00193",
+        "Spotify": "63smv7iIzlW3sUHSiGtqWs",
+        "title": "Das Lied von Manuel",
+        "artist": "Manuel & Pony",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00192",
+        "Spotify": "0hniHUJCCzDCZZ35W1ro7Z",
+        "title": "Das Spiel Ist Aus (Game Over)",
+        "artist": "Olaf Henning",
+        "release_date": "2002-11-25"
+      },
+      {
+        "CardNumber": "00191",
+        "Spotify": "4Gs4xdlHoOTNszWdJsIU0Z",
+        "title": "Es gibt kein Bier auf Hawaii",
+        "artist": "Paul Kuhn",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00190",
+        "Spotify": "6sCG0j2tZTdNeZvQPcKWZy",
+        "title": "Night Fever",
+        "artist": "Dieter Thomas Kuhn & Band",
+        "release_date": "2012-06-29"
+      },
+      {
+        "CardNumber": "00189",
+        "Spotify": "0G6CQo81dB8YUESy73fs4K",
+        "title": "Und heut' Nacht will ich tanzen",
+        "artist": "Michelle",
+        "release_date": "1999-04-06"
+      },
+      {
+        "CardNumber": "00188",
+        "Spotify": "7jbWJ8dBSFElWnoGn9XYHI",
+        "title": "Die Biene Maja",
+        "artist": "Karel Gott",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00187",
+        "Spotify": "2KUe0QjJnwaQRB95yPmIbJ",
+        "title": "Die kleine Kneipe",
+        "artist": "Peter Alexander",
+        "release_date": "1985-03-08"
+      },
+      {
+        "CardNumber": "00186",
+        "Spotify": "50HAvJ4qLyUEoVsAqy60xO",
+        "title": "Freu dich bloß nicht zu früh",
+        "artist": "Gitte Haenning",
+        "release_date": "2007-08-31"
+      },
+      {
+        "CardNumber": "00185",
+        "Spotify": "5Ttn6c0XKGWrvmICP5x9S8",
+        "title": "Je T'aime Mon Amour",
+        "artist": "Claudia Jung, Richard Clayderman",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00184",
+        "Spotify": "6v3Rzc8reAqhJKURPWzpfR",
+        "title": "Kölsche Jung",
+        "artist": "Brings",
+        "release_date": "2014-12-05"
+      },
+      {
+        "CardNumber": "00183",
+        "Spotify": "0hI2hV0GlXaI4jxMfvg6ga",
+        "title": "Nicht mal eine Stunde",
+        "artist": "Mike Leon Grosch",
+        "release_date": "2021-04-30"
+      },
+      {
+        "CardNumber": "00182",
+        "Spotify": "7r0rZ3CeaedQ1JP6PvbvFq",
+        "title": "Ich sterb für dich",
+        "artist": "Vanessa Mai",
+        "release_date": "2016-10-21"
+      },
+      {
+        "CardNumber": "00181",
+        "Spotify": "1KPdPbyq1Kj3epj5gUtmPb",
+        "title": "Michaela",
+        "artist": "Bata Illic",
+        "release_date": "1997-12-30"
+      },
+      {
+        "CardNumber": "00180",
+        "Spotify": "627QU4vNG3alCWCK1FMeLK",
+        "title": "Hulapalu",
+        "artist": "Andreas Gabalier",
+        "release_date": "2015-05-15"
+      },
+      {
+        "CardNumber": "00179",
+        "Spotify": "4LuIBcsu61ef2AxnNZxC4Z",
+        "title": "Kribbeln im Bauch",
+        "artist": "Pe Werner",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00178",
+        "Spotify": "4Q5F5CTGnvpKnQWyMwWGtX",
+        "title": "So a schöner Tag",
+        "artist": "Donikkl",
+        "release_date": "2013-03-08"
+      },
+      {
+        "CardNumber": "00177",
+        "Spotify": "65wKbNqjUTmdyk47Z31Czm",
+        "title": "Du hast mich tausendmal belogen",
+        "artist": "Andrea Berg",
+        "release_date": "2001-02-16"
+      },
+      {
+        "CardNumber": "00176",
+        "Spotify": "2TBimpeTwsFPzpSRuUHw18",
+        "title": "Johnny Däpp (Ich Will Mallorca Zurück)",
+        "artist": "Lorenz Büffel",
+        "release_date": "2016-06-10"
+      },
+      {
+        "CardNumber": "00175",
+        "Spotify": "1lIeDS4aoI7deLuVUz9iRY",
+        "title": "Barfuß im Regen",
+        "artist": "Dieter Thomas Kuhn, Band, Michael Holm",
+        "release_date": "2007-06-01"
+      },
+      {
+        "CardNumber": "00174",
+        "Spotify": "3fNkYqV5NPtJs71epbgNIH",
+        "title": "Resi, i hol di mit mei'm Traktor ab",
+        "artist": "Wolfgang Fierek",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00173",
+        "Spotify": "4SnC7mwI24zoMB1QINaHdq",
+        "title": "Mary Jane",
+        "artist": "Jürgen Peter",
+        "release_date": "2011-07-01"
+      },
+      {
+        "CardNumber": "00172",
+        "Spotify": "2GWJsABLaEgkROz0nj3XOE",
+        "title": "Du Depp",
+        "artist": "Haindling",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00171",
+        "Spotify": "4sNUL4pMNayXyTDfmVe3bH",
+        "title": "Verlieben, verloren, vergessen, verzeih'n",
+        "artist": "Wolfgang Petry",
+        "release_date": "1996-10-07"
+      },
+      {
+        "CardNumber": "00170",
+        "Spotify": "6RE97TNubJ4EMkoULibMLw",
+        "title": "Hier kommt Kurt",
+        "artist": "Frank Zander",
+        "release_date": "1988"
+      },
+      {
+        "CardNumber": "00169",
+        "Spotify": "4AKYFbcTn5DNTougQyjKRM",
+        "title": "Wenn den Kindern Flügel wachsen",
+        "artist": "Ingrid Peters",
+        "release_date": "2005-07-01"
+      },
+      {
+        "CardNumber": "00168",
+        "Spotify": "1CINbWotyT3WDt9EDh3cww",
+        "title": "Mein Herz",
+        "artist": "Beatrice Egli",
+        "release_date": "2013-05-17"
+      },
+      {
+        "CardNumber": "00167",
+        "Spotify": "6WpKBQFb4fs6nvyrLh9yiv",
+        "title": "Büetzer Buebe",
+        "artist": "Gölä, Trauffer",
+        "release_date": "2020-01-24"
+      },
+      {
+        "CardNumber": "00166",
+        "Spotify": "19kGOyugxzRlRlYhurzn9S",
+        "title": "Lieben heißt Leben",
+        "artist": "Bernd Clüver",
+        "release_date": "1994-02-12"
+      },
+      {
+        "CardNumber": "00165",
+        "Spotify": "4Qmw3WjhGemnO7x2acBBci",
+        "title": "Starke Gefühle",
+        "artist": "Juliane Werding",
+        "release_date": "1988-07-27"
+      },
+      {
+        "CardNumber": "00164",
+        "Spotify": "4TwHWwirwPR5lQFeSSDhqr",
+        "title": "Hello Again",
+        "artist": "Howard Carpendale",
+        "release_date": "1987-01-01"
+      },
+      {
+        "CardNumber": "00163",
+        "Spotify": "7LeYfDE3RuEAkSL5fsmEvH",
+        "title": "Der wilde, wilde Westen",
+        "artist": "Truck Stop",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00162",
+        "Spotify": "7MU1uNaZzTkwHQV8sRNB3l",
+        "title": "Carbonara",
+        "artist": "Spliff",
+        "release_date": "1982-07-08"
+      },
+      {
+        "CardNumber": "00161",
+        "Spotify": "7JM1dFLOa1kI5MqGnDufiY",
+        "title": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+        "artist": "Münchener Freiheit",
+        "release_date": "1986-09-18"
+      },
+      {
+        "CardNumber": "00160",
+        "Spotify": "3kfx1zpnXZPRCim2v8wtzj",
+        "title": "Blaue Lagune",
+        "artist": "Anna-Carina Woitschack, Stefan Mross",
+        "release_date": "2020-05-29"
+      },
+      {
+        "CardNumber": "00159",
+        "Spotify": "5DtU9fVQMb7Lz0WXHCYhzp",
+        "title": "Mit dir werden Wunder noch wahr",
+        "artist": "Bernhard Brink",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00158",
+        "Spotify": "0eXTfsdOsGvxf7semdstyh",
+        "title": "Rausch",
+        "artist": "Helene Fischer",
+        "release_date": "2021-10-15"
+      },
+      {
+        "CardNumber": "00157",
+        "Spotify": "1BxvKtuUF3OlrEF3x87e2F",
+        "title": "Der Sonne entgegen",
+        "artist": "Ben Zucker",
+        "release_date": "2018-06-01"
+      },
+      {
+        "CardNumber": "00156",
+        "Spotify": "3uGkTWh0MXo9jVyyWSVCed",
+        "title": "Es fährt ein Zug nach nirgendwo",
+        "artist": "Christian Anders",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00155",
+        "Spotify": "17746nT5RodRzc10dYUBds",
+        "title": "Die rote Sonne von Barbados",
+        "artist": "Die Flippers",
+        "release_date": "1980"
+      },
+      {
+        "CardNumber": "00154",
+        "Spotify": "6XAhhD4ZbcHoPm7FdcFzbS",
+        "title": "Die Gefühle haben Schweigepflicht",
+        "artist": "Andrea Berg",
+        "release_date": "1995-09-04"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "452WSSzuklpg0w4RKTlkvn",
+        "title": "Griechischer Wein",
+        "artist": "Udo Jürgens",
+        "release_date": "1994-02-14"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "5yYD53kfXBuWHTKBxps78B",
+        "title": "Prinzessin",
+        "artist": "Michael Wendler",
+        "release_date": "2014-01-24"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "7DhEYaCKAEUhDu1UXN9pC6",
+        "title": "La Luna Blu",
+        "artist": "Monika Martin",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "7EQWjHjlRvKfKcpfrvMTGK",
+        "title": "I lass di nimmer aus",
+        "artist": "Relax",
+        "release_date": "2015-09-04"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "2l9GnrHGPK0IpEe6wZzXme",
+        "title": "Etwas für die Ewigkeit",
+        "artist": "Claudia Jung",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "72MyxNUZ3SFivW1QsS5aIe",
+        "title": "An der Copacabana",
+        "artist": "EAV (Erste Allgemeine Verunsicherung)",
+        "release_date": "2008-04-18"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "6ZknmWa9VVSFDjGudcrktZ",
+        "title": "Das erste Mal tat's noch weh (Les histoires d'amour)",
+        "artist": "Stefan Waggershausen, Viktor Lazlo",
+        "release_date": "1990-02-28"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "3io3Tvsz2kg029lusbLmiR",
+        "title": "Maschen-Draht-Zaun - Radio Edit",
+        "artist": "Stefan Raab",
+        "release_date": "1999-11-12"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "06ZCaJlCf0uzyw1HDM7ngp",
+        "title": "Emmylou, Emmylou",
+        "artist": "Truck Stop",
+        "release_date": "2015-07-15"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "1ORfyWYhDPxCAIZ9Ce78A3",
+        "title": "Saufen morgens, mittags, abends",
+        "artist": "Ingo ohne Flamingo",
+        "release_date": "2018-01-26"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "2ikhi7JOn5Kug3tcUOUSBx",
+        "title": "Amsterdam",
+        "artist": "Axel Fischer",
+        "release_date": "2018-12-13"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "4MfSqOz1Ua9hgZv3zNrkb0",
+        "title": "Was geht hier ab",
+        "artist": "voXXclub",
+        "release_date": "2022-07-29"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "4HRtevJUIf3h4vcc0LXL4Q",
+        "title": "Joana",
+        "artist": "Roland Kaiser",
+        "release_date": "1984-01-19"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "6Olh0YrqtSRtPRqiJSqRhS",
+        "title": "Viel zu oft",
+        "artist": "Simone",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "5nl9DKN2UFt3cjefB0hNC8",
+        "title": "Alles hat ein Ende, nur die Wurst hat zwei (Krause und Ruth)",
+        "artist": "Stephan Remmler",
+        "release_date": "1986-01-01"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "5UsoJzNF88QO4PdexDQLnR",
+        "title": "Einmal hin, einmal her",
+        "artist": "Sarah-Jane",
+        "release_date": "2005-06-27"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "0LTsD9w7mj1d0L9TyJ4KXe",
+        "title": "Albany (feat. Roger Whittaker)",
+        "artist": "DJ Herzbeat, Roger Whittaker",
+        "release_date": "2021-04-16"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "2MUj5Lx28sD7lHZGJwczJ6",
+        "title": "Verlier sie nie",
+        "artist": "Michael Wendler",
+        "release_date": "2008-07-25"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "5xhHDc9Il8aUrAu4ijixDg",
+        "title": "Tür an Tür mit Alice",
+        "artist": "Howard Carpendale",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "6nHQrTrXd0dyVb74VfsjxA",
+        "title": "Solang wir lieben",
+        "artist": "Simone",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "0uV7yccuJBzpz2A9bYvVKD",
+        "title": "Ciao D'Amore",
+        "artist": "Klostertaler",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "0FHRffHaw2QJgmwW45U2hm",
+        "title": "Hey Boss, ich brauch mehr Geld",
+        "artist": "Gunter Gabriel",
+        "release_date": "1994-05-30"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "4Lchc2OMQIlnaRLVN17N7C",
+        "title": "300 PS (... Auto)",
+        "artist": "EAV (Erste Allgemeine Verunsicherung)",
+        "release_date": "2008-04-18"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "2ziPKwmyZeSpg2o4fc17cd",
+        "title": "Blau blüht der Enzian",
+        "artist": "Heino",
+        "release_date": "2007-07-23"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "0Wrak3l8C5HzpGnrK98a1G",
+        "title": "Die Schwarze Barbara",
+        "artist": "Heino",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "7lg9reolractKDt8McON0K",
+        "title": "An Der Nordseeküste",
+        "artist": "Klaus & Klaus",
+        "release_date": "1984"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "2LV5joNDrsyuXEh4FBARVK",
+        "title": "Perfekte Welle",
+        "artist": "Juli",
+        "release_date": "2004-09-20"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "6iHumZN4HdYtg551LYLcvy",
+        "title": "Goethe war gut",
+        "artist": "Rudi Carrell",
+        "release_date": "2007-01-27"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "3Xa3EjP8pOXH4J292BsFF8",
+        "title": "Wenn du denkst du denkst dann denkst du nur du denkst",
+        "artist": "Juliane Werding",
+        "release_date": "2001-08-15"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "1RDC1U56ctXnfx2TtJlAkg",
+        "title": "Radio Zuckerhut",
+        "artist": "Wind",
+        "release_date": "2015-05-29"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "07a5bjyUjdzILkBaumo4G2",
+        "title": "Hey 'nen kleinen Schuss, den hattest du doch schon immer",
+        "artist": "Claudia Jung",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "7xJhlT341yRS1w3nSGA4zq",
+        "title": "Sa-Lo-Me",
+        "artist": "Achim Reichel",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "6yBGQwgXk2sm8lPqdfCJjT",
+        "title": "Ich bin frei",
+        "artist": "Franziska Wiese",
+        "release_date": "2016-07-22"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "3Yl3rmMaXb4RoLTeEMI4jb",
+        "title": "Sieben Fässer Wein",
+        "artist": "Roland Kaiser",
+        "release_date": "1977"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "1I1GRupqk0GHH3wVtEh8J5",
+        "title": "Schenk' mir diese eine Nacht",
+        "artist": "Brunner & Brunner",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "68XLpAcKb8FFrQZluAqZrj",
+        "title": "Polonäse Blankenese",
+        "artist": "Gottlieb Wendehals",
+        "release_date": "2010-04-09"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "6SqtV560bmCrZploVrOU6R",
+        "title": "Ententanz (Ja wenn wir alle Englein wären)",
+        "artist": "Frank Zander, Fred Sonnenschein & seine Freunde",
+        "release_date": "1997-07-14"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "0k6WvGNgeySmv1E0zU0Fni",
+        "title": "Knutschen...ich kann nichts dafür",
+        "artist": "Linda Hesse",
+        "release_date": "2014-08-29"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "54S60M24fBCNOeMhOf3kA9",
+        "title": "Trödler Abraham (2007)",
+        "artist": "Wolfram",
+        "release_date": "2009-11-13"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "5VQ8B15e6JHXk5Qi9h9inv",
+        "title": "Bruttosozialprodukt",
+        "artist": "Geier Sturzflug",
+        "release_date": "2008-07-28"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "1vlzhoQJKTmEVDmSXcFT4a",
+        "title": "Sonderzug nach Pankow",
+        "artist": "Udo Lindenberg & Das Panik-Orchester",
+        "release_date": "1983-01-24"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "4M6yJ0JjTbMW7DhBJ68heC",
+        "title": "Fiesta Mexicana",
+        "artist": "Rex Gildo",
+        "release_date": "2003-05-12"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "1I14TXOgylN4gTuGkrNCYb",
+        "title": "Wolke 7",
+        "artist": "Wolkenfrei",
+        "release_date": "2015-07-10"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "0Oz7TnVm5xNgvLx0xSREt3",
+        "title": "Wie kannst du mich bloss lieben",
+        "artist": "Andy Borg",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "454AXybVbhF6TZeCo5lcc8",
+        "title": "Ich bin wer ich sein will (feat. Allessa)",
+        "artist": "Musikapostel, Allessa",
+        "release_date": "2020-08-07"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "3vMiVz4dMHyHVkWuduPTfj",
+        "title": "Sieben Leben für dich",
+        "artist": "Maite Kelly",
+        "release_date": "2016-10-14"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "6zXpujCKpOye18GbdAq2lD",
+        "title": "Männertango",
+        "artist": "Ella Endlich",
+        "release_date": "2011-10-14"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "7FalyYEX2URpR9CEYS8Z2W",
+        "title": "Es ist geil ein Arschloch zu sein - Radio Version",
+        "artist": "Christian, Bülent Aris",
+        "release_date": "2001-01-29"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "0BRoLVlLvbRmxZrluFNLmK",
+        "title": "Königin der Nacht",
+        "artist": "Cordalis",
+        "release_date": "2003-08-16"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "4tNwc7jQ5eqWFGDlX8YBtT",
+        "title": "Viva Colonia (Da simmer dabei, dat is prima!)",
+        "artist": "Höhner",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "2d3QIyikjmsaxNaKasGS1K",
+        "title": "Herz ist Trumpf (Dann rufst du an...)",
+        "artist": "Trio",
+        "release_date": "1996-12-19"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "667HVkr7MavlBv2DhzQS3k",
+        "title": "Tanze Samba mit mir",
+        "artist": "Tony Holiday",
+        "release_date": "1978-01-01"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "6h2phRX5aM4uLPZQv2Hulo",
+        "title": "Lovesong",
+        "artist": "Francine Jordi",
+        "release_date": "2018-09-28"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "1L0zpRujG3Rgq7K1I8E3nD",
+        "title": "Regenbogenfarben",
+        "artist": "Kerstin Ott",
+        "release_date": "2018-08-17"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "28ooNJCBh2MWbCVYhZ8aqx",
+        "title": "Der geilste Fehler",
+        "artist": "Marina Marx",
+        "release_date": "2020-07-24"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "483ykNWhSQXYprueXUMNeo",
+        "title": "Cordula Grün",
+        "artist": "Josh.",
+        "release_date": "2018-07-27"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "1QleddKv5OZcFSDvszJr20",
+        "title": "Glücksmoment",
+        "artist": "Prince Damien",
+        "release_date": "2016-05-20"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "3nm3zHhlOE7LZ4SdqPLhpI",
+        "title": "Bierkapitän",
+        "artist": "Markus Becker, Bierkapitän",
+        "release_date": "2019-04-12"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "4omRd4BJaHglIrmJeUttJl",
+        "title": "Warum hast Du nicht nein gesagt",
+        "artist": "Roland Kaiser, Maite Kelly",
+        "release_date": "2014-05-30"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "0YuNGTa3rYsayd8pjMLQsd",
+        "title": "Ich brauch ein bisschen Glück",
+        "artist": "Andy Borg",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "2z0ObRjCedb9HKxquvvpPO",
+        "title": "Rote Lippen Soll Man Küssen - Lucky Lips - 1996 Remaster",
+        "artist": "Cliff Richard & The Shadows",
+        "release_date": "2010-03-29"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "3znNv4cuLyXbs3eGdNRqfz",
+        "title": "Lass mi bei Dir sein",
+        "artist": "atlantis",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "4TFOBUQ9Vfm1nCfG07eedq",
+        "title": "Tanze mit mir in den Morgen - Schlager Party Mix",
+        "artist": "Gerhard Wendland",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "4eh0ZnjqYVs5RDc4UZ8pu6",
+        "title": "Du schaffst das schon",
+        "artist": "KLUBBB3",
+        "release_date": "2016-01-08"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "5qAtXePWHaJMSCjz2kMyeX",
+        "title": "Ich vermiss' Dich... (wie die Hölle) - Radio Mix",
+        "artist": "Zlatko",
+        "release_date": "2000-07-06"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "0CECyQToxeHqXdylm1E3WK",
+        "title": "Zwei Senoritas",
+        "artist": "Sigrid & Marina",
+        "release_date": "2010-09-16"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "7lBO5RpWhr6yPUwWkXHsWf",
+        "title": "Mendocino",
+        "artist": "Michael Holm",
+        "release_date": "1973-10-02"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "3E4Sl55jfbru7BmCfh8pcu",
+        "title": "Scheiss drauf! (Mallorca ist nur einmal im Jahr)",
+        "artist": "Peter Wackel",
+        "release_date": "2013-07-01"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "4HCdu48LScraIfJ7Ik7EhE",
+        "title": "Da Da Da ich lieb dich nicht du liebst mich nicht Aha Aha Aha - Lange Version",
+        "artist": "Trio",
+        "release_date": "1996-12-19"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "6qqUDmf0LFP7lFZODj6PWH",
+        "title": "Ein bisschen Spaß muss sein",
+        "artist": "Roberto Blanco",
+        "release_date": "2018-04-06"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "7sMd8AmgwoHgw674d2oQgB",
+        "title": "Lass die Sonne in dein Herz",
+        "artist": "Wind",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "6sS77FZh2eJfYBsFUW6hjI",
+        "title": "Dicht im Flieger",
+        "artist": "Julian Sommer",
+        "release_date": "2022-03-18"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "14FSVZBZOcVTaOQwPEJ7qe",
+        "title": "Das ganze Leben ist ein Quiz",
+        "artist": "Hape Kerkeling",
+        "release_date": "1999-11-22"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "3OUj5lijPrVjTdh0RjO5gC",
+        "title": "Der blonde Hans",
+        "artist": "Hannes Kröger",
+        "release_date": "2009-02-19"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "1jVFe4jxD9sccMlWyIBtHM",
+        "title": "Santa Catarina",
+        "artist": "Andrea Jürgens",
+        "release_date": "1977"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "4Nfd91XYD16Rx5R2hPRo7c",
+        "title": "Gold, Platin und Diamant",
+        "artist": "Die Fidelen Mölltaler",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "3NLceKthps36K4AeixwSsJ",
+        "title": "Wo finde ich den Mann?",
+        "artist": "Lill Babs",
+        "release_date": "2017-01-05"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "4Ov2I9GCsSQN90lSX6EDuo",
+        "title": "Fang das Licht",
+        "artist": "Karel Gott, Darinka",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "1iTFJGcZT9gA0CzlSCTQ8r",
+        "title": "Ich liebe dich",
+        "artist": "Clowns & Helden",
+        "release_date": "1986-12-01"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "46R8l8fBUfMe716BfGNHXW",
+        "title": "Des geht vorbei",
+        "artist": "Nicki",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "3PeUytVHSB0plBO03sT7NA",
+        "title": "Früh-Stück",
+        "artist": "Gebrüder Blattschuss",
+        "release_date": "2009-02-20"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "2n8UJmTeKTE2h7VNZRJiF8",
+        "title": "Heidi",
+        "artist": "Gitti Und Erica",
+        "release_date": "1987-01-01"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "15aPUZJtmf5wy84rt25Pef",
+        "title": "Macho Macho",
+        "artist": "Rainhard Fendrich",
+        "release_date": "2014-06-03"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "3c12xbWbu6Xv3oeoV2upg6",
+        "title": "Ich liebe das Leben",
+        "artist": "Vicky Leandros",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "6VuP54I5GDugYPVRQJqCYA",
+        "title": "Auf der Straße nach Süden",
+        "artist": "Tony Marshall",
+        "release_date": "1999-10-25"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "5cDkS4YY5zmjjTUnrNTO5F",
+        "title": "Ibiza",
+        "artist": "Ibo",
+        "release_date": "2000-05-29"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "5zOTYihDHgLl1K2o2w1S9O",
+        "title": "Kreuzberger Nächte",
+        "artist": "Gebrüder Blattschuss",
+        "release_date": "2009-02-20"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "0KLS2bh5qpsbjP9ucr6qaH",
+        "title": "Das Trampolin - Live",
+        "artist": "Mike Krüger",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "50cyrBR7nyOEJFT6ISOuTc",
+        "title": "Weiß' der Geier - Radio Version",
+        "artist": "Wolfgang Petry",
+        "release_date": "1996-10-07"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "50XIyAl7f1IvBTrmPWWtxg",
+        "title": "Schlittenfahren in Tirol (Der Schnittensong)",
+        "artist": "DJ Zipfelmann",
+        "release_date": "2014-12-26"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "04voeuIParTaNr91SHuXiJ",
+        "title": "Du entschuldige i kenn di",
+        "artist": "Peter Cornelius",
+        "release_date": "2019-11-22"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "2SVHVXpoEfFumA74FpO0Sh",
+        "title": "Wer die Sehnsucht kennt",
+        "artist": "Claudia Jung",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "65WVmgaxXQINP00OgTrntq",
+        "title": "Ich küss dir die Angst von deiner Haut",
+        "artist": "Wolfgang Ziegler",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "5g5MuODGRtOqj0IVJjG8P2",
+        "title": "Lebenslänglich Du",
+        "artist": "Oliver Haidt",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "3a5Pk82SnxIfGbuu78jCGp",
+        "title": "So bist du",
+        "artist": "Peter Maffay",
+        "release_date": "1979-04-13"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "2MgX1Pwhs18O2iXelFbtIR",
+        "title": "Flaschenpost",
+        "artist": "Fantasy",
+        "release_date": "2013-03-15"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "1oy5gYPBNzICwy4VCvrc6k",
+        "title": "Mein Ein und mein Alles",
+        "artist": "Carrière",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "0Bq4OlOqTenKiLCKzml0Hn",
+        "title": "Mit dir vielleicht",
+        "artist": "Nicole",
+        "release_date": "1992-02-03"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "2vxuxvz9A8f6GrShbytu4J",
+        "title": "Anita",
+        "artist": "Costa Cordalis",
+        "release_date": "2004-04-19"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "0PiB3p8khJF6ULEvmzuhx1",
+        "title": "Willst du mich für immer",
+        "artist": "Michelle",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "4isdtsKAS5AG2RQt3jQ7hb",
+        "title": "Tanz mit mir durch die Nacht",
+        "artist": "Freddy Breck",
+        "release_date": "2010-02-05"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "4mlWlvWRvvnemGaIlnTF4e",
+        "title": "Barfuß bis ans Ende der Welt",
+        "artist": "Fernando Express",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "1UYWocoT1yNBAedYF7UBZw",
+        "title": "Wenn i mit dir tanz - Edit",
+        "artist": "Nicki",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "05FFPLWGCJ2rGrwwTxjE9x",
+        "title": "Erst du, dann du",
+        "artist": "Stefanie Hertel",
+        "release_date": "2009-07-23"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "7AgLXVsuToMUB8BlPdiWxr",
+        "title": "Eine Nacht",
+        "artist": "Ramon Roselly",
+        "release_date": "2020-04-09"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "1SqipU2h7pOMZd4ynckn6k",
+        "title": "Hör gut zu",
+        "artist": "Pur",
+        "release_date": "2015-05-15"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "2A8aopZvdCJ9yYoZLt6TqN",
+        "title": "Engel",
+        "artist": "Nino de Angelo",
+        "release_date": "2001-09-16"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "16eKf9DcgwytudS5LUDogC",
+        "title": "Wenn ich nur ein Trucker wär",
+        "artist": "Gunter Gabriel, Linda Feller",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "1v207ZF2NQmkp1bp6ehphg",
+        "title": "Ich kauf' mir lieber einen Tirolerhut",
+        "artist": "Billy Mo",
+        "release_date": "2016-08-07"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "2mnQXxj6keAVaqa5FpoDSk",
+        "title": "Die Immer Lacht",
+        "artist": "Stereoact, Kerstin Ott",
+        "release_date": "2016-03-21"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "0UsS9sFnIaMMHLox3lP6NB",
+        "title": "Das Kann Nur Liebe Sein (En Vän Som Du)",
+        "artist": "Vikinger",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "4uUdr8JGDWyFe8N8GaJYmS",
+        "title": "Paradies - Single Mix",
+        "artist": "Francine Jordi",
+        "release_date": "2015-09-01"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "7iwZxTPvg1h5rYmmwEd8GI",
+        "title": "Gold",
+        "artist": "Jasmin Wagner",
+        "release_date": "2021-07-23"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "0sckKnlXr0nV9zYfLDmUuF",
+        "title": "Oh, wann kommst du?",
+        "artist": "Daliah Lavi",
+        "release_date": "1970-01-01"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "38weYqkGVSMsZqPfV1Epuc",
+        "title": "Nein heißt ja",
+        "artist": "G.G. Anderson",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "7ljqYQ9je16MNSaWg4shQy",
+        "title": "Du mußt deinen Weg alleine gehen",
+        "artist": "Dirk Busch",
+        "release_date": "1999-04-12"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "0yrZHjRVqkajH9xePjFI1C",
+        "title": "Weekend",
+        "artist": "DJ Herzbeat, Sarah Engels",
+        "release_date": "2020-06-12"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "2jvPETfvUp63D05WMRR5lV",
+        "title": "Sind Sie der Graf von Luxemburg?",
+        "artist": "Dorthe",
+        "release_date": "1968-01-01"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "1lqS2d1wKlz4jGWtz6nZ2V",
+        "title": "Die Pure Lust am Leben",
+        "artist": "Geier Sturzflug",
+        "release_date": "2005-05-31"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "0MOVuqZgdwYdJiOFv3hyhz",
+        "title": "Irgendwie Wird's Schon Geh'n - Remastered 2003",
+        "artist": "Tom Astor",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "2HclOVB5b88sN0Ac2mnNCb",
+        "title": "Steirermen San Very Good",
+        "artist": "Das Stoakogler Trio",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "2HhKDdGjgXC4vyDOmtwzNP",
+        "title": "Ich will dich für immer - Disco Fox",
+        "artist": "NIC",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "0sKIlIyuCtb59r8MYmB2cb",
+        "title": "Zeit zu gehen",
+        "artist": "Unheilig",
+        "release_date": "2014-12-12"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "1fE2zhbqWBo0DgAJmHEVx2",
+        "title": "1000 Träume weit (Tornero)",
+        "artist": "Anna-Maria Zimmermann",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "4wWCfdkg0aWAwXZNs9qpoa",
+        "title": "Verliab di",
+        "artist": "Trenkwalder",
+        "release_date": "2003-01-13"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "32hWGHVUBskZ1sr49ecbEg",
+        "title": "Du bist alles (Maria, Maria) (You Want Love) - Original",
+        "artist": "Andreas Martin",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "5qvdVmvmbMGWMcmZ60vlPu",
+        "title": "Codo (...düse im Sauseschritt)",
+        "artist": "Döf",
+        "release_date": "2009-02-19"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "07gDofsPhMYgXz6zNbCuaI",
+        "title": "Mein lieber Mann",
+        "artist": "Hanne Haller",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "5lo52acOaW0GDQYrhZwzoS",
+        "title": "Dein Zug ist abgefahr’n",
+        "artist": "Nico Gemba",
+        "release_date": "2007-03-13"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "3TBRJsLCcwroEkA3tD4u2N",
+        "title": "Der Kommissar",
+        "artist": "Falco",
+        "release_date": "1982-02-19"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "4WLKnFCLxcK0Wtx7T8FDIQ",
+        "title": "Su Mädche wie mir - Zwei Kerle wie wir (Orginal)",
+        "artist": "Colör",
+        "release_date": "2001-12-02"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "02L6Gd6M9LaBxaSeum3bwV",
+        "title": "Schlager ist nicht kriminell",
+        "artist": "Rebel Tell",
+        "release_date": "2022-07-15"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "3UeKTVMcnZbpOfR3OVF9D1",
+        "title": "Kettenkarussell",
+        "artist": "Ross Antony",
+        "release_date": "2013-06-27"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "3DelaacjOD7LpDygDydl9L",
+        "title": "Hier spricht die Polizei",
+        "artist": "Sandy Wagner",
+        "release_date": "2002-10-28"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "1M3nns66BR1nO4IJiMzuwF",
+        "title": "Zu nah am Feuer",
+        "artist": "Stefan Waggershausen, Alice",
+        "release_date": "2003-03-24"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "6aUN5gXfkXKl4GBiVTLLZI",
+        "title": "Der Eiermann",
+        "artist": "Klaus & Klaus",
+        "release_date": "1988"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "1dv17FKzaL1rXrZbtoESBJ",
+        "title": "Heute fährt die 18 bis nach Istanbul",
+        "artist": "Jürgen Milski",
+        "release_date": "2005-11-24"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "3Wc1b0B74Xw65k5paLxFzu",
+        "title": "Ich Bin Da",
+        "artist": "Jan Smit",
+        "release_date": "2013-06-28"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "5ZC4HBv4CnBuppLIycGJIq",
+        "title": "Frankreich, Frankreich",
+        "artist": "Bläck Fööss",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "3T4DdPVqWeaC4U7vrIxlKz",
+        "title": "Der Zug hat keine Bremse - Mallorcastyle Edition",
+        "artist": "Mia Julia, Malle Anja, Lorenz Büffel",
+        "release_date": "2022-06-24"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "1wNXkEKCcspETALfsr7GvN",
+        "title": "Welch ein Tag",
+        "artist": "Mario Jordan",
+        "release_date": "1992-02-26"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "1waQTvOWV18qC4qEyo9pGu",
+        "title": "I steh auf Bergbauernbuam",
+        "artist": "Melissa Naschenweng",
+        "release_date": "2019-01-11"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "0YMzG6R5oOEuQiKmyu72JN",
+        "title": "Ich will dich immer noch",
+        "artist": "Matthias Reim",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "02NKTxBbcbauX1saQ6Vlcm",
+        "title": "Schönes Mädchen aus Arcadia",
+        "artist": "Demis Roussos",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "0MGLXSJHMO1IY0LiQKYR5i",
+        "title": "Ich lass' nur noch Sonne in mein Herz",
+        "artist": "Liane",
+        "release_date": "2014-05-08"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "4geRKNmqbOSJc1GvweEAUK",
+        "title": "So wie man tanzt so liebt man",
+        "artist": "Maite Kelly",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "6NvKqGgbYwbqWRVyIdZjGR",
+        "title": "Die Hände Zum Himmel",
+        "artist": "Die Kolibris",
+        "release_date": "2010-08-01"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "3oS0q79t6MUPzkKv8ykMcO",
+        "title": "Jenseits von Eden - Single Version",
+        "artist": "Nino de Angelo",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "0mwDB1nJ18ln9zoO4bkrOt",
+        "title": "Das Lied der Schlümpfe",
+        "artist": "Vader Abraham",
+        "release_date": "1978-10-10"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "7g3M5euTiBBoTJ9bQ12tYr",
+        "title": "Sternenregen",
+        "artist": "Thomas Anders",
+        "release_date": "2017-04-07"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "2nRvwfAs9iTfxvUNHWcJNL",
+        "title": "Herz auf rot",
+        "artist": "G.G. Anderson",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "3AQLL3Waks6LJ9FI8TFHGA",
+        "title": "Aloha Heja He",
+        "artist": "Achim Reichel",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "6S0Y6EQoeWX8sh3iydAUN5",
+        "title": "Heute male ich dein Bild, Cindy Lou (The Birds and the Bees)",
+        "artist": "Drafi Deutscher",
+        "release_date": "1987-05-01"
+      }
+    ]
+  }
+}
