@@ -1263,10 +1263,23 @@ async function fetchAltPreviewUrl(artist, title) {
     if (!songId) return null;
 
     // ---------- 2️⃣ Fetch preview MP3 ----------
-    const previewRes = await fetch(
+    // const previewRes = await fetch(
+    //   `https://api.cenguigui.cn/api/netease/music_v1.php?id=${songId}&type=json`
+    // );
+    // const previewData = await previewRes.json();
+
+    const res = await fetch(
       `https://api.cenguigui.cn/api/netease/music_v1.php?id=${songId}&type=json`
     );
-    const previewData = await previewRes.json();
+
+    const rawText = await res.text();
+
+    const jsonStart = rawText.indexOf('{');
+    if (jsonStart === -1) {
+      throw new Error('Invalid API response');
+    }
+
+    const previewData = JSON.parse(rawText.slice(jsonStart));
 
     // Correct field: data.url
     const mp3Url = previewData?.data?.url;
