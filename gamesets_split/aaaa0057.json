@@ -1,0 +1,1088 @@
+{
+  "updated_on": 1766489346,
+  "sku": "aaaa0057",
+  "gameset_data": {
+    "gameset_language": "France",
+    "gameset_name": "Hitster Original - Hip Hop (Exp.)",
+    "cards": [
+      {
+        "CardNumber": "00154",
+        "Spotify": "1tXRcN8yvF2r3zMMzlwxgj",
+        "title": "10'",
+        "artist": "Laylow",
+        "release_date": "2016-12-09"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "2fhEKVIAoVEfZPCmHg28AF",
+        "title": "La légende Black (feat. Dr. Beriz)",
+        "artist": "Black M, Dr. Beriz",
+        "release_date": "2014-03-31"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "2IT7pYVyEjqHK1u9vqSLwr",
+        "title": "Émeutes",
+        "artist": "Passi",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "0vIDmQVcdN5xoKXCTzTciu",
+        "title": "L'ombre sur la mesure",
+        "artist": "La Rumeur",
+        "release_date": "2002-04-12"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "7KqCsGOyUOiwA59B3wgmnr",
+        "title": "Welcome To the Ghetto",
+        "artist": "Spice 1",
+        "release_date": "1992-04-14"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "1AHfovSnGPVYKaahRtA0U6",
+        "title": "The Message",
+        "artist": "Nas",
+        "release_date": "1996-07-02"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "2CVoyyQqCweehoq5bRNKpj",
+        "title": "Panam City Rappin'",
+        "artist": "Dee Nasty",
+        "release_date": "2022-10-14"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "4hElE1DmCfpoFVjczvfB5U",
+        "title": "Le bilan",
+        "artist": "Nèg' Marrons",
+        "release_date": "2000-03-27"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "6O20JhBJPePEkBdrB5sqRx",
+        "title": "Diamonds",
+        "artist": "Rihanna",
+        "release_date": "2012-12-11"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "3CWOfo577AauyqtupMX4XE",
+        "title": "La vie de rêve - Bande originale du film Taxi",
+        "artist": "Le 3ème Oeil",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "5JCZKvVImdx2aRhrGHL55T",
+        "title": "Le fainéant",
+        "artist": "Kheops, Faf Larage",
+        "release_date": "1997-11-13"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "2D2JZ8FHmkyGxcGrDpWGe4",
+        "title": "Tout Pour L'équipe",
+        "artist": "L2B",
+        "release_date": "2025-04-17"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "7KwZNVEaqikRSBSpyhXK2j",
+        "title": "Hypnotize - 2014 Remaster",
+        "artist": "The Notorious B.I.G.",
+        "release_date": "1997-03-04"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "6AI3ezQ4o3HUoP6Dhudph3",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "release_date": "2024-05-04"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "0goer5e8B6SJaTV2B51k6f",
+        "title": "La bandite",
+        "artist": "Jul",
+        "release_date": "2019-06-28"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "2FcYqXyrCQt5H22N1f0aNn",
+        "title": "Suicide social",
+        "artist": "Orelsan",
+        "release_date": "2011-09-26"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "3UmaczJpikHgJFyBTAJVoz",
+        "title": "Stan",
+        "artist": "Eminem, Dido",
+        "release_date": "2000-05-23"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "56ZVbnCdQLIEUE8RPfRfXb",
+        "title": "Victoria",
+        "artist": "Keny Arkana",
+        "release_date": "2006-10-16"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "7HDq8aEtkBeZq7gfzYjW28",
+        "title": "Tweaker",
+        "artist": "GELO",
+        "release_date": "2025-01-03"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "1PAZ8yaM7BobEeQzEENTM5",
+        "title": "J'appuie sur la gâchette",
+        "artist": "Suprême NTM",
+        "release_date": "1993-03-15"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "6JymsaWDHk2Yj4e0yNBIFH",
+        "title": "Jump Around",
+        "artist": "House Of Pain",
+        "release_date": "1992-07-21"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "0Hws9kdjOQUPag2q3Pj57Z",
+        "title": "Enfants forts",
+        "artist": "Médine",
+        "release_date": "2019-06-14"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "1ihXWWbKNIrb7S7ERA6Qcb",
+        "title": "A Roller Skating Jam Named \"Saturdays\"",
+        "artist": "De La Soul, Q-Tip, Vinia Mojica",
+        "release_date": "1991-05-14"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "6k8ynYPD7SjWpDShcImkz1",
+        "title": "Du ferme",
+        "artist": "La Fouine",
+        "release_date": "2009-02-23"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "18lEJ1SEujElAbdRGjNTZh",
+        "title": "Tonton du bled",
+        "artist": "113, Rim'K",
+        "release_date": "1999"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "6DCZcSspjsKoFjzjrWoCdn",
+        "title": "God's Plan",
+        "artist": "Drake",
+        "release_date": "2018-06-29"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "5Tbpp3OLLClPJF8t1DmrFD",
+        "title": "Nuthin' But A \"G\" Thang",
+        "artist": "Dr. Dre, Snoop Dogg",
+        "release_date": "1992-12-15"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "4HfxDJ0uLHTLe0fZrx0MbQ",
+        "title": "Check the Rhime",
+        "artist": "A Tribe Called Quest",
+        "release_date": "1991-09-24"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "0svvvbTUgEy79F6Sxweyjo",
+        "title": "Temperature",
+        "artist": "Sean Paul",
+        "release_date": "2005-09-27"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "3hlksXnvbKogFdPbpO9vel",
+        "title": "Super Bass",
+        "artist": "Nicki Minaj",
+        "release_date": "2010-11-22"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "0CJ31BEjjl1tPIj0CKi9kH",
+        "title": "Sapés comme jamais (feat. Niska) - Pilule bleue",
+        "artist": "GIMS, Niska",
+        "release_date": "2015-08-28"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "6jVRwmtx22kpy4Qz8vUqkZ",
+        "title": "Rap musique que j'aime",
+        "artist": "Zoxea",
+        "release_date": "1999"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "7gKgd0P3dAAePiSQQBqrlf",
+        "title": "Break Ya Neck",
+        "artist": "Busta Rhymes",
+        "release_date": "2001-11-07"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "0yFCrb2x6KTwZjY90Z7iIP",
+        "title": "Banlieusards",
+        "artist": "Kery James",
+        "release_date": "2008-03-31"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "4rt87mfQdJ9wKYkBrRggVF",
+        "title": "Le son des bandits",
+        "artist": "Psy 4 De La Rime, Saleem",
+        "release_date": "2002-03-19"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "4D0dgZLZWkaWG25NBuxOfS",
+        "title": "DJ",
+        "artist": "Diam's",
+        "release_date": "2003-05-12"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "5ELpgmEVGQwigF2WNBDMvd",
+        "title": "Charisme (avec Wallen)",
+        "artist": "Rohff, Wallen",
+        "release_date": "2004-06-18"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "0wQtgQhO2cHCYEUotHbtII",
+        "title": "D'or et de platine",
+        "artist": "Gradur, Jul",
+        "release_date": "2015-11-27"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "4V0FHVVLAVvYttLNHKx3cF",
+        "title": "Plus vite que les balles",
+        "artist": "Ministère A.M.E.R.",
+        "release_date": "1994"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "4ueL4j6iOPX23UG5VsvGrm",
+        "title": "Désaccordé",
+        "artist": "Vald",
+        "release_date": "2018-02-02"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "19wTIVLYwubMX8XZppB6lH",
+        "title": "Laisse pas traîner ton fils",
+        "artist": "Suprême NTM",
+        "release_date": "1998-04-20"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "5SNfvgi4TUwx4Si0lFn3G2",
+        "title": "Soleil",
+        "artist": "Roméo Elvis",
+        "release_date": "2019-04-12"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "5phZGx0eBAYbu9XtKTzUFk",
+        "title": "Éclater un type des Assedic",
+        "artist": "Akhenaton",
+        "release_date": "1995-10-26"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "4t4ewnVrUeZPUm2psCCslj",
+        "title": "Le combat continue",
+        "artist": "Ideal J",
+        "release_date": "1996-06-13"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "6sT9MWlJManry3EQwf4V80",
+        "title": "Push It",
+        "artist": "Salt-N-Pepa",
+        "release_date": "1986-12-08"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "1Vf09Cxf2jqSkU6sfueYAq",
+        "title": "La Boulette (Génération Nan Nan)",
+        "artist": "Diam's",
+        "release_date": "2006-02-03"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "5ZIPkJQr6d9kqHjuC52hTV",
+        "title": "Titi parisien",
+        "artist": "Seth Gueko",
+        "release_date": "2015-01-01"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "3VOh8zuGcZ3NmyyIyhKAY1",
+        "title": "J'Reviens",
+        "artist": "Kool Shen, JoeyStarr",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "2gRSMfqcWaOjyaUGU5Ny8Y",
+        "title": "Gomes et Tavares: Les Ripoux",
+        "artist": "Dad PPDA, eben",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "2mT0YKSgM8ie4Irf0gkuPA",
+        "title": "A fleur de toi",
+        "artist": "Vitaa",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "6jdsnq94f6dlXugCMFlZ7i",
+        "title": "A7",
+        "artist": "SCH",
+        "release_date": "2015-11-13"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "1KxHiAeWZsTjvRxhPRVT44",
+        "title": "La Quête",
+        "artist": "Orelsan",
+        "release_date": "2021-11-19"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "5NsOnvpjvH9sCz8TyVOmOz",
+        "title": "Désolé",
+        "artist": "Sexion d'Assaut",
+        "release_date": "2010-03-29"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "1JZoTySm8iYZWnEUZ6fDfV",
+        "title": "Lettre",
+        "artist": "Shurik'n",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "1SC5rEoYDGUK4NfG82494W",
+        "title": "MONTERO (Call Me By Your Name)",
+        "artist": "Lil Nas X",
+        "release_date": "2021-09-17"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "5pNfqfGQumhsK55RmjfeED",
+        "title": "Une princesse est morte",
+        "artist": "KDD",
+        "release_date": "1998-07-18"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "6z3PuqS9WScLFO1uZ4RzHh",
+        "title": "Démocratie Fasciste - Article 4 (feat.Immortal Technique)",
+        "artist": "Rockin' Squat",
+        "release_date": "2009-04-27"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "5hdzd5jS7mcHZ0reHdV9Zl",
+        "title": "Selfie",
+        "artist": "Vald",
+        "release_date": "2015-06-29"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "3CBjC9bcb5MzAnP4Hu9SVL",
+        "title": "Sundance",
+        "artist": "Népal",
+        "release_date": "2020-01-10"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "1Bhm5HNO1cq8olDbBmokyL",
+        "title": "Copines",
+        "artist": "Aya Nakamura",
+        "release_date": "2018-11-02"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "0D0np8Odu1PNamKfajA6AX",
+        "title": "Afro Trap Pt. 3 (Champions League)",
+        "artist": "MHD",
+        "release_date": "2016-04-15"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "5IGUkmuTVroDG2PnaUiNFj",
+        "title": "It's Tricky",
+        "artist": "Run–D.M.C.",
+        "release_date": "1986-05-15"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "4fH8yHA3xQrIuFyzaUk8Qf",
+        "title": "Blizzard",
+        "artist": "Vladimir Cauchemar, Benjamin Epps",
+        "release_date": "2021-05-31"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "67cM9VzyzOHtGSgUYxWG88",
+        "title": "J'Hésite",
+        "artist": "Salif",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "1rJM37Dd4OcSJvzI84yCcP",
+        "title": "Fu-Gee-La",
+        "artist": "Fugees, Ms. Lauryn Hill, Wyclef Jean, Pras",
+        "release_date": "1996-02-13"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "6hNMQL94aJVW0fzxxfeB2U",
+        "title": "On se connait",
+        "artist": "Youssoupha, Ayna",
+        "release_date": "2017-02-24"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "3RpPBJljuDR89pd9Au8JKy",
+        "title": "Bouge de là - Part. 1",
+        "artist": "MC Solaar",
+        "release_date": "1991-10-15"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "0cYWbbg4wZoIq1iwnhytor",
+        "title": "Dr. Hannibal",
+        "artist": "Don Choa",
+        "release_date": "2002-11-25"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "5K4AP4JlVCxgqU8xeFzliV",
+        "title": "Tous ensemble",
+        "artist": "Salif, Exs",
+        "release_date": "2001-10-30"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "29f6hufsY5ULe3NGXZhzBs",
+        "title": "J'fais mon job à plein temps",
+        "artist": "Busta Flex",
+        "release_date": "1998-02-02"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "7nwat8sctz59WBc0wJvYnp",
+        "title": "Les apparences nous mentent",
+        "artist": "Youssoupha",
+        "release_date": "2007-03-19"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "1Uzqwnqt75QhIsnpnxMSRo",
+        "title": "La source",
+        "artist": "1995",
+        "release_date": "2011-06-27"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "0U9qqHTB30VvKQDjtwitQG",
+        "title": "Le monde est à moi",
+        "artist": "Passi, Akhenaton",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "7syABtsvHvD3nO7OG91Ani",
+        "title": "Tout l'monde s'en fout",
+        "artist": "Sofiane",
+        "release_date": "2017-01-27"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "6uYE33YcZJXojCsmf8qKap",
+        "title": "Je réalise",
+        "artist": "Sinik, James Blunt",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "0z0izoGFPCoPJKFi41azyb",
+        "title": "Ε. Signaler",
+        "artist": "Damso",
+        "release_date": "2017-04-28"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "4c1ArlBO56iNxiFTupUtt6",
+        "title": "15h02 - Regarde comme il fait beau (dehors)",
+        "artist": "Casseurs Flowters",
+        "release_date": "2013-11-18"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "503OTo2dSqe7qk76rgsbep",
+        "title": "Still D.R.E.",
+        "artist": "Dr. Dre, Snoop Dogg",
+        "release_date": "1999-11-16"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "5C0fYbHvoz5rKBHFH7YWT6",
+        "title": "Attendez-moi",
+        "artist": "Guizmo",
+        "release_date": "2016-06-03"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "4rLsbV5mXnwyn5JWpmHoys",
+        "title": "As We Enter",
+        "artist": "Nas, Damian Marley",
+        "release_date": "2010-05-18"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "4lW1nruxwOenfOq5i1kFub",
+        "title": "Génération",
+        "artist": "Jeff Le Nerf",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "03y045SZqaC94yfXl1cU4E",
+        "title": "Petrouchka (feat. PLK)",
+        "artist": "Soso Maness, PLK",
+        "release_date": "2021-06-04"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "3ia3dJETSOllPsv3LJkE35",
+        "title": "California Love - Original Version",
+        "artist": "2Pac, Roger, Dr. Dre",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "6eVHz1I8JaAYUl1jTgSjRW",
+        "title": "Ma dope",
+        "artist": "Nekfeu, S.Pri Noir",
+        "release_date": "2015-06-08"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "3BaGyruhFKKP6f8e2koRri",
+        "title": "Zoo",
+        "artist": "Kaaris",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "1DohHiEvQYeCnmFMkwA2va",
+        "title": "J'voulais",
+        "artist": "Sully Sefil",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "5bjVNFYusiKlc0cXTi6LoV",
+        "title": "Au coeur de la rue",
+        "artist": "Kenza Farah",
+        "release_date": "2008-11-17"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "5NfigFlUBUEBgMFOq1rfkB",
+        "title": "Boulbi",
+        "artist": "Booba",
+        "release_date": "2006-02-13"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "4TpFmeDzItWuJf3Qa3zHAs",
+        "title": "Shoota babylone",
+        "artist": "Assassin",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "78ujFEl6ZHZF8wRy7dYo0T",
+        "title": "Bad Boys de Marseille, Pt. 2 (feat. Shurik'n)",
+        "artist": "Akhenaton, Fonky Family, Shurik'n",
+        "release_date": "1995-10-26"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "13lEdYCC4iCm6cBi3qzBVV",
+        "title": "Sans Coeur",
+        "artist": "Shay, Niska",
+        "release_date": "2024-01-19"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "68VptzWEeq3mJZtxLZVxCo",
+        "title": "Mystère et suspense",
+        "artist": "Fonky Family",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "0ehzWiD4xRUwI6qgCq67gY",
+        "title": "Faut pas me prendre pour un âne",
+        "artist": "Raggasonic",
+        "release_date": "1997"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "2fTsFCKRFQ5M0igJgabnLA",
+        "title": "Price Tag",
+        "artist": "Jessie J, B.o.B",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "5gdwHpP3sLvkSfBsXzd9QH",
+        "title": "Ecorchée Vive",
+        "artist": "Kayna Samet",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "6Ww5r82aRfiOHsCz7NMIAP",
+        "title": "Lune de miel (feat. Zaho)",
+        "artist": "Don Choa, Zaho",
+        "release_date": "2007-10-19"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "5kfAx6phDHPpz5g8IAPyc2",
+        "title": "Chemin d'or",
+        "artist": "Werenoi",
+        "release_date": "2023-03-09"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "1p9kMVIwEfnTf3q8xnCRtL",
+        "title": "Le monde est à mes pieds",
+        "artist": "Scylla, Sofiane Pamart",
+        "release_date": "2018-10-12"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "7gexyCbyjpUgF15gXIgT6z",
+        "title": "Maudits soient les yeux fermés",
+        "artist": "Sako (Chiens de Paille)",
+        "release_date": "2020-10-09"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "1DIXPcTDzTj8ZMHt3PDt8p",
+        "title": "Gangsta's Paradise",
+        "artist": "Coolio, L.V.",
+        "release_date": "1995-11-07"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "2GczcXh9B7MC1Cfdfzb4wP",
+        "title": "Dans Ma Rue",
+        "artist": "Féfé",
+        "release_date": "2009"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "28GKxsXwDnfPb6q6lF7iUd",
+        "title": "Sans (re)Pères",
+        "artist": "SNIPER",
+        "release_date": "2003-05-19"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "6KIKRz9eSTXdNsGUnomdtW",
+        "title": "Straight Outta Compton",
+        "artist": "N.W.A.",
+        "release_date": "1988-08-08"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "0vbxOnEj10QBsFswwU4Hsv",
+        "title": "Obsolète",
+        "artist": "MC Solaar",
+        "release_date": "1994-02-09"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "3gKwVWwKmeuFtPubICbOGc",
+        "title": "Paul Revere",
+        "artist": "Beastie Boys",
+        "release_date": "1986-11-15"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "5db8M8KVGqWXmeWrlDJUbn",
+        "title": "Le feu",
+        "artist": "IAM",
+        "release_date": "1993"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "3oDFtOhcN08qeDPAK6MEQG",
+        "title": "Boom Boom Pow",
+        "artist": "Black Eyed Peas",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "0UBkpz5CZAZUB4tOHTHzMn",
+        "title": "Note mon nom sur ta liste",
+        "artist": "Assassin",
+        "release_date": "1991"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "6Qku7tQdLiYsh31kFbTtId",
+        "title": "Elle te rend dingue - poom poom short radio edit",
+        "artist": "Nuttea",
+        "release_date": "2000"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "63Mv2ORJ7QmKRuZ8bUWCiv",
+        "title": "Une époque formidable",
+        "artist": "Sinik",
+        "release_date": "2005"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "77pB3BxEgaSZIbJ4uQflS8",
+        "title": "Qui est l'exemple ?",
+        "artist": "Rohff",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "1zJRq0TXDMbJcAPBAv5n1r",
+        "title": "Comme Une Sarbacane",
+        "artist": "La Cliqua, Daddy Lord C, Rocca",
+        "release_date": "2009-10-05"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "7MJQ9Nfxzh8LPZ9e9u68Fq",
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "release_date": "2014-11-24"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "4kA98nTsVhh2MTruMLV9c3",
+        "title": "Salade Tomates Oignons",
+        "artist": "Booba, Djé",
+        "release_date": "2008-11-24"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "7CVQNimiTPLHTu4ZM7pv7s",
+        "title": "No lo sé",
+        "artist": "Lacrim",
+        "release_date": "2024-07-05"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "3AszgPDZd9q0DpDFt4HFBy",
+        "title": "Hey Ya!",
+        "artist": "Outkast",
+        "release_date": "2003"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "7qc55PpGecCorFqxLGurp3",
+        "title": "L'enfant seul - Remasterisé",
+        "artist": "Oxmo Puccino",
+        "release_date": "2018-04-27"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "00X2yv2vrtritPt2CZnUTZ",
+        "title": "Bené",
+        "artist": "PNL",
+        "release_date": "2016-09-16"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "7zcQ1j3vTLKWCkmPtO5rSR",
+        "title": "Regarde le monde",
+        "artist": "Ärsenik",
+        "release_date": "2002-03-28"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "0utXjXWDVf5lTYPZkEMjiX",
+        "title": "Chico",
+        "artist": "S.Pri Noir",
+        "release_date": "2018-05-11"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "119c93MHjrDLJTApCVGpvx",
+        "title": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+        "artist": "Wu-Tang Clan",
+        "release_date": "1993-11-09"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "4MQgqO4HollqhSs1Cu9xRR",
+        "title": "Ma p'tite étoile",
+        "artist": "Hatik",
+        "release_date": "2021-03-12"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "37oA4erGZtAdReBTlwzZbl",
+        "title": "Quitte A T'Aimer",
+        "artist": "Hocus Pocus, Cesária Evora, Magik Malik",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "1x8jWhhF92bQLKtLRqRS2p",
+        "title": "philly flingo",
+        "artist": "Alpha Wann",
+        "release_date": "2020-12-18"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "5D2mYZuzcgjpchVY1pmTPh",
+        "title": "Candy Shop",
+        "artist": "50 Cent, Olivia",
+        "release_date": "2005-03-03"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "2I5S4UqzgMdooPBc31EmgX",
+        "title": "L'empire du côté obscur",
+        "artist": "IAM",
+        "release_date": "1997"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "44P75p1gtECmB1T1eJ7tFy",
+        "title": "Tôt le matin",
+        "artist": "Gaël Faye",
+        "release_date": "2017-04-14"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "7FeWKPL2gj7xIRv5gyHejU",
+        "title": "Nocif",
+        "artist": "Hamza, Damso",
+        "release_date": "2023-02-15"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "3a8r3EYOFZB7cT1OkK4zXF",
+        "title": "Eric B. Is President",
+        "artist": "Eric B. & Rakim, Marley Marl",
+        "release_date": "1987-07-07"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "4aMJKZCyF3otus1wgHJKS8",
+        "title": "Un dernier jour sur terre",
+        "artist": "La Squadra, Rocca, Daddy Lord C",
+        "release_date": "1997-09-18"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "4Oun2ylbjFKMPTiaSbbCih",
+        "title": "WAP (feat. Megan Thee Stallion)",
+        "artist": "Cardi B, Megan Thee Stallion",
+        "release_date": "2020-08-07"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "0XZUo8Rds5wEp3UwyXER6J",
+        "title": "Molotov 4",
+        "artist": "Sefyu",
+        "release_date": "2008-05-12"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "4noS6GiHvecd2uXwYJBPR0",
+        "title": "L'impertinent",
+        "artist": "Fabe",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "0HKNlsZ0zFlSqUqWj1nVVG",
+        "title": "Réseaux",
+        "artist": "Niska",
+        "release_date": "2017-09-22"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "7crkiArUouuzUeRuscxy5t",
+        "title": "Ne Retiens Pas Tes Larmes",
+        "artist": "Amel Bent",
+        "release_date": "2004"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "1X1EibLspnxpfq72i97PA9",
+        "title": "Mamy ... (feat. Nicoletta)",
+        "artist": "JoeyStarr, Nicoletta",
+        "release_date": "2011-10-31"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "4tfMeNCIqojPnaHAz6dhbk",
+        "title": "La colombe",
+        "artist": "Soprano",
+        "release_date": "2004-10-19"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "5QIRLDAnBbrKYny9foynps",
+        "title": "La preuve par 3",
+        "artist": "Saian Supa Crew",
+        "release_date": "1999-10-24"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "4U5h7GaXXXNOLpuo5vr3dU",
+        "title": "Maghrebins",
+        "artist": "Mister You, Balti",
+        "release_date": "2019-07-05"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "2bXQIpORuwI4lYc5MjSBSU",
+        "title": "Pesetas",
+        "artist": "Rilès",
+        "release_date": "2017-05-29"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "6sOUHaKsLdTr66PZHNVi5n",
+        "title": "Pa si mové",
+        "artist": "K-Reen, Mainy",
+        "release_date": "2022-02-11"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "1HeO50DPnC1LSuonAYlu5j",
+        "title": "J'Pète Les Plombs - Intro",
+        "artist": "disiz",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "3Rn1QZKn8ekyQJpWv0W2XR",
+        "title": "Dernière Chance",
+        "artist": "Léa Castel, Soprano",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "4Or4rIECXvExLB1ZimzFmj",
+        "title": "Il est fou ce monde",
+        "artist": "Le Rat Luciano",
+        "release_date": "2000-10-30"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "5jnxxpX2834SB6LJ0S73Uz",
+        "title": "Lollipop",
+        "artist": "Lil Wayne, Static Major",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "3JjnCqQwWlgIz5ty1ByAbO",
+        "title": "Pour ceux",
+        "artist": "Mafia K'1 Fry",
+        "release_date": "2003-04-28"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "1hURd7Fwb1YzA0asnn3qYA",
+        "title": "Le geste",
+        "artist": "KDD",
+        "release_date": "2000-04-10"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "6NwkyHDIPYoJNEzpb6aXCR",
+        "title": "Plus tard",
+        "artist": "Bigflo & Oli",
+        "release_date": "2018-11-24"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "7aVlhDQNBEDVye653bUDeF",
+        "title": "Nirvana",
+        "artist": "Doc Gynéco",
+        "release_date": "1996"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "186HAeS1KdqhztQLq85C24",
+        "title": "On Fleek",
+        "artist": "Eva, Lartiste",
+        "release_date": "2019-07-05"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "1yo16b3u0lptm6Cs7lx4AD",
+        "title": "Fight The Power",
+        "artist": "Public Enemy",
+        "release_date": "1990-04-10"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "4ZIw3JAHPjI57WvWW47lQT",
+        "title": "The Message",
+        "artist": "Grandmaster Flash, The Furious Five",
+        "release_date": "2010-07-19"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "2jv4uTYClYDT51Z88wN4jF",
+        "title": "365 jours",
+        "artist": "Oxmo Puccino",
+        "release_date": "2009-03-23"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "2wGSgTmgSF3xjRrHkTc25R",
+        "title": "Hate It Or Love It",
+        "artist": "The Game, 50 Cent",
+        "release_date": "2005"
+      }
+    ]
+  }
+}

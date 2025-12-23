@@ -1,0 +1,2166 @@
+{
+  "updated_on": 1766489466,
+  "sku": "aaag0001",
+  "gameset_data": {
+    "gameset_language": "Korea",
+    "gameset_name": "Hitster Original",
+    "cards": [
+      {
+        "CardNumber": "00308",
+        "Spotify": "69kOkLUCkxIZYexIgSG8rq",
+        "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+        "artist": "Daft Punk, Pharrell Williams, Nile Rodgers",
+        "release_date": "2013-05-20"
+      },
+      {
+        "CardNumber": "00307",
+        "Spotify": "7IOEWrfnhTaViozgLev5zN",
+        "title": "Green Green Grass Of Home",
+        "artist": "Tom Jones",
+        "release_date": "1997-10-13"
+      },
+      {
+        "CardNumber": "00306",
+        "Spotify": "4MwLsVrkDoAaTeJsEQU004",
+        "title": "Don't You Miss Me?",
+        "artist": "Bunny Girls",
+        "release_date": "1973-01-20"
+      },
+      {
+        "CardNumber": "00305",
+        "Spotify": "4HXEIaDFS2ua3MeNMD0zI0",
+        "title": "갑돌이와 갑순이",
+        "artist": "Kim Serena",
+        "release_date": "1987-03-01"
+      },
+      {
+        "CardNumber": "00304",
+        "Spotify": "376gFfOS1ytknswb17Bf4O",
+        "title": "그건 너",
+        "artist": "Lee Janghee",
+        "release_date": "2011-11-18"
+      },
+      {
+        "CardNumber": "00303",
+        "Spotify": "4qKlYv1B1XhJ7Q114Thv6m",
+        "title": "I've Got a Woman",
+        "artist": "Ray Charles",
+        "release_date": "1994-07-05"
+      },
+      {
+        "CardNumber": "00302",
+        "Spotify": "6Kb0qJGqvn17fINp7yXK36",
+        "title": "빨간 마후라",
+        "artist": "Johnny Brothers",
+        "release_date": "2004-02-02"
+      },
+      {
+        "CardNumber": "00301",
+        "Spotify": "4OP5IjUCmdYRK6yL6EZL8M",
+        "title": "Tiger is Coming",
+        "artist": "LEENALCHI",
+        "release_date": "2020-05-29"
+      },
+      {
+        "CardNumber": "00300",
+        "Spotify": "2XoUbKNeEbvoI0rP3XrHGp",
+        "title": "甜蜜蜜",
+        "artist": "Teresa Teng",
+        "release_date": "1979-11-15"
+      },
+      {
+        "CardNumber": "00299",
+        "Spotify": "6Zyizxfz4NXdCgVLwhuBNw",
+        "title": "雪の華",
+        "artist": "Mika Nakashima",
+        "release_date": "2003"
+      },
+      {
+        "CardNumber": "00298",
+        "Spotify": "3F9ytzl2PnvLLSOtIwfzgg",
+        "title": "Beautiful Woman",
+        "artist": "Shin Jung-hyun and the postcards",
+        "release_date": "1974-08-25"
+      },
+      {
+        "CardNumber": "00297",
+        "Spotify": "2CHJFUq1NgnVsTZTgpJWTq",
+        "title": "커피 한잔",
+        "artist": "Pearl Sisters",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00296",
+        "Spotify": "2CvOqDpQIMw69cCzWqr5yr",
+        "title": "Halo",
+        "artist": "Beyoncé",
+        "release_date": "2008"
+      },
+      {
+        "CardNumber": "00295",
+        "Spotify": "1UwriLz98ILbRhrtohTca1",
+        "title": "The Wanderer",
+        "artist": "Dion",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00294",
+        "Spotify": "5PUvinSo4MNqW7vmomGRS7",
+        "title": "Blurred Lines",
+        "artist": "Robin Thicke, T.I., Pharrell Williams",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00293",
+        "Spotify": "74S870utHcrils7QiOw0Jh",
+        "title": "수고했어, 오늘도 Cheer Up",
+        "artist": "OKDAL",
+        "release_date": "2011-04-26"
+      },
+      {
+        "CardNumber": "00292",
+        "Spotify": "3XYRV7ZSHqIRDG87DKTtry",
+        "title": "Permission to Dance",
+        "artist": "BTS",
+        "release_date": "2021-07-23"
+      },
+      {
+        "CardNumber": "00291",
+        "Spotify": "4SUk1ZTtA6OC120afxrpRZ",
+        "title": "2 Phút Hơn - KAIZ Remix",
+        "artist": "Pháo, KAIZ",
+        "release_date": "2020-12-18"
+      },
+      {
+        "CardNumber": "00290",
+        "Spotify": "7DSAEUvxU8FajXtRloy8M0",
+        "title": "Flowers",
+        "artist": "Miley Cyrus",
+        "release_date": "2023-08-18"
+      },
+      {
+        "CardNumber": "00289",
+        "Spotify": "0KMGxYKeUzK9wc5DZCt3HT",
+        "title": "If You Leave Me Now",
+        "artist": "Chicago",
+        "release_date": "1976-06-14"
+      },
+      {
+        "CardNumber": "00288",
+        "Spotify": "3d9DChrdc6BOeFsbrZ3Is0",
+        "title": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers",
+        "release_date": "1991-09-24"
+      },
+      {
+        "CardNumber": "00287",
+        "Spotify": "3YapZjYwGUnvoXKw40jGWB",
+        "title": "The Moon Is Waxing, Let's Go",
+        "artist": "Kiha & The Faces",
+        "release_date": "2009-02-27"
+      },
+      {
+        "CardNumber": "00286",
+        "Spotify": "1Oy6x0hKwS5EnbhGN7VyTg",
+        "title": "My Day about to Come",
+        "artist": "Song Dae Kwan, Shin Woong",
+        "release_date": "2021-12-01"
+      },
+      {
+        "CardNumber": "00285",
+        "Spotify": "5mSXBQL8hpESqD8E6ksXwI",
+        "title": "쓰담쓰담 Sseudam Sseudam (Caress)",
+        "artist": "10CM",
+        "release_date": "2014-11-19"
+      },
+      {
+        "CardNumber": "00284",
+        "Spotify": "3iSws76HjaU7k49EqJVTfF",
+        "title": "Sugar, Sugar",
+        "artist": "The Archies",
+        "release_date": "2007-11-07"
+      },
+      {
+        "CardNumber": "00283",
+        "Spotify": "2Fxmhks0bxGSBdJ92vM42m",
+        "title": "bad guy",
+        "artist": "Billie Eilish",
+        "release_date": "2019-03-29"
+      },
+      {
+        "CardNumber": "00282",
+        "Spotify": "2JxXcCgVx61AI0MOUoXC68",
+        "title": "잘자요 아가씨 (Prod. 과나)",
+        "artist": "TANAKA, 닛몰캐쉬",
+        "release_date": "2024-02-29"
+      },
+      {
+        "CardNumber": "00281",
+        "Spotify": "3tFzw91xzFjYlVTQjnPLWC",
+        "title": "검은고양이 네로가 좋아",
+        "artist": "최은영",
+        "release_date": "1970-01-01"
+      },
+      {
+        "CardNumber": "00280",
+        "Spotify": "31b0A8bdPdp4wNxKMA7IWt",
+        "title": "Tie the Shells",
+        "artist": "Yun Hyeong Ju",
+        "release_date": "2011-11-01"
+      },
+      {
+        "CardNumber": "00279",
+        "Spotify": "2wYe3DHyEvG5IX5uVy0iED",
+        "title": "Moon Taryeong",
+        "artist": "Kim Buja",
+        "release_date": "1973-07-03"
+      },
+      {
+        "CardNumber": "00278",
+        "Spotify": "1I2BrVLoVfh19uJrNfM3PG",
+        "title": "오빠는 풍각쟁이",
+        "artist": "Various Artists",
+        "release_date": "2002-11-20"
+      },
+      {
+        "CardNumber": "00277",
+        "Spotify": "3N4DI1vuTSX1tz7fa2NQZw",
+        "title": "Rehab",
+        "artist": "Amy Winehouse",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00276",
+        "Spotify": "1xsYj84j7hUDDnTTerGWlH",
+        "title": "Dream On",
+        "artist": "Aerosmith",
+        "release_date": "1973-01-05"
+      },
+      {
+        "CardNumber": "00275",
+        "Spotify": "40riOy7x9W7GXjyGp4pjAv",
+        "title": "Hotel California - 2013 Remaster",
+        "artist": "Eagles",
+        "release_date": "1976-12-08"
+      },
+      {
+        "CardNumber": "00274",
+        "Spotify": "36j9kcESXeGztRjY74oDLl",
+        "title": "Mist",
+        "artist": "Jung Hoon Hee",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00273",
+        "Spotify": "2eF8pWbiivYsYRpbntYsnc",
+        "title": "Signed, Sealed, Delivered (I'm Yours)",
+        "artist": "Stevie Wonder",
+        "release_date": "1970-08-07"
+      },
+      {
+        "CardNumber": "00272",
+        "Spotify": "2w4EpqGasrz9qdTwocx54t",
+        "title": "Open Arms",
+        "artist": "Journey",
+        "release_date": "1981"
+      },
+      {
+        "CardNumber": "00271",
+        "Spotify": "3STmfw9QJMI9nB4cii6tUC",
+        "title": "바보에게... 바보가",
+        "artist": "박명수",
+        "release_date": "2008-04-04"
+      },
+      {
+        "CardNumber": "00270",
+        "Spotify": "2mTiKaGdMPA4wfOGGUroE5",
+        "title": "When a Man Loves a Woman - Mono",
+        "artist": "Percy Sledge",
+        "release_date": "1966"
+      },
+      {
+        "CardNumber": "00269",
+        "Spotify": "48i055G1OT5KxGGftwFxWy",
+        "title": "Oh, Pretty Woman",
+        "artist": "Roy Orbison",
+        "release_date": "1962"
+      },
+      {
+        "CardNumber": "00268",
+        "Spotify": "4fsQ0K37TOXa3hEQfjEic1",
+        "title": "ANTIFRAGILE",
+        "artist": "LE SSERAFIM",
+        "release_date": "2022-10-17"
+      },
+      {
+        "CardNumber": "00267",
+        "Spotify": "5U1xJmlRimUm6DtRd0kM6f",
+        "title": "さくらんぼ",
+        "artist": "Ai Otsuka",
+        "release_date": "2004-03-31"
+      },
+      {
+        "CardNumber": "00266",
+        "Spotify": "1k4poPLl62xepcGZx855Iw",
+        "title": "Ballerino",
+        "artist": "Leessang",
+        "release_date": "2007-05-16"
+      },
+      {
+        "CardNumber": "00265",
+        "Spotify": "4FG1uHQAVPsYiXIn3tcGRs",
+        "title": "못다핀 꽃한송이",
+        "artist": "김수철",
+        "release_date": "1983-08-15"
+      },
+      {
+        "CardNumber": "00264",
+        "Spotify": "0ay8fHEeIE1n4Mt6qKaTyt",
+        "title": "Monologue",
+        "artist": "BUZZ",
+        "release_date": "2003-10-10"
+      },
+      {
+        "CardNumber": "00263",
+        "Spotify": "4HXPCa5co9PcXzbxBkv65P",
+        "title": "고백",
+        "artist": "Jang Na-ra",
+        "release_date": "2001-06-19"
+      },
+      {
+        "CardNumber": "00262",
+        "Spotify": "7EZC6E7UjZe63f1jRmkWxt",
+        "title": "Zombie",
+        "artist": "The Cranberries",
+        "release_date": "1994-10-03"
+      },
+      {
+        "CardNumber": "00261",
+        "Spotify": "3RO9V1lBt543dELWzfioeE",
+        "title": "홍도야 우지 마라",
+        "artist": "Various Artists",
+        "release_date": "1996-08-01"
+      },
+      {
+        "CardNumber": "00260",
+        "Spotify": "2fR9mI0yCoswBYxFIpOKew",
+        "title": "마포종점",
+        "artist": "Eunbangul Sisters",
+        "release_date": "2010-03-01"
+      },
+      {
+        "CardNumber": "00259",
+        "Spotify": "0TzbmxnYrlMV6dEln2l9nb",
+        "title": "Happy Ending",
+        "artist": "MIKA",
+        "release_date": "2007-02-05"
+      },
+      {
+        "CardNumber": "00258",
+        "Spotify": "0SzAKZYTUvDLqlPgllEb3N",
+        "title": "Ai No Corrida",
+        "artist": "Quincy Jones, Charles May",
+        "release_date": "1981-03-28"
+      },
+      {
+        "CardNumber": "00257",
+        "Spotify": "5ZULALImTm80tzUbYQYM9d",
+        "title": "Dance Monkey",
+        "artist": "Tones And I",
+        "release_date": "2019-08-29"
+      },
+      {
+        "CardNumber": "00256",
+        "Spotify": "0qTLCmhkp01C4oyF7kdANv",
+        "title": "One and a Half",
+        "artist": "TwoTwo",
+        "release_date": "1994-05-01"
+      },
+      {
+        "CardNumber": "00255",
+        "Spotify": "63T7DJ1AFDD6Bn8VzG6JE8",
+        "title": "Paint It, Black",
+        "artist": "The Rolling Stones",
+        "release_date": "1966-04-15"
+      },
+      {
+        "CardNumber": "00254",
+        "Spotify": "3r8RuvgbX9s7ammBn07D3W",
+        "title": "Ditto",
+        "artist": "NewJeans",
+        "release_date": "2022-12-19"
+      },
+      {
+        "CardNumber": "00253",
+        "Spotify": "2vDkR3ctidSd17d2CygVzS",
+        "title": "APT.",
+        "artist": "ROSÉ, Bruno Mars",
+        "release_date": "2024-10-18"
+      },
+      {
+        "CardNumber": "00252",
+        "Spotify": "33B7RFi29Lg86MfSosN9NW",
+        "title": "Ah! It Is Ancient Times",
+        "artist": "Lee Sun Hee",
+        "release_date": "1985-10-01"
+      },
+      {
+        "CardNumber": "00251",
+        "Spotify": "7uiRy0wTGtP1XC536Ot7V0",
+        "title": "대화가 필요해",
+        "artist": "The Jadu",
+        "release_date": "2002-04-04"
+      },
+      {
+        "CardNumber": "00250",
+        "Spotify": "4cOdK2wGLETKBW3PvgPWqT",
+        "title": "Never Gonna Give You Up",
+        "artist": "Rick Astley",
+        "release_date": "1987-11-12"
+      },
+      {
+        "CardNumber": "00249",
+        "Spotify": "35fj3t29nIWf8JiZc7Jz0j",
+        "title": "어제처럼",
+        "artist": "J.ae",
+        "release_date": "2000-04-01"
+      },
+      {
+        "CardNumber": "00248",
+        "Spotify": "2alWABSEi9VUpKYsJ7xkdG",
+        "title": "Quizas, Quizas, Quizas",
+        "artist": "Nat King Cole",
+        "release_date": "2016-03-24"
+      },
+      {
+        "CardNumber": "00247",
+        "Spotify": "2cxcqKwQtfKq7giphxjzOu",
+        "title": "晩餐歌 - Bansanka",
+        "artist": "tuki.",
+        "release_date": "2023-09-29"
+      },
+      {
+        "CardNumber": "00246",
+        "Spotify": "1jo8oDcDUhjiQoah8sumkR",
+        "title": "니가 사는 그집",
+        "artist": "J.Y. Park",
+        "release_date": "2007-11-16"
+      },
+      {
+        "CardNumber": "00245",
+        "Spotify": "3lAun9V0YdTlCSIEXPvfsY",
+        "title": "La Vie en rose",
+        "artist": "Édith Piaf",
+        "release_date": "2008-10-13"
+      },
+      {
+        "CardNumber": "00244",
+        "Spotify": "52Zr0sinhWTCRrQhRRY4EP",
+        "title": "Dragostea din tei",
+        "artist": "O-Zone",
+        "release_date": "2004-02-23"
+      },
+      {
+        "CardNumber": "00243",
+        "Spotify": "64GLRw45kqFZdiEAFS6BPW",
+        "title": "사랑사랑 누가말했나",
+        "artist": "남궁옥분",
+        "release_date": "1990-12-01"
+      },
+      {
+        "CardNumber": "00242",
+        "Spotify": "3Fcfwhm8oRrBvBZ8KGhtea",
+        "title": "Viva La Vida",
+        "artist": "Coldplay",
+        "release_date": "2008-06-19"
+      },
+      {
+        "CardNumber": "00241",
+        "Spotify": "6z0rk521a5u6FHB8HHjXov",
+        "title": "그대안의 블루",
+        "artist": "Kim Hyun Chul, Lee So Ra",
+        "release_date": "1994-03-01"
+      },
+      {
+        "CardNumber": "00240",
+        "Spotify": "5xzdDMhFYiuUONB0Mha9VS",
+        "title": "The Locomotion",
+        "artist": "Little Eva",
+        "release_date": "1962-01-01"
+      },
+      {
+        "CardNumber": "00239",
+        "Spotify": "0weAUscowxeqDtpCgtbpgp",
+        "title": "Gettin' Jiggy Wit It",
+        "artist": "Will Smith",
+        "release_date": "1997-10-03"
+      },
+      {
+        "CardNumber": "00238",
+        "Spotify": "7iN1s7xHE4ifF5povM6A48",
+        "title": "Let It Be - Remastered 2009",
+        "artist": "The Beatles",
+        "release_date": "1970-05-08"
+      },
+      {
+        "CardNumber": "00237",
+        "Spotify": "7obrVzU8eF4Yi8i2VmwNpG",
+        "title": "Everyone",
+        "artist": "YOON BOCK HEE",
+        "release_date": "1984-01-01"
+      },
+      {
+        "CardNumber": "00236",
+        "Spotify": "5rgy6ghBq1eRApCkeUdJXf",
+        "title": "We Are Young (feat. Janelle Monáe)",
+        "artist": "fun., Janelle Monáe",
+        "release_date": "2012-02-14"
+      },
+      {
+        "CardNumber": "00235",
+        "Spotify": "13XLLtyvSfoIvAmv1AAkOi",
+        "title": "Summer",
+        "artist": "징검다리",
+        "release_date": "1985-10-20"
+      },
+      {
+        "CardNumber": "00234",
+        "Spotify": "0ZRU3O6kVY8CgtYFYwjH4m",
+        "title": "All The Things She Said",
+        "artist": "t.A.T.u.",
+        "release_date": "2002-09-17"
+      },
+      {
+        "CardNumber": "00233",
+        "Spotify": "3K7Q9PHUWPTaknlbFPThn2",
+        "title": "Celebration",
+        "artist": "Kool & The Gang",
+        "release_date": "1980-09-29"
+      },
+      {
+        "CardNumber": "00232",
+        "Spotify": "2yIWTkM69mTXrgfcfId9ml",
+        "title": "Don't Talk Down at Me(Original Ver.)",
+        "artist": "Mountain Baekdu",
+        "release_date": "2009-04-20"
+      },
+      {
+        "CardNumber": "00231",
+        "Spotify": "3YpiZu52TdVbNKExZpZAWW",
+        "title": "Etude of Memory",
+        "artist": "Exhibition",
+        "release_date": "1994-05-01"
+      },
+      {
+        "CardNumber": "00230",
+        "Spotify": "6DSvUZQdqtNfkJI4cAiUsM",
+        "title": "The Twist",
+        "artist": "Chubby Checker",
+        "release_date": "1962-01-01"
+      },
+      {
+        "CardNumber": "00229",
+        "Spotify": "7795WJLVKJoAyVoOtCWqXN",
+        "title": "I'm Not The Only One",
+        "artist": "Sam Smith",
+        "release_date": "2014-05-26"
+      },
+      {
+        "CardNumber": "00228",
+        "Spotify": "3zivFlLjNP4GSxZj10yhZm",
+        "title": "Exquisite Goodbyes",
+        "artist": "쟈니 리",
+        "release_date": "1995-07-01"
+      },
+      {
+        "CardNumber": "00227",
+        "Spotify": "2s7htVorI1IvqDtB7E1Zlq",
+        "title": "동백아가씨",
+        "artist": "이미자",
+        "release_date": "1999-12-01"
+      },
+      {
+        "CardNumber": "00226",
+        "Spotify": "0snPJPxkk0MbTc0xeUvAPt",
+        "title": "Dancing On The Ceiling",
+        "artist": "Lionel Richie",
+        "release_date": "1986"
+      },
+      {
+        "CardNumber": "00225",
+        "Spotify": "6JWddKPdqvDc2WkPEi9grC",
+        "title": "Have A Nice Day",
+        "artist": "Stereophonics",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00224",
+        "Spotify": "6dHTkQYY3zdR9i9Nj0IGVW",
+        "title": "I Like To Move It (feat. The Mad Stuntman) - Erick \"More\" Album Mix",
+        "artist": "Reel 2 Real, The Mad Stuntman, Erick Morillo",
+        "release_date": "1994-10-10"
+      },
+      {
+        "CardNumber": "00223",
+        "Spotify": "0LxjKXNHHeHx9LrjxDHJQR",
+        "title": "Night Fog",
+        "artist": "Hyun Mi",
+        "release_date": "1989-12-01"
+      },
+      {
+        "CardNumber": "00222",
+        "Spotify": "3atfvgRouLZHqBtZEviJ7Q",
+        "title": "Can't Soothe by Love",
+        "artist": "Broccoli, you too?",
+        "release_date": "2010-11-01"
+      },
+      {
+        "CardNumber": "00221",
+        "Spotify": "6ywkujqCHOZv85UFIkhwul",
+        "title": "사랑했어요",
+        "artist": "김현식",
+        "release_date": "1984-09-20"
+      },
+      {
+        "CardNumber": "00220",
+        "Spotify": "47ASqXc3m5bW8WF03Mm17i",
+        "title": "Please Don`t Change",
+        "artist": "Nam Jin",
+        "release_date": "1990-05-01"
+      },
+      {
+        "CardNumber": "00219",
+        "Spotify": "3h5zik31hTTat9jmpCZZNC",
+        "title": "1979",
+        "artist": "The Smashing Pumpkins",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00218",
+        "Spotify": "6HzS9bcvNDDMKdfKwpTOgx",
+        "title": "유쾌한 씨의 껌씹는 방법",
+        "artist": "Pippi Band",
+        "release_date": "2004-03-24"
+      },
+      {
+        "CardNumber": "00217",
+        "Spotify": "6oVM1RVHjDTvGlzj2V2Qvy",
+        "title": "The dance in the rhythm",
+        "artist": "Kim Wan-sun",
+        "release_date": "1987-05-07"
+      },
+      {
+        "CardNumber": "00216",
+        "Spotify": "4BFMQ15vXr626UOoZL8bUI",
+        "title": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
+        "artist": "Bill Medley, Jennifer Warnes",
+        "release_date": "2004-07-13"
+      },
+      {
+        "CardNumber": "00215",
+        "Spotify": "0xmjwnQ3FNE6HuWCt2nHdZ",
+        "title": "Where Is The Love?",
+        "artist": "Black Eyed Peas",
+        "release_date": "2003-06-24"
+      },
+      {
+        "CardNumber": "00214",
+        "Spotify": "1zusIxNqJu8i4g6P6hJ2Qa",
+        "title": "Mercy",
+        "artist": "Duffy",
+        "release_date": "2008"
+      },
+      {
+        "CardNumber": "00213",
+        "Spotify": "6iNBM60VQtPUUhkKfwa5KV",
+        "title": "It's My Life",
+        "artist": "Bon Jovi",
+        "release_date": "2010-11-09"
+      },
+      {
+        "CardNumber": "00212",
+        "Spotify": "0G3lpatOjT98t1aErshKuc",
+        "title": "사랑했지만",
+        "artist": "Kim Kwang Seok",
+        "release_date": "1993-02-03"
+      },
+      {
+        "CardNumber": "00211",
+        "Spotify": "2EntTXu9y1n692YqJqgQlm",
+        "title": "Regret of the Times",
+        "artist": "Seo Taiji and Boys",
+        "release_date": "1995-10-05"
+      },
+      {
+        "CardNumber": "00210",
+        "Spotify": "4so0Wek9Ig1p6CRCHuINwW",
+        "title": "White Christmas - 1947 Version",
+        "artist": "Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra",
+        "release_date": "1942-01-01"
+      },
+      {
+        "CardNumber": "00209",
+        "Spotify": "2ppv5E2a22qoXwYdL6GjvS",
+        "title": "Full of happiness",
+        "artist": "H.O.T.",
+        "release_date": "1997-07-05"
+      },
+      {
+        "CardNumber": "00208",
+        "Spotify": "5ZrDlcxIDZyjOzHdYW1ydr",
+        "title": "Barbie Girl",
+        "artist": "Aqua",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00207",
+        "Spotify": "4aTCNddtjztjuK2EOgz7ZZ",
+        "title": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
+        "artist": "Brian Hyland",
+        "release_date": "1961-01-01"
+      },
+      {
+        "CardNumber": "00206",
+        "Spotify": "6SQUopvuZyrWYjYayxxSXl",
+        "title": "Rollin'",
+        "artist": "Brave Girls",
+        "release_date": "2017-03-07"
+      },
+      {
+        "CardNumber": "00205",
+        "Spotify": "4DdbEmj1VLQMz9KJq87dlX",
+        "title": "빗속에서",
+        "artist": "Lee Moon Sae",
+        "release_date": "1985-11-20"
+      },
+      {
+        "CardNumber": "00204",
+        "Spotify": "0Fyj9w0HVfjoxm9S8nGClt",
+        "title": "Orinoco Flow",
+        "artist": "Enya",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00203",
+        "Spotify": "6QfS2wq5sSC1xAJCQsTSlj",
+        "title": "Shallow - Radio Edit",
+        "artist": "Lady Gaga, Bradley Cooper",
+        "release_date": "2018-10-05"
+      },
+      {
+        "CardNumber": "00202",
+        "Spotify": "1Z1fN0KFNu0aG2EpbBVwvN",
+        "title": "プラスティック・ラブ",
+        "artist": "Mariya Takeuchi",
+        "release_date": "1984-04-25"
+      },
+      {
+        "CardNumber": "00201",
+        "Spotify": "5CO3WE0VBWr4PMLaWJHmWl",
+        "title": "내가 만일",
+        "artist": "안치환",
+        "release_date": "1995-08-01"
+      },
+      {
+        "CardNumber": "00200",
+        "Spotify": "31tY1NfiCJA6i8EKB5PCkx",
+        "title": "단장의 미아리 고개",
+        "artist": "이해연",
+        "release_date": "2008-06-10"
+      },
+      {
+        "CardNumber": "00199",
+        "Spotify": "2374M0fQpWi3dLnB54qaLX",
+        "title": "Africa",
+        "artist": "TOTO",
+        "release_date": "1982-04-08"
+      },
+      {
+        "CardNumber": "00198",
+        "Spotify": "1ORkFlSSZwpReXTUXfMI0i",
+        "title": "PPAP(Pen-Pineapple-Apple-Pen)",
+        "artist": "PIKOTARO",
+        "release_date": "2016-12-07"
+      },
+      {
+        "CardNumber": "00197",
+        "Spotify": "2GQNIuqbHbsSJPjvp91AJg",
+        "title": "체념",
+        "artist": "BIG MAMA",
+        "release_date": "2003-02-06"
+      },
+      {
+        "CardNumber": "00196",
+        "Spotify": "4pi0Elz7B7cLfw37J3bYm9",
+        "title": "Growl",
+        "artist": "EXO",
+        "release_date": "2013-08-05"
+      },
+      {
+        "CardNumber": "00195",
+        "Spotify": "5rb9QrpfcKFHM1EUbSIurX",
+        "title": "Yeah! (feat. Lil Jon & Ludacris)",
+        "artist": "USHER, Lil Jon, Ludacris",
+        "release_date": "2004-03-23"
+      },
+      {
+        "CardNumber": "00194",
+        "Spotify": "7uoFMmxln0GPXQ0AcCBXRq",
+        "title": "Snowman",
+        "artist": "Sia",
+        "release_date": "2018-11-01"
+      },
+      {
+        "CardNumber": "00193",
+        "Spotify": "6qkx0tenDglbF21CU4wa1k",
+        "title": "200%",
+        "artist": "AKMU",
+        "release_date": "2014-04-07"
+      },
+      {
+        "CardNumber": "00192",
+        "Spotify": "7utRJ4BeYx85khzP3lKoBX",
+        "title": "Tears in Heaven",
+        "artist": "Eric Clapton",
+        "release_date": "1999-10-12"
+      },
+      {
+        "CardNumber": "00191",
+        "Spotify": "0LaA1sGPUm6jUNAjWZ7rV0",
+        "title": "In the Bus",
+        "artist": "ZAZA",
+        "release_date": "1996-10-28"
+      },
+      {
+        "CardNumber": "00190",
+        "Spotify": "2dbaIpJoAk2hhrrX2ljKJo",
+        "title": "Surfin' U.S.A. (Mono)",
+        "artist": "The Beach Boys",
+        "release_date": "1963-03-25"
+      },
+      {
+        "CardNumber": "00189",
+        "Spotify": "29U7stRjqHU6rMiS8BfaI9",
+        "title": "What A Wonderful World",
+        "artist": "Louis Armstrong",
+        "release_date": "1968-01-01"
+      },
+      {
+        "CardNumber": "00188",
+        "Spotify": "0yamqkAFAmpdLNVcmJLSo8",
+        "title": "Never Ending Story",
+        "artist": "BOOHWAL",
+        "release_date": "2002-09-01"
+      },
+      {
+        "CardNumber": "00187",
+        "Spotify": "2nGFzvICaeEWjIrBrL2RAx",
+        "title": "Put Your Records On",
+        "artist": "Corinne Bailey Rae",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00186",
+        "Spotify": "7GrgH8eGc1LIRXIjT1VFfp",
+        "title": "사랑일뿐야",
+        "artist": "Kim Minwoo",
+        "release_date": "1990-02-10"
+      },
+      {
+        "CardNumber": "00185",
+        "Spotify": "1B75hgRqe7A4fwee3g3Wmu",
+        "title": "U Can't Touch This",
+        "artist": "MC Hammer",
+        "release_date": "1990-02-20"
+      },
+      {
+        "CardNumber": "00184",
+        "Spotify": "3zHq9ouUJQFQRf3cm1rRLu",
+        "title": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+        "artist": "Ellie Goulding",
+        "release_date": "2015-11-06"
+      },
+      {
+        "CardNumber": "00183",
+        "Spotify": "4iMdiQO0YJwEkWf8eI2wff",
+        "title": "Haven't Met You Yet",
+        "artist": "Michael Bublé",
+        "release_date": "2009-10-06"
+      },
+      {
+        "CardNumber": "00182",
+        "Spotify": "28O4QR1TELuXdcnVw9Q6Kt",
+        "title": "Tubthumping - Radio Edit",
+        "artist": "Chumbawamba",
+        "release_date": "2019-08-02"
+      },
+      {
+        "CardNumber": "00181",
+        "Spotify": "2tpWsVSb9UEmDRxAl1zhX1",
+        "title": "Counting Stars",
+        "artist": "OneRepublic",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00180",
+        "Spotify": "2YWjW3wwQIBLNhxWKBQd16",
+        "title": "Lean On (feat. MØ & DJ Snake)",
+        "artist": "Major Lazer, MØ, DJ Snake",
+        "release_date": "2015-11-27"
+      },
+      {
+        "CardNumber": "00179",
+        "Spotify": "1nk9moKBnrWMsXoHxnaeJd",
+        "title": "Y (Please Tell Me Why)",
+        "artist": "freestyle",
+        "release_date": "2004-07-16"
+      },
+      {
+        "CardNumber": "00178",
+        "Spotify": "47BBI51FKFwOMlIiX6m8ya",
+        "title": "I Want It That Way",
+        "artist": "Backstreet Boys",
+        "release_date": "1999-05-18"
+      },
+      {
+        "CardNumber": "00177",
+        "Spotify": "6Vb1LGvWPpP3aeuRcp098D",
+        "title": "abc (nicer)",
+        "artist": "GAYLE",
+        "release_date": "2021-08-14"
+      },
+      {
+        "CardNumber": "00176",
+        "Spotify": "32qEeaMhdyg2r5LQAbEe1n",
+        "title": "Hometown Station",
+        "artist": "Na Hoon-A",
+        "release_date": "1972-05-29"
+      },
+      {
+        "CardNumber": "00175",
+        "Spotify": "78WVLOP9pN0G3gRLFy1rAa",
+        "title": "Piano Man",
+        "artist": "Billy Joel",
+        "release_date": "1973-11-09"
+      },
+      {
+        "CardNumber": "00174",
+        "Spotify": "3tEPgUhheyOJQhnH2IwQna",
+        "title": "두 사람",
+        "artist": "Sung Si Kyung",
+        "release_date": "2012-04-01"
+      },
+      {
+        "CardNumber": "00173",
+        "Spotify": "0rDYhtl80Ugl6m7nxSyF7R",
+        "title": "행복의나라로",
+        "artist": "Han Dae Su",
+        "release_date": "1974-01-01"
+      },
+      {
+        "CardNumber": "00172",
+        "Spotify": "32gpJnMZkRafZdQvU7ZzR7",
+        "title": "Lambada - Version 1989",
+        "artist": "Kaoma",
+        "release_date": "1989"
+      },
+      {
+        "CardNumber": "00171",
+        "Spotify": "3di5hcvxxciiqwMH1jarhY",
+        "title": "Set Fire to the Rain",
+        "artist": "Adele",
+        "release_date": "2011-01-24"
+      },
+      {
+        "CardNumber": "00170",
+        "Spotify": "1u8c2t2Cy7UBoG4ArRcF5g",
+        "title": "Blank Space",
+        "artist": "Taylor Swift",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00169",
+        "Spotify": "0WSS3DmpxUIxrbLK6ETXTu",
+        "title": "정",
+        "artist": "YTC",
+        "release_date": "1996-08-01"
+      },
+      {
+        "CardNumber": "00168",
+        "Spotify": "4LFwNJWoj74Yd71fIr1W8x",
+        "title": "Right Here Waiting",
+        "artist": "Richard Marx",
+        "release_date": "1989-01-01"
+      },
+      {
+        "CardNumber": "00167",
+        "Spotify": "2Cd9iWfcOpGDHLz6tVA3G4",
+        "title": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+        "artist": "Shakira, Freshlyground",
+        "release_date": "2010-05-07"
+      },
+      {
+        "CardNumber": "00166",
+        "Spotify": "4s6LhHAV5SEsOV0lC2tjvJ",
+        "title": "California Dreamin' - Single Version",
+        "artist": "The Mamas & The Papas",
+        "release_date": "1966-03"
+      },
+      {
+        "CardNumber": "00165",
+        "Spotify": "0I9vXVUpijjek2ULH4UUJw",
+        "title": "사랑하기 때문에",
+        "artist": "Yoo Jae Ha",
+        "release_date": "1987-08-20"
+      },
+      {
+        "CardNumber": "00164",
+        "Spotify": "6oWLiyRpo1ibp2vKNxHG0T",
+        "title": "Sweet Dreams (Are Made of This) - 2005 Remaster",
+        "artist": "Eurythmics, Annie Lennox, Dave Stewart",
+        "release_date": "1983-01-04"
+      },
+      {
+        "CardNumber": "00163",
+        "Spotify": "1CsceHCnBkTvfwCrZG9e0a",
+        "title": "크게 라디오를 켜고",
+        "artist": "Sinawe",
+        "release_date": "1988-10-01"
+      },
+      {
+        "CardNumber": "00162",
+        "Spotify": "3huJY5je0hIY5x8jxCnYix",
+        "title": "나 어떡해",
+        "artist": "샌드페블즈",
+        "release_date": "1978-11-01"
+      },
+      {
+        "CardNumber": "00161",
+        "Spotify": "28ImzIdzd4ViVzbcuMygEU",
+        "title": "바다가 육지라면",
+        "artist": "Joe Mimi",
+        "release_date": "2015-11-12"
+      },
+      {
+        "CardNumber": "00160",
+        "Spotify": "3spdoTYpuCpmq19tuD0bOe",
+        "title": "My Way",
+        "artist": "Frank Sinatra",
+        "release_date": "1969-03"
+      },
+      {
+        "CardNumber": "00159",
+        "Spotify": "1YYhDizHx7PnDhAhko6cDS",
+        "title": "Take Me Home, Country Roads - Original Version",
+        "artist": "John Denver",
+        "release_date": "1971"
+      },
+      {
+        "CardNumber": "00158",
+        "Spotify": "3dfQ4q5ptgfvxBih5s17wx",
+        "title": "Missing you",
+        "artist": "박남정",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00157",
+        "Spotify": "131yybV7A3TmC34a0qE8u8",
+        "title": "Tunak Tunak Tun",
+        "artist": "Daler Mehndi",
+        "release_date": "1998-02-28"
+      },
+      {
+        "CardNumber": "00156",
+        "Spotify": "2zrhoHlFKxFTRF5aMyxMoQ",
+        "title": "Next Level",
+        "artist": "aespa",
+        "release_date": "2021-05-17"
+      },
+      {
+        "CardNumber": "00155",
+        "Spotify": "1Wd4pkYTQt2fEPtFqhLwmG",
+        "title": "키다리 미스터김",
+        "artist": "김상희",
+        "release_date": "2019-03-05"
+      },
+      {
+        "CardNumber": "00154",
+        "Spotify": "5MlZSCMDY99oI7fzxmvPYO",
+        "title": "하얀 나비",
+        "artist": "김정호",
+        "release_date": "1983-03-10"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "14MgTooapmJdLlEMAr2zAM",
+        "title": "Dilemma (feat. Kelly Rowland)",
+        "artist": "Nelly, Kelly Rowland",
+        "release_date": "2002-10-22"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "3bBSzFdwnOVSK6XwWOTuWo",
+        "title": "Good Life",
+        "artist": "Drunken Tiger",
+        "release_date": "2014-02-17"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "3Ml2s37uS9jqRM2R3bfDiB",
+        "title": "Every day, Every Moment",
+        "artist": "Paul Kim",
+        "release_date": "2018-03-20"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "3AtYSKkZ75F7z0fi03pKuq",
+        "title": "Me Gustas Tu",
+        "artist": "GFRIEND",
+        "release_date": "2015-07-23"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "0aZG8KWrpRnsGL0loUkfSj",
+        "title": "plot twist",
+        "artist": "TWS",
+        "release_date": "2024-01-22"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "7w6NWogvAAFdEhD9MA2uvv",
+        "title": "LADY",
+        "artist": "Kenshi Yonezu",
+        "release_date": "2023-03-21"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "3hExKvbKMsrTluTtrW0zlK",
+        "title": "가거라 삼팔선",
+        "artist": "남인수",
+        "release_date": "2000-06-16"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "3SdTKo2uVsxFblQjpScoHy",
+        "title": "Stand By Me",
+        "artist": "Ben E. King",
+        "release_date": "1962-08-20"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "6naxalmIoLFWR0siv8dnQQ",
+        "title": "Oops!...I Did It Again",
+        "artist": "Britney Spears",
+        "release_date": "2000-05-16"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "1kV5Ts5NKLvWMZpYKIbbWt",
+        "title": "목포의 눈물",
+        "artist": "이난영",
+        "release_date": "1996-08-01"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "0Ss2xN0mwOnIpzWjG7gwf7",
+        "title": "섹시한 남자",
+        "artist": "스페이스에이",
+        "release_date": "1999-08-17"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "3SrZbaN4gjObKVSgq5QkpS",
+        "title": "Family Affair",
+        "artist": "Mary J. Blige",
+        "release_date": "2001-08-28"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "1kbe64LHKlyD0nXUoa4mum",
+        "title": "Jumpin', Jumpin'",
+        "artist": "Destiny's Child",
+        "release_date": "2002-08-29"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "1JSTJqkT5qHq8MDJnJbRE1",
+        "title": "Every Breath You Take",
+        "artist": "The Police",
+        "release_date": "1983-06-17"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "2i4DNxEjTT5gjk7wgfSpFq",
+        "title": "ENDLESS RAIN - Remaster",
+        "artist": "X JAPAN",
+        "release_date": "1989"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "58JkIC1jK1NZNSJeLXfpWt",
+        "title": "AK47",
+        "artist": "Men's Tear, 뷰티풀너드",
+        "release_date": "2024-02-28"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "6uPyPOSTwYCgPjYINvXUKl",
+        "title": "青い珊瑚礁",
+        "artist": "Seiko Matsuda",
+        "release_date": "1980"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "6DgclwC2Us4WUXaOwtesYI",
+        "title": "인형의 꿈",
+        "artist": "일기예보",
+        "release_date": "1996-07-07"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "3T92e7pbfXFmeOmuGRUneg",
+        "title": "나를 돌아봐",
+        "artist": "DEUX",
+        "release_date": "1993-04-23"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "1VV9tW2symhJiYOgzDyG0n",
+        "title": "호랑나비",
+        "artist": "김흥국",
+        "release_date": "1989-02-01"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "7zARJQchG2thlF1o1Px9J6",
+        "title": "해바라기 (그녀에게..)",
+        "artist": "Park Sang Min",
+        "release_date": "2000"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "0gJvqi9QyASOCtJu99tytc",
+        "title": "Because of You",
+        "artist": "Kelly Clarkson",
+        "release_date": "2004"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "27K54kHKCKQahqYT2JepOu",
+        "title": "사랑은 나비인가봐",
+        "artist": "현철과 벌떼들",
+        "release_date": "1983-12-01"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "2tUBqZG2AbRi7Q0BIrVrEj",
+        "title": "I Wanna Dance with Somebody (Who Loves Me)",
+        "artist": "Whitney Houston",
+        "release_date": "1987-06-02"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "2yY6cliPDD0lyXgebWzhrr",
+        "title": "너를 위해",
+        "artist": "Lim Jae Beum",
+        "release_date": "2000-05-16"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "05nZpXmIPoNq6rCFVgJYqY",
+        "title": "서울의찬가",
+        "artist": "Patti Kim",
+        "release_date": "1986-01-30"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "0e70x113268aBzaBaNHmrR",
+        "title": "화장을 고치고",
+        "artist": "WAX",
+        "release_date": "2001-08-09"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "6fsFfNwxvbLDwkaSH9Bi11",
+        "title": "當年情 - 電影 \"英雄本色\" 主題曲",
+        "artist": "Leslie Cheung",
+        "release_date": "2016-09-09"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "2QfiRTz5Yc8DdShCxG1tB2",
+        "title": "Johnny B. Goode",
+        "artist": "Chuck Berry",
+        "release_date": "1959-07-01"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "5Kbpcd3hOqu4ZRAJNAjIcg",
+        "title": "What Would Have Been? (Feat. Lena Park)",
+        "artist": "PSY, Lena Park",
+        "release_date": "2012-07-15"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "1SOAN58QwnQABl2SND1wMh",
+        "title": "Congratulations - 1998 Remaster",
+        "artist": "Cliff Richard",
+        "release_date": "2008-11-03"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "01MoBCPgZHsOPYwMJxc9Qo",
+        "title": "Propose",
+        "artist": "Hot Potato",
+        "release_date": "2010-03-30"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "4p0aRX6U77LV48n0tWvYoV",
+        "title": "The Red Knot",
+        "artist": "Ahn Ye Eun",
+        "release_date": "2016-12-16"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "7gEpTMp9MQc1uJwivtL37R",
+        "title": "Do Wah Diddy Diddy",
+        "artist": "Manfred Mann",
+        "release_date": "1964"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "5uvosCdMlFdTXhoazkTI5R",
+        "title": "Light My Fire",
+        "artist": "The Doors",
+        "release_date": "1967-01-04"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "1mXuMM6zjPgjL4asbBsgnt",
+        "title": "Firework",
+        "artist": "Katy Perry",
+        "release_date": "2010-08-24"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "4EI8VuxUuIHKfafU72emqz",
+        "title": "We Belong Together",
+        "artist": "Mariah Carey",
+        "release_date": "2005"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "4gphxUgq0JSFv2BCLhNDiE",
+        "title": "Jailhouse Rock",
+        "artist": "Elvis Presley",
+        "release_date": "1958-03-21"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "0u7b8p0mxUUNT7xeuYUtlP",
+        "title": "Tiny Riot",
+        "artist": "Sam Ryder",
+        "release_date": "2021-03-26"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "6axMDvdKVtN2zdMwmgL2YW",
+        "title": "빈대떡신사",
+        "artist": "Han Bok-nam",
+        "release_date": "2019-03-26"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "5eO04wLeM487N9qhPHPPoB",
+        "title": "Gift",
+        "artist": "MeloMance",
+        "release_date": "2017-07-10"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "5grkkSqOpUGHfl2KunfdD9",
+        "title": "KIDDING",
+        "artist": "ISEGYE IDOL",
+        "release_date": "2023-08-19"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "1mHkxEZ74aeTiHdMQEoUHg",
+        "title": "맨발의 청춘",
+        "artist": "Choi Hee Jun",
+        "release_date": "1992-05-01"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "3oIZpa1MKS2RL4xksfUWhI",
+        "title": "울고 넘는 박달재",
+        "artist": "박재홍",
+        "release_date": "2008-06-10"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "2A6yzRGMgSQCUapR2ptm6A",
+        "title": "True Colors",
+        "artist": "Cyndi Lauper",
+        "release_date": "1986-10-14"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "3PQLYVskjUeRmRIfECsL0X",
+        "title": "No Woman No Cry",
+        "artist": "Bob Marley & The Wailers",
+        "release_date": "1974"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "33LC84JgLvK2KuW43MfaNq",
+        "title": "My Heart Will Go On - Love Theme from \"Titanic\"",
+        "artist": "Céline Dion",
+        "release_date": "1997-11-14"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "1lIQXgJ0Y5V90WrvEzI0D6",
+        "title": "밤차",
+        "artist": "Eunha Lee",
+        "release_date": "2016-11-03"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "00v010xDCNw9ptwYFLUXmL",
+        "title": "불효자는 웁니다",
+        "artist": "진방남",
+        "release_date": "1996-08-01"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "3Rtl3hU47q3TorqSI2ZwnH",
+        "title": "보랏빛향기",
+        "artist": "강수지",
+        "release_date": "1990-04-01"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "1GdMURZa7X6nDus1kEAKuh",
+        "title": "It′s Raining",
+        "artist": "Rain",
+        "release_date": "2004-10-08"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "2X8ZZvb59NXkS9AlYab7Lz",
+        "title": "아직도 어두운 밤인가봐",
+        "artist": "전영록",
+        "release_date": "2002-04-01"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "7xkQdy0cy5ymoWT7nedvLz",
+        "title": "Whatcha Say",
+        "artist": "Jason Derulo",
+        "release_date": "2010-02-26"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "6ICpRV2KHXyIoTzEmIUf2r",
+        "title": "울릉도 트위스트",
+        "artist": "이 시스터즈",
+        "release_date": "1966-11-10"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "4ebC0oQEzTTNTpCDM1IBWD",
+        "title": "Tell me (feat. 엄정화)",
+        "artist": "JINUSEAN",
+        "release_date": "1997-03-01"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "6rPO02ozF3bM7NnOV4h6s2",
+        "title": "Despacito - Remix",
+        "artist": "Luis Fonsi, Daddy Yankee, Justin Bieber",
+        "release_date": "2017-04-17"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "06hsdMbBxWGqBO0TV0Zrkf",
+        "title": "Cotton Eye Joe",
+        "artist": "Rednex",
+        "release_date": "1994-08-12"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "11mwFrKvLXCbcVGNxffGyP",
+        "title": "Genie In a Bottle",
+        "artist": "Christina Aguilera",
+        "release_date": "1999"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "1YIE8e0xRFZ4fSnaZ2NnxG",
+        "title": "You Are The Only One",
+        "artist": "Shim Shin",
+        "release_date": "1991-08-01"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "63OFKbMaZSDZ4wtesuuq6f",
+        "title": "Born To Be Wild",
+        "artist": "Steppenwolf",
+        "release_date": "1968"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "09yPVEg2UxEkgEWEenBEI6",
+        "title": "김치 주제가",
+        "artist": "Jeong Kwang-Tae",
+        "release_date": "1985-06-05"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "24GjmH6xcIsFFKCKLoGxHU",
+        "title": "이젠 안녕",
+        "artist": "015B",
+        "release_date": "1991-05-01"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "2fuCquhmrzHpu5xcA1ci9x",
+        "title": "Under Pressure - Remastered 2011",
+        "artist": "Queen, David Bowie",
+        "release_date": "1982-05-03"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "7Kpvxjx2djBxChszFr4BcJ",
+        "title": "나는 열일곱 살이예요",
+        "artist": "Various Artists",
+        "release_date": "2002-11-20"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "1gaTbZwVLmG5kgi1GUowiE",
+        "title": "Abount Romantic",
+        "artist": "Choi Baek Ho",
+        "release_date": "1994-11-01"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "1zB4vmk8tFRmM9UULNzbLB",
+        "title": "Thunder",
+        "artist": "Imagine Dragons",
+        "release_date": "2017-06-23"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "1qPbGZqppFwLwcBC1JQ6Vr",
+        "title": "Wonderwall",
+        "artist": "Oasis",
+        "release_date": "1995-10-02"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "1RTW9UthqmZwr8Od6CH4i8",
+        "title": "Into the New World",
+        "artist": "Girls' Generation",
+        "release_date": "2007-11-01"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "69BIczdH6QMnFx7dsSssN8",
+        "title": "DDU-DU DDU-DU",
+        "artist": "BLACKPINK",
+        "release_date": "2018-06-15"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "0G2to1KZwCBe4H0VJdSeDf",
+        "title": "슬픈 인연",
+        "artist": "NAMI",
+        "release_date": "1985-01-01"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "2ym2Kn3TUndVnGNWWjGlJD",
+        "title": "사(死)의 찬미(讚美)",
+        "artist": "윤심덕",
+        "release_date": "1992-09-01"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "30MH35NPiE2zKSJY1nFv3N",
+        "title": "キューティーハニー",
+        "artist": "Kumi Koda",
+        "release_date": "2005-02-09"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "7gCeodIXjhCLDWC5H1LOmT",
+        "title": "Your Song",
+        "artist": "Elton John",
+        "release_date": "1970-04-10"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "7Kszjzps0xbQXyo1pO4KfE",
+        "title": "Le Freak - 2018 Remaster",
+        "artist": "CHIC",
+        "release_date": "1978-08-11"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "3G29NaTgIthXfT0alMrTTH",
+        "title": "아니 벌써",
+        "artist": "Sanullim",
+        "release_date": "1977-12-15"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "5sCTchAvgQPiiqHPqjfTa1",
+        "title": "산골소년의 사랑이야기",
+        "artist": "예민",
+        "release_date": "1992-07-01"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "1Qnem0n5mu1RCta0TpLr2i",
+        "title": "parachute",
+        "artist": "John K",
+        "release_date": "2020-11-12"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "7idTMG6EKZy0531lIx8RJ5",
+        "title": "Rigoletto: \"La Donna E' Mobile\"",
+        "artist": "Enrico Caruso",
+        "release_date": "2011-10-24"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "3D6pOLflSTwsqvPPYjvk7E",
+        "title": "잃어버린 30년",
+        "artist": "Sul Woon Do",
+        "release_date": "1983-07-08"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "4GKpEXCbrjJRH6K3M5B662",
+        "title": "Diamonds Are a Girl's Best Friend - From \"Gentlemen Prefer Blondes\"",
+        "artist": "Marilyn Monroe",
+        "release_date": "2012-02-21"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "6A8owUzM2DhsrCBOR0hMyG",
+        "title": "감수광",
+        "artist": "혜은이",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "3ZMPl8BrHqX0erYjqWiZ0c",
+        "title": "안녕이라고 말하지마",
+        "artist": "DAVICHI",
+        "release_date": "1997"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "5kYbCBVmANyEBAEEencFfo",
+        "title": "흰수염고래",
+        "artist": "YB",
+        "release_date": "2011-11-24"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "2BnKOyyYl1TMLp1RFP0wV7",
+        "title": "가는 세월",
+        "artist": "SUH Yuseok",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "6CRtIYDga4VKW5sV5rfAL3",
+        "title": "DEJA VU",
+        "artist": "dave rodgers",
+        "release_date": "2019-09-11"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "6V9C5rcCQkf3eJSmcAkCf4",
+        "title": "샴푸의 요정",
+        "artist": "Light & Salt",
+        "release_date": "1990-03-01"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "29FS4aopbu0HWQ2GSFalvy",
+        "title": "천년의 사랑",
+        "artist": "Park Wan Kyu",
+        "release_date": "1999-09-08"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "1dBK30swlPUpcE9DC9iAiy",
+        "title": "Melodie",
+        "artist": "IDIOTAPE",
+        "release_date": "2011-11-11"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "1Rrj7KyS2R6SP9CQMDJW1w",
+        "title": "VERY NICE",
+        "artist": "SEVENTEEN",
+        "release_date": "2016-07-04"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "4zGBAwjlJ0TP02mHH8Wpmo",
+        "title": "I Love Rock N Roll",
+        "artist": "The Arrows",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "57TaM8GozkJBz90xvQ1xME",
+        "title": "Living Next Door to Alice",
+        "artist": "Smokie",
+        "release_date": "1976"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "3Ia0zljKbmXSGO5BRFaKKe",
+        "title": "산넘어 남촌에는",
+        "artist": "Park Jae ran",
+        "release_date": "2014-11-01"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "3T14snCSLqAYmWp5ZLlaDB",
+        "title": "월남에서 돌아온 김상사",
+        "artist": "KIM CHOO JA",
+        "release_date": "1987-12-01"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "6G4z9WbxyEeWdEQTfShACT",
+        "title": "BREATHE",
+        "artist": "LeeHi",
+        "release_date": "2016-03-09"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "0TUAoiYlIzPr9key2s0z3N",
+        "title": "Pure Love",
+        "artist": "코요태",
+        "release_date": "1998-12-02"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "5kqIPrATaCc2LqxVWzQGbk",
+        "title": "7 Years",
+        "artist": "Lukas Graham",
+        "release_date": "2016-04-01"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "6CCJhpbIQQpKXgjb67pDeW",
+        "title": "머피의 법칙",
+        "artist": "DJ DOC",
+        "release_date": "1995-09-15"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "2iT1VbDz0Qznq0VdYPeFiR",
+        "title": "Shocking Pink Rose",
+        "artist": "W (Where The Story Ends)",
+        "release_date": "2005-03-15"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "0vjxrYnzGSnUaBMEQHIsUw",
+        "title": "안개낀 장충단 공원",
+        "artist": "Baeho",
+        "release_date": "2010-08-18"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "0w1WtecVw35ST0ncnvkt24",
+        "title": "고래사냥",
+        "artist": "Song Chang Sik",
+        "release_date": "2012-04-18"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "20I6sIOMTCkB6w7ryavxtO",
+        "title": "Call Me Maybe",
+        "artist": "Carly Rae Jepsen",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "3rmo8F54jFF8OgYsqTxm5d",
+        "title": "Bad Habits",
+        "artist": "Ed Sheeran",
+        "release_date": "2021-10-25"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "6QNE1sv2eU4eufQKJCu2ex",
+        "title": "오빠생각",
+        "artist": "Lee Jeongsook",
+        "release_date": "1992-09-01"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "3EqKhhOUiNzdytdqXkAhXJ",
+        "title": "Grace",
+        "artist": "Lee Soo Young",
+        "release_date": "2006-01-26"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "7vih3eykNzTwLO9fyYYL1T",
+        "title": "가시나무",
+        "artist": "Towner & Town Chief",
+        "release_date": "1988-04-20"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "6whFRgwg7je2SYzpSfansM",
+        "title": "Dreams Come True",
+        "artist": "S.E.S.",
+        "release_date": "1998-11-23"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "70Q0T7EYzWJEXM7tAxzxTS",
+        "title": "팔도유람",
+        "artist": "서수남과 하청일",
+        "release_date": "1971-03-27"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "3XTcTwWPQZg9Ob0u4RBIfP",
+        "title": "기다리다",
+        "artist": "Younha",
+        "release_date": "2006-12-04"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "14dB4NTFICmlmEEj2olTe6",
+        "title": "아빠의 청춘",
+        "artist": "Ogitaek",
+        "release_date": "1990-12-01"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "3x4yV0hW5Ve3TKhFkXSqFn",
+        "title": "If You Had My Love",
+        "artist": "Jennifer Lopez",
+        "release_date": "1999-06-01"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "2OAqiYNSzxwpw6wnTzOKcl",
+        "title": "사랑하는 마음",
+        "artist": "Kim Se Hwan",
+        "release_date": "1989-08-01"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "3h5XCnVj53L8FzPChBGtQi",
+        "title": "Like the Birds",
+        "artist": "Byun Jin-Sub",
+        "release_date": "1989-05-10"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "2IHaGyfxNoFPLJnaEg4GTs",
+        "title": "What Is Love - 7\" Mix",
+        "artist": "Haddaway",
+        "release_date": "1993-09-13"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "48JjpKbGmbCLFw8eYN64x6",
+        "title": "Highlight",
+        "artist": "TOUCHED",
+        "release_date": "2022-08-18"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "15iMewIHKDAXRwfKfhD9nv",
+        "title": "제발",
+        "artist": "Deul Guk Hwa",
+        "release_date": "1986-09-01"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "5B0ph965nPK3BJdPgZtLvQ",
+        "title": "거치른 들판에 푸르른 솔잎처럼",
+        "artist": "Yang Hee Eun",
+        "release_date": "1988-03-03"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "5boW41vBUZITq0a4b9vjOv",
+        "title": "누구없소?",
+        "artist": "Han Young Ae",
+        "release_date": "1988-09-01"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "3JvmhI5BtMO6WANb1Tci2i",
+        "title": "그때 그 사람",
+        "artist": "심민경",
+        "release_date": "1978-11-01"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "6B89O5kXEQmOvF4ZE8D4f1",
+        "title": "Soyanggang Lady",
+        "artist": "Kim Tae Hee",
+        "release_date": "1996-12-01"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "7MpQOaVorMfoNHOJ80YxhY",
+        "title": "Life on Mars? - 1999 Remaster",
+        "artist": "David Bowie",
+        "release_date": "2002-10-21"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "56uzUTBAUq3Iqq9HSFiNij",
+        "title": "한동안 뜸했었지",
+        "artist": "Love & Peace",
+        "release_date": "1988-11-01"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "5haXbSJqjjM0TCJ5XkfEaC",
+        "title": "I Got You (I Feel Good)",
+        "artist": "James Brown & The Famous Flames",
+        "release_date": "1966-02-01"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "5PSba04SiAEUe3q6PyaTpQ",
+        "title": "TiK ToK",
+        "artist": "Kesha",
+        "release_date": "2009-08-07"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "5ee20xB17u8TX7IUWDNed6",
+        "title": "Top Of The World",
+        "artist": "Carpenters",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "0yac0FPhLRH9i9lOng3f81",
+        "title": "Everybody's Changing",
+        "artist": "Keane",
+        "release_date": "2004-05-10"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "0GrY3kSSp2Gi4mfpZd6a4q",
+        "title": "불놀이야",
+        "artist": "옥슨80",
+        "release_date": "2002-04-01"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "2BgEsaKNfHUdlh97KmvFyo",
+        "title": "2002",
+        "artist": "Anne-Marie",
+        "release_date": "2018-04-27"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "2abtBv5hwZLmMnd0cCSfrY",
+        "title": "Rebirth",
+        "artist": "Yoon Jong Shin",
+        "release_date": "1996-04-01"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "1DIXPcTDzTj8ZMHt3PDt8p",
+        "title": "Gangsta's Paradise",
+        "artist": "Coolio, L.V.",
+        "release_date": "1995-11-07"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "634Qs1VQNJOY08DpUbu1jl",
+        "title": "Bounce",
+        "artist": "Cho Yong Pil",
+        "release_date": "2013-04-23"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "2OuigdZslTZcB9r5rNh1XU",
+        "title": "노란샤쓰의 사나이",
+        "artist": "Myung sook Han",
+        "release_date": "2016-11-03"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "15c7KZTrsCUxCQcOdUVELc",
+        "title": "Galaxy",
+        "artist": "BOL4",
+        "release_date": "2016-08-29"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "0EhdXt3y460mTRsi97Pyk5",
+        "title": "한 페이지가 될 수 있게 Time of Our Life",
+        "artist": "DAY6",
+        "release_date": "2019-07-15"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "4Xf5s7FytjdgrYGrpyBX8b",
+        "title": "닐리리 맘보",
+        "artist": "김정애",
+        "release_date": "2006-02-01"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "0TK2YIli7K1leLovkQiNik",
+        "title": "Señorita",
+        "artist": "Shawn Mendes, Camila Cabello",
+        "release_date": "2019-06-21"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "4OjJAGDDZTLlTNeOMBl7UM",
+        "title": "Volare (Nel Blu di Pinto di Blu)",
+        "artist": "Gipsy Kings",
+        "release_date": "1989-05-01"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "5JOVSWohrjXW0BFTboh8XO",
+        "title": "Don't Go",
+        "artist": "Yazoo",
+        "release_date": "1982-07-01"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "6GIrIt2M39wEGwjCQjGChX",
+        "title": "The Great Escape",
+        "artist": "BOYS LIKE GIRLS",
+        "release_date": "2007-08-31"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "7og9wvfr4puwj0WtowXStj",
+        "title": "負けないで",
+        "artist": "ZARD",
+        "release_date": "1993-01-27"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "54X78diSLoUDI3joC2bjMz",
+        "title": "Purple Rain",
+        "artist": "Prince",
+        "release_date": "1984-06-25"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "4jDmJ51x1o9NZB5Nxxc7gY",
+        "title": "Careless Whisper",
+        "artist": "George Michael",
+        "release_date": "1998-11-09"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "2m7ygFGXtMLALlutGRTf67",
+        "title": "바람아 멈추어다오",
+        "artist": "이지연",
+        "release_date": "1989-10-01"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "1JO1xLtVc8mWhIoE3YaCL0",
+        "title": "Happy Together",
+        "artist": "The Turtles",
+        "release_date": "1967"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "3Dy4REq8O09IlgiwuHQ3sk",
+        "title": "Waterloo",
+        "artist": "ABBA",
+        "release_date": "1974"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "4CeeEOM32jQcH3eN9Q2dGj",
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "release_date": "1991-09-26"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "3u4RKvwDT3CKeYbjxqXEye",
+        "title": "Dangerous",
+        "artist": "Michael Jackson",
+        "release_date": "1991-11-13"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "3XVBdLihbNbxUwZosxcGuJ",
+        "title": "If I Ain't Got You",
+        "artist": "Alicia Keys",
+        "release_date": "2003-12-02"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "3dI59jLoFMjMAyUAyRZnkE",
+        "title": "BANG BANG BANG",
+        "artist": "BIGBANG",
+        "release_date": "2016-12-13"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "3NxuezMdSLgt4OwHzBoUhL",
+        "title": "Way Back Home",
+        "artist": "SHAUN",
+        "release_date": "2018-06-27"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "2aEeghgUcnu75tzcolFMfs",
+        "title": "La Bamba - Single Version",
+        "artist": "Ritchie Valens",
+        "release_date": "1959"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "37yIrMPeJYRm7zJ8rr3Uvv",
+        "title": "Funkytown",
+        "artist": "Lipps Inc.",
+        "release_date": "2018-04-20"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "1Og8U5KRel9D51h4bmznlE",
+        "title": "With Or Without You",
+        "artist": "U2",
+        "release_date": "1998-11-02"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "6oyHqpwUacRi08MseRfttX",
+        "title": "Hello",
+        "artist": "장미화",
+        "release_date": "1988-10-10"
+      }
+    ]
+  }
+}

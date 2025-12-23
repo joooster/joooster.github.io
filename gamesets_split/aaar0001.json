@@ -1,0 +1,2166 @@
+{
+  "updated_on": 1766489510,
+  "sku": "aaar0001",
+  "gameset_data": {
+    "gameset_language": "Hong Kong",
+    "gameset_name": "Hitster Original",
+    "cards": [
+      {
+        "CardNumber": "00308",
+        "Spotify": "3R560HW2KjY1ljtXwzg19y",
+        "title": "天敵",
+        "artist": "Janice Vidal",
+        "release_date": "2017-03-08"
+      },
+      {
+        "CardNumber": "00307",
+        "Spotify": "3q3VMQU3CzMeoOh0kuhbzN",
+        "title": "再度孤獨",
+        "artist": "Jenny Tseng",
+        "release_date": "2000-07-19"
+      },
+      {
+        "CardNumber": "00306",
+        "Spotify": "5S2tkNBuhdgyn3ztYuOKL2",
+        "title": "大會堂演奏廳",
+        "artist": "Hacken Lee",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00305",
+        "Spotify": "1aGWTxl53g4v7XDC12xxpB",
+        "title": "紅色跑車",
+        "artist": "Tai Ji",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00304",
+        "Spotify": "5D0kg61dWVq9CEkp14KRsF",
+        "title": "憑著愛",
+        "artist": "Julie Sue",
+        "release_date": "2015-06-18"
+      },
+      {
+        "CardNumber": "00303",
+        "Spotify": "2V5S7Cmj6luYYk84ytnZAF",
+        "title": "倚天屠龍記",
+        "artist": "Adam Cheng",
+        "release_date": "1978-01-01"
+      },
+      {
+        "CardNumber": "00302",
+        "Spotify": "4KMlDfSy99K89c5AcYLYBy",
+        "title": "假如",
+        "artist": "杜麗莎",
+        "release_date": "2007-08-14"
+      },
+      {
+        "CardNumber": "00301",
+        "Spotify": "3xGgg3JwUJYcek3pX47hP6",
+        "title": "意外現場",
+        "artist": "Yan Ting",
+        "release_date": "2022-09-16"
+      },
+      {
+        "CardNumber": "00300",
+        "Spotify": "4bEOr9C3toOorjKYk8tlxt",
+        "title": "心酸的情歌",
+        "artist": "巫啟賢",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00299",
+        "Spotify": "7CnnbFOmpkndUUVHCBQVhE",
+        "title": "掛念好友",
+        "artist": "JW",
+        "release_date": "2010-07-26"
+      },
+      {
+        "CardNumber": "00298",
+        "Spotify": "7ICqKy6wkucmj1AnXqkLga",
+        "title": "忘情森巴舞",
+        "artist": "Grasshopper",
+        "release_date": "1991-07-28"
+      },
+      {
+        "CardNumber": "00297",
+        "Spotify": "4fEnjLBnpPYkjIFITkjZNT",
+        "title": "最後一夜",
+        "artist": "Prudence Liew",
+        "release_date": "1987-08-17"
+      },
+      {
+        "CardNumber": "00296",
+        "Spotify": "75ZEiExjqAGBFmjlFPZPLY",
+        "title": "高山低谷",
+        "artist": "Phil Lam",
+        "release_date": "2016-06-08"
+      },
+      {
+        "CardNumber": "00295",
+        "Spotify": "1fHYHuSK57d2L6PoccF03w",
+        "title": "忘記他",
+        "artist": "Teresa Teng",
+        "release_date": "2018-07-23"
+      },
+      {
+        "CardNumber": "00294",
+        "Spotify": "5fFsbYb2tewS0dvWKD9iVc",
+        "title": "男人背後",
+        "artist": "Pakho Chau",
+        "release_date": "2018-12-10"
+      },
+      {
+        "CardNumber": "00293",
+        "Spotify": "47MN8iVKji2TUL2DOnXpgJ",
+        "title": "女神",
+        "artist": "Joyce Cheng",
+        "release_date": "2016-05-20"
+      },
+      {
+        "CardNumber": "00292",
+        "Spotify": "06sDxr7MbbwFyTP1f6rvvl",
+        "title": "E先生 連環不幸事件",
+        "artist": "Edan 呂爵安",
+        "release_date": "2021-01-27"
+      },
+      {
+        "CardNumber": "00291",
+        "Spotify": "0BQaaSfzHe9Grd7DID3An9",
+        "title": "Speak Love",
+        "artist": "COLLAR",
+        "release_date": "2023-09-27"
+      },
+      {
+        "CardNumber": "00290",
+        "Spotify": "2pyi3IkHDVSQ3wiT9a12OH",
+        "title": "非物質文化遺產",
+        "artist": "Alton Wong 王智德",
+        "release_date": "2024-01-05"
+      },
+      {
+        "CardNumber": "00289",
+        "Spotify": "6dVfX8nmUEXpyOQlwadoA8",
+        "title": "彎彎的月亮",
+        "artist": "David Lui",
+        "release_date": "2015-09-11"
+      },
+      {
+        "CardNumber": "00288",
+        "Spotify": "5FkdMlt7piLmvnYSWpiwjI",
+        "title": "La La 世界",
+        "artist": "BOYZ",
+        "release_date": "2003-04-08"
+      },
+      {
+        "CardNumber": "00287",
+        "Spotify": "4n5zyjjuwsLOeJn73BmKtV",
+        "title": "原來她不夠愛我",
+        "artist": "Kwan Gor",
+        "release_date": "2015-04-24"
+      },
+      {
+        "CardNumber": "00286",
+        "Spotify": "5g0IODsL7hiPxExwKNjIPo",
+        "title": "容易受傷的女人",
+        "artist": "Faye Wong",
+        "release_date": "1992"
+      },
+      {
+        "CardNumber": "00285",
+        "Spotify": "4YlGJrxyRH5qLntR3ZNKEN",
+        "title": "未開始的故事 - 劇集 \"愛情沒有來的時候\" 主題曲",
+        "artist": "戴祖儀",
+        "release_date": "2018-07-03"
+      },
+      {
+        "CardNumber": "00284",
+        "Spotify": "3PVbgPrDYQNSaRxmlCjYEN",
+        "title": "傷心天使",
+        "artist": "李麗蕊",
+        "release_date": "1987-04-21"
+      },
+      {
+        "CardNumber": "00283",
+        "Spotify": "6l5q8rkGYOwrheeWK5puyL",
+        "title": "第一個迷",
+        "artist": "Jeffrey 魏浚笙",
+        "release_date": "2022-12-29"
+      },
+      {
+        "CardNumber": "00282",
+        "Spotify": "4oIwqUDqcKyF8M5bmFY8Ax",
+        "title": "Heartbreaker",
+        "artist": "Anson Lo 盧瀚霆",
+        "release_date": "2025-03-05"
+      },
+      {
+        "CardNumber": "00281",
+        "Spotify": "4eoXWiept4fSym0JbHTW70",
+        "title": "傻女",
+        "artist": "Priscilla Chan",
+        "release_date": "1991-10-28"
+      },
+      {
+        "CardNumber": "00280",
+        "Spotify": "0iAmOk4uz1qZh0zX1bwaMS",
+        "title": "留給最愛的說話",
+        "artist": "張麗瑾",
+        "release_date": "2019-08-15"
+      },
+      {
+        "CardNumber": "00279",
+        "Spotify": "6lTyCiohetMO0PvdJ1hji0",
+        "title": "留住我吧!",
+        "artist": "Tai Chi, David Ling Jr, Philip Kwok",
+        "release_date": "1992-10-16"
+      },
+      {
+        "CardNumber": "00278",
+        "Spotify": "45xAgFEdLmkkX95ZZeIVnW",
+        "title": "打雀英雄傳",
+        "artist": "Sam Hui",
+        "release_date": "1976-12-01"
+      },
+      {
+        "CardNumber": "00277",
+        "Spotify": "6TNz79kvUVVQSM2EhZQVq8",
+        "title": "無盡",
+        "artist": "Supper Moment",
+        "release_date": "2014-05-16"
+      },
+      {
+        "CardNumber": "00276",
+        "Spotify": "2rlToeC9akeYSRGvig345y",
+        "title": "紅唇的吻",
+        "artist": "Grasshopper",
+        "release_date": "1989-06-21"
+      },
+      {
+        "CardNumber": "00275",
+        "Spotify": "66F3pAccLB21odRAg0GYbr",
+        "title": "沒有你還是愛你",
+        "artist": "Sandy Lam",
+        "release_date": "1991-12-16"
+      },
+      {
+        "CardNumber": "00274",
+        "Spotify": "6sQZ47i12S0dYD5afBO8qg",
+        "title": "壞女孩",
+        "artist": "Anita Mui",
+        "release_date": "1985-07-01"
+      },
+      {
+        "CardNumber": "00273",
+        "Spotify": "6HjVgMOSy6ZGMGgehS5Tus",
+        "title": "傷感的戀人",
+        "artist": "Christopher Wong",
+        "release_date": "1987-01-01"
+      },
+      {
+        "CardNumber": "00272",
+        "Spotify": "3UzipOpp85wuNxzxazWkiE",
+        "title": "問你問我",
+        "artist": "Linda Wong",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00271",
+        "Spotify": "5D8Nin6waWHFxi4gyP5nda",
+        "title": "Superman",
+        "artist": "AGA",
+        "release_date": "2016-03-14"
+      },
+      {
+        "CardNumber": "00270",
+        "Spotify": "2QkSOLbKnHn0uwtU1SYYfo",
+        "title": "新紮師兄 (電視劇 \"新紮師兄續集\" 主題曲)",
+        "artist": "Tony Leung",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00269",
+        "Spotify": "4YoEi1goJZ6yL5FbjVxaeM",
+        "title": "今晚夜",
+        "artist": "Elisa Chan",
+        "release_date": "2015-05-06"
+      },
+      {
+        "CardNumber": "00268",
+        "Spotify": "19ZYJzZ3M2MWKOg81xfI73",
+        "title": "Little Magic",
+        "artist": "Gigi炎明熹",
+        "release_date": "2023-06-28"
+      },
+      {
+        "CardNumber": "00267",
+        "Spotify": "2nmGkBP6YVDKtkYY0Ryt3l",
+        "title": "年年",
+        "artist": "Charlene Choi",
+        "release_date": "2011-02-10"
+      },
+      {
+        "CardNumber": "00266",
+        "Spotify": "1DUFRvterTFJGU3toJqmub",
+        "title": "一",
+        "artist": "AGA",
+        "release_date": "2016-03-14"
+      },
+      {
+        "CardNumber": "00265",
+        "Spotify": "5268gBI7PFoFvMiEnLOndw",
+        "title": "感冒",
+        "artist": "湯寶如",
+        "release_date": "1996-07-01"
+      },
+      {
+        "CardNumber": "00264",
+        "Spotify": "2M70FtKkl4BjaIWcYuKA0T",
+        "title": "洗澡",
+        "artist": "Mag Lam",
+        "release_date": "2011-08-18"
+      },
+      {
+        "CardNumber": "00263",
+        "Spotify": "1tOjf5Wyjo7USqPP6jOVi9",
+        "title": "月亮說",
+        "artist": "Ivana Wong",
+        "release_date": "2009-05-22"
+      },
+      {
+        "CardNumber": "00262",
+        "Spotify": "0OkRkljXXhTLfh76cum9Fs",
+        "title": "在動物園散步才是正經事",
+        "artist": "my little airport",
+        "release_date": "2004-08-01"
+      },
+      {
+        "CardNumber": "00261",
+        "Spotify": "7sc201CAOXlDvl5kDZDDPK",
+        "title": "猛龍特警隊",
+        "artist": "石修",
+        "release_date": "1977-01-01"
+      },
+      {
+        "CardNumber": "00260",
+        "Spotify": "3z449HraGPmseeEL4kIYST",
+        "title": "只因我太癡",
+        "artist": "David Lui",
+        "release_date": "1991-11-01"
+      },
+      {
+        "CardNumber": "00259",
+        "Spotify": "6e5cToHjryn33fK1h1T28J",
+        "title": "食物鏈",
+        "artist": "Mag Lam",
+        "release_date": "2014-10-09"
+      },
+      {
+        "CardNumber": "00258",
+        "Spotify": "3UQHNNRpCERK0SuB36Kwgo",
+        "title": "(你沒有)好結果",
+        "artist": "Amanda Lee",
+        "release_date": "1995"
+      },
+      {
+        "CardNumber": "00257",
+        "Spotify": "3V62hqp8AIqkSfr8Ys2lzP",
+        "title": "樹木真美",
+        "artist": "Serrini",
+        "release_date": "2022-06-24"
+      },
+      {
+        "CardNumber": "00256",
+        "Spotify": "1c5Gzdo32FlokHIk814ZKE",
+        "title": "洗剪吹",
+        "artist": "Deep Ng",
+        "release_date": "2004-03-31"
+      },
+      {
+        "CardNumber": "00255",
+        "Spotify": "5xFg4BKKJBYn7G5riBetam",
+        "title": "似水流年",
+        "artist": "Anita Mui",
+        "release_date": "1987-07-01"
+      },
+      {
+        "CardNumber": "00254",
+        "Spotify": "2HMgfqnkZEynYfW1B9viVe",
+        "title": "會再見的",
+        "artist": "Jay Fung",
+        "release_date": "2024-09-24"
+      },
+      {
+        "CardNumber": "00253",
+        "Spotify": "48tKWIvd2NS92ParNHnZOX",
+        "title": "雲的自述",
+        "artist": "Cloud 雲浩影",
+        "release_date": "2025-01-20"
+      },
+      {
+        "CardNumber": "00252",
+        "Spotify": "2HUupTSCftirmIDJB5A2qb",
+        "title": "兩種人",
+        "artist": "何嘉莉",
+        "release_date": "1999-06-01"
+      },
+      {
+        "CardNumber": "00251",
+        "Spotify": "3wxjdvUKrYyPMuJMs2DXpu",
+        "title": "屈尾十",
+        "artist": "HotCha",
+        "release_date": "2010-08-27"
+      },
+      {
+        "CardNumber": "00250",
+        "Spotify": "31EECSXz6ejJzAwKqrZ0Rv",
+        "title": "藍天",
+        "artist": "黃子華, Funkie Chan at Wave Studio",
+        "release_date": "1999-07-15"
+      },
+      {
+        "CardNumber": "00249",
+        "Spotify": "1ahtjrygWP3lbEhafq95vK",
+        "title": "其實我不快樂",
+        "artist": "Linda Chung",
+        "release_date": "2008-10-21"
+      },
+      {
+        "CardNumber": "00248",
+        "Spotify": "2X1xTFrlQwULAugAKLOfbm",
+        "title": "天蠶變 - 電視劇 \"天蠶變\" 主題曲",
+        "artist": "Michael Kwan",
+        "release_date": "1979-06-30"
+      },
+      {
+        "CardNumber": "00247",
+        "Spotify": "0eZxzsYMrSI1fRzVzSmBDR",
+        "title": "如果電話亭",
+        "artist": "Lokman Yeung 楊樂文",
+        "release_date": "2024-01-05"
+      },
+      {
+        "CardNumber": "00246",
+        "Spotify": "57gTtz3h4j9I2gezZELtjw",
+        "title": "登陸太陽",
+        "artist": "BOP天堂鳥",
+        "release_date": "2014-06-03"
+      },
+      {
+        "CardNumber": "00245",
+        "Spotify": "0FKjAMIMouYcybuBq2zVuf",
+        "title": "狂潮",
+        "artist": "Susanna Kwan",
+        "release_date": "1977-01-01"
+      },
+      {
+        "CardNumber": "00244",
+        "Spotify": "4njtVQCGGABVdZsNnLSokF",
+        "title": "愚公",
+        "artist": "Kolor",
+        "release_date": "2015-04-23"
+      },
+      {
+        "CardNumber": "00243",
+        "Spotify": "0gHkeMn1z3bkS6OlhTDaBd",
+        "title": "強",
+        "artist": "Aaron Kwok",
+        "release_date": "2002-10-01"
+      },
+      {
+        "CardNumber": "00242",
+        "Spotify": "0doiPBTd9nPCnraNwAxfTC",
+        "title": "青春常駐",
+        "artist": "Hins Cheung",
+        "release_date": "2014-10-16"
+      },
+      {
+        "CardNumber": "00241",
+        "Spotify": "0Jj64sKMOWxqwrB5223ck5",
+        "title": "相對濕度",
+        "artist": "鄭希怡",
+        "release_date": "2014-09-25"
+      },
+      {
+        "CardNumber": "00240",
+        "Spotify": "0QC6mmAG0A5Ut0FEGtA6Ye",
+        "title": "喝采",
+        "artist": "Danny Chan, Joe Wong, Tom Brown",
+        "release_date": "2013-10-22"
+      },
+      {
+        "CardNumber": "00239",
+        "Spotify": "1sTYCb3vqqGeknfz7u8pKu",
+        "title": "逼得太緊",
+        "artist": "Kary Ng",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00238",
+        "Spotify": "7JgZHSJkl0COS4nkmzaKr9",
+        "title": "石頭記",
+        "artist": "Tat Ming Pair",
+        "release_date": "2003-10-30"
+      },
+      {
+        "CardNumber": "00237",
+        "Spotify": "4yhUfsNcXp1HlCRoZ4hHtg",
+        "title": "纏綿遊戲",
+        "artist": "Edmond Leung",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00236",
+        "Spotify": "57kbuHAxIrN3CCysKVMG93",
+        "title": "到此一遊 - 劇集 \"降魔的\" 主題曲",
+        "artist": "Hubert Wu",
+        "release_date": "2017-12-19"
+      },
+      {
+        "CardNumber": "00235",
+        "Spotify": "1sjKlnnw7330Z3OwElPJdz",
+        "title": "一人有一個夢想",
+        "artist": "Vivian Lai",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00234",
+        "Spotify": "6hj8n3puSrVaEnKQa6hbWK",
+        "title": "天梯",
+        "artist": "C AllStar",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00233",
+        "Spotify": "4EJbc0mCVfmSDey2BIgdqj",
+        "title": "讓我跟你走",
+        "artist": "Cass Phang",
+        "release_date": "1994"
+      },
+      {
+        "CardNumber": "00232",
+        "Spotify": "58BpMbcI9AxHgaErfn8Dvi",
+        "title": "矛盾一生",
+        "artist": "JW",
+        "release_date": "2015-10-23"
+      },
+      {
+        "CardNumber": "00231",
+        "Spotify": "6tzMokZ6IpS3RnU45q8faB",
+        "title": "目黑",
+        "artist": "Endy Chow",
+        "release_date": "2004-03-18"
+      },
+      {
+        "CardNumber": "00230",
+        "Spotify": "7w7J0XC1vi5bsarWet98PV",
+        "title": "戲劇人生 - 電視劇 “浮生六劫”主題曲之二",
+        "artist": "Johnny Ip",
+        "release_date": "1980-01-01"
+      },
+      {
+        "CardNumber": "00229",
+        "Spotify": "7nIxo0dE9d4FBwPYhmdQae",
+        "title": "讓愛高飛 - 劇集 \"多功能老婆\" 片尾曲",
+        "artist": "Pakho Chau",
+        "release_date": "2019-10-14"
+      },
+      {
+        "CardNumber": "00228",
+        "Spotify": "62yGFIECSRxKYs5SkRnow0",
+        "title": "愛的根源 - 電影《君子好逑》主題曲",
+        "artist": "Alan Tam",
+        "release_date": "1984-01-01"
+      },
+      {
+        "CardNumber": "00227",
+        "Spotify": "1MRUR315NASOCKCxHPNRXF",
+        "title": "荷里活",
+        "artist": "尹光",
+        "release_date": "1991-07-30"
+      },
+      {
+        "CardNumber": "00226",
+        "Spotify": "12cIwtOs3sPqCeZmesrxm0",
+        "title": "越吻越傷心 - Live",
+        "artist": "William So",
+        "release_date": "2003-10-30"
+      },
+      {
+        "CardNumber": "00225",
+        "Spotify": "26nWjUc3IAZVfCGJdiuhJO",
+        "title": "二缺一",
+        "artist": "Charlene Choi",
+        "release_date": "2009-04-09"
+      },
+      {
+        "CardNumber": "00224",
+        "Spotify": "5CR9xlJEDCAZdXUWwq2Zyy",
+        "title": "一個鐘之後",
+        "artist": "Patrick Tang",
+        "release_date": "2014-12-30"
+      },
+      {
+        "CardNumber": "00223",
+        "Spotify": "4PhsbA6XWRYJToSU7pxW9C",
+        "title": "明星",
+        "artist": "Deanie Ip",
+        "release_date": "1981-07-10"
+      },
+      {
+        "CardNumber": "00222",
+        "Spotify": "1KnGDeIp1TJlXJMFm4MRLm",
+        "title": "專業失戀30年",
+        "artist": "C AllStar",
+        "release_date": "2017-10-20"
+      },
+      {
+        "CardNumber": "00221",
+        "Spotify": "189r6rbHTV8GwbIshCP5fJ",
+        "title": "歡樂今宵",
+        "artist": "Leo Ku",
+        "release_date": "1998-04-27"
+      },
+      {
+        "CardNumber": "00220",
+        "Spotify": "5SpQEMkXLAs0VM8MVdZHU4",
+        "title": "我恨我痴心",
+        "artist": "Andy Lau",
+        "release_date": "1989-01-01"
+      },
+      {
+        "CardNumber": "00219",
+        "Spotify": "3MaD1bFERyVO8xhOSaHABq",
+        "title": "分手不要太悲哀",
+        "artist": "Kenny Kwan",
+        "release_date": "2005-07-21"
+      },
+      {
+        "CardNumber": "00218",
+        "Spotify": "2YgyPdtuzwqjn1wsjVLGbh",
+        "title": "他不准我哭",
+        "artist": "Stephy Tang",
+        "release_date": "2003-08-13"
+      },
+      {
+        "CardNumber": "00217",
+        "Spotify": "2p6sSfFaPXRF8HBiQBGVKJ",
+        "title": "絕",
+        "artist": "Maggie Fu",
+        "release_date": "2003-08-22"
+      },
+      {
+        "CardNumber": "00216",
+        "Spotify": "7nfGKHE7SyuGfQHPFBhiLO",
+        "title": "任何天氣",
+        "artist": "張栢芝",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00215",
+        "Spotify": "6b84O8zIifMOPuGQDAaw01",
+        "title": "有時",
+        "artist": "Endy Chow",
+        "release_date": "2010-08-18"
+      },
+      {
+        "CardNumber": "00214",
+        "Spotify": "6njMVRNPmoY4YWa1CrbqTl",
+        "title": "熊貓",
+        "artist": "Fred Cheng",
+        "release_date": "2014-09-15"
+      },
+      {
+        "CardNumber": "00213",
+        "Spotify": "6LBWMsp6zHG86PgeU0DIul",
+        "title": "誰羨慕像我這樣強的人",
+        "artist": "傅穎",
+        "release_date": "2008"
+      },
+      {
+        "CardNumber": "00212",
+        "Spotify": "0Eum5dQqpUDgwJiUucG3QU",
+        "title": "心淡",
+        "artist": "Joey Yung",
+        "release_date": "2003-03-25"
+      },
+      {
+        "CardNumber": "00211",
+        "Spotify": "3H9gYJcdtqeUiM8WX8YrZz",
+        "title": "思覺失調",
+        "artist": "Wilfred Lau",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00210",
+        "Spotify": "78C752I4sPRnHFtbjJtOAe",
+        "title": "每當變幻時",
+        "artist": "薰妮",
+        "release_date": "1985"
+      },
+      {
+        "CardNumber": "00209",
+        "Spotify": "73tT0Cj9pPTM6HDPd7Qvcx",
+        "title": "愁人節",
+        "artist": "Kay Tse",
+        "release_date": "2006-06-07"
+      },
+      {
+        "CardNumber": "00208",
+        "Spotify": "1wgfx5UCc5Qj4Ryrxmgqaf",
+        "title": "感應",
+        "artist": "Vincy Chan",
+        "release_date": "2006-09-11"
+      },
+      {
+        "CardNumber": "00207",
+        "Spotify": "01KvNaXhz3e5BfIVYjXg9v",
+        "title": "天各一方",
+        "artist": "曾路得, 俞琤",
+        "release_date": "1997-06-24"
+      },
+      {
+        "CardNumber": "00206",
+        "Spotify": "6DzauanLiNjTSk0ykjRufq",
+        "title": "Better",
+        "artist": "Tyson Yoshi",
+        "release_date": "2023-04-21"
+      },
+      {
+        "CardNumber": "00205",
+        "Spotify": "1bBjLssbksZdaMPtbepyhX",
+        "title": "好時代",
+        "artist": "Jan Lamb",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00204",
+        "Spotify": "0zmU4bGV5OmfBsOU9KPfxy",
+        "title": "1984",
+        "artist": "Swing",
+        "release_date": "2000-10-24"
+      },
+      {
+        "CardNumber": "00203",
+        "Spotify": "78TbTvePaJ6FFdwSMSXARy",
+        "title": "勁浪漫 超溫馨",
+        "artist": "Gareth.T",
+        "release_date": "2021-11-26"
+      },
+      {
+        "CardNumber": "00202",
+        "Spotify": "5q9Oe8RFr50aitXouoDXxz",
+        "title": "默契",
+        "artist": "Sammi Cheng",
+        "release_date": "2016-05-13"
+      },
+      {
+        "CardNumber": "00201",
+        "Spotify": "37JJeZrHX3fsk2sdCkdiMN",
+        "title": "勞斯.萊斯",
+        "artist": "Denise Ho",
+        "release_date": "2005"
+      },
+      {
+        "CardNumber": "00200",
+        "Spotify": "0OE2fX5saIg0B3jutN8Ksq",
+        "title": "喜氣洋洋",
+        "artist": "Paula Tsui",
+        "release_date": "2003-05-02"
+      },
+      {
+        "CardNumber": "00199",
+        "Spotify": "6omPJiCBblvpLil0r4s63P",
+        "title": "捨不得你 - Unforgettable Version",
+        "artist": "Sammi Cheng",
+        "release_date": "2016-05-13"
+      },
+      {
+        "CardNumber": "00198",
+        "Spotify": "2w9A7fvq6ka5CB9l7wDZXG",
+        "title": "蒙著嘴說愛你",
+        "artist": "Keung To",
+        "release_date": "2020-06-01"
+      },
+      {
+        "CardNumber": "00197",
+        "Spotify": "0pmGleExiQyd0HxV5kAOwK",
+        "title": "陀飛輪",
+        "artist": "Eason Chan",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00196",
+        "Spotify": "6nleraWfe1a0blQZksgIYa",
+        "title": "自我感覺還好",
+        "artist": "Gin Lee",
+        "release_date": "2018-06-21"
+      },
+      {
+        "CardNumber": "00195",
+        "Spotify": "6AoIpZHuJZKZU38tWmYAJx",
+        "title": "戀上外星人",
+        "artist": "Chilam",
+        "release_date": "2011-03-18"
+      },
+      {
+        "CardNumber": "00194",
+        "Spotify": "7mjD9lnV1pLw36tPcyPHF5",
+        "title": "別為我好",
+        "artist": "Angela Hui",
+        "release_date": "2020-03-31"
+      },
+      {
+        "CardNumber": "00193",
+        "Spotify": "3zK9gMSLtZDzMtSOzlS7HR",
+        "title": "致旅途中的我",
+        "artist": "Nowhere Boys",
+        "release_date": "2019-08-20"
+      },
+      {
+        "CardNumber": "00192",
+        "Spotify": "5SoYmHQ7VYKb60hRDTGbqJ",
+        "title": "你唔愛我啦",
+        "artist": "李彩樺",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00191",
+        "Spotify": "331aol4yMUVA93MsVBZV9R",
+        "title": "命硬",
+        "artist": "Justin Lo",
+        "release_date": "2006-08-01"
+      },
+      {
+        "CardNumber": "00190",
+        "Spotify": "5L05QWKGIh3n5fn3jDX3bx",
+        "title": "舊夢不須記 - 電影\"舊夢不須記\"主題曲",
+        "artist": "Annabelle Lui",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00189",
+        "Spotify": "70NTN85LdxAtRy8Xk9gAWC",
+        "title": "愛情陷阱",
+        "artist": "Alan Tam",
+        "release_date": "1985-01-01"
+      },
+      {
+        "CardNumber": "00188",
+        "Spotify": "4yKFdf4jLCSpl7fYHF1E0J",
+        "title": "給自己的信",
+        "artist": "Sherman Chung",
+        "release_date": "2009-10-06"
+      },
+      {
+        "CardNumber": "00187",
+        "Spotify": "5DTA9oYDbgOP19UO1fqZVp",
+        "title": "我懂了",
+        "artist": "Jinny Ng",
+        "release_date": "2013-06-28"
+      },
+      {
+        "CardNumber": "00186",
+        "Spotify": "1zL9NOArwEkFmPXySs9IY2",
+        "title": "灰姑娘",
+        "artist": "Gigi Leung",
+        "release_date": "2004"
+      },
+      {
+        "CardNumber": "00185",
+        "Spotify": "1S6G7S0RqIeZlxhDhDA6kU",
+        "title": "爛泥",
+        "artist": "Andy Hui",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00184",
+        "Spotify": "5BYg9NfU9ynzhp3UBX49bY",
+        "title": "相信一切是最好的安排",
+        "artist": "Panther Chan",
+        "release_date": "2021-10-28"
+      },
+      {
+        "CardNumber": "00183",
+        "Spotify": "5uMkdWf1H6JEcpcdnPOSZM",
+        "title": "你是你本身的傳奇",
+        "artist": "Charmaine Fong",
+        "release_date": "2015-12-16"
+      },
+      {
+        "CardNumber": "00182",
+        "Spotify": "62aBdmJ9kDZTn95A02bMKo",
+        "title": "電燈膽",
+        "artist": "Stephy Tang",
+        "release_date": "2009-12-23"
+      },
+      {
+        "CardNumber": "00181",
+        "Spotify": "7HLjxTFwWLty4NF0b3722q",
+        "title": "一秒間",
+        "artist": "MIRROR",
+        "release_date": "2021-01-20"
+      },
+      {
+        "CardNumber": "00180",
+        "Spotify": "5DCeY5LRJ7p3YpsqeHc6iI",
+        "title": "28天",
+        "artist": "梁釗峰",
+        "release_date": "2020-12-22"
+      },
+      {
+        "CardNumber": "00179",
+        "Spotify": "6JULWULk2iLzF0GuynMyFl",
+        "title": "那誰",
+        "artist": "William So",
+        "release_date": "2011-07-01"
+      },
+      {
+        "CardNumber": "00178",
+        "Spotify": "6PJNxpyvIo2pRLpVhjilr6",
+        "title": "寧願晏D訓",
+        "artist": "Louis Cheung",
+        "release_date": "2007-05-14"
+      },
+      {
+        "CardNumber": "00177",
+        "Spotify": "6eK3D9wcJhv7RDtpsqPBXs",
+        "title": "黑玻璃",
+        "artist": "Kaho Hung",
+        "release_date": "2024-01-04"
+      },
+      {
+        "CardNumber": "00176",
+        "Spotify": "7B0041g5usOOgGNy9OKHFA",
+        "title": "祝福",
+        "artist": "Sally Yeh",
+        "release_date": "1988-06-08"
+      },
+      {
+        "CardNumber": "00175",
+        "Spotify": "3Jf1bFY30nCTKwuBHUgEb7",
+        "title": "食野一族",
+        "artist": "軟硬天師",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00174",
+        "Spotify": "3VSFri2BxieCG7RtuxFMXr",
+        "title": "長相廝守",
+        "artist": "ToNick",
+        "release_date": "2017-03-06"
+      },
+      {
+        "CardNumber": "00173",
+        "Spotify": "5s3h2vjROgMG5Z2EPbnixq",
+        "title": "3650夜",
+        "artist": "呂珊",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00172",
+        "Spotify": "1CLOZN1MO3w9QxhMYCKFRU",
+        "title": "極愛自己",
+        "artist": "Edison Chen",
+        "release_date": "2000-11-30"
+      },
+      {
+        "CardNumber": "00171",
+        "Spotify": "2FsrKLHO91CaT8vvY85DD6",
+        "title": "月球下的人",
+        "artist": "Gin Lee",
+        "release_date": "2016-04-18"
+      },
+      {
+        "CardNumber": "00170",
+        "Spotify": "6yMzyX4za7pXpsLNR07WsO",
+        "title": "和好",
+        "artist": "Tang Siu Hau",
+        "release_date": "2018-01-11"
+      },
+      {
+        "CardNumber": "00169",
+        "Spotify": "7lttCh686F98ttaklvuz4n",
+        "title": "別怪她",
+        "artist": "Ron Ng",
+        "release_date": "2006-01-18"
+      },
+      {
+        "CardNumber": "00168",
+        "Spotify": "4wsMGeFn61wTCFxZaY9pec",
+        "title": "女校男生",
+        "artist": "Twins",
+        "release_date": "2010-03-29"
+      },
+      {
+        "CardNumber": "00167",
+        "Spotify": "46a1frR1zM6q0EW2qiH3Cy",
+        "title": "還要去過生活",
+        "artist": "Charmaine Fong",
+        "release_date": "2016-11-11"
+      },
+      {
+        "CardNumber": "00166",
+        "Spotify": "3A00B4gYJWTPAPoxQ0UIpp",
+        "title": "偶遇",
+        "artist": "Samantha Lam",
+        "release_date": "2000-07-24"
+      },
+      {
+        "CardNumber": "00165",
+        "Spotify": "7LBaJ4eOoFwDRiXbFkpUGh",
+        "title": "未知",
+        "artist": "Joey Yung",
+        "release_date": "1999-03-05"
+      },
+      {
+        "CardNumber": "00164",
+        "Spotify": "68uSdL8Qf3MKiJDR7cfhNx",
+        "title": "風花雪 - 電影《天涯海角》歌曲",
+        "artist": "Kelly Chen",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00163",
+        "Spotify": "04Jcc8kwlHR9XlmUxUgEKq",
+        "title": "天下無雙",
+        "artist": "Eason Chan",
+        "release_date": "2011-05-22"
+      },
+      {
+        "CardNumber": "00162",
+        "Spotify": "2lkgn40I3rdDromJT3q3GZ",
+        "title": "漁火閃閃",
+        "artist": "Albert Au",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00161",
+        "Spotify": "6d2m2kQqCqOrMgpFrQZ81a",
+        "title": "四份三日",
+        "artist": "夢劇院",
+        "release_date": "2018-03-27"
+      },
+      {
+        "CardNumber": "00160",
+        "Spotify": "2ROIv2NfDTdHHhbvntEVzc",
+        "title": "絕對空虛",
+        "artist": "Kenneth Choi",
+        "release_date": "1986-05-12"
+      },
+      {
+        "CardNumber": "00159",
+        "Spotify": "1bPIgMTnwDNIz6mhkSddm0",
+        "title": "傷感雨天",
+        "artist": "方丽盈",
+        "release_date": "1988-10-24"
+      },
+      {
+        "CardNumber": "00158",
+        "Spotify": "4HBOOGIvjHGOrdtEiFkN03",
+        "title": "男朋友",
+        "artist": "Louis Koo",
+        "release_date": "2000"
+      },
+      {
+        "CardNumber": "00157",
+        "Spotify": "1MlFD4KiaEoT1TnRzAsXGU",
+        "title": "木紋",
+        "artist": "Denise Ho",
+        "release_date": "2007-01-22"
+      },
+      {
+        "CardNumber": "00156",
+        "Spotify": "46ijStQoqmP8sHxF4oC10x",
+        "title": "七姊妹星團",
+        "artist": "Lolly Talk",
+        "release_date": "2023-01-19"
+      },
+      {
+        "CardNumber": "00155",
+        "Spotify": "7uzJKRRrTqxUOeTtwQMd36",
+        "title": "每天愛你多一些",
+        "artist": "Jacky Cheung",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00154",
+        "Spotify": "6uvOtENbWTPaNc46o8M4Pv",
+        "title": "初戀情人",
+        "artist": "Winnie Lau",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "4vzr8ZjVHFH3Yv2pAkEU4N",
+        "title": "黑色狂迷",
+        "artist": "Mr.",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "1eId3TVzGrwv73YAWAVQMX",
+        "title": "你瞞我瞞",
+        "artist": "Jason Chan",
+        "release_date": "2009-12-24"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "1ZrnCyms7CBYsCvkkVIkt8",
+        "title": "記憶棉",
+        "artist": "MC 張天賦",
+        "release_date": "2021-10-22"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "3i4wtaYK77lWNjkm5cLo7J",
+        "title": "下一位前度",
+        "artist": "Terence Lam",
+        "release_date": "2019-01-11"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "3L6aX4pRSY5xLmt4nPKgSR",
+        "title": "逆行",
+        "artist": "Nicholas Tse",
+        "release_date": "2025-01-23"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "4o9KVzeFJjXzuefhUi8I5P",
+        "title": "Alright",
+        "artist": "邱傲然 Tiger Yau",
+        "release_date": "2024-01-05"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "69TcXv5ssNyHkxnliBpoZE",
+        "title": "願君心記取",
+        "artist": "張德蘭",
+        "release_date": "1978-01-01"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "4JEpSfSuhHX0v9kO6zyfQt",
+        "title": "風的季節",
+        "artist": "Paula Tsui",
+        "release_date": "2003-04-30"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "7xO578ru75cXJ029rduAX6",
+        "title": "舉高隻手",
+        "artist": "Fama",
+        "release_date": "2008-07-04"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "1KYvuT1WXa6fnF1OwFmRmv",
+        "title": "天才白癡夢",
+        "artist": "Sam Hui",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "2HRMHz6NgX2p2BehbjAxN4",
+        "title": "彌敦道",
+        "artist": "Ken Hung",
+        "release_date": "2008-01-23"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "51sQ8I5sJYBXB0UatyrH5R",
+        "title": "發現號",
+        "artist": "RubberBand",
+        "release_date": "2009"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "4oYuuFD8V12jXtIs7qx7oK",
+        "title": "睡公主",
+        "artist": "G.E.M.",
+        "release_date": "2009-01-24"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "5vnxboQXsHVOVynymx0Wvv",
+        "title": "甘心替代你（電影《古惑仔3之隻手遮天》插曲）",
+        "artist": "Ekin Cheng",
+        "release_date": "1996-07-13"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "2eTaJmtFCQcDJpxAUK1psl",
+        "title": "妄想",
+        "artist": "Vrf, Simon Li @ Wave Studio",
+        "release_date": "2001-10-12"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "0IG8WbF1cbQAf3jy09NFHD",
+        "title": "填詞魂",
+        "artist": "謝雅兒",
+        "release_date": "2024-01-13"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "5DQRuM9tkSbgMXDL8n9bCj",
+        "title": "濃情化不開",
+        "artist": "Wakin Chau",
+        "release_date": "1995-04-24"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "3otpn1ublkPgCcCDu43F8e",
+        "title": "愛得太遲",
+        "artist": "Leo Ku",
+        "release_date": "2006-08-25"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "7j1ezLoNDJAfWM1pAszYfb",
+        "title": "落雨路",
+        "artist": "野仔",
+        "release_date": "2018-06-08"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "3b3yAz9gaioq00hFV0LuOp",
+        "title": "1127",
+        "artist": "LMF",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "1ORTYBrCupzsm7ejWv716y",
+        "title": "睜開眼",
+        "artist": "RubberBand",
+        "release_date": "2015-10-30"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "31J7byQnAeS2d5OFVGnCR0",
+        "title": "雙子情歌 - 獨唱版",
+        "artist": "Adason Lo",
+        "release_date": "2013-02-04"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "5PKot0y16MMgrOZD4HL385",
+        "title": "春光乍洩",
+        "artist": "Anthony Wong",
+        "release_date": "2003-10-30"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "78qa1FtXNrnbv5fBNVD4ih",
+        "title": "晴天 陰天 雨天",
+        "artist": "Ronald Cheng",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "75w9RV1uK7lQ1ASTCEnD9j",
+        "title": "圍城",
+        "artist": "Kolor",
+        "release_date": "2020-11-04"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "1fIWBL1UDkZjbQynWcuJCy",
+        "title": "陪著你走",
+        "artist": "Lowell Lo",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "30P5j4FOcHC3nhMyU0XPRj",
+        "title": "如果我是陳奕迅",
+        "artist": "Mr.",
+        "release_date": "2017-04-13"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "6eJQ8qyurF1Oheh0qm9VpW",
+        "title": "給我空間",
+        "artist": "葉佩雯",
+        "release_date": "1998-03-04"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "5E4EvtNghGPQdqtOTtGxVM",
+        "title": "楚留香",
+        "artist": "Adam Cheng",
+        "release_date": "1979-01-01"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "00HLrLO5I3qEOnojxBhQSw",
+        "title": "一輩子守候 - 劇集 \"錦繡未央\" 主題曲",
+        "artist": "HANA",
+        "release_date": "2017-11-03"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "67EvFED20jCOsM5Q1pghz7",
+        "title": "有誰共鳴",
+        "artist": "Leslie Cheung",
+        "release_date": "1986"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "2psobkRxfuJWqddEjeSMH1",
+        "title": "你死我活",
+        "artist": "J.Arie",
+        "release_date": "2015-09-08"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "63VMgwgPk1OrcA0jKOwBxx",
+        "title": "呼吸有害（电影《飞虎之雷霆极战》主题曲）",
+        "artist": "Karen Mok",
+        "release_date": "2020-04-21"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "7iBexfIlPqHafcDxlxPhWr",
+        "title": "漣漪",
+        "artist": "Danny Chan, Joseph Wong, Tom Brown",
+        "release_date": "2013-10-22"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "1csmKEMkHsaRDKsg5kY96b",
+        "title": "不裝飾妳的夢",
+        "artist": "蔡國權",
+        "release_date": "1990-02-01"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "4pw59ml6lY3WnP90tfyDGP",
+        "title": "經過一些秋與冬",
+        "artist": "Dear Jane",
+        "release_date": "2016-12-12"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "4dYjCvlegGJFamlgK4xJ6x",
+        "title": "陶瓷娃娃",
+        "artist": "Robynn & Kendy",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "4JEHXsPY01oEVQn1hTqAdd",
+        "title": "點指兵兵 - 電影《點指兵兵》主題曲",
+        "artist": "Teddy Robin",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "3UCmPhL3AEXBspj6wnQGms",
+        "title": "來不及",
+        "artist": "Stanley Yau 邱士縉",
+        "release_date": "2023-05-14"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "06CZAv0XMT4CRtYy24wqTH",
+        "title": "家變",
+        "artist": "Roman Tam",
+        "release_date": "1977-01-01"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "6BZaPX5NnjIIasH6EO0P63",
+        "title": "係咁先啦",
+        "artist": "MC $oHo & KidNey, kayan9896",
+        "release_date": "2021-07-30"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "79viCcxsRvVOHmbrDh7PRV",
+        "title": "皮思苦",
+        "artist": "陳瑞輝 Frankie Chan",
+        "release_date": "2024-01-05"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "52IRguMecqsLNizDksR2LR",
+        "title": "感情的段落",
+        "artist": "Samantha Lam",
+        "release_date": "1983-10-01"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "063EMCL7s2F27g77pS6QAp",
+        "title": "大丈夫",
+        "artist": "關正傑",
+        "release_date": "1976-01-01"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "4GbTgGizUjRxDIRJKe3r7a",
+        "title": "垃圾",
+        "artist": "Candy Lo",
+        "release_date": "2001-12-07"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "69mHGlx5PzzEm6MVdu5o6Y",
+        "title": "男兒當自強",
+        "artist": "George Lam, Cai Xian Le, Danny Chung",
+        "release_date": "1983"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "41ajrBuFkNauOAxvKJZ6TJ",
+        "title": "眼淚的好戲",
+        "artist": "梁洛施",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "77uktQePd9IdeMPVWlu1cO",
+        "title": "海闊天空",
+        "artist": "Beyond",
+        "release_date": "1992-07-31"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "4G62NI5NCaDDXet8d11BiF",
+        "title": "殺手、神鎗 - 無綫電視劇「殺手、神槍、蝴蝶夢」主題曲",
+        "artist": "李振輝",
+        "release_date": "1977-01-01"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "1TbIELWaGndgPmH6695L67",
+        "title": "始終一天",
+        "artist": "At17",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "1FKOyGzXEdFPapxdmgRJIv",
+        "title": "別煩著我",
+        "artist": "糖兄妹",
+        "release_date": "2013-12-03"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "0k9hDUqY2RhEq2hcgrp0BH",
+        "title": "了解你的所有",
+        "artist": "Daniel Chan",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "4KJQv2xgU0UN95kuI479b3",
+        "title": "Candy Ball (粵)",
+        "artist": "As One",
+        "release_date": "2015-07-31"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "6Hgl5LpipHYTWtxK9GihEr",
+        "title": "空凳",
+        "artist": "夏韶聲",
+        "release_date": "1999-03-19"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "3Pj9gTUfcQEBe1glNWNwF9",
+        "title": "紅綠燈",
+        "artist": "Stephanie Cheng",
+        "release_date": "2013-08-02"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "7egdaSVtPnuW7YG821w7jz",
+        "title": "隔離",
+        "artist": "JACE",
+        "release_date": "2020-08-14"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "7sv4qXI4O9NLl6UUYRZULO",
+        "title": "親朋勿友",
+        "artist": "曲奇",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "68HfQihGoIzMKchE0d5R6g",
+        "title": "下次下次 [radio-edit]",
+        "artist": "Fiona Sit",
+        "release_date": "2007-04-30"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "7FkzBvV1N34y4I2DZIc2bo",
+        "title": "不浪漫罪名",
+        "artist": "Dave Wang",
+        "release_date": "2003-06-06"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "5IxnaXzC0AoX5tSiVwvUgu",
+        "title": "遙遠的她",
+        "artist": "Jacky Cheung",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "5oxyrsLn0MmKGDx5VWxKMU",
+        "title": "尋開心",
+        "artist": "Bondy Chiu",
+        "release_date": "1997-02-22"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "4UAoIpIbTqRnmW6r72aucS",
+        "title": "風箏與風",
+        "artist": "Twins",
+        "release_date": "2010-03-29"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "4r0kmaxGmI2amUE4oZmmmb",
+        "title": "失落於巴黎鐵塔下 (La Tour Eiffel)",
+        "artist": "伍詠薇",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "2qe8ySQMI0qSSNfX7zpx8F",
+        "title": "問我 - 電影\"跳灰\"歌曲",
+        "artist": "陳麗斯",
+        "release_date": "1977-01-01"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "3JpnLKZU01uyEfqRvQVmtj",
+        "title": "優先訂座",
+        "artist": "Jade Kwan",
+        "release_date": "2003-04-16"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "3OPTWqYDBDBWFksDT5KnjC",
+        "title": "黑之呼吸",
+        "artist": "Anson Kong 江𤒹生",
+        "release_date": "2021-03-31"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "25L5eeqMhZHIycO4PDNo6v",
+        "title": "ABC君",
+        "artist": "Alex Fong",
+        "release_date": "2005"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "1tAx6KsKCG7q5wFa0CYaPz",
+        "title": "越難越愛 - (劇集 \"使徒行者\" 片尾曲)",
+        "artist": "Jinny Ng",
+        "release_date": "2014-11-27"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "48yFnEAkBdOmqvhZ6NaR4U",
+        "title": "到底發生過什麼事",
+        "artist": "Dear Jane",
+        "release_date": "2022-10-24"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "0sPw25z4slUWy4eoO3K8HR",
+        "title": "人若然忘記了愛",
+        "artist": "Ronald Cheng",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "57aO81iUdc4mN0HTozCy4v",
+        "title": "啼笑姻緣",
+        "artist": "仙杜拉",
+        "release_date": "1974-01-01"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "2XlABDc0pnvVweAWqaZSai",
+        "title": "忘川",
+        "artist": "Sita Chan",
+        "release_date": "2012-03-18"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "5k72u9OHqyTDMylqpG0izJ",
+        "title": "敢愛敢做",
+        "artist": "George Lam, David Ling Jr",
+        "release_date": "1983"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "4t1aNJVwtRDg5QrYAfb8KS",
+        "title": "雨後陽光",
+        "artist": "Andy Hui",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "7KN9QLFg7f7EaL11T4P2uu",
+        "title": "真真假假",
+        "artist": "Dicky Cheung",
+        "release_date": "1992-08-28"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "43p6oqqTUj7F7eErBGZzw9",
+        "title": "還你門匙",
+        "artist": "Shawn Yue",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "6flgMTTqhbJSNryAPCYcvA",
+        "title": "留一天與你喘息",
+        "artist": "陳卓賢 Ian",
+        "release_date": "2022-02-14"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "5dLbTckkAh8eeXYLcAyhr2",
+        "title": "舊歡如夢",
+        "artist": "譚炳文",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "2NZTWCoxvsVGeVJbV5M47z",
+        "title": "戰無不勝（電影《古惑仔3之隻手遮天》主題曲）",
+        "artist": "Jordan Chan",
+        "release_date": "1998-04-30"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "4cDvcClPjoqcstypCytjAy",
+        "title": "明日话今天",
+        "artist": "Jenny Tseng",
+        "release_date": "1980-01-01"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "4NIT8R164p7xeI2qdDrGYx",
+        "title": "我來自北京",
+        "artist": "Leon Lai",
+        "release_date": "2016-11-30"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "5IqINoJbcsew286bOMeJ7N",
+        "title": "終止戀愛",
+        "artist": "E-Kids",
+        "release_date": "2017-12-27"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "4ggo7Epum4x1PW7pojcjBF",
+        "title": "印記",
+        "artist": "Kayee Tam",
+        "release_date": "2022-01-28"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "4j3oxLloodloNeOK2IMush",
+        "title": "拒絕你綑綁",
+        "artist": "Alex To, Kit Choi",
+        "release_date": "1991-07-04"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "5KxZ6YFHCrRCuim1TxZ03G",
+        "title": "思前戀後",
+        "artist": "Eric Suen",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "1i1xYD3JPoYVoGTZXHgxgy",
+        "title": "寧願最傷心的給我自己",
+        "artist": "張家輝",
+        "release_date": "2001-05-02"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "0iUXhsKAxMnyHWJqZQIjSp",
+        "title": "我們什麼都不是 It’s nothing",
+        "artist": "馬天佑",
+        "release_date": "2025-02-17"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "1zlUxL11eVVjPSPSI7tIjQ",
+        "title": "沒有你, 我甚麼都不是",
+        "artist": "Jason Chan",
+        "release_date": "2016-10-28"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "1KjyA2HBaaOgKMMGJq7H2t",
+        "title": "IGNITED",
+        "artist": "MIRROR",
+        "release_date": "2021-01-20"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "6AleftVNlp053O6bbtnkZp",
+        "title": "一起走過的日子 - 電影《至尊無上II之永霸天下》歌曲",
+        "artist": "Andy Lau",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "2Gp9DMkBOmNWc4rAgxFSBn",
+        "title": "自作多情",
+        "artist": "Vivian Chow",
+        "release_date": "2019-10-28"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "5RLv04XXxe0Nc4W7DTBJGT",
+        "title": "風繼續吹",
+        "artist": "Leslie Cheung",
+        "release_date": "1983"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "3XXiipfqmE7BRoDIwwZgHD",
+        "title": "玩火",
+        "artist": "Eddie Ng",
+        "release_date": "1988-03-28"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "2GjcIfpNO2IOkKuC4g52mB",
+        "title": "哭牆 - 電視劇「香港愛情故事」片尾曲",
+        "artist": "Vivian Koo",
+        "release_date": "2021-04-28"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "2b8t4v5VrZPHnVmQGTL6O1",
+        "title": "寵物",
+        "artist": "Terence Siufay",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "3ySUIl3d6fqxzp9ff6FZ4G",
+        "title": "努力奮鬥加油",
+        "artist": "Jan Lamb",
+        "release_date": "2019-08-12"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "2BjzH9PAFG2SXgU94rsGf7",
+        "title": "自知之明",
+        "artist": "Pong Nan",
+        "release_date": "2008-07-28"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "57jgqH9etSfTvIJ7qYN1o5",
+        "title": "到此為止",
+        "artist": "Shiga Lin",
+        "release_date": "2012-02-24"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "3XpOl3XzwvnFJPmBWbWA2G",
+        "title": "傷心酒店",
+        "artist": "Susanne Ho",
+        "release_date": "1985"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "414hSSHPDvPL7oCDavRFRP",
+        "title": "一切也願意",
+        "artist": "Shirley Kwan",
+        "release_date": "1991-07-05"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "0I0mjrrQpBmjCcc54W73LO",
+        "title": "傷心到變形",
+        "artist": "Kwan Gor",
+        "release_date": "2018-10-02"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "3C96izlyRDdw7SJvdItIS8",
+        "title": "獨角獸之戀",
+        "artist": "Jeremy Lee 李駿傑",
+        "release_date": "2023-12-21"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "2ZPKMmEcqQC21Pgl7QPTvK",
+        "title": "唐山大兄",
+        "artist": "鄭錦昌",
+        "release_date": "2010-08-16"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "6gquGEq3Wh3XLIddshZNei",
+        "title": "青春頌",
+        "artist": "Alfred Hui",
+        "release_date": "2012-12-13"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "42LP9sxEZ4tqHLgBzApBKR",
+        "title": "眼睛想旅行",
+        "artist": "Leon Lai",
+        "release_date": "1999-05-26"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "5h6R8U3G3GLZc6nMsrxBV4",
+        "title": "愛在記憶中找你",
+        "artist": "Raymond Lam",
+        "release_date": "2007-11-23"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "0WGDZd5AtJWPYDbzhsi3uS",
+        "title": "大地",
+        "artist": "Beyond",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "0JDkHOgqfi6NJhC1hNWyM4",
+        "title": "皇后餐廳",
+        "artist": "Ivana Wong",
+        "release_date": "2014-07-01"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "3gZMXAlGUgPne1r8u14ViY",
+        "title": "漫步人生路",
+        "artist": "Teresa Teng",
+        "release_date": "2022-05-20"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "2FgDWCqMCIAATvqr9ozeYm",
+        "title": "櫻花樹下",
+        "artist": "Hins Cheung",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "0i5uul3LEIBbgpCHyRGi6A",
+        "title": "鐵幕誘惑",
+        "artist": "Aaron Kwok, Frankie",
+        "release_date": "1994-01-24"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "5IzmJA1VrznvuSqxu2M5HR",
+        "title": "今期流行",
+        "artist": "Louis Koo",
+        "release_date": "2014-07-01"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "3d1dmGtriTWQZw0zn1NVXf",
+        "title": "易愛難收",
+        "artist": "Christopher Wong",
+        "release_date": "2003-06-26"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "4BU2Lf1fEUlqSayBDPliHE",
+        "title": "繼續繼續",
+        "artist": "陳健安",
+        "release_date": "2023-04-04"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "1HKFqY5KzAvU829Gv3EZrb",
+        "title": "You're The One",
+        "artist": "Kelly Chen",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "1SGPQAdXXDbcRX8kGoBiN3",
+        "title": "夢中人 - 電影《重慶森林》歌曲",
+        "artist": "Faye Wong",
+        "release_date": "1994"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "3iyqQnlkHLbFoNdl048c3s",
+        "title": "大懶堂",
+        "artist": "LMF",
+        "release_date": "2000-05-23"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "4WoWBRKwNb2fWyI8RvyF8u",
+        "title": "急色鬼, 愛出位",
+        "artist": "Winnie Lau",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "1LdlX9sjbvzDuNwPqI94Qa",
+        "title": "灰色",
+        "artist": "Sandy Lam",
+        "release_date": "2009-04-06"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "42suymP38HAIBl0wiDfpst",
+        "title": "千千闋歌",
+        "artist": "Priscilla Chan",
+        "release_date": "1989-01-01"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "3PX97luF65VvGfqqFNzFFt",
+        "title": "廣播道Fans殺人事件",
+        "artist": "軟硬天師",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "5w8VWvt6H2LADjMj2LDBbd",
+        "title": "陪著她",
+        "artist": "Wynners",
+        "release_date": "1983-01-01"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "44QXVFCGfB7oj9rF6WJeyZ",
+        "title": "差一點我們會飛",
+        "artist": "Feanna Wong, 英仁合唱團",
+        "release_date": "2019-06-08"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "6Jvti0KRNAylO0H67PxjPI",
+        "title": "一千零一夜",
+        "artist": "Hacken Lee",
+        "release_date": "1990-01-01"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "7pJH3YXNRUvq0ctKirL13A",
+        "title": "人非草木",
+        "artist": "Kary Ng",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "2XEvEk598oc4O164Y2Jc4h",
+        "title": "直至消失天與地",
+        "artist": "Ekin Cheng",
+        "release_date": "1994-04-22"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "0uAW2j0sLBHVr3Gs9IGIqf",
+        "title": "我不如",
+        "artist": "Mike 曾比特",
+        "release_date": "2021-01-08"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "2HR81zMSX5uRGIVO5oerjr",
+        "title": "大哥",
+        "artist": "Janice Vidal",
+        "release_date": "2005-11-25"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "4AWVRxsHhLlLPtKuXvnprw",
+        "title": "奇洛李維斯回信",
+        "artist": "Fiona Sit",
+        "release_date": "2004-04-08"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "0sugZhDf3mB2nQ9rzua2ps",
+        "title": "月亮不代表我的心",
+        "artist": "梁釗峰",
+        "release_date": "2018-12-18"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "0NMzmmXi6DCUo8tijwHvCe",
+        "title": "上海灘 - 無線電視劇[上海灘]主題曲",
+        "artist": "Frances Yip",
+        "release_date": "1980-04-17"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "16VtXtccn3rmUAR9Q4W5ME",
+        "title": "一人之境",
+        "artist": "Terence Lam",
+        "release_date": "2020-05-08"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "6K6L5LL0lvfGGEqJxDavTn",
+        "title": "坐看雲起時",
+        "artist": "Jer 柳應廷",
+        "release_date": "2022-11-25"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "37E02hVKgiUzmjuWVFIUWs",
+        "title": "網中人",
+        "artist": "張德蘭",
+        "release_date": "1979-01-01"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "2KAUjZ3n3UmaRveXMvzgUu",
+        "title": "三分甜",
+        "artist": "Lolly Talk",
+        "release_date": "2022-07-11"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "6bZxiol0nxTfofgGJDtY6g",
+        "title": "祝君好",
+        "artist": "Chilam",
+        "release_date": "2001-02-20"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "2H6bCLgpZLRlUj1IaGWFhY",
+        "title": "衣櫃裡的男人",
+        "artist": "Edmond Leung",
+        "release_date": "2014-07-01"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "5xwZ5oFoeQEXxgQUjIlUty",
+        "title": "最好的時刻",
+        "artist": "Kay Tse",
+        "release_date": "2014-09-29"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "2gjMC61kvJSAJa0cBHrSVX",
+        "title": "重回布拉格",
+        "artist": "Yatfung",
+        "release_date": "2003-07-08"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "0pnmUYIstjsVeJQj3wEHGI",
+        "title": "明知故犯",
+        "artist": "Mavis Hee",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "20nxLg2I1Hlt50OOlCJSm8",
+        "title": "等了又等",
+        "artist": "Kit Chan",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "4qmUx3yvJOt9Jktzr6Kvh0",
+        "title": "活著Viva",
+        "artist": "Nicholas Tse",
+        "release_date": "2000-11-01"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "4mE8LXNtvSuNJegLlSyU4d",
+        "title": "再坐一會",
+        "artist": "Cally Kwong",
+        "release_date": "1985-01-01"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "7z5r7VgWxEuDEVtFJKuePJ",
+        "title": "十個救火的少年",
+        "artist": "Tat Ming Pair",
+        "release_date": "1990-01"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "2SLwPaJTN6B6zwcIwsuQAK",
+        "title": "燕尾蝶",
+        "artist": "Shine",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "3ef2t7aXjqDzXmPckk4BTd",
+        "title": "心急人上",
+        "artist": "曲奇",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "3j55j3jpiaVk8ryFvYVSTF",
+        "title": "螞蟻",
+        "artist": "Alfred Hui",
+        "release_date": "2011-06-28"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "42kKlCZeqp1rJyVf70fmEW",
+        "title": "忘記和記",
+        "artist": "Juno Mak",
+        "release_date": "2019-10-22"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "7iQdInUqIpVdatCooLZC3A",
+        "title": "風的形狀",
+        "artist": "Yoyo Sham",
+        "release_date": "2021-07-22"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "4A0CIlThNadCi66UBkfcUQ",
+        "title": "獅子山下 - 香港電台電視劇「獅子山下」主題曲",
+        "artist": "Roman Tam",
+        "release_date": "1979-01-01"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "4OG8muctufiwN7xSoNxKbF",
+        "title": "但願你明白",
+        "artist": "楊采妮",
+        "release_date": "1994-11-09"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "1kDtkeP8R8bLFqyZRziNqb",
+        "title": "抬起我的頭來",
+        "artist": "Miriam Yeung",
+        "release_date": "2014-07-01"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "0BxldYrUwS4A5YiaWMoilw",
+        "title": "秋去秋來",
+        "artist": "Sally Yeh",
+        "release_date": "1990"
+      }
+    ]
+  }
+}

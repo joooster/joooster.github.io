@@ -1,0 +1,2166 @@
+{
+  "updated_on": 1766489409,
+  "sku": "aaac0002",
+  "gameset_data": {
+    "gameset_language": "Italy",
+    "gameset_name": "Hitster Original - 100% Italian",
+    "cards": [
+      {
+        "CardNumber": "00308",
+        "Spotify": "2rp0benaVC1sHDEKQYV0dS",
+        "title": "La Fine Dei Vent'anni",
+        "artist": "Motta",
+        "release_date": "2016-07-15"
+      },
+      {
+        "CardNumber": "00307",
+        "Spotify": "2hWsjxSO7bIKHzCBQMmmA0",
+        "title": "Torpedo Blu",
+        "artist": "Giorgio Gaber",
+        "release_date": "1993"
+      },
+      {
+        "CardNumber": "00306",
+        "Spotify": "38uvkBIcAVfOEjC92m9A51",
+        "title": "Dammi solo un minuto - 2014 Remaster",
+        "artist": "Pooh",
+        "release_date": "1977-01-01"
+      },
+      {
+        "CardNumber": "00305",
+        "Spotify": "7H6nHt5pQudergVxTGgayM",
+        "title": "Che Sarà",
+        "artist": "Ricchi E Poveri",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00304",
+        "Spotify": "6fB3Wy1x9EdhfFwqy8lJcZ",
+        "title": "La mia banda suona il rock",
+        "artist": "Ivano Fossati",
+        "release_date": "1979-09-07"
+      },
+      {
+        "CardNumber": "00303",
+        "Spotify": "61ShRbIST9rEP6xGs5xctq",
+        "title": "Eri piccola così",
+        "artist": "Fred Buscaglione",
+        "release_date": "1987"
+      },
+      {
+        "CardNumber": "00302",
+        "Spotify": "13OUCtTyVAyOcfYfYFhIpb",
+        "title": "Sognando La California",
+        "artist": "Dik Dik",
+        "release_date": "1995"
+      },
+      {
+        "CardNumber": "00301",
+        "Spotify": "6oYcyS6salzWI1ysjEScFh",
+        "title": "LA CODA DEL DIAVOLO (con ELODIE)",
+        "artist": "Rkomi, Elodie",
+        "release_date": "2021-11-30"
+      },
+      {
+        "CardNumber": "00300",
+        "Spotify": "2S7RApTsKT0CtYojYq2cKz",
+        "title": "L'italiano",
+        "artist": "Toto Cutugno",
+        "release_date": "1983-02-01"
+      },
+      {
+        "CardNumber": "00299",
+        "Spotify": "3IbgziH7YrA84GNT5CHA1F",
+        "title": "Pensa - Sanremo 2007",
+        "artist": "Fabrizio Moro",
+        "release_date": "2016-01-29"
+      },
+      {
+        "CardNumber": "00298",
+        "Spotify": "0hQwK2xN3VxsifhVdnB4FL",
+        "title": "Il rock di capitan uncino",
+        "artist": "Edoardo Bennato",
+        "release_date": "1980-03-09"
+      },
+      {
+        "CardNumber": "00297",
+        "Spotify": "6qnQkIIFPFyTAhoyIFBrcR",
+        "title": "Champagne",
+        "artist": "Peppino Di Capri",
+        "release_date": "2013-04-19"
+      },
+      {
+        "CardNumber": "00296",
+        "Spotify": "2bBfij1zEsNlhQ5uxLJwIo",
+        "title": "A bocca chiusa",
+        "artist": "Daniele Silvestri",
+        "release_date": "2013-02-13"
+      },
+      {
+        "CardNumber": "00295",
+        "Spotify": "5NVKrGAZjusEqZJ7onT9gO",
+        "title": "Quando, Quando, Quando - 2004 Remaster",
+        "artist": "Tony Renis",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00294",
+        "Spotify": "0MJmzxKWmN1e7Wt9NAonI8",
+        "title": "Volare",
+        "artist": "Fabio Rovazzi, Gianni Morandi",
+        "release_date": "2017-05-19"
+      },
+      {
+        "CardNumber": "00293",
+        "Spotify": "2bxrrNseIuu3tGslKZrTsy",
+        "title": "Senza Fare Sul Serio",
+        "artist": "Malika Ayane",
+        "release_date": "2015-02-12"
+      },
+      {
+        "CardNumber": "00292",
+        "Spotify": "5TwOpf9fWnToPSvuQL9tQq",
+        "title": "Chiamami",
+        "artist": "Coma_Cose",
+        "release_date": "2022-11-04"
+      },
+      {
+        "CardNumber": "00291",
+        "Spotify": "4p0o4pBoJPxYMXKhYbRzzw",
+        "title": "malibu",
+        "artist": "sangiovanni",
+        "release_date": "2021-05-13"
+      },
+      {
+        "CardNumber": "00290",
+        "Spotify": "5x9LonDyHxGUO2VzfHJHLE",
+        "title": "COME VUOI",
+        "artist": "Geolier",
+        "release_date": "2023-01-06"
+      },
+      {
+        "CardNumber": "00289",
+        "Spotify": "4c2ypSbxlEtTNcyJ6uZcdn",
+        "title": "Cicale",
+        "artist": "Heather Parisi",
+        "release_date": "1991-10-18"
+      },
+      {
+        "CardNumber": "00288",
+        "Spotify": "1of8D9YF8T2nkLuk30JZNX",
+        "title": "Iris (Tra Le Tue Poesie)",
+        "artist": "Biagio Antonacci",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00287",
+        "Spotify": "3Ylh8bL3GJTpi2EFbbL1rO",
+        "title": "La Musica Non E' Una Cosa Seria",
+        "artist": "Lo Stato Sociale",
+        "release_date": "2018-02-09"
+      },
+      {
+        "CardNumber": "00286",
+        "Spotify": "6OzeWNA1SQgZBw5caqAIKN",
+        "title": "Centro Di Gravità Permanente - Remastered 2021",
+        "artist": "Franco Battiato",
+        "release_date": "1981"
+      },
+      {
+        "CardNumber": "00285",
+        "Spotify": "4O1IA3AwRuwkXhRiAk26Ib",
+        "title": "Un Temporale",
+        "artist": "Ghemon",
+        "release_date": "2017-09-22"
+      },
+      {
+        "CardNumber": "00284",
+        "Spotify": "1uz6If8Tcbjm3xyxQ48IjV",
+        "title": "Stasera... Che Sera! - 1991 - Remaster",
+        "artist": "Matia Bazar",
+        "release_date": "1976"
+      },
+      {
+        "CardNumber": "00283",
+        "Spotify": "4LAWJfQbfeMrlX0ShqhC2a",
+        "title": "Musica leggerissima",
+        "artist": "Colapesce, Dimartino",
+        "release_date": "2021-03-19"
+      },
+      {
+        "CardNumber": "00282",
+        "Spotify": "2aptSWAkwTLva4188FFrjE",
+        "title": "vai!",
+        "artist": "Alfa",
+        "release_date": "2024-02-16"
+      },
+      {
+        "CardNumber": "00281",
+        "Spotify": "4RAYvDsSSDtkFtdBOoCzNW",
+        "title": "L'Avvelenata - Remastered 2007",
+        "artist": "Francesco Guccini",
+        "release_date": "1976"
+      },
+      {
+        "CardNumber": "00280",
+        "Spotify": "16CdbuX6bDSXo07rsic56K",
+        "title": "Monna Lisa",
+        "artist": "Ivan Graziani",
+        "release_date": "1978-02-06"
+      },
+      {
+        "CardNumber": "00279",
+        "Spotify": "6XLq0b557873yQsYATC0Hz",
+        "title": "Sotto Il Segno Dei Pesci",
+        "artist": "Antonello Venditti",
+        "release_date": "1978-01-01"
+      },
+      {
+        "CardNumber": "00278",
+        "Spotify": "0TygUJxDZpuqznlL865uFM",
+        "title": "Nella vecchia fattoria",
+        "artist": "Quartetto Cetra",
+        "release_date": "2011-08-04"
+      },
+      {
+        "CardNumber": "00277",
+        "Spotify": "2HH4cvDFv4pkpHev5K6Cx4",
+        "title": "Serenata Lacrimosa",
+        "artist": "Mannarino",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00276",
+        "Spotify": "6hwawJtSqgzNfYfLfqTv2p",
+        "title": "Generale",
+        "artist": "Francesco De Gregori",
+        "release_date": "1978"
+      },
+      {
+        "CardNumber": "00275",
+        "Spotify": "1AsCxLAvSfilIM9ubCf89B",
+        "title": "Maracaibo",
+        "artist": "Lu Colombo",
+        "release_date": "1984-01-01"
+      },
+      {
+        "CardNumber": "00274",
+        "Spotify": "01PZlOQEde3bMY1ZAGhzQi",
+        "title": "La prima cosa bella",
+        "artist": "Nicola Di Bari",
+        "release_date": "2000-06-15"
+      },
+      {
+        "CardNumber": "00273",
+        "Spotify": "0C9rBeWAsPhmBeaYKZLN5m",
+        "title": "Figli Delle Stelle",
+        "artist": "Alan Sorrenti",
+        "release_date": "1977"
+      },
+      {
+        "CardNumber": "00272",
+        "Spotify": "3zNSti1KhGpc41OkIgaoAU",
+        "title": "Occhi di gatto",
+        "artist": "Cristina D'Avena",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00271",
+        "Spotify": "5A0u3u09y7aSRgkoQ3YkkI",
+        "title": "All'alba Sorgerò - di \"Frozen: Il Regno di Ghiaccio\"/Colonna Sonora Originale",
+        "artist": "Serena Autieri",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00270",
+        "Spotify": "18IHat7huwIdEQ9hhaKfDr",
+        "title": "Azzurro",
+        "artist": "Adriano Celentano",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00269",
+        "Spotify": "11MoOaSoxLOvryOh6Ke5zK",
+        "title": "Il Ragazzo Della Via Gluck",
+        "artist": "Adriano Celentano",
+        "release_date": "1969-01-01"
+      },
+      {
+        "CardNumber": "00268",
+        "Spotify": "3U8TFdchz8dK1nYYgZgd9f",
+        "title": "ABISSALE",
+        "artist": "Tananai",
+        "release_date": "2022-11-24"
+      },
+      {
+        "CardNumber": "00267",
+        "Spotify": "5TifXTSAZRbHtB2iMrpkuC",
+        "title": "Pop porno",
+        "artist": "Il Genio",
+        "release_date": "2008"
+      },
+      {
+        "CardNumber": "00266",
+        "Spotify": "2QVIMIcEt0t72cqbafrvxI",
+        "title": "La notte",
+        "artist": "Arisa",
+        "release_date": "2012-02-15"
+      },
+      {
+        "CardNumber": "00265",
+        "Spotify": "5mSnAIQ8LvszjNglBpKzAh",
+        "title": "Cosa Resterà Degli Anni 80",
+        "artist": "Raf",
+        "release_date": "1989-02-07"
+      },
+      {
+        "CardNumber": "00264",
+        "Spotify": "0ksPDWch26wFz0JgbewGtw",
+        "title": "Colpo di fulmine",
+        "artist": "Giò Di Tonno, Lola Ponce",
+        "release_date": "2008-07-11"
+      },
+      {
+        "CardNumber": "00263",
+        "Spotify": "0zzZJCmaDU6IHubleLEAUQ",
+        "title": "Sciamu a ballare",
+        "artist": "Sud Sound System",
+        "release_date": "2005-10-05"
+      },
+      {
+        "CardNumber": "00262",
+        "Spotify": "04zrPERrSO4CfyargthKJ9",
+        "title": "Bla Bla Bla",
+        "artist": "Gigi D'Agostino",
+        "release_date": "1999"
+      },
+      {
+        "CardNumber": "00261",
+        "Spotify": "1vopvRKNwImNK2zFTZCXSy",
+        "title": "Papaveri e papere",
+        "artist": "Nilla Pizzi",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00260",
+        "Spotify": "5TpJZQe6V0ivkwheolTSRk",
+        "title": "Montagne verdi",
+        "artist": "Marcella Bella",
+        "release_date": "1972"
+      },
+      {
+        "CardNumber": "00259",
+        "Spotify": "7odtpwERwoQXdh6DnYZouw",
+        "title": "La mia vita senza te",
+        "artist": "Tre Allegri Ragazzi Morti",
+        "release_date": "2012-12-04"
+      },
+      {
+        "CardNumber": "00258",
+        "Spotify": "1R8AMI5zdplbsAtbPVsCsq",
+        "title": "Alghero",
+        "artist": "Giuni Russo",
+        "release_date": "2011-09-30"
+      },
+      {
+        "CardNumber": "00257",
+        "Spotify": "0HhSB4nAJpI5expWnZL199",
+        "title": "∞ LOVE (feat. Guè)",
+        "artist": "Marracash, Guè",
+        "release_date": "2021-11-19"
+      },
+      {
+        "CardNumber": "00256",
+        "Spotify": "5i4GFwCXmPLPeUo9tKvC5R",
+        "title": "Girasole",
+        "artist": "Giorgia",
+        "release_date": "1999-04-14"
+      },
+      {
+        "CardNumber": "00255",
+        "Spotify": "4mKtNDwwf6NJa3XP1A4P30",
+        "title": "Insieme A Te Non Ci Sto Più",
+        "artist": "Caterina Caselli",
+        "release_date": "1970"
+      },
+      {
+        "CardNumber": "00254",
+        "Spotify": "4Js31maTathTS2flQOQr2c",
+        "title": "Fragole",
+        "artist": "Achille Lauro, Rose Villain",
+        "release_date": "2023-05-12"
+      },
+      {
+        "CardNumber": "00253",
+        "Spotify": "371l4ekF9cDC2D5WuuabU6",
+        "title": "TUTA GOLD",
+        "artist": "Mahmood",
+        "release_date": "2024-02-15"
+      },
+      {
+        "CardNumber": "00252",
+        "Spotify": "4FW2zzZcmS4GK5GznpYUyV",
+        "title": "Ci vuole un fisico bestiale",
+        "artist": "Luca Carboni",
+        "release_date": "1991-11-30"
+      },
+      {
+        "CardNumber": "00251",
+        "Spotify": "1Gkxhw3pozHZNEi3KvBAsa",
+        "title": "Dentro Alla Scatola",
+        "artist": "Mondo Marcio",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00250",
+        "Spotify": "2DRLmJgblGkqOwxP5OH2PR",
+        "title": "Il Cerchio della Vita",
+        "artist": "Ivana Spagna",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00249",
+        "Spotify": "1Ugz2taGp3DBcOJjYQG4KG",
+        "title": "Ragazza di Periferia",
+        "artist": "Anna Tatangelo",
+        "release_date": "2006-03-03"
+      },
+      {
+        "CardNumber": "00248",
+        "Spotify": "6RH36IQndDVKCWMCB573df",
+        "title": "Il Capello",
+        "artist": "Edoardo Vianello",
+        "release_date": "2000-11-25"
+      },
+      {
+        "CardNumber": "00247",
+        "Spotify": "3uQLQ73joqyMYDhI2UaBOq",
+        "title": "Mollami Pt.2",
+        "artist": "Guè",
+        "release_date": "2023-01-13"
+      },
+      {
+        "CardNumber": "00246",
+        "Spotify": "7lx7ourd9AVFIBXFTCWXx8",
+        "title": "Non E' L'Inferno",
+        "artist": "Emma",
+        "release_date": "2011"
+      },
+      {
+        "CardNumber": "00245",
+        "Spotify": "3gxIDmc5C9k7MIeCVxZCT8",
+        "title": "Malafemmena",
+        "artist": "Totò",
+        "release_date": "2013-07-24"
+      },
+      {
+        "CardNumber": "00244",
+        "Spotify": "4WfpFXJJJW8IFXzTOJWGfh",
+        "title": "Parco Sempione",
+        "artist": "Elio e le Storie Tese",
+        "release_date": "2008-02-19"
+      },
+      {
+        "CardNumber": "00243",
+        "Spotify": "14K0I2XngCqxazt1EfJkZj",
+        "title": "Nostalgia canaglia",
+        "artist": "Al Bano, Romina Power",
+        "release_date": "2007-02-03"
+      },
+      {
+        "CardNumber": "00242",
+        "Spotify": "7rPPi7ecknWA3q82EspJYL",
+        "title": "Alfonso",
+        "artist": "Levante",
+        "release_date": "2014-03-11"
+      },
+      {
+        "CardNumber": "00241",
+        "Spotify": "5Wyd0ufyW8YErmZAFqBDsJ",
+        "title": "Beppeanna",
+        "artist": "Bandabardò",
+        "release_date": "1998-03-30"
+      },
+      {
+        "CardNumber": "00240",
+        "Spotify": "61hKdXA0UeKGyhf9Ri0UYz",
+        "title": "Roma nun fa' la stupida stasera",
+        "artist": "Nino Manfredi, Lea Massari, Aldo Fabrizi, Bice Valori, Lando Fiorini",
+        "release_date": "2013-03-21"
+      },
+      {
+        "CardNumber": "00239",
+        "Spotify": "7iJbKL131qZvIEvBrV4GWA",
+        "title": "Sorprendimi",
+        "artist": "Stadio",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00238",
+        "Spotify": "5ZSzAggKFjyIL6OLA2xUUg",
+        "title": "Il gatto e la volpe",
+        "artist": "Edoardo Bennato",
+        "release_date": "1977-07-16"
+      },
+      {
+        "CardNumber": "00237",
+        "Spotify": "5aqLXmh8SpcmR21finoww3",
+        "title": "Fotoromanza",
+        "artist": "Gianna Nannini",
+        "release_date": "1984-11-27"
+      },
+      {
+        "CardNumber": "00236",
+        "Spotify": "3tHUvprpEXpEHWLZJ8ZI80",
+        "title": "Quando Sono Con Te",
+        "artist": "Ex-Otago",
+        "release_date": "2016-10-21"
+      },
+      {
+        "CardNumber": "00235",
+        "Spotify": "4JFVL3OMGu4hVkLCTOQk8j",
+        "title": "Amore Disperato - 2004 Remaster",
+        "artist": "Nada",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00234",
+        "Spotify": "5l9EtVvNqbDLTBDnzR4y86",
+        "title": "Io canto",
+        "artist": "Laura Pausini",
+        "release_date": "2006-11-10"
+      },
+      {
+        "CardNumber": "00233",
+        "Spotify": "7bcHU50mENL3al5DhEJc7J",
+        "title": "Terra promessa",
+        "artist": "Eros Ramazzotti",
+        "release_date": "2014-10-27"
+      },
+      {
+        "CardNumber": "00232",
+        "Spotify": "3DmjHN1btW4dRtgwm7FdO2",
+        "title": "Magnifico",
+        "artist": "Fedez, Francesca Michielin",
+        "release_date": "2014-10-14"
+      },
+      {
+        "CardNumber": "00231",
+        "Spotify": "21Ay8mJRYQuOMZp7qyQXl6",
+        "title": "50 Special",
+        "artist": "Lùnapop",
+        "release_date": "1999-11-30"
+      },
+      {
+        "CardNumber": "00230",
+        "Spotify": "0xqLziSiZYSxn0rW0Ch6nI",
+        "title": "Fatti mandare dalla mamma a prendere il latte",
+        "artist": "Gianni Morandi",
+        "release_date": "1963"
+      },
+      {
+        "CardNumber": "00229",
+        "Spotify": "41Ic4tOAkz5NMfNNQ14bW6",
+        "title": "Bene ma non benissimo",
+        "artist": "Shade",
+        "release_date": "2018-11-16"
+      },
+      {
+        "CardNumber": "00228",
+        "Spotify": "6uh7Mg8FBL98cdnGtkGHIw",
+        "title": "La bambola",
+        "artist": "Patty Pravo",
+        "release_date": "2000-11-25"
+      },
+      {
+        "CardNumber": "00227",
+        "Spotify": "07rZol7bEXJSUHIcwah0eq",
+        "title": "Non ho l'età (Per amarti)",
+        "artist": "Gigliola Cinquetti",
+        "release_date": "1983"
+      },
+      {
+        "CardNumber": "00226",
+        "Spotify": "3TJPi0I2OjWrmjWoXY51nH",
+        "title": "Mistero",
+        "artist": "Enrico Ruggeri",
+        "release_date": "1993"
+      },
+      {
+        "CardNumber": "00225",
+        "Spotify": "6shzlUkm7OcnoO4guEiGJ8",
+        "title": "Sei nell'anima",
+        "artist": "Gianna Nannini",
+        "release_date": "2006-11-27"
+      },
+      {
+        "CardNumber": "00224",
+        "Spotify": "0QaORIIHTiZ6UzITW6crMj",
+        "title": "Sandra",
+        "artist": "360",
+        "release_date": "2014-09-06"
+      },
+      {
+        "CardNumber": "00223",
+        "Spotify": "30FSOhZMMbmbBvWHKO1zRH",
+        "title": "Stessa spiaggia stesso mare",
+        "artist": "Piero Focaccia",
+        "release_date": "1997-09-07"
+      },
+      {
+        "CardNumber": "00222",
+        "Spotify": "7xVOIwJr7bYqxipSpZSTY4",
+        "title": "Nu juorno buono",
+        "artist": "Rocco Hunt",
+        "release_date": "2014-03-24"
+      },
+      {
+        "CardNumber": "00221",
+        "Spotify": "2T1BCT4JhKVPgAsEgwa4du",
+        "title": "Don Raffaè",
+        "artist": "Fabrizio De André",
+        "release_date": "1990-05-02"
+      },
+      {
+        "CardNumber": "00220",
+        "Spotify": "0NAjpcNOjROBcwFNQlcXY9",
+        "title": "Ricominciamo",
+        "artist": "Adriano Pappalardo",
+        "release_date": "2000-09-27"
+      },
+      {
+        "CardNumber": "00219",
+        "Spotify": "3h0v8BiwP1qzlCX7TXrsDF",
+        "title": "Xdono",
+        "artist": "Tiziano Ferro",
+        "release_date": "2001-10-26"
+      },
+      {
+        "CardNumber": "00218",
+        "Spotify": "4FVw2srfJsvs6n7yUNk93b",
+        "title": "Www.Mipiacitu",
+        "artist": "Gazosa",
+        "release_date": "2001-06-01"
+      },
+      {
+        "CardNumber": "00217",
+        "Spotify": "61CUH9OcCwVsvXnbrvWejy",
+        "title": "Voglio una lurida",
+        "artist": "Articolo 31",
+        "release_date": "1997-02-25"
+      },
+      {
+        "CardNumber": "00216",
+        "Spotify": "3B3FUgKPpSTpeHN5ubVQ9W",
+        "title": "Vaffanculo",
+        "artist": "Marco Masini",
+        "release_date": "1993"
+      },
+      {
+        "CardNumber": "00215",
+        "Spotify": "52lYqr81fi0H2yVLupzGwy",
+        "title": "Ti regalerò una rosa",
+        "artist": "Simone Cristicchi",
+        "release_date": "2007-03-02"
+      },
+      {
+        "CardNumber": "00214",
+        "Spotify": "5klQSk2bLb0U3vnvGJUZf4",
+        "title": "L'essenziale",
+        "artist": "Marco Mengoni",
+        "release_date": "2013-03-19"
+      },
+      {
+        "CardNumber": "00213",
+        "Spotify": "6bz6uA8IhrNNvfCI4a5k3C",
+        "title": "Calma e sangue freddo",
+        "artist": "Luca Dirisio",
+        "release_date": "2004-11-12"
+      },
+      {
+        "CardNumber": "00212",
+        "Spotify": "5nsiDz5za8VusjzwuHaaoz",
+        "title": "T'Innamorerò",
+        "artist": "Marina Rei",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00211",
+        "Spotify": "3uyzarwYMuh0QTiZxTBIJq",
+        "title": "Supercafone - '99",
+        "artist": "Piotta",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00210",
+        "Spotify": "54vHTnNn2m2ayMl414U9JQ",
+        "title": "Romagna mia",
+        "artist": "Secondo Casadei",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00209",
+        "Spotify": "6CfXJBOhCEtEDgLUdrBffK",
+        "title": "Mary",
+        "artist": "Gemelli Diversi",
+        "release_date": "2002-09-26"
+      },
+      {
+        "CardNumber": "00208",
+        "Spotify": "08RVzS1yTy1TsVuRgziTOq",
+        "title": "Baila (Sexy Thing)",
+        "artist": "Zucchero",
+        "release_date": "2001-09-14"
+      },
+      {
+        "CardNumber": "00207",
+        "Spotify": "3S9vQotX3BuVZ6tFvkeE3r",
+        "title": "Le Mille Bolle Blu",
+        "artist": "Mina",
+        "release_date": "2016-06-22"
+      },
+      {
+        "CardNumber": "00206",
+        "Spotify": "0kzGjSRHGVcaWxagzQwAyD",
+        "title": "Bando",
+        "artist": "ANNA",
+        "release_date": "2020-01-31"
+      },
+      {
+        "CardNumber": "00205",
+        "Spotify": "5aowfqA6aFjK1FScZmg4pN",
+        "title": "Hanno ucciso l'Uomo Ragno",
+        "artist": "883",
+        "release_date": "1992"
+      },
+      {
+        "CardNumber": "00204",
+        "Spotify": "1jRpaRzkH54WWxnGP35Mkn",
+        "title": "Spaccacuore",
+        "artist": "Samuele Bersani",
+        "release_date": "1994-07-30"
+      },
+      {
+        "CardNumber": "00203",
+        "Spotify": "6KF78W66DcQ9m5YqR0r5Ig",
+        "title": "BIMBI PER STRADA (CHILDREN)",
+        "artist": "Fedez, Robert Miles",
+        "release_date": "2020-06-11"
+      },
+      {
+        "CardNumber": "00202",
+        "Spotify": "7dp45uA0Ws4TadWaMwdIRw",
+        "title": "Se bastasse una canzone",
+        "artist": "Eros Ramazzotti",
+        "release_date": "1997-10-22"
+      },
+      {
+        "CardNumber": "00201",
+        "Spotify": "7pXskX4mgxf3yozgSaUbr8",
+        "title": "Questione di sguardi (This Kiss)",
+        "artist": "Paola Turci",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00200",
+        "Spotify": "284k7wMWGGdFEPFXER98ce",
+        "title": "'O Sarracino",
+        "artist": "Renato Carosone",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00199",
+        "Spotify": "6wxKdEALyryMXAgyiIXmWB",
+        "title": "Mi manchi",
+        "artist": "Fausto Leali",
+        "release_date": "2010-03-08"
+      },
+      {
+        "CardNumber": "00198",
+        "Spotify": "1tx2oinycuW0tfPrwUJuTU",
+        "title": "Che vita meravigliosa",
+        "artist": "Diodato",
+        "release_date": "2020-05-22"
+      },
+      {
+        "CardNumber": "00197",
+        "Spotify": "6A3axRTw93LhvnlQLFmi7S",
+        "title": "Dicono Di Me",
+        "artist": "Cesare Cremonini",
+        "release_date": "2008-09-26"
+      },
+      {
+        "CardNumber": "00196",
+        "Spotify": "7MMJa7cjMadOSR6CFWvB1x",
+        "title": "La musica non c'è",
+        "artist": "Coez",
+        "release_date": "2017-05-05"
+      },
+      {
+        "CardNumber": "00195",
+        "Spotify": "4wygbO6TTzMIy745rxcmdT",
+        "title": "Ti Vorrei Sollevare",
+        "artist": "Elisa, Giuliano Sangiorgi",
+        "release_date": "2009-11-13"
+      },
+      {
+        "CardNumber": "00194",
+        "Spotify": "3I34WEKJqhqdlUVhyah4GK",
+        "title": "La Musica Italiana",
+        "artist": "Giorgio Poi, Calcutta ",
+        "release_date": "2019-01-23"
+      },
+      {
+        "CardNumber": "00193",
+        "Spotify": "6ZQf7QhN9jCwyIGOO9rOLb",
+        "title": "Ipocondria",
+        "artist": "Giancane, Rancore",
+        "release_date": "2017-11-24"
+      },
+      {
+        "CardNumber": "00192",
+        "Spotify": "1jdotZBW7ybF2wf6896occ",
+        "title": "Solo Una Volta",
+        "artist": "Alex Britti",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00191",
+        "Spotify": "5XGHO2pZoPDBScD3ZRN1m3",
+        "title": "Io sono Francesco",
+        "artist": "Tricarico",
+        "release_date": "2013-04-02"
+      },
+      {
+        "CardNumber": "00190",
+        "Spotify": "3nERuMKRfJdcZesKieyKV4",
+        "title": "Una lacrima sul viso",
+        "artist": "Bobby Solo",
+        "release_date": "1964"
+      },
+      {
+        "CardNumber": "00189",
+        "Spotify": "5XAGVMePJNaXHcdRN578Xi",
+        "title": "La canzone del sole - Remastered",
+        "artist": "Lucio Battisti",
+        "release_date": "1971"
+      },
+      {
+        "CardNumber": "00188",
+        "Spotify": "7roApk4v4yAWU3AbE7hV6L",
+        "title": "Applausi Per Fibra",
+        "artist": "Fabri Fibra",
+        "release_date": "2006-12-01"
+      },
+      {
+        "CardNumber": "00187",
+        "Spotify": "55ZUCvzkEPQPWXe45NjvY6",
+        "title": "Yoko-ono",
+        "artist": "Salmo",
+        "release_date": "2011-02-01"
+      },
+      {
+        "CardNumber": "00186",
+        "Spotify": "1JifcDcem5ca3zvvqM9qgd",
+        "title": "Quelli che benpensano (feat. Riccardo Sinigallia)",
+        "artist": "Frankie hi-nrg mc, Riccardo Sinigallia",
+        "release_date": "1998-05-12"
+      },
+      {
+        "CardNumber": "00185",
+        "Spotify": "4mVlNdzwZVEhoGiebL28DW",
+        "title": "Che vita è",
+        "artist": "Irene Grandi",
+        "release_date": "1997-09-22"
+      },
+      {
+        "CardNumber": "00184",
+        "Spotify": "6ZeuLKwFxg10M4DhJPBjNm",
+        "title": "ME STAJE APPENNENN' AMÒ",
+        "artist": "LIBERATO",
+        "release_date": "2019-05-09"
+      },
+      {
+        "CardNumber": "00183",
+        "Spotify": "6HqJfzaStS9m7ln9Ec1ZK2",
+        "title": "Non Me Lo Posso Permettere",
+        "artist": "Caparezza",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00182",
+        "Spotify": "40fFHQMgw9fKkai4XbnAv4",
+        "title": "Spirale ovale",
+        "artist": "Articolo 31",
+        "release_date": "2002-03-22"
+      },
+      {
+        "CardNumber": "00181",
+        "Spotify": "4fBsCHQoS5H3eKAxUAyB1y",
+        "title": "L'Estate Di John Wayne",
+        "artist": "Raphael Gualazzi",
+        "release_date": "2016-09-23"
+      },
+      {
+        "CardNumber": "00180",
+        "Spotify": "6Lc0La3OwOmAouQjbID4uX",
+        "title": "Nera",
+        "artist": "Irama",
+        "release_date": "2018-06-01"
+      },
+      {
+        "CardNumber": "00179",
+        "Spotify": "6kAyAeTujv9xCciuSyrJwz",
+        "title": "Guardia '82",
+        "artist": "Brunori Sas",
+        "release_date": "2009-06-19"
+      },
+      {
+        "CardNumber": "00178",
+        "Spotify": "4DxU9yKktJVQXhcLxjh67j",
+        "title": "Dedicato A Te",
+        "artist": "Le Vibrazioni",
+        "release_date": "2003-05-12"
+      },
+      {
+        "CardNumber": "00177",
+        "Spotify": "1UcJs6RsX9upkeaFCNPBNs",
+        "title": "Mon Amour",
+        "artist": "Annalisa",
+        "release_date": "2023-03-31"
+      },
+      {
+        "CardNumber": "00176",
+        "Spotify": "4hLfJD5crkhsUGIyQXEJds",
+        "title": "Samarcanda",
+        "artist": "Roberto Vecchioni",
+        "release_date": "1984-01-01"
+      },
+      {
+        "CardNumber": "00175",
+        "Spotify": "7GTeLC0Luk2RgtFE6CpYSo",
+        "title": "Triangolo",
+        "artist": "Renato Zero",
+        "release_date": "1978"
+      },
+      {
+        "CardNumber": "00174",
+        "Spotify": "2ipc1OACP7BEltKn0g3t7C",
+        "title": "Amanda Lear",
+        "artist": "Baustelle",
+        "release_date": "2017-01-13"
+      },
+      {
+        "CardNumber": "00173",
+        "Spotify": "5ara7YRzxZ27IwmPWEoNkr",
+        "title": "Futura",
+        "artist": "Lucio Dalla",
+        "release_date": "1980-05-02"
+      },
+      {
+        "CardNumber": "00172",
+        "Spotify": "7zjbF7hSWzhdYIYp3ANmax",
+        "title": "Le Ragazze",
+        "artist": "Neri Per Caso",
+        "release_date": "2009-11-10"
+      },
+      {
+        "CardNumber": "00171",
+        "Spotify": "4hWQaCHO3k3bTYi8AozKTE",
+        "title": "Grande amore",
+        "artist": "Il Volo",
+        "release_date": "2015-02-17"
+      },
+      {
+        "CardNumber": "00170",
+        "Spotify": "2YdOZTN2ElEYhEuq6zmwT8",
+        "title": "Non sei tu",
+        "artist": "Gazzelle",
+        "release_date": "2017-03-03"
+      },
+      {
+        "CardNumber": "00169",
+        "Spotify": "1yJJSByYuLISEVOHV0Mm5m",
+        "title": "Due Destini",
+        "artist": "Tiromancino",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00168",
+        "Spotify": "6mVlGhXn7yXqI3iiwfeyHj",
+        "title": "X Colpa Di Chi? - Remastered 2017",
+        "artist": "Zucchero",
+        "release_date": "2017-11-03"
+      },
+      {
+        "CardNumber": "00167",
+        "Spotify": "18NBoQ9SyURVcsPW6sP8tv",
+        "title": "Frosinone",
+        "artist": "Calcutta ",
+        "release_date": "2016-06-03"
+      },
+      {
+        "CardNumber": "00166",
+        "Spotify": "4VgZNaG1PQL2DJ2Y09Kd46",
+        "title": "Cuore matto",
+        "artist": "Little Tony",
+        "release_date": "2000-06-15"
+      },
+      {
+        "CardNumber": "00165",
+        "Spotify": "4xyp77VPg90ezi7N1p99a5",
+        "title": "Ho messo via",
+        "artist": "Ligabue",
+        "release_date": "1993"
+      },
+      {
+        "CardNumber": "00164",
+        "Spotify": "11GOQGHOklyufCl04WM8Kc",
+        "title": "Viva la mamma",
+        "artist": "Edoardo Bennato",
+        "release_date": "1989"
+      },
+      {
+        "CardNumber": "00163",
+        "Spotify": "65HKgaue61ygPyVxSOWSuR",
+        "title": "Brutta",
+        "artist": "Alessandro Canino",
+        "release_date": "2015-09-11"
+      },
+      {
+        "CardNumber": "00162",
+        "Spotify": "6fSU9cPInMGFolaxhA0Le0",
+        "title": "Teorema",
+        "artist": "Marco Ferradini",
+        "release_date": "2006-01-03"
+      },
+      {
+        "CardNumber": "00161",
+        "Spotify": "0AsCObd7eD2NSSg3UBJLKo",
+        "title": "Un'emozione da poco",
+        "artist": "Anna Oxa",
+        "release_date": "1978-07-23"
+      },
+      {
+        "CardNumber": "00160",
+        "Spotify": "2qvE4k7jgURyu92CdOHQs0",
+        "title": "Buonasera Dottore - New Mix Version",
+        "artist": "Claudia Mori",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00159",
+        "Spotify": "6MSBy2FHPHwM9n2QhrhpuS",
+        "title": "Sì, viaggiare",
+        "artist": "Lucio Battisti",
+        "release_date": "1977"
+      },
+      {
+        "CardNumber": "00158",
+        "Spotify": "4iflyaQ5b0EypO6HOTn3I4",
+        "title": "Vivo per lei",
+        "artist": "Andrea Bocelli, Giorgia",
+        "release_date": "1995-03-17"
+      },
+      {
+        "CardNumber": "00157",
+        "Spotify": "55leNp6KroYHp1x7FZueiq",
+        "title": "La rondine",
+        "artist": "Mango",
+        "release_date": "2002-05-31"
+      },
+      {
+        "CardNumber": "00156",
+        "Spotify": "5KkcthkQDnlhQN0WhO8DsM",
+        "title": "Bagno a mezzanotte",
+        "artist": "Elodie",
+        "release_date": "2022-03-08"
+      },
+      {
+        "CardNumber": "00155",
+        "Spotify": "50f0mt35cIwwu3Krk7nS7b",
+        "title": "Ma quale idea",
+        "artist": "Pino D'Angiò",
+        "release_date": "2011-03-15"
+      },
+      {
+        "CardNumber": "00154",
+        "Spotify": "7AEfPUY8gHoEzQja4OOO49",
+        "title": "Pedro",
+        "artist": "Raffaella Carrà",
+        "release_date": "1980-12-01"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "3XryljdYhtzUe7mOGNy3C5",
+        "title": "Sognami",
+        "artist": "Biagio Antonacci",
+        "release_date": "2015-11-27"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "5psIeCubygBYVM62l5IQiB",
+        "title": "Maggese",
+        "artist": "Cesare Cremonini",
+        "release_date": "2005-06-10"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "3Nc7IorgrSffzaQrQWVw4L",
+        "title": "Musica (E Il Resto Scompare)",
+        "artist": "Elettra Lamborghini",
+        "release_date": "2020-02-07"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "1Lq5ApqhIWUXzlryFX2K6J",
+        "title": "Davide (feat. Coez)",
+        "artist": "Gemitaiz, Coez",
+        "release_date": "2018-04-20"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "49R1F3rIdSzuPk7AcHi6d1",
+        "title": "la noia",
+        "artist": "Angelina Mango",
+        "release_date": "2024-02-07"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "0mHC3BK9vFGoEU0EcGPWRZ",
+        "title": "CENERE",
+        "artist": "Lazza",
+        "release_date": "2022-04-07"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "5xawcInIrIHbrL4TTb59tf",
+        "title": "Piccolissima serenata",
+        "artist": "Teddy Reno",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "6OIZN7iSLdw6ml70zRlAUu",
+        "title": "Abbronzatissima",
+        "artist": "Edoardo Vianello",
+        "release_date": "2000-11-25"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "5zo7EkNUkhM7nDYpQG8p4C",
+        "title": "Cleptomania",
+        "artist": "Sugarfree",
+        "release_date": "2005-05-06"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "6oiEW7EkuU9qDC4fyLF90y",
+        "title": "Dove sta Zazà?",
+        "artist": "Nino Taranto",
+        "release_date": "2008-01-25"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "00b7i3sXa6hlR2ZIDwyNLN",
+        "title": "Prima di andare via",
+        "artist": "Neffa",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "5bhDnWdKWLVFppOpQvNNox",
+        "title": "Lascia che io sia",
+        "artist": "Nek",
+        "release_date": "2005-05-13"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "7knLxpsAZfqSbdF8Xt8HpN",
+        "title": "Un Senso",
+        "artist": "Vasco Rossi",
+        "release_date": "2004-04-02"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "3roodBW6Fdvl8R2cooFU7L",
+        "title": "Vattene amore (feat. Amedeo Minghi)",
+        "artist": "Mietta, Amedeo Minghi",
+        "release_date": "1990"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "5dmiieodT1bmGemOO3AsGz",
+        "title": "Se adesso te ne vai",
+        "artist": "Massimo Di Cataldo",
+        "release_date": "2001-06-29"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "1nND6VDerwJxLaUwVVCp28",
+        "title": "SUPEREROI",
+        "artist": "Mr.Rain",
+        "release_date": "2023-02-08"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "3jPIITsDUTcZNCE3Y7dSE6",
+        "title": "Via Margutta",
+        "artist": "Luca Barbarossa",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "3fFzwItCBsslMUGtjz1idG",
+        "title": "Tre Parole",
+        "artist": "Valeria Rossi",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "38bARlnKCEPZvng2g35dxI",
+        "title": "Vento D'Estate",
+        "artist": "Niccolò Fabi, Max Gazzè",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "2Z7cRvS9SjIM3fGNsT3Emt",
+        "title": "I migliori anni della nostra vita - Remastered 2019",
+        "artist": "Renato Zero",
+        "release_date": "1995-09-18"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "7BWvUqHLziROVeKttUQVfT",
+        "title": "La forza mia",
+        "artist": "Marco Carta",
+        "release_date": "2009-02-20"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "4Es05jCgUdVshnC8cZcVZE",
+        "title": "Velleità",
+        "artist": "i cani",
+        "release_date": "2011-06-03"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "1kc8vFipscBShNDVWoCTUY",
+        "title": "La notte dei pensieri",
+        "artist": "Michele Zarrillo",
+        "release_date": "1997-05-19"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "2HSRazkijnq7r6tgIykynY",
+        "title": "Strani amori",
+        "artist": "Laura Pausini",
+        "release_date": "1994-02-26"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "1PknFWeSYaeCiHHUShL5ZJ",
+        "title": "Angelo",
+        "artist": "Francesco Renga",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "7GrkHS3TW3AlcIqpi6LSRw",
+        "title": "E tu...",
+        "artist": "Claudio Baglioni",
+        "release_date": "1974"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "4ITThXIauLMI2RrmFIT41x",
+        "title": "Mentre Tutto Scorre",
+        "artist": "Negramaro",
+        "release_date": "2006-05-26"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "0YRMOyyJw458JBQhZMEvce",
+        "title": "Non amarmi",
+        "artist": "Francesca Alotta, Aleandro Baldi",
+        "release_date": "1997-01-13"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "37C6DyoMu75ViTiwqxV4bY",
+        "title": "Il cielo in una stanza",
+        "artist": "Gino Paoli",
+        "release_date": "2001-01-25"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "3SGYnEhg1vUHVlGnGdS6ed",
+        "title": "Vorrei ma non posto",
+        "artist": "J-AX, Fedez",
+        "release_date": "2017-01-20"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "1XZp9CsjFdnZuiNzcGYKgP",
+        "title": "Io vagabondo (Che non sono altro)",
+        "artist": "Nomadi",
+        "release_date": "1992-06-24"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "1bqVyrIs9YLylyygqrc3nX",
+        "title": "L'unica - Festival di Sanremo 2014",
+        "artist": "Perturbazione",
+        "release_date": "2014-02-20"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "3z8m4rIAp6oZCbYyotj8iG",
+        "title": "Non potrei mai",
+        "artist": "Fast Animals and Slow Kids",
+        "release_date": "2019-05-10"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "3rj9hQVzP4aLDST8ZtFCF0",
+        "title": "Le Colline Sono In Fiore",
+        "artist": "Wilma Goich",
+        "release_date": "2009-05-20"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "3ZqL7rtfHLxWk7PQnZv7hH",
+        "title": "Tanto pè cantà",
+        "artist": "Nino Manfredi",
+        "release_date": "2003-06-18"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "3KoUTYSRCUgleIybRyoC8C",
+        "title": "Roma - Bangkok (feat. Giusy Ferreri)",
+        "artist": "Baby K, Giusy Ferreri",
+        "release_date": "2015-09-11"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "3PO7M2spz5HVMWetNnn5bY",
+        "title": "Il Più Grande Spettacolo Dopo Il Big Bang",
+        "artist": "Jovanotti",
+        "release_date": "2011-11-29"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "74F6eM5sKBjAGtWBu5KpZQ",
+        "title": "Piove - Ciao Ciao Bambina",
+        "artist": "Domenico Modugno",
+        "release_date": "2000-06-15"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "3AvqtcseWAUMjxuHeUAfsn",
+        "title": "Aglio e olio",
+        "artist": "Fulminacci, Willie Peyote",
+        "release_date": "2022-03-11"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "2JT02CH8A8lUwB1GwqvxTQ",
+        "title": "Mambo Italiano",
+        "artist": "Renato Carosone",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "1jhHPnmgZepKU8qX4VhRZ0",
+        "title": "Rondini Al Guinzaglio",
+        "artist": "Ultimo",
+        "release_date": "2019-04-05"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "4eI0ncpnZuv4A3ssTJRSDY",
+        "title": "Due Vite",
+        "artist": "Marco Mengoni",
+        "release_date": "2022-12-25"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "5lsRbHZaEBafxOtmHuzDsB",
+        "title": "Viva la pappa col pomodoro",
+        "artist": "Rita Pavone",
+        "release_date": "2016-02-08"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "4gx3iL7YGpjSMwDTKfAl2S",
+        "title": "Aprite Le Finestre",
+        "artist": "Franca Raimondi",
+        "release_date": "2013-02-22"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "6WPPqKRLQLc4rACNfzlLbq",
+        "title": "Banane e lampone",
+        "artist": "Gianni Morandi",
+        "release_date": "2002-07-19"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "6RyJ57TU2qJCw3GIv9Ag1B",
+        "title": "Kobra",
+        "artist": "Donatella Rettore",
+        "release_date": "2001-03-14"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "6FtfrynKZrlZyVw8uzpz1e",
+        "title": "Gli Uomini E Le Donne Sono Uguali",
+        "artist": "Cesare Cremonini",
+        "release_date": "2002-11-15"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "6j1ocCw7gfXPFpp9j8GJRt",
+        "title": "Celeste nostalgia",
+        "artist": "Riccardo Cocciante",
+        "release_date": "1982-02-22"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "6vMd71SxAIUxTwPlLntDv0",
+        "title": "Tutte le mamme",
+        "artist": "Giorgio Consolini",
+        "release_date": "2012-05-07"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "5utTysnfjm6t7nj8PFxbJv",
+        "title": "Fiumi di parole",
+        "artist": "Jalisse",
+        "release_date": "2016-12-09"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "7C8kVsBSMYqmu190O2lbS5",
+        "title": "Il Solito Sesso",
+        "artist": "Max Gazzè",
+        "release_date": "2008-03-07"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "1gIDTn5bujBLjE5OPRW03Y",
+        "title": "Almeno Tu Nell'universo - Original Version",
+        "artist": "Mia Martini",
+        "release_date": "2004"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "2vDDxjDdkF3230Jla9wvHb",
+        "title": "Viva",
+        "artist": "The Zen Circus",
+        "release_date": "2014-01-21"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "4errMlpDiqr9cO0V16MLjQ",
+        "title": "Zingara",
+        "artist": "Iva Zanicchi",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "7Jve30UX4JbPmt3DLcxaKu",
+        "title": "Fiori D'Arancio",
+        "artist": "Carmen Consoli",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "6iBJqBzhUwmkACzHId9wPV",
+        "title": "Mandela",
+        "artist": "Margherita Vicario",
+        "release_date": "2021-05-13"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "4u1ga0SwzDoq5Xu9oY4etk",
+        "title": "Senza pietà",
+        "artist": "Anna Oxa",
+        "release_date": "1999-03-11"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "0F5qTnLuc8gDVodPoRUCOc",
+        "title": "Zeta reticoli",
+        "artist": "Meganoidi",
+        "release_date": "2003"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "6Y2tQcPJaknHKY0RLH3jaf",
+        "title": "Vorrei incontrarti fra cent'anni (feat. Tosca)",
+        "artist": "Ron, Tosca",
+        "release_date": "1996-03-06"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "5Bdzlw5cZ5u8s3JzUGcXQt",
+        "title": "Anima Mia",
+        "artist": "Cugini Di Campagna",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "4lJpy10HgdXwVmetgwjGkH",
+        "title": "Attenti al lupo",
+        "artist": "Lucio Dalla",
+        "release_date": "1990-09-11"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "2opZnbrOLF2rj14Oslz76K",
+        "title": "Che male c'è - 2017 Remaster",
+        "artist": "Pino Daniele",
+        "release_date": "1997-03-12"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "4ZJqnvzbB7zjwQ38qWxQ2e",
+        "title": "Donne - Remastered 2017",
+        "artist": "Zucchero",
+        "release_date": "2017-11-03"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "0jbzDRhdPHY6lmiBlC3wqn",
+        "title": "Ma dove vai bellezza in bicicletta",
+        "artist": "Silvana Pampanini",
+        "release_date": "2015-01-01"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "4EsU1itX1LEPptKwjhGbVl",
+        "title": "Oggi Sono Io",
+        "artist": "Alex Britti",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "5rtuF6ug2n2XmQBFvJc7kd",
+        "title": "PAZZESKA (feat. Guè)",
+        "artist": "M¥SS KETA, Guè",
+        "release_date": "2019-03-29"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "1IkkOlYbhHxGxyxqC5nVOx",
+        "title": "Non dirgli mai",
+        "artist": "Gigi D'Alessio",
+        "release_date": "1999-11-08"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "5bT0MuaZklet0dhw6akFza",
+        "title": "Per Sempre",
+        "artist": "Nina Zilli",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "2r1SRt8bhtR6a9bMRR0AgV",
+        "title": "La storia infinita",
+        "artist": "Pinguini Tattici Nucleari",
+        "release_date": "2020-12-04"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "1ufHygHnHwFWSAAeseeJYh",
+        "title": "Ragazze Acidelle",
+        "artist": "Flaminio Maphia",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "5tZMZo9nNf0rzjQmXFBGrr",
+        "title": "Ho un sassolino nella scarpa",
+        "artist": "Natalino Otto",
+        "release_date": "2011-04-01"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "3eJDw5WIJTpeITbI5uXfe6",
+        "title": "Per Tutte Le Volte Che...",
+        "artist": "Valerio Scanu",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "7vAzIVfyFp8hOVCOQChwA0",
+        "title": "Ma il cielo è sempre più blu",
+        "artist": "Rino Gaetano",
+        "release_date": "2021-06-25"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "2T2t1DXwzdilKF3BQPHREo",
+        "title": "La donna cannone",
+        "artist": "Francesco De Gregori",
+        "release_date": "1983"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "2P2rhs7AtvqUzerhAZDbNu",
+        "title": "Via con me",
+        "artist": "Paolo Conte",
+        "release_date": "1981-02-06"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "7kQ0poWF6JfGAkMK9uEg8r",
+        "title": "A casa di Luca",
+        "artist": "Silvia Salemi",
+        "release_date": "2015-06-05"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "2opRyiaqpnQCH0jfCY9Wjd",
+        "title": "MAKUMBA",
+        "artist": "Noemi, Carl Brave",
+        "release_date": "2021-03-05"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "0ty8CM0Dibp8AujC2xMWZ3",
+        "title": "Parlami D'Amore Mariù",
+        "artist": "Vittorio De Sica",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "5HAri7dfAKqA7vTAt8vwMB",
+        "title": "Andamento lento",
+        "artist": "Tullio De Piscopo",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "2wud13eK0j09mH4h6625g7",
+        "title": "Come Prima",
+        "artist": "Tony Dallara",
+        "release_date": "1956-02-09"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "1zj7vlb9EFZ8NqbSHofkGT",
+        "title": "Non sono una signora",
+        "artist": "Loredana Bertè",
+        "release_date": "1982-09-20"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "0jmrRnVetXvXlU6RUqnoTY",
+        "title": "Vivere a colori",
+        "artist": "Alessandra Amoroso",
+        "release_date": "2016-01-15"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "2cDXOyrkh28y9RXVXadsJy",
+        "title": "È venerdì",
+        "artist": "Max Pezzali",
+        "release_date": "2015-06-01"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "3vSvzXZVJ92x9fHPQAqgVo",
+        "title": "Vado al massimo",
+        "artist": "Vasco Rossi",
+        "release_date": "1982"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "0TnxouHJO7vntNw3JpQDmm",
+        "title": "Una Notte E Forse Mai Più - Album Mix",
+        "artist": "Eiffel 65",
+        "release_date": "2005-02-24"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "4hJSzUREpdDo8uhgEflbHr",
+        "title": "Sally",
+        "artist": "Vasco Rossi",
+        "release_date": "1996-10-28"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "1AUQYchnMNYfNu15W6OQqv",
+        "title": "Voglio vederti danzare - Radio Version",
+        "artist": "Prezioso, Marvin & Andrea Prezioso",
+        "release_date": "2003-06-12"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "52DWZhGa49WzpSSy62rHpa",
+        "title": "L'Estate Addosso",
+        "artist": "Jovanotti",
+        "release_date": "2015-02-24"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "695AOnYHYnvHIMaTNKjkA5",
+        "title": "Felicità puttana",
+        "artist": "Thegiornalisti, Tommaso Paradiso",
+        "release_date": "2018-09-21"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "0NUyAEi7WInhF0SJGVavUG",
+        "title": "Stella Stai",
+        "artist": "Umberto Tozzi",
+        "release_date": "1980-01-01"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "0bcrOUFQTXyJCC1lT2xfWI",
+        "title": "Maledetta primavera",
+        "artist": "Loretta Goggi",
+        "release_date": "2000"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "6y7XB3Zxk9XUaxw0Pp5IG5",
+        "title": "Io ho in mente te",
+        "artist": "Equipe 84",
+        "release_date": "1966-07-17"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "28U1sUQKKGGFY8e4SPfHfr",
+        "title": "E, la vita la vita",
+        "artist": "Cochi e Renato",
+        "release_date": "2007-02-16"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "6134tdWf6qjAGgQs1xJRyA",
+        "title": "Una Vita In Vacanza",
+        "artist": "Lo Stato Sociale",
+        "release_date": "2018-02-09"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "4JK6WX1iRzku7m7jEDcZhP",
+        "title": "L'Aiuola - Remastered 2022",
+        "artist": "Gianluca Grignani",
+        "release_date": "2002"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "3atDsUhlUgDlQQrI0XFh7I",
+        "title": "Cara Italia",
+        "artist": "Ghali",
+        "release_date": "2018-05-02"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "7rXMky241ZH2GoN34k1SYW",
+        "title": "Parole Di Burro",
+        "artist": "Carmen Consoli",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "3PeRV7ha5XOJwsVm8SxzI7",
+        "title": "Pompo Nelle Casse - Original Full",
+        "artist": "Power Francers, Riccardo Marchi",
+        "release_date": "2012-09-25"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "0Oj0nsrBu8YrJdR84VWJV0",
+        "title": "Quarantaquattro gatti",
+        "artist": "Piccolo Coro dell'Antoniano, Zecchino d'Oro",
+        "release_date": "2017-05-05"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "7lqWgYgGqid459SqZaXC0X",
+        "title": "Strada facendo",
+        "artist": "Claudio Baglioni",
+        "release_date": "1981-06-12"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "11z5LZg0FdAMxyF7LwWddi",
+        "title": "L'ultima festa",
+        "artist": "Cosmo",
+        "release_date": "2016-04-08"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "5a6ABzVhqgVKI1znaI9tar",
+        "title": "Dove Si Balla",
+        "artist": "Dargen D'Amico",
+        "release_date": "2022-03-03"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "3JjZz5GolOMxBlIEKGvtWs",
+        "title": "Mille Lire Al Mese",
+        "artist": "Gilberto Mazzi",
+        "release_date": "2006-10-31"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "3Fy6KpBHOTATmLD5Ri3Yv7",
+        "title": "Istrice",
+        "artist": "Subsonica",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "5zB92i6HcCHvVcX5NvGFQb",
+        "title": "Cinque giorni",
+        "artist": "Michele Zarrillo",
+        "release_date": "1994-10-30"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "424BQDJzOJqfJCZusTvAZP",
+        "title": "Vengo Dalla Luna",
+        "artist": "Caparezza",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "0RbhVoxOZE8BniSgmDbaXV",
+        "title": "Tutto il resto e' noia",
+        "artist": "Franco Califano",
+        "release_date": "1977-04-15"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "3r0lVlrDjLumSVIVNRGg47",
+        "title": "Tappeto Di Fragole",
+        "artist": "Modà",
+        "release_date": "2014-11-11"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "7DUs0muJGnpQ4g8N4xC35S",
+        "title": "Vengo Anch'Io No Tu No",
+        "artist": "Enzo Jannacci",
+        "release_date": "1997-09-29"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "4KjPTU3mhmjI9odazEFWXb",
+        "title": "Le tagliatelle di nonna pina",
+        "artist": "Piccolo Coro dell'Antoniano, Zecchino d'Oro",
+        "release_date": "2017-05-05"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "148uoUpRp6FJK5qYoXijwm",
+        "title": "Notte prima degli esami",
+        "artist": "Antonello Venditti",
+        "release_date": "1984-12-01"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "74CjS2xMK4KLnniXzFB9GI",
+        "title": "Gli anni (96)",
+        "artist": "883",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "1e4ZMHWU3wxRzeDtfITbhT",
+        "title": "Acqua e sale",
+        "artist": "MINACELENTANO",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "5Hjy8lyZ4h99OjrW8jzPQ8",
+        "title": "s!r! (feat. Lazza & Sfera Ebbasta)",
+        "artist": "thasup, Lazza, Sfera Ebbasta",
+        "release_date": "2022-09-30"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "2u1Bg5PvQ08GCOxSgt9yyr",
+        "title": "Il Cielo D'Irlanda",
+        "artist": "Fiorella Mannoia",
+        "release_date": "1991-12-13"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "6LEIAGml1CJg1WwDgwoi9u",
+        "title": "Un sabato italiano",
+        "artist": "Sergio Caputo",
+        "release_date": "1983-01-01"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "7rotq6mQ4r41a6LUjiMDpx",
+        "title": "Cambio",
+        "artist": "Negrita",
+        "release_date": "2003-02-28"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "4PRdGQsEQeqvfYZTPN6pDC",
+        "title": "Vacanze Romane - 1991 Remaster",
+        "artist": "Matia Bazar",
+        "release_date": "1983"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "6H05BWojJmygTQQHpt9irD",
+        "title": "Alla Fiera Dell'Est",
+        "artist": "Angelo Branduardi",
+        "release_date": "1976-01-01"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "6OVTR9jqJj6tlJiADrNq0F",
+        "title": "Anna E Marco",
+        "artist": "Lucio Dalla",
+        "release_date": "1979"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "4Ak0UaodK4JW3B8rHIEv3R",
+        "title": "Tropicana",
+        "artist": "Gruppo Italiano",
+        "release_date": "2002-01-24"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "40WnwseuE8YPiMdJIs08UQ",
+        "title": "A chi",
+        "artist": "Fausto Leali",
+        "release_date": "2010-03-08"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "6aPoZYg0xztgyErzcLoAyO",
+        "title": "Guerriero",
+        "artist": "Marco Mengoni",
+        "release_date": "2015-01-13"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "4vFXO237XjPm910TDvvsfg",
+        "title": "Je So' Pazzo - Remastered 2008",
+        "artist": "Pino Daniele",
+        "release_date": "1979"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "6lrlFMu06aGPDH0phlCnct",
+        "title": "Per dimenticare",
+        "artist": "Zero Assoluto",
+        "release_date": "2009-05-22"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "5NzWbTJOakrvq3g83UoD25",
+        "title": "Oro",
+        "artist": "Mango",
+        "release_date": "1986"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "6Ahg1hncxUdK0ICqU03BCu",
+        "title": "Superclassico",
+        "artist": "Ernia",
+        "release_date": "2020-06-18"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "3L3pb0swpXnrmFDbviDT3S",
+        "title": "Un'Estate Fa",
+        "artist": "Delta V",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "4Biwk6oxhdvt0XBFPGmYqT",
+        "title": "Frena",
+        "artist": "Carlotta",
+        "release_date": "2001-03-01"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "2awDnmL1D9cyIJFVruAQcF",
+        "title": "Io non abito al mare",
+        "artist": "Francesca Michielin",
+        "release_date": "2018-01-12"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "4fwR5b66ud3xUxPEUSID8q",
+        "title": "Mi sono innamorato di te",
+        "artist": "Luigi Tenco",
+        "release_date": "1962"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "7piIo15vVy3ULGXSpFs5xc",
+        "title": "Mambo Salentino",
+        "artist": "Boomdabash, Alessandra Amoroso",
+        "release_date": "2019-06-07"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "6WVSjBksHbfBVhvZew41iY",
+        "title": "VOCE",
+        "artist": "Madame",
+        "release_date": "2021-06-03"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "3ryHwx9i3jjdLSIAJmMkRz",
+        "title": "Nessuno",
+        "artist": "Wilma De Angelis",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "776AftMmFFAWUIEAb3lHhw",
+        "title": "ZITTI E BUONI",
+        "artist": "Måneskin",
+        "release_date": "2021-03-19"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "5gTuH5Jl8PVUitsFzFslWu",
+        "title": "Certe notti",
+        "artist": "Ligabue",
+        "release_date": "1995"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "5QKRTdqD7dgOIWMYXUmD6J",
+        "title": "Perdere l'amore",
+        "artist": "Massimo Ranieri",
+        "release_date": "1988-02-26"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "0s17tguVEtAXHOV4pNFKmM",
+        "title": "La Differenza Tra Me E Te",
+        "artist": "Tiziano Ferro",
+        "release_date": "2011"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "1btMRvG4MWanWCdGkWL4Bm",
+        "title": "Le ragazze",
+        "artist": "Luca Carboni",
+        "release_date": "1998-04-28"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "0HpKuz1HfXxRzNnUqfwzgF",
+        "title": "Piccola stella senza cielo",
+        "artist": "Ligabue",
+        "release_date": "1990"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "05IzsmArkmBWWclTfasnlp",
+        "title": "El diablo",
+        "artist": "Litfiba",
+        "release_date": "1990"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "1LyqfRdWZnKHtpg4jM2xrL",
+        "title": "Sei La Piu Bella Del Mondo",
+        "artist": "Raf",
+        "release_date": "1995-06-08"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "5PnEkOUOFnk0wMI71JwddQ",
+        "title": "L'appuntamento",
+        "artist": "Ornella Vanoni",
+        "release_date": "1996-04-29"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "2xoVgHZKhYCmCNxqidJ4en",
+        "title": "Balla",
+        "artist": "Umberto Rosario Balsamo",
+        "release_date": "1979-01-01"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "0val9iQ6jskEiCq6Ekgzav",
+        "title": "Amici come prima",
+        "artist": "Paola & Chiara",
+        "release_date": "1998-03-10"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "4bUBt22Q0IoJaI2LzA1nn6",
+        "title": "Capelli",
+        "artist": "Niccolò Fabi",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "5dWDWnIlasGDHFqTkfsWrm",
+        "title": "Non ti scordar mai di me",
+        "artist": "Giusy Ferreri",
+        "release_date": "2008-11-17"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "3Ls9yKzshQye18Tx2AvOb6",
+        "title": "90MIN",
+        "artist": "Salmo",
+        "release_date": "2018-11-09"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "5YPKiDLejR1JhnX6w2lhro",
+        "title": "Spigoli (feat. Mara Sattei & thasup)",
+        "artist": "Carl Brave, Mara Sattei, thasup",
+        "release_date": "2020-12-17"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "6HptEJAftm6pDt00FrNJ22",
+        "title": "Una zebra a pois",
+        "artist": "Mina",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "0xZGPXJ0vzeWIcVlwI4jY8",
+        "title": "Non voglio mica la luna",
+        "artist": "Fiordaliso",
+        "release_date": "2001-07-01"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "68d0iSU9eAJirdYCzOSFub",
+        "title": "Piove",
+        "artist": "Jovanotti, Soleluna NY Lab",
+        "release_date": "1994-06-30"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "3ov7Ej1082hP2tegMtVx4L",
+        "title": "Gelato Al Cioccolato",
+        "artist": "Pupo",
+        "release_date": "1991"
+      }
+    ]
+  }
+}

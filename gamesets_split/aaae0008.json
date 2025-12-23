@@ -1,0 +1,2166 @@
+{
+  "updated_on": 1766489458,
+  "sku": "aaae0008",
+  "gameset_data": {
+    "gameset_language": "Poland",
+    "gameset_name": "Hitster Original - Disco Polo",
+    "cards": [
+      {
+        "CardNumber": "00308",
+        "Spotify": "3xP1KVGVD97msKTLVVF7VQ",
+        "title": "Na flecie",
+        "artist": "Dejw",
+        "release_date": "2020-01-31"
+      },
+      {
+        "CardNumber": "00307",
+        "Spotify": "73HuvEpjXZiluWi62e9a4h",
+        "title": "Zwierzenia Ryśka czyli jedzie pociąg",
+        "artist": "Ryszard Rynkowski",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00306",
+        "Spotify": "0WUD8417uhRNCIrnEB6Lzq",
+        "title": "Jesteś moją naj",
+        "artist": "Milano",
+        "release_date": "2018-12-04"
+      },
+      {
+        "CardNumber": "00305",
+        "Spotify": "71au85QKTQzR2Rc4SH5R63",
+        "title": "Twe Czarne Oczy",
+        "artist": "Akcent",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00304",
+        "Spotify": "7fdhoKR8tRIsZBBRHZlrcg",
+        "title": "Jeszcze Jedna Noc",
+        "artist": "United",
+        "release_date": "1999-12-01"
+      },
+      {
+        "CardNumber": "00303",
+        "Spotify": "34M0e4LHMzbCX0yhemEkbl",
+        "title": "Nie ma ucieczki",
+        "artist": "Klincz",
+        "release_date": "2013-09-30"
+      },
+      {
+        "CardNumber": "00302",
+        "Spotify": "5JGjVE6aFFMElNqKXnBtmL",
+        "title": "Mała ooo...!",
+        "artist": "Crazy Boys",
+        "release_date": "1992-12-31"
+      },
+      {
+        "CardNumber": "00301",
+        "Spotify": "6HwyBCNoD2b5fqvwm06WQD",
+        "title": "Krejza z welonem",
+        "artist": "Alexa & Fonzy",
+        "release_date": "2024-07-30"
+      },
+      {
+        "CardNumber": "00300",
+        "Spotify": "7yyRxSecm72loTFr98SSct",
+        "title": "Ewa odeszła - Radio Edit",
+        "artist": "Mega Dance",
+        "release_date": "2000-08-01"
+      },
+      {
+        "CardNumber": "00299",
+        "Spotify": "7bXrZFPH8ROHoEQ1jZjyxl",
+        "title": "Kochana Wierzę w Miłość",
+        "artist": "Akcent",
+        "release_date": "2015-02-12"
+      },
+      {
+        "CardNumber": "00298",
+        "Spotify": "5thIWNPNMn61qvYr0psP5j",
+        "title": "Panna Andzia ma wychodne",
+        "artist": "BIG DANCE",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00297",
+        "Spotify": "6gnGlGjlbhObQ1Qs6ZO7p6",
+        "title": "Baiao bongo",
+        "artist": "Shazza",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00296",
+        "Spotify": "6QItebueK9CXhNbW9gfxzP",
+        "title": "Mydełko Fa 2017",
+        "artist": "Boys, Shazza",
+        "release_date": "2018-01-08"
+      },
+      {
+        "CardNumber": "00295",
+        "Spotify": "3EvMOAXtmwQ14xMyJbynDm",
+        "title": "Ciao Italia",
+        "artist": "Top One",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00294",
+        "Spotify": "7IRYVUTorY0zQYTowy0goa",
+        "title": "Zaproś mnie pod kocyk",
+        "artist": "Fires",
+        "release_date": "2020-02-13"
+      },
+      {
+        "CardNumber": "00293",
+        "Spotify": "5xVnU0S6I4SFznAonymihT",
+        "title": "Insta Story",
+        "artist": "Effect, Boyfriend",
+        "release_date": "2019-01-11"
+      },
+      {
+        "CardNumber": "00292",
+        "Spotify": "71tZnmyzCC4U9xrT2UFXF0",
+        "title": "Lubię Wkurzać Cię - Radio Edit",
+        "artist": "LOVERBOY Polska",
+        "release_date": "2025-01-14"
+      },
+      {
+        "CardNumber": "00291",
+        "Spotify": "1z5ZZ8pSPvcepnf9j4xFb2",
+        "title": "Amore Mio",
+        "artist": "Boski Heniek, Malos, Nerus",
+        "release_date": "2024-11-08"
+      },
+      {
+        "CardNumber": "00290",
+        "Spotify": "1vsUAeHgqGLDNyqjwQGs3j",
+        "title": "Tej Nocy",
+        "artist": "Marcin Miller",
+        "release_date": "2025-03-28"
+      },
+      {
+        "CardNumber": "00289",
+        "Spotify": "5TiVmB3LroMB1dMZS7VcT3",
+        "title": "Hej czy Ty Wiesz",
+        "artist": "Classic",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00288",
+        "Spotify": "55JRCN1BmIJgxBtfXe3uca",
+        "title": "Następna Laska (Radio Edit)",
+        "artist": "4ever",
+        "release_date": "2009-03-01"
+      },
+      {
+        "CardNumber": "00287",
+        "Spotify": "05AJ9XztuxtzXY0nPz3Icd",
+        "title": "Zbuntowany Anioł - Radio Edit",
+        "artist": "Łobuzy",
+        "release_date": "2018"
+      },
+      {
+        "CardNumber": "00286",
+        "Spotify": "5HAZ09WqAicgMrH68PsTuF",
+        "title": "Ostatni Dzień Ostatnia Noc",
+        "artist": "Boys",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00285",
+        "Spotify": "5g8lW4Q87WnAfa9ceD0lc2",
+        "title": "Dziewczyna ze wsi - Radio Edit",
+        "artist": "Marioo",
+        "release_date": "2020-07-16"
+      },
+      {
+        "CardNumber": "00284",
+        "Spotify": "4n7zlRY17kUAcWAliba1Z9",
+        "title": "Polskie dziewczyny",
+        "artist": "SKŁADANKA",
+        "release_date": "2008-10-15"
+      },
+      {
+        "CardNumber": "00283",
+        "Spotify": "0WJhZGtWI4wuYVMufw0zeH",
+        "title": "Ona działa na mnie jak",
+        "artist": "Dawid Narożny, Agbe",
+        "release_date": "2023-05-25"
+      },
+      {
+        "CardNumber": "00282",
+        "Spotify": "1sjjdk8hLeDqlKpOeMT6Ba",
+        "title": "Gdzie mam cię szukać",
+        "artist": "Midix",
+        "release_date": "2025-01-11"
+      },
+      {
+        "CardNumber": "00281",
+        "Spotify": "2o7f4ceckfwVoxrnUbDKIj",
+        "title": "Filmowa Miłość",
+        "artist": "Domino",
+        "release_date": "2022-02-24"
+      },
+      {
+        "CardNumber": "00280",
+        "Spotify": "42aWGNT4F4yogp39omkqCq",
+        "title": "Ech życie życie",
+        "artist": "Mister Dex",
+        "release_date": "2016-05-30"
+      },
+      {
+        "CardNumber": "00279",
+        "Spotify": "6UMOQta2CBNmKqAgQnGP7k",
+        "title": "Szalona",
+        "artist": "Boys",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00278",
+        "Spotify": "6uvAhUgZvgbCCsbSSWNSoG",
+        "title": "Cała sala śpiewa z nami",
+        "artist": "Jerzy Połomski",
+        "release_date": "2006-05-15"
+      },
+      {
+        "CardNumber": "00277",
+        "Spotify": "5iiKqoaceLXwwhx3SLZb0V",
+        "title": "Te Jej Czerwone Usta",
+        "artist": "Veegas",
+        "release_date": "2016-06-20"
+      },
+      {
+        "CardNumber": "00276",
+        "Spotify": "2P1OLuJIL72VC1tzr5zTIK",
+        "title": "Kolorowe sny (Remastered)",
+        "artist": "JUST 5",
+        "release_date": "2024-08-02"
+      },
+      {
+        "CardNumber": "00275",
+        "Spotify": "5R4Kh8aYYHWgsNY2GCTqOK",
+        "title": "Pocałuj Mnie",
+        "artist": "T & T",
+        "release_date": "2025-02-14"
+      },
+      {
+        "CardNumber": "00274",
+        "Spotify": "7ydDuXVrrS5Yqg6snTnJ8l",
+        "title": "Jagódka",
+        "artist": "Boys",
+        "release_date": "1994-04-01"
+      },
+      {
+        "CardNumber": "00273",
+        "Spotify": "7JxOXGKUcCGKqKsRfFamT1",
+        "title": "Lekcja miłości",
+        "artist": "MAXEL",
+        "release_date": "1996-11-10"
+      },
+      {
+        "CardNumber": "00272",
+        "Spotify": "3WPvEQ1hH6V9B4WCOx0n2m",
+        "title": "Tańczyć Chcę - Radio Edit",
+        "artist": "Long & Junior",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00271",
+        "Spotify": "15pJUmBQk9IsVT80C51nHD",
+        "title": "Róże",
+        "artist": "Defis",
+        "release_date": "2018-06-07"
+      },
+      {
+        "CardNumber": "00270",
+        "Spotify": "33RdjPpEF5URZEi9K87KIU",
+        "title": "Wyspa",
+        "artist": "Fantastic Boys",
+        "release_date": "1993-12-31"
+      },
+      {
+        "CardNumber": "00269",
+        "Spotify": "5xSumycygAmuRJLIcWXlsO",
+        "title": "Chciałbym",
+        "artist": "Boys",
+        "release_date": "1992-04-01"
+      },
+      {
+        "CardNumber": "00268",
+        "Spotify": "76KNnAocccoTjptMvbquZ2",
+        "title": "BEBECITA",
+        "artist": "Hellfield, Skolim, Divix, CrackHouse",
+        "release_date": "2024-11-08"
+      },
+      {
+        "CardNumber": "00267",
+        "Spotify": "0nPQJxDQZOxkgnuLs4jysq",
+        "title": "Ona czuje we mnie piniądz",
+        "artist": "Łobuzy",
+        "release_date": "2015"
+      },
+      {
+        "CardNumber": "00266",
+        "Spotify": "232CeSQ1FHueQmplUeKdTN",
+        "title": "Zakochane oczy",
+        "artist": "Defis, Marcin Miller",
+        "release_date": "2017-04-07"
+      },
+      {
+        "CardNumber": "00265",
+        "Spotify": "40qFU7VUsARTTm2tPrwuS1",
+        "title": "Na Dancingu",
+        "artist": "Diament",
+        "release_date": "2015-11-26"
+      },
+      {
+        "CardNumber": "00264",
+        "Spotify": "5FNENFwo4bgs9Kw6u7kuTr",
+        "title": "Malowana Lala",
+        "artist": "Jorrgus",
+        "release_date": "2015-12-25"
+      },
+      {
+        "CardNumber": "00263",
+        "Spotify": "4IVNjXv9HULOGgo31Pbjj9",
+        "title": "W sercu mi graj",
+        "artist": "Akcent, Exaited",
+        "release_date": "2014-01-14"
+      },
+      {
+        "CardNumber": "00262",
+        "Spotify": "5vkc7x8DJOu5wGme6Pixrf",
+        "title": "Jesteś Zajebista",
+        "artist": "Weekend",
+        "release_date": "2010-09-03"
+      },
+      {
+        "CardNumber": "00261",
+        "Spotify": "37Tzh53h3805mwnOyNWvuK",
+        "title": "Nie Poganiaj Mnie Bo Tracę Oddech - 2011 Remaster",
+        "artist": "Maanam",
+        "release_date": "2006-02-10"
+      },
+      {
+        "CardNumber": "00260",
+        "Spotify": "64g9Jwd5jYp9On04x15reL",
+        "title": "Wszyscy Polacy",
+        "artist": "Bayer Full",
+        "release_date": "2000-12-31"
+      },
+      {
+        "CardNumber": "00259",
+        "Spotify": "0IZrJSQ1KMaQ70hbeZBnBh",
+        "title": "Ta dziewczyna to żart",
+        "artist": "Luka Rosi",
+        "release_date": "2020-09-04"
+      },
+      {
+        "CardNumber": "00258",
+        "Spotify": "5WdiUhuCjBsAxhoU673XPA",
+        "title": "CIAO MIO AMORE",
+        "artist": "JUSTYNA I PIOTR",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00257",
+        "Spotify": "3iE2QU53QPGhKk0apX7nrJ",
+        "title": "Bad Boy",
+        "artist": "Klaudia Zielińska",
+        "release_date": "2023-10-18"
+      },
+      {
+        "CardNumber": "00256",
+        "Spotify": "75BBlUfAxUz7hHbxGkFCAY",
+        "title": "Mama Nie Kazała",
+        "artist": "Itex",
+        "release_date": "2012"
+      },
+      {
+        "CardNumber": "00255",
+        "Spotify": "3sJqGxX2TZT1BlW5XoWwiR",
+        "title": "Nie mów nic",
+        "artist": "Tropical",
+        "release_date": "1993-12-31"
+      },
+      {
+        "CardNumber": "00254",
+        "Spotify": "0HIjfKGdCOgIGkDpR3m6AY",
+        "title": "Ona ma to coś",
+        "artist": "Masters",
+        "release_date": "2024-04-25"
+      },
+      {
+        "CardNumber": "00253",
+        "Spotify": "5rkN9sm2tBYEdu5tXflwnW",
+        "title": "Dziewczyno",
+        "artist": "Bartii",
+        "release_date": "2025-03-07"
+      },
+      {
+        "CardNumber": "00252",
+        "Spotify": "6UzbgFDZ3asWrjxPw42ByN",
+        "title": "Gdzie strona - tam żona",
+        "artist": "MARCIN TOPLES",
+        "release_date": "2024-10-01"
+      },
+      {
+        "CardNumber": "00251",
+        "Spotify": "3oZdFoYiziXO6hvE1nce4q",
+        "title": "Nie ma mocnych na Mariolę",
+        "artist": "Mig",
+        "release_date": "2014-02-28"
+      },
+      {
+        "CardNumber": "00250",
+        "Spotify": "1zjzCmwSUTFP8V76SaCd2A",
+        "title": "Dawaj dawaj - Radio Edit",
+        "artist": "Zorka",
+        "release_date": "2009-06-20"
+      },
+      {
+        "CardNumber": "00249",
+        "Spotify": "3FbJDG6nRIMtD6USO26H6i",
+        "title": "Miód Malina",
+        "artist": "Mig",
+        "release_date": "2016-11-17"
+      },
+      {
+        "CardNumber": "00248",
+        "Spotify": "0HjPkkeCON8xUEpAkEZDGo",
+        "title": "Czarownica",
+        "artist": "Fanatic",
+        "release_date": "2009-08-10"
+      },
+      {
+        "CardNumber": "00247",
+        "Spotify": "7qu6n8YhqxbcOi4n2b8jFb",
+        "title": "Urodziny",
+        "artist": "Selfie",
+        "release_date": "2025-04-05"
+      },
+      {
+        "CardNumber": "00246",
+        "Spotify": "7vjCv6z7D5aatX4ZqruLaf",
+        "title": "Bo to miłość",
+        "artist": "Fisher",
+        "release_date": "2020-02-28"
+      },
+      {
+        "CardNumber": "00245",
+        "Spotify": "4keY2bOYJR3UuQ9fjTPzeu",
+        "title": "Najpiękniejsza w klasie",
+        "artist": "Majka Jeżowska",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00244",
+        "Spotify": "0Cwqr39YjDfLWDs7f8mcMO",
+        "title": "Niespotykany kolor - Radio Edit",
+        "artist": "Defis",
+        "release_date": "2015-05-27"
+      },
+      {
+        "CardNumber": "00243",
+        "Spotify": "7vBcD4D5WpoHCme1YgUWdx",
+        "title": "Kobiety rządzą nami",
+        "artist": "MARCIN TOPLES",
+        "release_date": "2025-02-20"
+      },
+      {
+        "CardNumber": "00242",
+        "Spotify": "7meNfXvVQYkqD95KJYDqjO",
+        "title": "Miłość w Zakopanem",
+        "artist": "Sławomir",
+        "release_date": "2017-04-07"
+      },
+      {
+        "CardNumber": "00241",
+        "Spotify": "3t7ffoQz1ex4MlMBtw9SKc",
+        "title": "Ciebie mi trzeba",
+        "artist": "Maxx Dance",
+        "release_date": "2014-05-23"
+      },
+      {
+        "CardNumber": "00240",
+        "Spotify": "5mIESzN3bhscHkdDyNgLQa",
+        "title": "Blue star",
+        "artist": "Lolita",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00239",
+        "Spotify": "4g24iNyydF0mPY2uR6mBPE",
+        "title": "Ona Tańczy dla Mnie - Radio Edit",
+        "artist": "Weekend",
+        "release_date": "2012-07-01"
+      },
+      {
+        "CardNumber": "00238",
+        "Spotify": "3WQZPl6NQqKo1ePLCUxixw",
+        "title": "O tobie kochana",
+        "artist": "Milano",
+        "release_date": "2018-12-04"
+      },
+      {
+        "CardNumber": "00237",
+        "Spotify": "69pHD70PMWLeZdNSSrslCA",
+        "title": "Młodość przeminie",
+        "artist": "MARCIN TOPLES",
+        "release_date": "2025-03-10"
+      },
+      {
+        "CardNumber": "00236",
+        "Spotify": "6ATVECdnvFzFYQGiesIOVo",
+        "title": "No weź polewaj!",
+        "artist": "Bartosz Jagielski",
+        "release_date": "2020-08-10"
+      },
+      {
+        "CardNumber": "00235",
+        "Spotify": "6DHpIQ2HQlvkAAr4dhXdKi",
+        "title": "Co ty mi dasz",
+        "artist": "Mig",
+        "release_date": "2016-08-31"
+      },
+      {
+        "CardNumber": "00234",
+        "Spotify": "7w8UYXV1ZLhQyRBxvgqxOp",
+        "title": "Wymarzona",
+        "artist": "Mig",
+        "release_date": "2016-11-17"
+      },
+      {
+        "CardNumber": "00233",
+        "Spotify": "0B9pp1W8QqpuP7Le6uHSdA",
+        "title": "Nic Nie Może Przecież Wiecznie Trwać",
+        "artist": "Venus",
+        "release_date": "2000-03-02"
+      },
+      {
+        "CardNumber": "00232",
+        "Spotify": "27stiUA7g1rZO4efMQw8GM",
+        "title": "A Ty bądź",
+        "artist": "Luka Rosi",
+        "release_date": "2020-09-04"
+      },
+      {
+        "CardNumber": "00231",
+        "Spotify": "6XcR7NdRYmHy9nXeDxyaSL",
+        "title": "Ubranie na Podłodze",
+        "artist": "Effect",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00230",
+        "Spotify": "6zGoNi2Rjyay2i7KGgcXHq",
+        "title": "Bliska moim myślom",
+        "artist": "Top One",
+        "release_date": "2000-12-31"
+      },
+      {
+        "CardNumber": "00229",
+        "Spotify": "6KXipWdLTVO1t8VvY16Q3x",
+        "title": "Koleżanka",
+        "artist": "Chillout",
+        "release_date": "2021-12-23"
+      },
+      {
+        "CardNumber": "00228",
+        "Spotify": "6Q5OAjkqPLTf7WHbGm1wRv",
+        "title": "Tylko Ola",
+        "artist": "atlantis",
+        "release_date": "1993-12-31"
+      },
+      {
+        "CardNumber": "00227",
+        "Spotify": "2zFMO81eX5pa60nEUDcknm",
+        "title": "Napalona Anka - 1991",
+        "artist": "Boys",
+        "release_date": "2012-09-01"
+      },
+      {
+        "CardNumber": "00226",
+        "Spotify": "0ZZWmUNFYrJpiDy9EuEiym",
+        "title": "Puste Słowa",
+        "artist": "Mega Dance",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00225",
+        "Spotify": "3Pn1xBcKau6mmt5atV31zI",
+        "title": "Ruda tańczy jak szalona",
+        "artist": "Czadoman",
+        "release_date": "2014-06-16"
+      },
+      {
+        "CardNumber": "00224",
+        "Spotify": "6z1lRczav5IEWCG2Im8uxu",
+        "title": "Wiem, że czujesz - Radio Edit",
+        "artist": "Mega Dance",
+        "release_date": "2022-02-01"
+      },
+      {
+        "CardNumber": "00223",
+        "Spotify": "2Qt7G1DY1h2kGdXJV08Zx1",
+        "title": "Wolność - 1991",
+        "artist": "Boys",
+        "release_date": "2012-09-01"
+      },
+      {
+        "CardNumber": "00222",
+        "Spotify": "4V81eIdjEnsmUgXTzTMlpp",
+        "title": "Laleczka",
+        "artist": "News",
+        "release_date": "2018-02-12"
+      },
+      {
+        "CardNumber": "00221",
+        "Spotify": "2YEr9oLyPrRXbCPDfpzfna",
+        "title": "Chcę tu zostać",
+        "artist": "Farba",
+        "release_date": "2020-12-30"
+      },
+      {
+        "CardNumber": "00220",
+        "Spotify": "3FVGoqVer1nNhI6X7M6iiB",
+        "title": "Aicha",
+        "artist": "Magical Magma",
+        "release_date": "2024-10-23"
+      },
+      {
+        "CardNumber": "00219",
+        "Spotify": "3phZt9AtzRZc8pmZmqVUk8",
+        "title": "Męska Rzeczywistość",
+        "artist": "Weekend",
+        "release_date": "2012-11-10"
+      },
+      {
+        "CardNumber": "00218",
+        "Spotify": "1w80d4CJXVFGIggY4dWygM",
+        "title": "Białe Anioły",
+        "artist": "Impuls",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00217",
+        "Spotify": "2FyYqnxro6Fp1dLILQhFHt",
+        "title": "Ale numer",
+        "artist": "Boys",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00216",
+        "Spotify": "67XJgwLBSuJWDNgzLxjJvH",
+        "title": "Z Kazdym Twym Oddechem",
+        "artist": "Jacek Stachursky",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00215",
+        "Spotify": "5Wrl4uc9SjC8ZnAimiMtys",
+        "title": "Przekorny Los",
+        "artist": "Akcent",
+        "release_date": "2015-10-10"
+      },
+      {
+        "CardNumber": "00214",
+        "Spotify": "1QLFXOQauPQ9VxYE54x2rg",
+        "title": "Obrączki Szczerozłote",
+        "artist": "Bayera",
+        "release_date": "2018-08-24"
+      },
+      {
+        "CardNumber": "00213",
+        "Spotify": "6y85tCnObd6b31UkmXoybV",
+        "title": "Chodź na kolana",
+        "artist": "Czadoman",
+        "release_date": "2014"
+      },
+      {
+        "CardNumber": "00212",
+        "Spotify": "2v9m0q7166JjVTfGIDw0W2",
+        "title": "Noce gorące",
+        "artist": "Bobi",
+        "release_date": "2020-09-11"
+      },
+      {
+        "CardNumber": "00211",
+        "Spotify": "60HqIdbdq57qrDUzi9tLmS",
+        "title": "Niecierpliwa (Radio Edit)",
+        "artist": "Setus",
+        "release_date": "2011-06-17"
+      },
+      {
+        "CardNumber": "00210",
+        "Spotify": "2DxaLqCKfChhN9xUhN8R0A",
+        "title": "Pola Monola + Coca Cola",
+        "artist": "Franek Kimono",
+        "release_date": "2008-06-12"
+      },
+      {
+        "CardNumber": "00209",
+        "Spotify": "6FGna3x6UtpUX5VpadmNF4",
+        "title": "Uciekam od Żony",
+        "artist": "Effect",
+        "release_date": "2016-07-10"
+      },
+      {
+        "CardNumber": "00208",
+        "Spotify": "4a7ZBO3ZzAwzRZx2WTvydX",
+        "title": "Wszystko Mi Jedno",
+        "artist": "Mirage",
+        "release_date": "2011"
+      },
+      {
+        "CardNumber": "00207",
+        "Spotify": "1ryfsl5SB5ZVv7dDjJHuAg",
+        "title": "Biały Miś",
+        "artist": "Top One",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00206",
+        "Spotify": "5AaRBuYteJwl8qRU33Zo1K",
+        "title": "Wyglądasz Idealnie",
+        "artist": "Skolim",
+        "release_date": "2022-07-07"
+      },
+      {
+        "CardNumber": "00205",
+        "Spotify": "6euRh0XqlxDIZ56gntso9r",
+        "title": "Jej czarne oczy",
+        "artist": "Ivan i Delfin",
+        "release_date": "2004"
+      },
+      {
+        "CardNumber": "00204",
+        "Spotify": "52qfkGdt2iZAvDsyQArybY",
+        "title": "Ciche łzy",
+        "artist": "Tercet Egzotyczny",
+        "release_date": "2006-11-22"
+      },
+      {
+        "CardNumber": "00203",
+        "Spotify": "1DWt41ow6acANYlPqm9OW1",
+        "title": "Ona Zaskoczona",
+        "artist": "Daj To Głośniej",
+        "release_date": "2023-12-20"
+      },
+      {
+        "CardNumber": "00202",
+        "Spotify": "5lVlnWgEE6j8veWVogtrnW",
+        "title": "Na na na",
+        "artist": "Venus",
+        "release_date": "2002-05-23"
+      },
+      {
+        "CardNumber": "00201",
+        "Spotify": "3SIATNOh1JLp19fSOMTTud",
+        "title": "Będę Kawalerem",
+        "artist": "Effect",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00200",
+        "Spotify": "6wH3gh2QYQfoEZxjnpWH2d",
+        "title": "Hi-Fi",
+        "artist": "Wanda i Banda",
+        "release_date": "2003-12-01"
+      },
+      {
+        "CardNumber": "00199",
+        "Spotify": "5OG3o2R6GgPonejVSEFFo9",
+        "title": "Wyborcza kiełbasa",
+        "artist": "ANTOŚ SZPRYCHA",
+        "release_date": "2016-05-30"
+      },
+      {
+        "CardNumber": "00198",
+        "Spotify": "2mCVTHKlip9gBoZvJEEeQf",
+        "title": "Niech Chwila Trwa",
+        "artist": "Dr. SWAG",
+        "release_date": "2022-07-15"
+      },
+      {
+        "CardNumber": "00197",
+        "Spotify": "3ehPFN3UMgYVmaqgdIf54e",
+        "title": "Cztery osiemnastki",
+        "artist": "Atomic",
+        "release_date": "2015-03-13"
+      },
+      {
+        "CardNumber": "00196",
+        "Spotify": "4xihegwJ7449BTqQDUjwIx",
+        "title": "Zerujemy 07",
+        "artist": "Dr. SWAG",
+        "release_date": "2020-06-12"
+      },
+      {
+        "CardNumber": "00195",
+        "Spotify": "0F8zqM99Jiq0aSr2hXYOXx",
+        "title": "Ona lubi pomarańcze",
+        "artist": "After Party",
+        "release_date": "2016-04-01"
+      },
+      {
+        "CardNumber": "00194",
+        "Spotify": "3OYbpKwlRYEwA6VubYCEDv",
+        "title": "Piąta nad ranem",
+        "artist": "Extazy, Kamil Kossakowski",
+        "release_date": "2022-03-25"
+      },
+      {
+        "CardNumber": "00193",
+        "Spotify": "63JrTW6we8Qa3iK12MX1yt",
+        "title": "Nocą Przyszła Do Mnie - Radio Edit",
+        "artist": "Albik",
+        "release_date": "2021-07-14"
+      },
+      {
+        "CardNumber": "00192",
+        "Spotify": "2IPAjlPVyAhazjTMsiuZte",
+        "title": "Weselny Klimat",
+        "artist": "Ada Krawczyk",
+        "release_date": "2024-11-07"
+      },
+      {
+        "CardNumber": "00191",
+        "Spotify": "7mf9xLw72OqjBLDUEqjF71",
+        "title": "Wyznanie",
+        "artist": "Rajmund",
+        "release_date": "2012-03-01"
+      },
+      {
+        "CardNumber": "00190",
+        "Spotify": "44h5OvH3HFIfVEMUESdxAS",
+        "title": "Nie zabieraj mi strun",
+        "artist": "Crazy Boys",
+        "release_date": "1992-12-31"
+      },
+      {
+        "CardNumber": "00189",
+        "Spotify": "3CpF0HTEFcFMm0T5aYfQeK",
+        "title": "Hej Boys!",
+        "artist": "atlantis",
+        "release_date": "1994-12-31"
+      },
+      {
+        "CardNumber": "00188",
+        "Spotify": "2s1pYRog26wMTFswdpMlC6",
+        "title": "Niebezpieczna",
+        "artist": "Jorrgus",
+        "release_date": "2024-06-07"
+      },
+      {
+        "CardNumber": "00187",
+        "Spotify": "25zTfEOUn611xCbI8PpcQQ",
+        "title": "Tak tak żono moja",
+        "artist": "B-qll",
+        "release_date": "2018-02-16"
+      },
+      {
+        "CardNumber": "00186",
+        "Spotify": "6XKXtJmiufWdwkiXWWxuHp",
+        "title": "Piękniejsza",
+        "artist": "K.A.S.A.",
+        "release_date": "2008-10-01"
+      },
+      {
+        "CardNumber": "00185",
+        "Spotify": "38DpMoKAZcetQi9OKgyOTr",
+        "title": "Cipuleńka",
+        "artist": "Sebii",
+        "release_date": "2014-10-28"
+      },
+      {
+        "CardNumber": "00184",
+        "Spotify": "6GpfOouGpKaauRkLvtTGSU",
+        "title": "Mateusz - Radio Edit",
+        "artist": "Energy Girls",
+        "release_date": "2021-08-13"
+      },
+      {
+        "CardNumber": "00183",
+        "Spotify": "4NADZm4heOzPJ4YsfqbpGJ",
+        "title": "Noc taka czarna",
+        "artist": "Extazy",
+        "release_date": "2018-04-13"
+      },
+      {
+        "CardNumber": "00182",
+        "Spotify": "54VtIxnLb2mDp2BloEV519",
+        "title": "Hej, czy ty wiesz kochanie",
+        "artist": "Basta",
+        "release_date": "2012-04-05"
+      },
+      {
+        "CardNumber": "00181",
+        "Spotify": "50rVBwlzXdMQmdjeCdTVr8",
+        "title": "Imponujesz mi 2",
+        "artist": "Denis Impulsywni, Borys LBD",
+        "release_date": "2021-04-30"
+      },
+      {
+        "CardNumber": "00180",
+        "Spotify": "6IyZKnllU9P4waUyMSX8pn",
+        "title": "Jeszcze raz - Radio Edit",
+        "artist": "Defis, MiłyPan, Bogdan Borowski",
+        "release_date": "2021-10-22"
+      },
+      {
+        "CardNumber": "00179",
+        "Spotify": "28XelTvSSRsODAMEVs8MMY",
+        "title": "Megiera",
+        "artist": "Sławomir",
+        "release_date": "2017-04-07"
+      },
+      {
+        "CardNumber": "00178",
+        "Spotify": "0aP0OA4hIdTFPPnALOnMiv",
+        "title": "BMA",
+        "artist": "Vizza",
+        "release_date": "2023-03-20"
+      },
+      {
+        "CardNumber": "00177",
+        "Spotify": "5XqSTOX0k4EVihT6POrL5L",
+        "title": "Nie chcę",
+        "artist": "Topky",
+        "release_date": "2025-01-15"
+      },
+      {
+        "CardNumber": "00176",
+        "Spotify": "7pOtqcXYWV18AoEACjabSt",
+        "title": "Wolność moja jedyna",
+        "artist": "MARCUS",
+        "release_date": "1996-12-31"
+      },
+      {
+        "CardNumber": "00175",
+        "Spotify": "3HQUJXXiMxOI2jUGqS9FzB",
+        "title": "American Boy",
+        "artist": "Skaner",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00174",
+        "Spotify": "3tYHhkDhXq37Vaf8vbrs6l",
+        "title": "Sztos",
+        "artist": "Menelaos",
+        "release_date": "2021-08-30"
+      },
+      {
+        "CardNumber": "00173",
+        "Spotify": "46RBn4TjBP6vNks2bTmOyf",
+        "title": "Ciało do ciała - Radio Edit",
+        "artist": "MARCIN TOPLES",
+        "release_date": "2025-03-01"
+      },
+      {
+        "CardNumber": "00172",
+        "Spotify": "7E9rbaAsDiwWteARvB4lAe",
+        "title": "Żono moja - Radio Edit",
+        "artist": "Masters",
+        "release_date": "2008-02-15"
+      },
+      {
+        "CardNumber": "00171",
+        "Spotify": "7GFOKWhTfjbU557GWnksZy",
+        "title": "Mama ostrzegała",
+        "artist": "Daj To Głośniej",
+        "release_date": "2019-08-16"
+      },
+      {
+        "CardNumber": "00170",
+        "Spotify": "5CIW1UFXK2qkHYNbZJl533",
+        "title": "Dama Serca - Radio Edit",
+        "artist": "Vinez, Nokaut",
+        "release_date": "2020-12-11"
+      },
+      {
+        "CardNumber": "00169",
+        "Spotify": "4RoLJWJ09mf0hgdJzQ8CIw",
+        "title": "Zawsze coś (oj tam, oj tam) - Radio Edit",
+        "artist": "Power Play",
+        "release_date": "2012-08-30"
+      },
+      {
+        "CardNumber": "00168",
+        "Spotify": "5bvN8iBTC21n4mqgFQUae9",
+        "title": "Czarne oczy",
+        "artist": "Max, Disco Polo",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00167",
+        "Spotify": "49ICfin5oyYM7V8EREYtfM",
+        "title": "Letnia dziewczyna",
+        "artist": "Avinion Dance",
+        "release_date": "2019-09-09"
+      },
+      {
+        "CardNumber": "00166",
+        "Spotify": "0rXefM8kaTBoJWvGKmXSFv",
+        "title": "Angelina",
+        "artist": "Chorus",
+        "release_date": "2020-02-28"
+      },
+      {
+        "CardNumber": "00165",
+        "Spotify": "6w2n7uSfMVquT9h6elzU12",
+        "title": "Powiedz Czemu Trudno Tak ( Radio Edit)",
+        "artist": "Mega Dance",
+        "release_date": "2015-12-05"
+      },
+      {
+        "CardNumber": "00164",
+        "Spotify": "5DvuuKawSET4JdpUtWhsxj",
+        "title": "Explozja - Radio edit",
+        "artist": "THR!LL, IMPULS",
+        "release_date": "2023-11-09"
+      },
+      {
+        "CardNumber": "00163",
+        "Spotify": "5J5GHFmhx63tSbHiVdtLfo",
+        "title": "Za Miłość Mą",
+        "artist": "Weekend",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00162",
+        "Spotify": "1vqVSwprURf7tPSuDG4Au6",
+        "title": "Pokochaj Mnie",
+        "artist": "T & T",
+        "release_date": "2015-10-20"
+      },
+      {
+        "CardNumber": "00161",
+        "Spotify": "5p5nI2m1eNyNLuqiPwWA8N",
+        "title": "Pszczółka Maja",
+        "artist": "Akcent",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00160",
+        "Spotify": "62nZrwXIkI8nROE1cLTKWw",
+        "title": "Bierz Co Chcesz",
+        "artist": "SHAZZA",
+        "release_date": "2023-03-23"
+      },
+      {
+        "CardNumber": "00159",
+        "Spotify": "5pTyhGdXnrFYctzAgoocev",
+        "title": "Taka jestem",
+        "artist": "La Strada",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00158",
+        "Spotify": "2dWtRqBwou17aOFwOuNGFz",
+        "title": "Miałaś Co Chciałaś",
+        "artist": "Diadem",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00157",
+        "Spotify": "2nCefdHBvPUsWORj4vcwBn",
+        "title": "Słodko słodka - Radio Edit",
+        "artist": "SoLeo",
+        "release_date": "2017-01-31"
+      },
+      {
+        "CardNumber": "00156",
+        "Spotify": "1RVHwPN52MMaD1DvtzveOI",
+        "title": "Poznać Twe Imię Chcę - Radio Edit",
+        "artist": "Rajmund",
+        "release_date": "2024-10-25"
+      },
+      {
+        "CardNumber": "00155",
+        "Spotify": "0CaGpUz2CiXS99joDt8nnp",
+        "title": "Zatańczmy Razem",
+        "artist": "Venus",
+        "release_date": "1998-04-26"
+      },
+      {
+        "CardNumber": "00154",
+        "Spotify": "5JYDPpSACaucNhCzpzovlZ",
+        "title": "Lato w Kołobrzegu",
+        "artist": "Skaner",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "0JGt6f1aR3d0y78d62raxP",
+        "title": "Ona jest taka cudowna",
+        "artist": "Piękni I Młodzi, Dawid Narożny",
+        "release_date": "2014-09-03"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "7G6QJzF33uWYFneUl0hpM2",
+        "title": "Kocham Ten Stan - Radio Edit",
+        "artist": "BASTA",
+        "release_date": "2014"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "0uAWxLSGTVcQBQdXgDbTDZ",
+        "title": "Nie Mogę Cię Zapomnieć - Radio Edit",
+        "artist": "Jagoda & Brylant",
+        "release_date": "2023-05-19"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "4kItyj2fE7rK50yV91fNAj",
+        "title": "Chciałbym Ci Powiedzieć",
+        "artist": "Classic",
+        "release_date": "2021-11-12"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "6Mx3KtsSxlMnbJLkTEfTfx",
+        "title": "Będę Przy Tobie",
+        "artist": "Raider",
+        "release_date": "2025-03-20"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "1sG1vTDQnJoamrxZXjiLli",
+        "title": "Loca Bambina - Radio edit",
+        "artist": "4ever",
+        "release_date": "2025-04-03"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "6ZN5PYVH3GeFgFaZ23VsRE",
+        "title": "Krolowa Dysko",
+        "artist": "Franek Kimono",
+        "release_date": "2008-06-12"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "2YlBK9hJQ2jRAZ9PVwUY4N",
+        "title": "Mewy",
+        "artist": "Imperium",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "4RtH96A6sipfZTfbuYPHDQ",
+        "title": "Szalona ruda - Radio Edit",
+        "artist": "DJ Disco, MC Polo",
+        "release_date": "2014-08-05"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "5vQo1iuDKeVEDHGnflmZ55",
+        "title": "Jak minął dzień",
+        "artist": "Krzysztof Krawczyk",
+        "release_date": "2019-01-01"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "3j0FmEeSycbXi9AlkSzisC",
+        "title": "Tylko Ona Jedyna",
+        "artist": "After Party",
+        "release_date": "2013-07-02"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "6q5FIPaFNs5XLvKLKfSdnT",
+        "title": "Przez Twe Oczy Zielone",
+        "artist": "Akcent",
+        "release_date": "2014-01-02"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "1QVXpBJqHwW3c0r0OfU8qI",
+        "title": "Buzi to za mało",
+        "artist": "Extazy",
+        "release_date": "2014-01-28"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "11h7UWK8zabzdZftQnDWqp",
+        "title": "Drań",
+        "artist": "Etna",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "4Olc0brvrM2ELU2MWxuIEp",
+        "title": "Zaufaj Mi(kanikuł Po Polsku)",
+        "artist": "Cliver",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "29LFN2Cwa57BgpJ2tW0LCa",
+        "title": "Chciałbym byś",
+        "artist": "Ronnie Ferrari",
+        "release_date": "2025-02-21"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "69LuUALr2BsjdBluxrQRDe",
+        "title": "Na sercu rany",
+        "artist": "MARCIN TOPLES",
+        "release_date": "2025-02-20"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "6lovOjrJuGUqwpmOl9OWjS",
+        "title": "NIECIERPLIWA",
+        "artist": "Setus",
+        "release_date": "2011-03-08"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "6G3995UmcQuUEhEzRmbYTW",
+        "title": "Dziadek",
+        "artist": "Etna",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "1ChwndVCGiSPxt34yclf0D",
+        "title": "Narkotyk",
+        "artist": "Disco Polo, Selit",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "25JoDoJK7YXygXU8iK5L7S",
+        "title": "Najpiekniejsza Dziewczyno",
+        "artist": "Boys",
+        "release_date": "2018-01-08"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "1ZvYKG7IsYVWhpzsISboGW",
+        "title": "Passerati (Radio Edit)",
+        "artist": "Rompey",
+        "release_date": "2016-02-15"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "1ruDMWJJSz1sceqdY6zsIX",
+        "title": "Zawsze Z Toba Chcialbym Byc... (Przez Miesiac :) )",
+        "artist": "Ich Troje",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "1wD56c1XRWUYhPpBuSBEOK",
+        "title": "Moja Panienka",
+        "artist": "Nowator, LEREK",
+        "release_date": "2019-03-11"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "6RFrO6RLpkfF4z5GSUJLa9",
+        "title": "Kocham się w Tobie",
+        "artist": "Piękni I Młodzi, Dawid Narożny",
+        "release_date": "2014-06-12"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "3kTtktNM9GhVYlzTyGq2Wy",
+        "title": "Egipskie noce - Dance Mix",
+        "artist": "Shazza",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "5OnBSGtlq0BfLG8NVedVcJ",
+        "title": "Nie Daj Życiu Się",
+        "artist": "After Party",
+        "release_date": "2014-12-06"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "2Ku9uDs638ShL0vjF13fAf",
+        "title": "My Cyganie",
+        "artist": "Krzysztof Krawczyk",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "2PNGC9EBwMjdvVjGABi76a",
+        "title": "Nasz disneyland",
+        "artist": "Papa Dance",
+        "release_date": "2003-12-31"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "5gpBf3DQRxhFVUhQaHzXlv",
+        "title": "Zwariowana noc",
+        "artist": "Daj To Głośniej",
+        "release_date": "2020-06-23"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "0o976ZYyrM5IYnag4LajrH",
+        "title": "Jolka Jolka",
+        "artist": "Classic",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "5hNNNUPtOFL2E3ppMC76ly",
+        "title": "Małolatki",
+        "artist": "MiłyPan",
+        "release_date": "2018-12-27"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "4vYRFCsXyB9xrYFKKMpR0F",
+        "title": "Zła kobieta - Radio Edit",
+        "artist": "Explozja",
+        "release_date": "2022-04-10"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "4GKxgrRjLiOoqOlL1TwXoB",
+        "title": "Moja Mona Lisa",
+        "artist": "Ex Problem",
+        "release_date": "1992-12-31"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "5i4Jx7Rf7IO4FOcK3ztXrM",
+        "title": "Hej ho!",
+        "artist": "Vabank",
+        "release_date": "2006-09-25"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "0z6jg3tQu4TZcRkXNVEikz",
+        "title": "Popłyniemy",
+        "artist": "Bayera",
+        "release_date": "2019-05-30"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "6jlMZWVpaswnfBmXjfuVY8",
+        "title": "Olka Demolka",
+        "artist": "Stereo",
+        "release_date": "2016-10-13"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "3bLAuXGhQksLGsMT0geTNY",
+        "title": "Naj Story",
+        "artist": "Papa Dance",
+        "release_date": "2008-04-11"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "4TW4b0Tp7NmJZMEQ1QJ009",
+        "title": "Złoto",
+        "artist": "Roztańczona Reprezentacja, Zenon Martyniuk, Defis, Marcin Miller, MiłyPan, Mig, Weekend, Sławomir, Skolim, Magdalena Narożna, Łobuzy",
+        "release_date": "2024-05-21"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "5yZpdPt0lNVvN1rB6GXn1E",
+        "title": "Twoja Lorelei",
+        "artist": "Kapitan Nemo",
+        "release_date": "2014-11-17"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "1biBjPbb49cDiyaJknHsMw",
+        "title": "Wakacje",
+        "artist": "DiscoBoys",
+        "release_date": "2022-07-13"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "3ooNISxT2d7uwmB9cvjVM2",
+        "title": "NARA",
+        "artist": "GOŚKA, Nowator",
+        "release_date": "2025-03-27"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "7LfNo1aIfuxWD85nnp0jTy",
+        "title": "Blondyneczka",
+        "artist": "Bayer Full",
+        "release_date": "2013-04-30"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "5xWpPC2aayZbIwVxqZhh3c",
+        "title": "Słodkiego, miłego życia",
+        "artist": "Kombi",
+        "release_date": "2014-06-12"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "0mWTjCj1cm2YYosMR0jLAE",
+        "title": "Teraz Razem",
+        "artist": "Impuls",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "7xKZ3xuzmxpSPWnXDacBlc",
+        "title": "Ballada o Suliko",
+        "artist": "Diana",
+        "release_date": "2018-02-05"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "2UmydGSSlG63hPgiOiKaQH",
+        "title": "Taniec Na Rurze - Toni Selini Radio Edit",
+        "artist": "DJ Farad",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "5V7slhKRrMsaAiP0m9gewG",
+        "title": "Z Kosą do Europy",
+        "artist": "ANTOŚ SZPRYCHA",
+        "release_date": "1999-01-27"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "5eNnuKhQMh9jieIYzWutgR",
+        "title": "King Bruce Lee Karate Mistrz",
+        "artist": "Franek Kimono",
+        "release_date": "2008-06-12"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "5Ex4jPyfkZyTi3WJwHctjE",
+        "title": "Szmaragdy i diamenty",
+        "artist": "Solaris, Disco Polo",
+        "release_date": "2013-05-08"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "46Qzjar6oQvt56OFDeQyEJ",
+        "title": "Co Ma Być To Będzie",
+        "artist": "Power Play",
+        "release_date": "2015-05-20"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "591xn5Py9aLYJrnM14T2Bh",
+        "title": "Słoneczna Zabawa (Sha-la-la-la)",
+        "artist": "Patrycja",
+        "release_date": "2017-07-31"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "2zcBIV6rxpNJwZfWqizM4b",
+        "title": "Zaczarowała mnie - Radio Edit",
+        "artist": "Enjoy",
+        "release_date": "2018"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "4tf92yoVW7DaJ5Qab2nTsM",
+        "title": "Majteczki w kropeczki",
+        "artist": "Bayer Full",
+        "release_date": "2013-04-30"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "1j5g43pBvRsnhJvL9NTJH3",
+        "title": "Czy to czujesz",
+        "artist": "B-qll",
+        "release_date": "2018-02-16"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "45ZaaMe3NCed8PDG3DBVa9",
+        "title": "Farbowany Włos",
+        "artist": "Spontan, Menelaos",
+        "release_date": "2022-01-20"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "6xoJtyAWBemrpW4q0NTu1V",
+        "title": "Plastikowa biedronka",
+        "artist": "Veegas",
+        "release_date": "2012-10-26"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "24zlJBmnWHnfBRNnpvaUnb",
+        "title": "Bujaj Się",
+        "artist": "After Party",
+        "release_date": "2013-07-02"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "6MgPB5Ce3FxyYoYBtq9M76",
+        "title": "Chodź Kochanie(reaktywacja)",
+        "artist": "Cliver",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "71xDZgdtauBrNJMyzWKB7T",
+        "title": "Jesteś Mym Snem",
+        "artist": "Imperium",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "7k4WwfXkaeNML3wSogbWrh",
+        "title": "Teraz jestem twoim wrogiem",
+        "artist": "MARCIN TOPLES",
+        "release_date": "2024-10-01"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "5n2mK4nfopWCkb6AbNwH4N",
+        "title": "Gorace ciala",
+        "artist": "Disco Polo, Spike",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "0oAIwxH6L5w8zvoAkQ9N84",
+        "title": "Papierowy Księżyc",
+        "artist": "Love System",
+        "release_date": "2001-06-12"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "7k1RuCYLNxHOmd7Y57XNCl",
+        "title": "Bananowy song",
+        "artist": "VOX",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "762EDd3aDSHXaOmtuJCHUQ",
+        "title": "Sexualna",
+        "artist": "Mirami, Vova Zi L'vova",
+        "release_date": "2011-09-06"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "27ZEr3LW65VzLeBHuvtkdC",
+        "title": "JEDEN TANIEC JEDNA NOC",
+        "artist": "MiłyPan, Defis, Topky",
+        "release_date": "2022-04-29"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "36PjBOERRZO0vcFVCHwk2r",
+        "title": "Złą Opinię Mam",
+        "artist": "Weekend",
+        "release_date": "2010-09-03"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "7fDxKa7IA56MQqTATNdm4J",
+        "title": "Patelni miszcz",
+        "artist": "B-qll",
+        "release_date": "2017-05-22"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "15JOpNxF5pZOW8VycDxS86",
+        "title": "WESELE W DUBAJU",
+        "artist": "Daj To Głośniej",
+        "release_date": "2023-06-22"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "3xdfDHO2TTVQfIjfReWHiD",
+        "title": "Słodka Idiotka",
+        "artist": "Mamzel",
+        "release_date": "2016-10-01"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "5SsnNMLvRpJLBdM99fHj2p",
+        "title": "Kolorowe jarmarki",
+        "artist": "Janusz Laskowski",
+        "release_date": "2017-01-14"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "0I3EujyVaT3nmi5CExchLr",
+        "title": "Kici Kici Miał",
+        "artist": "Markus P",
+        "release_date": "2016"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "0geug0mKXXEuE0VEvoZ8kp",
+        "title": "Królowa Nocy",
+        "artist": "Akcent",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "0ETkRDuyDSI06f5qo5KkxU",
+        "title": "Czerwone Korale",
+        "artist": "Brathanki",
+        "release_date": "2000"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "2VrzrAyDEJT9WlGyYuIFa1",
+        "title": "Masz w sobie coś",
+        "artist": "Classic",
+        "release_date": "2024-10-03"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "4S87phAziL6aWDvoqtUyrp",
+        "title": "Mariolka",
+        "artist": "Drossel, Disco Polo",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "0WoclfgNwrWPTfPBKGaOfr",
+        "title": "Ona tu jest",
+        "artist": "Komodo, Feel",
+        "release_date": "2023-06-13"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "1OzlBug7c2LKPvIoMkuQhe",
+        "title": "Parostatek",
+        "artist": "Krzysztof Krawczyk",
+        "release_date": "2019-01-01"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "063ZobFSzYA0O7fmfi4oik",
+        "title": "Pędzą Konie",
+        "artist": "GOLEC UORKIESTRA",
+        "release_date": "2002-03-12"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "4MPz0ZPh2OeXGH2EMmmSJ6",
+        "title": "Daj mi tę noc",
+        "artist": "Bolter",
+        "release_date": "2024-02-23"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "0aVJ5hwYbp04rUHZPizca5",
+        "title": "Mam tylko ciebie",
+        "artist": "Mister Dex",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "6leqRqW81d7twHzNk0poKB",
+        "title": "Nocy mało",
+        "artist": "Masters",
+        "release_date": "2019-10-18"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "0QDGplY5KALFQQA2w8bdo9",
+        "title": "Toksyna",
+        "artist": "Kwestia 07",
+        "release_date": "2024-05-24"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "0LurGXh8J1ic9QtzN8vMN8",
+        "title": "Rum Helka",
+        "artist": "Szwagierkolaska",
+        "release_date": "2000-08-14"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "383hcpePsw1QA4UlikHxti",
+        "title": "Głupi los - radio edit",
+        "artist": "Mega Dance",
+        "release_date": "2020-03-30"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "4fo8VKm1MBrCTftocnzpff",
+        "title": "Klaun",
+        "artist": "Diadem",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "5LdZ4rWUeoacUfvSHVLKCr",
+        "title": "To nie przyjaźń tylko miłość",
+        "artist": "Classic",
+        "release_date": "2016-06-29"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "4gI5LHqQYSwZGjIQmSxyMi",
+        "title": "Imponujesz mi",
+        "artist": "Denis Impulsywni, Borys LBD",
+        "release_date": "2019-01-01"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "2kGe9zH4B6CZLMV1xF1gCk",
+        "title": "Co na to Twoja mama",
+        "artist": "Zajefajni",
+        "release_date": "2021-01-29"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "0cpMc5WjpLwJWsAfIsqw6c",
+        "title": "Jestem łysy",
+        "artist": "Stan Tutaj",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "0E8LbEabHmGSPTo5oRMhp7",
+        "title": "Zdejmij Ubranie",
+        "artist": "Holiday",
+        "release_date": "1999-10-22"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "02jjN4WEiPi7kqhS7w2X9t",
+        "title": "Jesteś sexi jak Alexis",
+        "artist": "Exotic",
+        "release_date": "1992-12-31"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "6sRHvMSPa6EXv2Y95aMNsB",
+        "title": "Promienie",
+        "artist": "Tarzan Boy",
+        "release_date": "1996-02-08"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "3ioz1BAh3xO3SATYofrJl2",
+        "title": "Lalę Poznałem",
+        "artist": "Bayera",
+        "release_date": "2021-04-08"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "26bju2IkYGvdIYVfaeEfYz",
+        "title": "Symetryczno-Liryczna",
+        "artist": "Enej",
+        "release_date": "2012-10-01"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "0IBpbTQkpv2iN8asPbOyQT",
+        "title": "Gaz Gaz Gaz",
+        "artist": "Czary Mary",
+        "release_date": "2021-12-01"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "4kKKnvDKHFqlToDyamjRgH",
+        "title": "Wino",
+        "artist": "Manil",
+        "release_date": "2012-08-13"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "6eUzSlzzpfJOKknTSKGfqP",
+        "title": "Księżniczka",
+        "artist": "Power Boy",
+        "release_date": "2016-06-08"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "1OWseQo2xtPDNxFAiAVyDu",
+        "title": "Życie To Są Chwile",
+        "artist": "Akcent",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "3HTpVELF9OZb7gx56C2T48",
+        "title": "Bania U Cygana",
+        "artist": "Zero",
+        "release_date": "2015-10-26"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "7zFE6JGIyhqwPpADb0T0Z4",
+        "title": "No Powiedz Mi",
+        "artist": "Miglanc",
+        "release_date": "2019-07-02"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "0peRfvtx1Je91FxQtii5DJ",
+        "title": "Chyba że z Tobą",
+        "artist": "MODELKI, Vłodarski",
+        "release_date": "2024-04-04"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "3lhNqtAXBbsrvwi1DCiMgD",
+        "title": "Jak Się Masz Kochanie (Original)",
+        "artist": "Happy End",
+        "release_date": "1977-04-09"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "694XlPzNwi52EqrPt7XmgH",
+        "title": "Ja Dla Ciebie Ty Dla Mnie",
+        "artist": "Classic",
+        "release_date": "2017-11-28"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "5CfbbXBf6zw7deQXVQv3m6",
+        "title": "W te noc",
+        "artist": "SKALAR",
+        "release_date": "2023-02-02"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "2GKoUGVoLw3ToJMsgONvjx",
+        "title": "Za Każdą Chwilę z Tobą",
+        "artist": "Weekend",
+        "release_date": "2012-11-10"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "4ROo6Ql9goEFbRomloff6e",
+        "title": "Tarzan",
+        "artist": "Tarzan Boy",
+        "release_date": "1996-02-08"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "0hYqHWrssHHeWbfuFMStJx",
+        "title": "Jessica",
+        "artist": "Borys LBD, Bado",
+        "release_date": "2023-02-14"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "24cZ54Ek3zBbueEoZuVV5p",
+        "title": "Jasnowłosa",
+        "artist": "Milano",
+        "release_date": "2013-05-01"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "08ULDx4KeBpXe7OHEWjgVP",
+        "title": "Ale Ale Aleksandra",
+        "artist": "Andre",
+        "release_date": "2014-04-16"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "0aAbUOpFeVITfg386ovm4X",
+        "title": "Nie mów, że - vers. 2000",
+        "artist": "MARCIN TOPLES",
+        "release_date": "2025-03-10"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "2KhqIqcLm2RGQIM2EPD7xp",
+        "title": "Nie warto kłamać",
+        "artist": "MAXEL",
+        "release_date": "2022-10-02"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "40dbYk4vVfIkUNALsZp2Cp",
+        "title": "Amore",
+        "artist": "Skaner",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "3rVgsGNQ6rZdEDCrRmEP6z",
+        "title": "Madmuazel",
+        "artist": "Łobuzy",
+        "release_date": "2024-01-18"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "2CioAcjueG5SjLrjBIIquY",
+        "title": "Czy zrozumiesz to - Radio Edit",
+        "artist": "Poparazzi",
+        "release_date": "2004"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "4MrrZigVWtt0FbPcZ5690O",
+        "title": "Kochaj Tylko Raz",
+        "artist": "Toledo",
+        "release_date": "2016-05-12"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "0aT3J2jfDsm4IjtjFy3gXQ",
+        "title": "Shake Your Boom Boom - Radio Edit",
+        "artist": "D-Bomb",
+        "release_date": "2011-11-22"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "1VMdQNslqN104kmrtFym2t",
+        "title": "Helenka",
+        "artist": "Long & Junior",
+        "release_date": "2016-04-29"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "0UC4DCHCTwYAqADQJtpFUg",
+        "title": "Łobuz",
+        "artist": "Boys",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "7trJX5yqHiTgH1wTKR01xQ",
+        "title": "Grzeszna Miłość",
+        "artist": "Viper",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "6pnNa2y187wnorA3pV4BoP",
+        "title": "Maczo",
+        "artist": "K.A.S.A.",
+        "release_date": "2000"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "4xDEMqhRfLSREMVIUUba3s",
+        "title": "Bara Bara",
+        "artist": "Milano",
+        "release_date": "2013-05-01"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "159HN1lk9uH0g01tAJH93R",
+        "title": "Królowa",
+        "artist": "MiłyPan",
+        "release_date": "2018-09-07"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "6tSveT8S7JScfQLp1Ig4gi",
+        "title": "Tak już jest - Holiday Mix",
+        "artist": "Rytm",
+        "release_date": "1997-12-31"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "2LAcOa4xQugfAQVScpTt8P",
+        "title": "Łobuz Kocha Najbardziej",
+        "artist": "Łobuzy, Piękny Dawid",
+        "release_date": "2016"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "6T04WEXP3nTOmM8qnLMSQw",
+        "title": "O Ela, Ela",
+        "artist": "D-Bomb",
+        "release_date": "2001-04-13"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "0uw0ZNJyzv5xT7RSlwgx2j",
+        "title": "Na Końcu Świata",
+        "artist": "Czadoman",
+        "release_date": "2023-10-19"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "13jeB2B2o6clF2ZkLlXc9P",
+        "title": "Środa Czwartek - Radio Edit",
+        "artist": "Video",
+        "release_date": "2011-08-05"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "4LUOThV3CpDoJxMEQ7GDL7",
+        "title": "6 na 9",
+        "artist": "Cover",
+        "release_date": "2012"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "7vcw7sxEBuhu8wOd10TVGp",
+        "title": "Jak Ty mnie nakręcasz - Radio Mix",
+        "artist": "Freaky Boys, Królowa Disco",
+        "release_date": "2022-05-12"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "500bYkkv41lkLIUoHQAjEz",
+        "title": "Miła moja",
+        "artist": "Top One",
+        "release_date": "2000-12-31"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "5RRieBycJhQxIr80VyLNpm",
+        "title": "Truskaweczka - Radio Edit",
+        "artist": "Andre",
+        "release_date": "2024-05-15"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "2oj7s0E0UcAjgGAHMZsy7k",
+        "title": "Król Latino",
+        "artist": "Denis Impulsywni, Ekskluzywni",
+        "release_date": "2023-02-01"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "59qwPDFc1c8xtojQPywuox",
+        "title": "Dancing Queen",
+        "artist": "Halina Frackowiak",
+        "release_date": "1987-10-19"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "2rtLfeuQrbNq5KebfipYYJ",
+        "title": "Tak jak Ty",
+        "artist": "Klaudia Zielińska",
+        "release_date": "2023-07-22"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "1ZLaYTr8LD0rKdwd3ox19x",
+        "title": "To Ty",
+        "artist": "Impuls",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "7mhrPDWe8iYGR0C8vlIfSH",
+        "title": "Kochanków Miałaś Wielu (Radio Edit)",
+        "artist": "4ever",
+        "release_date": "2004-05-01"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "1CnVNy3uamMTOgSbFAn26B",
+        "title": "Typiara",
+        "artist": "Boyfriend",
+        "release_date": "2017-07-24"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "2eIygvxZcDWMfYtXugYM8j",
+        "title": "Sexi Lala",
+        "artist": "Drossel",
+        "release_date": "2009-05-01"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "4Ob632tpZrGArQ06MfgSYm",
+        "title": "Kazdy Facet To Swinia",
+        "artist": "Big Cyc",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "1SUAw6biPbusSjhfWF8QKG",
+        "title": "Hej, dobry DJ",
+        "artist": "MARCIN TOPLES",
+        "release_date": "2024-08-29"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "62aSJIOIk1OiuX7ZjsEulN",
+        "title": "Hej wesele",
+        "artist": "Love System",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "3oJh210PfgkaiAlm4gL5AO",
+        "title": "Nastolatka",
+        "artist": "Vabank",
+        "release_date": "2006-09-25"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "5fjv8XcSz5AcIjJvZsBpli",
+        "title": "Zakochajmy Się",
+        "artist": "Toledo",
+        "release_date": "1998-08-30"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "2SMdtOzGlVG5THVWpA2mYQ",
+        "title": "Pokaż mi",
+        "artist": "Verba",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "2zPkJzYp4EKpLACjCAkTPi",
+        "title": "Za Każdy Dzień, Za Każdy Szept",
+        "artist": "Jacek Stachursky",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "33fEWLG7tUJ3eU8cA4bUFm",
+        "title": "Bądź Moją Królową (Radio Edit)",
+        "artist": "Long & Junior",
+        "release_date": "2015-11-29"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "6MymncQrbhlMG64j6oAJAZ",
+        "title": "Szósta rano - Radio Edit",
+        "artist": "Explozja",
+        "release_date": "2021-03-09"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "763eQte2AzqBSCamE7Kh7v",
+        "title": "Dawaj mi pyska",
+        "artist": "Łobuzy, Topky",
+        "release_date": "2023-08-22"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "0dCAeeVzkM0yjvgNxNQBIM",
+        "title": "Wypijmy za błędy",
+        "artist": "Ryszard Rynkowski",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "3GG6wPyM3P25qhTMbnKJkd",
+        "title": "Moja Gwiazda",
+        "artist": "Akcent",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "3VjLFqe5BCqMBKWaLU9cAl",
+        "title": "Bawmy Się ( Radio Edit)",
+        "artist": "Mega Dance",
+        "release_date": "2015-12-05"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "3eEtXcAdkDsqFCv3nGFEfO",
+        "title": "Wszystko dla Ciebie",
+        "artist": "Mister Dex",
+        "release_date": "1998-08-31"
+      }
+    ]
+  }
+}

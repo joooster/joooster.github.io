@@ -1,0 +1,1585 @@
+{
+  "updated_on": 1766489226,
+  "sku": "aaaa0022",
+  "gameset_data": {
+    "gameset_language": "Portugal",
+    "gameset_name": "Hitster Bingo",
+    "cards": [
+      {
+        "CardNumber": "00225",
+        "Spotify": "2v8B8d17Xxu9uLU5sNiHSL",
+        "title": "Delilah",
+        "artist": "Tom Jones",
+        "release_date": "1968-01-01"
+      },
+      {
+        "CardNumber": "00224",
+        "Spotify": "2VSGzQqy9nqJefcYGJNWst",
+        "title": "Tanto la Queria",
+        "artist": "Andy & Lucas",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00223",
+        "Spotify": "6ek9LgV6iBRtYlBqiZOOiC",
+        "title": "Chico Fininho",
+        "artist": "Rui Veloso",
+        "release_date": "2001-06-11"
+      },
+      {
+        "CardNumber": "00222",
+        "Spotify": "5caUpMNinz52sFOHqGMOdd",
+        "title": "Carta",
+        "artist": "Toranja",
+        "release_date": "2003-06-01"
+      },
+      {
+        "CardNumber": "00221",
+        "Spotify": "1ixbwbeBi5ufN4noUKmW5a",
+        "title": "Paper Planes",
+        "artist": "M.I.A.",
+        "release_date": "2007-08-20"
+      },
+      {
+        "CardNumber": "00220",
+        "Spotify": "1YrMJsbVfgxWMbbKZUk7mM",
+        "title": "Feiticeira (feat. Pablo Milanés)",
+        "artist": "Luís Represas, Pablo Milanés",
+        "release_date": "1993"
+      },
+      {
+        "CardNumber": "00219",
+        "Spotify": "6RNDeRnWsRMjPdNVgupZCs",
+        "title": "I Just Called To Say I Love You",
+        "artist": "Stevie Wonder",
+        "release_date": "1999-11-23"
+      },
+      {
+        "CardNumber": "00218",
+        "Spotify": "6RUKPb4LETWmmr3iAEQktW",
+        "title": "Something Just Like This",
+        "artist": "The Chainsmokers, Coldplay",
+        "release_date": "2017-04-07"
+      },
+      {
+        "CardNumber": "00217",
+        "Spotify": "21pySLskKIKrhDziCX5ojQ",
+        "title": "When I Grow Up",
+        "artist": "The Pussycat Dolls",
+        "release_date": "2008-09-23"
+      },
+      {
+        "CardNumber": "00216",
+        "Spotify": "3vkQ5DAB1qQMYO4Mr9zJN6",
+        "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "artist": "ABBA",
+        "release_date": "1979"
+      },
+      {
+        "CardNumber": "00215",
+        "Spotify": "1BV0m40U0M4t1SLIsDnwZl",
+        "title": "1973",
+        "artist": "James Blunt",
+        "release_date": "2007-09-05"
+      },
+      {
+        "CardNumber": "00214",
+        "Spotify": "2fXKyAyPrEa24c6PJyqznF",
+        "title": "Common People - Full Length Version",
+        "artist": "Pulp",
+        "release_date": "1995-10-30"
+      },
+      {
+        "CardNumber": "00213",
+        "Spotify": "2J2Z1SkXYghSajLibnQHOa",
+        "title": "Unstoppable",
+        "artist": "Sia",
+        "release_date": "2016-01-29"
+      },
+      {
+        "CardNumber": "00212",
+        "Spotify": "7DNEhJHKkutfD7LegrxSF1",
+        "title": "Secretamente",
+        "artist": "Rita Guerra",
+        "release_date": "2006-10-10"
+      },
+      {
+        "CardNumber": "00211",
+        "Spotify": "3cU2wBxuV6nFiuf6PJZNlC",
+        "title": "Dear Future Husband",
+        "artist": "Meghan Trainor",
+        "release_date": "2015-01-12"
+      },
+      {
+        "CardNumber": "00210",
+        "Spotify": "37Tmv4NnfQeb0ZgUC4fOJj",
+        "title": "Sultans Of Swing",
+        "artist": "Dire Straits",
+        "release_date": "1978-10-07"
+      },
+      {
+        "CardNumber": "00209",
+        "Spotify": "7Lf7oSEVdzZqTA0kEDSlS5",
+        "title": "Cry Me a River",
+        "artist": "Justin Timberlake",
+        "release_date": "2002-11-04"
+      },
+      {
+        "CardNumber": "00208",
+        "Spotify": "1XyL3J7eTTKnxRZAM3LqIT",
+        "title": "Beggin (original version)",
+        "artist": "Madcon",
+        "release_date": "2007-12-03"
+      },
+      {
+        "CardNumber": "00207",
+        "Spotify": "7lQ8MOhq6IN2w8EYcFNSUk",
+        "title": "Without Me",
+        "artist": "Eminem",
+        "release_date": "2002-05-26"
+      },
+      {
+        "CardNumber": "00206",
+        "Spotify": "0XOIVUHZMK0bi5B6XK2x2M",
+        "title": "Deixa-me rir",
+        "artist": "Jorge Palma",
+        "release_date": "1985"
+      },
+      {
+        "CardNumber": "00205",
+        "Spotify": "1fr92Vupmcs2vgLMFVQ7rd",
+        "title": "In the Shadows",
+        "artist": "The Rasmus",
+        "release_date": "2003-03-24"
+      },
+      {
+        "CardNumber": "00204",
+        "Spotify": "5NlFXQ0si6U87gXs6hq81B",
+        "title": "Candy",
+        "artist": "Robbie Williams",
+        "release_date": "2012-11-05"
+      },
+      {
+        "CardNumber": "00203",
+        "Spotify": "4DHcnVTT87F0zZhRPYmZ3B",
+        "title": "Flowers",
+        "artist": "Miley Cyrus",
+        "release_date": "2023-03-10"
+      },
+      {
+        "CardNumber": "00202",
+        "Spotify": "4bJygwUKrRgq1stlNXcgMg",
+        "title": "All The Things She Said",
+        "artist": "t.A.T.u.",
+        "release_date": "2002"
+      },
+      {
+        "CardNumber": "00201",
+        "Spotify": "08cshUZIlQMJRKPTLnaT9F",
+        "title": "Over My Shoulder",
+        "artist": "Mike + The Mechanics",
+        "release_date": "1995-03-06"
+      },
+      {
+        "CardNumber": "00200",
+        "Spotify": "4O0LwyuV3U18Hg5AxILDlI",
+        "title": "Sing It Back - Boris Musical Mix - Edit",
+        "artist": "Moloko, Boris Dlugosch, Michael Lange",
+        "release_date": "1998-10-26"
+      },
+      {
+        "CardNumber": "00199",
+        "Spotify": "3yUcJwYu7fXAfqMj9krY6l",
+        "title": "Thank You",
+        "artist": "Dido",
+        "release_date": "1999"
+      },
+      {
+        "CardNumber": "00198",
+        "Spotify": "32Gf5A7Hr8RdgggXG0Fdks",
+        "title": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
+        "artist": "Bryan Adams",
+        "release_date": "1996-06-04"
+      },
+      {
+        "CardNumber": "00197",
+        "Spotify": "7FSzJQV6thyoQptFCUTV9c",
+        "title": "Parklife - 2012 Remaster",
+        "artist": "Blur",
+        "release_date": "1994-04-25"
+      },
+      {
+        "CardNumber": "00196",
+        "Spotify": "6KgBpzTuTRPebChN0VTyzV",
+        "title": "Good as Hell",
+        "artist": "Lizzo",
+        "release_date": "2019-04-17"
+      },
+      {
+        "CardNumber": "00195",
+        "Spotify": "6aY8pSRwrJ9IjPAzr0dd0S",
+        "title": "Alma Mater",
+        "artist": "Moonspell",
+        "release_date": "1995"
+      },
+      {
+        "CardNumber": "00194",
+        "Spotify": "0jok87LhMj1mkR76uVUEhc",
+        "title": "Ai Destino, Ai Destino",
+        "artist": "Tony Carreira",
+        "release_date": "2008-07-11"
+      },
+      {
+        "CardNumber": "00193",
+        "Spotify": "7H6ev70Weq6DdpZyyTmUXk",
+        "title": "Say My Name",
+        "artist": "Destiny's Child",
+        "release_date": "1999-07-27"
+      },
+      {
+        "CardNumber": "00192",
+        "Spotify": "3moLWHe3gMw2HWW9r68wN7",
+        "title": "Ninguém é de ninguém",
+        "artist": "João Pedro Pais",
+        "release_date": "2010-10-04"
+      },
+      {
+        "CardNumber": "00191",
+        "Spotify": "3jLwGYzne0J3r8Z2XS9CdD",
+        "title": "Pedra Filosofal",
+        "artist": "Manuel Freire",
+        "release_date": "1993"
+      },
+      {
+        "CardNumber": "00190",
+        "Spotify": "6lbK3kV0H70b9FKymdoJxv",
+        "title": "Nesta Noite Branca",
+        "artist": "Anjos",
+        "release_date": "1999-11-24"
+      },
+      {
+        "CardNumber": "00189",
+        "Spotify": "65BXCyoVQ1sSGj0z6UxRcL",
+        "title": "Talvez...",
+        "artist": "CAROLINA DE DEUS",
+        "release_date": "2022-01-12"
+      },
+      {
+        "CardNumber": "00188",
+        "Spotify": "4TCL0qqKyqsMZml0G3M9IM",
+        "title": "Telephone",
+        "artist": "Lady Gaga, Beyoncé",
+        "release_date": "2009-11-05"
+      },
+      {
+        "CardNumber": "00187",
+        "Spotify": "07ABETRdek3ACMpRPvQuaT",
+        "title": "Always on My Mind",
+        "artist": "Pet Shop Boys",
+        "release_date": "1998-03-31"
+      },
+      {
+        "CardNumber": "00186",
+        "Spotify": "49skdn8Truaufvcz8BXmtT",
+        "title": "Lets Go Surfing",
+        "artist": "The Drums",
+        "release_date": "2010-06-07"
+      },
+      {
+        "CardNumber": "00185",
+        "Spotify": "6tunhVGD8C05MZNjSVIsjw",
+        "title": "It Never Rains in Southern California",
+        "artist": "Albert Hammond",
+        "release_date": "1972-08-16"
+      },
+      {
+        "CardNumber": "00184",
+        "Spotify": "6tDDoYIxWvMLTdKpjFkc1B",
+        "title": "telepatía",
+        "artist": "Kali Uchis",
+        "release_date": "2020-12-04"
+      },
+      {
+        "CardNumber": "00183",
+        "Spotify": "7vOLJwP5O0woITaIQWOoUX",
+        "title": "Why ?",
+        "artist": "Bronski Beat",
+        "release_date": "1984-10-15"
+      },
+      {
+        "CardNumber": "00182",
+        "Spotify": "2zYzyRzz6pRmhPzyfMEC8s",
+        "title": "Highway to Hell",
+        "artist": "AC/DC",
+        "release_date": "1979-07-27"
+      },
+      {
+        "CardNumber": "00181",
+        "Spotify": "39qYD4J4BKvZMQgxfXl5bv",
+        "title": "Eye In The Sky",
+        "artist": "The Alan Parsons Project",
+        "release_date": "1982"
+      },
+      {
+        "CardNumber": "00180",
+        "Spotify": "0Ui05Ov0s4PnRc4JI3Pilg",
+        "title": "My Favourite Game",
+        "artist": "The Cardigans",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00179",
+        "Spotify": "1bCmvezFg5MRcENzCGG1Cy",
+        "title": "Chelsea Dagger",
+        "artist": "The Fratellis",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00178",
+        "Spotify": "4UzVcXufOhGUwF56HT7b8M",
+        "title": "My Immortal",
+        "artist": "Evanescence",
+        "release_date": "2003-03-04"
+      },
+      {
+        "CardNumber": "00177",
+        "Spotify": "0wokCRaKD0zPNhMRXAgVsr",
+        "title": "Ordinary World",
+        "artist": "Duran Duran",
+        "release_date": "1993-02-15"
+      },
+      {
+        "CardNumber": "00176",
+        "Spotify": "5OQGeJ1ceykovrykZsGhqL",
+        "title": "Breathless",
+        "artist": "The Corrs",
+        "release_date": "2000-07-17"
+      },
+      {
+        "CardNumber": "00175",
+        "Spotify": "1u8c2t2Cy7UBoG4ArRcF5g",
+        "title": "Blank Space",
+        "artist": "Taylor Swift",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00174",
+        "Spotify": "0nLiqZ6A27jJri2VCalIUs",
+        "title": "Nothing Else Matters",
+        "artist": "Metallica",
+        "release_date": "1991-08-12"
+      },
+      {
+        "CardNumber": "00173",
+        "Spotify": "5gOC8eCTLI9DGb7C2tdLWo",
+        "title": "Playback",
+        "artist": "Carlos Paião",
+        "release_date": "2014-10-22"
+      },
+      {
+        "CardNumber": "00172",
+        "Spotify": "5JaZylfojtJnxBipA5mBVT",
+        "title": "'Cause to Love You",
+        "artist": "Fingertips",
+        "release_date": "2006-03-27"
+      },
+      {
+        "CardNumber": "00171",
+        "Spotify": "4UCTgh5jvtqoaMX6MAhUNn",
+        "title": "Personal Jesus - Single Version",
+        "artist": "Depeche Mode",
+        "release_date": "1998-09-28"
+      },
+      {
+        "CardNumber": "00170",
+        "Spotify": "3tL8SC2eockFCHPPPwd7ZM",
+        "title": "Amanhã é sempre longe demais",
+        "artist": "Rádio Macau",
+        "release_date": "1989-02-06"
+      },
+      {
+        "CardNumber": "00169",
+        "Spotify": "7w5AOd6HrDIHewHfpABEss",
+        "title": "Wicked Game",
+        "artist": "Chris Isaak",
+        "release_date": "1989-06-13"
+      },
+      {
+        "CardNumber": "00168",
+        "Spotify": "3qI94hINNNeb4S7xQi18lS",
+        "title": "Blame It on the Boogie",
+        "artist": "The Jacksons",
+        "release_date": "1978-12-17"
+      },
+      {
+        "CardNumber": "00167",
+        "Spotify": "3h8nYxuYdcjCxLKoQhQYpD",
+        "title": "És Tão Sensual",
+        "artist": "Toy",
+        "release_date": "2002"
+      },
+      {
+        "CardNumber": "00166",
+        "Spotify": "5OQsiBsky2k2kDKy2bX2eT",
+        "title": "Learn to Fly",
+        "artist": "Foo Fighters",
+        "release_date": "1999-11-02"
+      },
+      {
+        "CardNumber": "00165",
+        "Spotify": "2ihCaVdNZmnHZWt0fvAM7B",
+        "title": "Little Talks",
+        "artist": "Of Monsters and Men",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00164",
+        "Spotify": "3spdoTYpuCpmq19tuD0bOe",
+        "title": "My Way",
+        "artist": "Frank Sinatra",
+        "release_date": "1969-03"
+      },
+      {
+        "CardNumber": "00163",
+        "Spotify": "31jrZRwWQiIzyginZuMHs2",
+        "title": "Amanhã De Manhã",
+        "artist": "Doce",
+        "release_date": "1980-01-01"
+      },
+      {
+        "CardNumber": "00162",
+        "Spotify": "4pbJqGIASGPr0ZpGpnWkDn",
+        "title": "We Will Rock You - Remastered 2011",
+        "artist": "Queen",
+        "release_date": "1977-10-28"
+      },
+      {
+        "CardNumber": "00161",
+        "Spotify": "22sLuJYcvZOSoLLRYev1s5",
+        "title": "Material Girl",
+        "artist": "Madonna",
+        "release_date": "2009-09-18"
+      },
+      {
+        "CardNumber": "00160",
+        "Spotify": "2P4OICZRVAQcYAV2JReRfj",
+        "title": "Waiting For Love",
+        "artist": "Avicii",
+        "release_date": "2015-10-02"
+      },
+      {
+        "CardNumber": "00159",
+        "Spotify": "4w1lzcaoZ1IC2K5TwjalRP",
+        "title": "A Thousand Miles",
+        "artist": "Vanessa Carlton",
+        "release_date": "2002-04-30"
+      },
+      {
+        "CardNumber": "00158",
+        "Spotify": "76D5nfZbYzZYfUZKGy73jy",
+        "title": "7 Seconds (feat. Neneh Cherry)",
+        "artist": "Youssou N'Dour, Neneh Cherry",
+        "release_date": "2004"
+      },
+      {
+        "CardNumber": "00157",
+        "Spotify": "3pgainA2dH9c7e8JVYGRCN",
+        "title": "Ride on Time",
+        "artist": "Black Box",
+        "release_date": "2006-09-01"
+      },
+      {
+        "CardNumber": "00156",
+        "Spotify": "1OppEieGNdItZbE14gLBEv",
+        "title": "You Can't Hurry Love",
+        "artist": "The Supremes",
+        "release_date": "1966-08-25"
+      },
+      {
+        "CardNumber": "00155",
+        "Spotify": "3PfIrDoz19wz7qK7tYeu62",
+        "title": "Don't Start Now",
+        "artist": "Dua Lipa",
+        "release_date": "2020-03-27"
+      },
+      {
+        "CardNumber": "00154",
+        "Spotify": "1CtKHwDqsH3ctcCCI18N0g",
+        "title": "Everybody Needs Somebody to Love",
+        "artist": "The Blues Brothers",
+        "release_date": "1980"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "6AxCr5G75R5rqyNCYWVpTo",
+        "title": "Higher",
+        "artist": "Taio Cruz, Kylie Minogue",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "26QKsGW4hMuwiEE1ftUMHe",
+        "title": "Lo Que Pasó, Pasó",
+        "artist": "Daddy Yankee",
+        "release_date": "2004-07-13"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "3HqcNJdZ2seoGxhn0wVNDK",
+        "title": "PROVENZA",
+        "artist": "KAROL G",
+        "release_date": "2023-02-24"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "3USxtqRwSYz57Ewm6wWRMp",
+        "title": "Heat Waves",
+        "artist": "Glass Animals",
+        "release_date": "2020-08-07"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "45Ia1U4KtIjAPPU7Wv1Sea",
+        "title": "Are You Gonna Go My Way",
+        "artist": "Lenny Kravitz",
+        "release_date": "1993-03-09"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "0CnD7Hiw6pae6rLsZw5q5W",
+        "title": "Incomplete",
+        "artist": "Backstreet Boys",
+        "release_date": "2005-06-14"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "5cF0dROlMOK5uNZtivgu50",
+        "title": "Attention",
+        "artist": "Charlie Puth",
+        "release_date": "2018-05-11"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "2avAoYtbiI5hw1O2F7skeN",
+        "title": "Se Eu",
+        "artist": "Fernando Daniel, Melim",
+        "release_date": "2020-07-10"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "3HBXHBR1BS1FCSC5OhvYij",
+        "title": "O Homem Do Leme",
+        "artist": "Xutos & Pontapés",
+        "release_date": "2017-09-08"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "6OMjtuz1sYVsHpdeZPUR1n",
+        "title": "Sarà perché ti amo",
+        "artist": "Ricchi E Poveri",
+        "release_date": "1997-09-08"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "4XE98WRGbBGRZ7jQ9wIwFt",
+        "title": "Fuck You",
+        "artist": "Lily Allen",
+        "release_date": "2008-12-02"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "50kpGaPAhYJ3sGmk6vplg0",
+        "title": "Love Yourself",
+        "artist": "Justin Bieber",
+        "release_date": "2015-11-13"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "6y0Etr2KJr0sdcEp7ajoUK",
+        "title": "Cosmic Girl - Remastered 2013",
+        "artist": "Jamiroquai",
+        "release_date": "1996-09-09"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "23ehR4jpFQFMfDADgFdXR7",
+        "title": "Rise & Fall (feat. Sting)",
+        "artist": "Craig David, Sting",
+        "release_date": "2002-11-19"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "5VYTKiOnHw4iTrB9pG3yum",
+        "title": "Unbelievable",
+        "artist": "EMF",
+        "release_date": "1991-05-07"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "5jkFvD4UJrmdoezzT1FRoP",
+        "title": "Rasputin",
+        "artist": "Boney M.",
+        "release_date": "1978"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "5Fla3zyOCcIRqrDoKLU0DP",
+        "title": "Let You Love Me",
+        "artist": "Rita Ora",
+        "release_date": "2018-11-23"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "4ZtFanR9U6ndgddUvNcjcG",
+        "title": "good 4 u",
+        "artist": "Olivia Rodrigo",
+        "release_date": "2021-05-21"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "1wrT33b6HuKlpk9ziscEUY",
+        "title": "Baby Jane - 2008 Remaster",
+        "artist": "Rod Stewart",
+        "release_date": "1983"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "0G21yYKMZoHa30cYVi1iA8",
+        "title": "Welcome To The Jungle",
+        "artist": "Guns N' Roses",
+        "release_date": "1987-07-21"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "1DapqOfkDAQCiKnvfwKo0g",
+        "title": "All Around the World - Remastered",
+        "artist": "Lisa Stansfield, Ian Devaney, Andy Morris",
+        "release_date": "1989"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "0sTxIxDW7jgf4FXaoqzsnC",
+        "title": "Os Filhos Da Nação",
+        "artist": "Quinta Do Bill",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "2BPXgvwDUvWmIyKmutms0e",
+        "title": "portas do sol",
+        "artist": "Nena",
+        "release_date": "2022-11-18"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "7huo2wvrCgRucUsjdSDLQV",
+        "title": "Ain't No Other Man",
+        "artist": "Christina Aguilera",
+        "release_date": "2006-08-14"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "0GWGZA5mxo9nHuSyrj70uo",
+        "title": "When Love Takes Over (feat. Kelly Rowland)",
+        "artist": "David Guetta, Kelly Rowland",
+        "release_date": "2010-11-22"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "2Pn5gvVioma5LHPxgEBBmD",
+        "title": "No More \"I Love You's\"",
+        "artist": "Annie Lennox",
+        "release_date": "1995"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "7wMjmVE3cMgewEUrYxYWJt",
+        "title": "Zumba Na Caneca",
+        "artist": "Tonicha",
+        "release_date": "1980-05-20"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "3yytzPqYvSeU1SWQdGIq1g",
+        "title": "Sou Como Um Rio",
+        "artist": "Delfins",
+        "release_date": "1995-11-02"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "2q4rjDy9WhaN3o9MvDbO21",
+        "title": "Kiss Me Thru The Phone",
+        "artist": "Soulja Boy, Sammie",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "4cQJ27R11K634x5qCOwKW5",
+        "title": "One Way Or Another - Remastered 2001",
+        "artist": "Blondie",
+        "release_date": "1978-09-01"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "0VctaX8adxqHOlHu0Ih6F9",
+        "title": "Rainha da noite",
+        "artist": "D'Arrasar",
+        "release_date": "1999"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "0EgaCa0seSgemq1f0uB5r1",
+        "title": "Primavera",
+        "artist": "The Gift",
+        "release_date": "2012-01-09"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "7wMq5n8mYSKlQIGECKUgTX",
+        "title": "Hall of Fame (feat. will.i.am)",
+        "artist": "The Script, will.i.am",
+        "release_date": "2012-09-10"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "3BovdzfaX4jb5KFQwoPfAw",
+        "title": "Beat It",
+        "artist": "Michael Jackson",
+        "release_date": "1982-11-30"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "6huNf4dutXRjJyGn7f5BPS",
+        "title": "Pray For Me",
+        "artist": "The Weeknd, Kendrick Lamar",
+        "release_date": "2021-02-05"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "59WN2psjkt1tyaxjspN8fp",
+        "title": "Killing In The Name",
+        "artist": "Rage Against The Machine",
+        "release_date": "1992"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "45hCYrA2cYcxD6shEbS6pP",
+        "title": "Deixa o Mundo Girar",
+        "artist": "Pólo Norte",
+        "release_date": "2005"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "2hOFPpEOYj7sEUAjGeVnpx",
+        "title": "Cidade",
+        "artist": "Bárbara Tinoco, Bárbara Bandeira",
+        "release_date": "2021-04-29"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "5fVZC9GiM4e8vu99W0Xf6J",
+        "title": "How to Save a Life",
+        "artist": "The Fray",
+        "release_date": "2005-09-13"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "7EQGXaVSyEDsCWKmUcfpLk",
+        "title": "Die Young",
+        "artist": "Kesha",
+        "release_date": "2012-11-30"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "3jS7bB0oXVOwGFZn3aE5NV",
+        "title": "You Oughta Know - 2015 Remaster",
+        "artist": "Alanis Morissette",
+        "release_date": "1995"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "1jJci4qxiYcOHhQR247rEU",
+        "title": "Kids",
+        "artist": "MGMT",
+        "release_date": "2007-12-14"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "5CvPrE0Kf2erzyzYYU0Km6",
+        "title": "125 azul",
+        "artist": "Trovante",
+        "release_date": "1987"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "0QKfiqpEU4h9ycPSzIFwYe",
+        "title": "Maniac",
+        "artist": "Michael Sembello",
+        "release_date": "1983-04-11"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "44MuEHdlociG8KjhPhOVw5",
+        "title": "Padam Padam",
+        "artist": "Kylie Minogue",
+        "release_date": "2023-09-22"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "3tDhcDkmtxKG1ZFZlMyBkV",
+        "title": "Só Gosto De Ti",
+        "artist": "Heróis Do Mar",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "71iSmEeF0qRVyULABxP75P",
+        "title": "Shake It Out",
+        "artist": "Florence + The Machine",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "10ZD7njlVXWh9dS3m3n6tf",
+        "title": "Latin'América",
+        "artist": "Jafumega",
+        "release_date": "1982-01-01"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "0uppYCG86ajpV2hSR3dJJ0",
+        "title": "Give It Away",
+        "artist": "Red Hot Chili Peppers",
+        "release_date": "1991-09-24"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "1lxoHeqakdySsDRvSZJHIU",
+        "title": "Como Tu (feat. Ivandro)",
+        "artist": "Bárbara Bandeira, Ivandro",
+        "release_date": "2023-10-06"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "4hfIVhq0F0zFUcrbecsYmo",
+        "title": "Let's Get It Started - Spike Mix",
+        "artist": "Black Eyed Peas",
+        "release_date": "2003-06-24"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "1jDJFeK9x3OZboIAHsY9k2",
+        "title": "I'm Still Standing",
+        "artist": "Elton John",
+        "release_date": "1983-05-30"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "1vp7y6ArdK4ghCfcnZ0600",
+        "title": "Chiclete",
+        "artist": "Taxi",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "6vqEctRr6hDFEeIkFUNWUf",
+        "title": "Higher Love - 1990 Original Mix",
+        "artist": "Whitney Houston",
+        "release_date": "1990-11-06"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "6wpGqhRvJGNNXwWlPmkMyO",
+        "title": "I Still Haven't Found What I'm Looking For",
+        "artist": "U2",
+        "release_date": "1987-03-03"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "4TIJ7zSBNejpoIPaWpWRKc",
+        "title": "Rebel Yell",
+        "artist": "Billy Idol",
+        "release_date": "1983-11-01"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "6hpmTwgNCz81H2bFEREx29",
+        "title": "Get Up I Feel Like Being Like A Sex Machine, Pts. 1 & 2",
+        "artist": "James Brown, The Original J.B.s",
+        "release_date": "1995-04-16"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "1Hv1VTm8zeOeybub15mA2R",
+        "title": "Smooth Operator - Single Version",
+        "artist": "Sade",
+        "release_date": "1994-10-31"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "46IZ0fSY2mpAiktS3KOqds",
+        "title": "Easy On Me",
+        "artist": "Adele",
+        "release_date": "2021-11-19"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "4QNpBfC0zvjKqPJcyqBy9W",
+        "title": "Give Me Everything (feat. Nayer)",
+        "artist": "Pitbull, AFROJACK, Ne-Yo, Nayer",
+        "release_date": "2011-06-17"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "1Ud6moTC0KyXMq1Oxfien0",
+        "title": "Sympathy For The Devil - 50th Anniversary Edition",
+        "artist": "The Rolling Stones",
+        "release_date": "1968-12-06"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "6ZLGthToczpvnL5Eoy6yrY",
+        "title": "Pure Shores",
+        "artist": "All Saints",
+        "release_date": "2000-08-16"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "2hgzdQdnfWwtdpZbhZlV72",
+        "title": "Ain't Your Mama",
+        "artist": "Jennifer Lopez",
+        "release_date": "2016-04-07"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "3FAclTFfvUuQYnEsptbK8w",
+        "title": "Back To Black",
+        "artist": "Amy Winehouse",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "7ppPZa3TRUSGKaks9wH7VT",
+        "title": "Don't Look Back In Anger",
+        "artist": "Oasis",
+        "release_date": "1995-10-02"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "2K2M0TcglCRLLpFOzKeFZA",
+        "title": "Sunshine Of Your Love",
+        "artist": "Cream",
+        "release_date": "1967-11"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "4wNIkl5XGiAACjFBlDWuSd",
+        "title": "What A Man Gotta Do",
+        "artist": "Jonas Brothers",
+        "release_date": "2020-01-17"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "7pKfPomDEeI4TPT6EOYjn9",
+        "title": "Imagine - Remastered 2010",
+        "artist": "John Lennon",
+        "release_date": "1971-09-09"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "0HDdORndbrZTQTwy6nJMyD",
+        "title": "Lisboa, Menina E Moça",
+        "artist": "Carlos Do Carmo",
+        "release_date": "2019-06-28"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "57Xjny5yNzAcsxnusKmAfA",
+        "title": "Reptilia",
+        "artist": "The Strokes",
+        "release_date": "2003-10-28"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "6FLwmdmW77N1Pxb1aWsZmO",
+        "title": "Only Time",
+        "artist": "Enya",
+        "release_date": "2000-11-11"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "5Fm1mLckzwBLUgUKUDiP8n",
+        "title": "A Minha Música",
+        "artist": "José Cid",
+        "release_date": "2008-06-23"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "1uPrIHgYztXSkkcts9jet8",
+        "title": "She Bangs - English Version",
+        "artist": "Ricky Martin",
+        "release_date": "2000"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "1KsI8NEeAna8ZIdojI3FiT",
+        "title": "Hungry Heart",
+        "artist": "Bruce Springsteen",
+        "release_date": "1980-10-17"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "5lWRaa0fBxDE5yU91npPq7",
+        "title": "Just A Girl",
+        "artist": "No Doubt",
+        "release_date": "1995-10-10"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "6qn9YLKt13AGvpq9jfO8py",
+        "title": "We Found Love",
+        "artist": "Rihanna, Calvin Harris",
+        "release_date": "2011-11-18"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "1rEv3IHmYm74W9InCvRfoV",
+        "title": "Não Me Toca",
+        "artist": "Anselmo Ralph",
+        "release_date": "2014-12-03"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "1N7usOj4Al1fbbEF56qvkT",
+        "title": "Dias Atlânticos",
+        "artist": "Ban",
+        "release_date": "1989"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "662zhamy6WJ8y18IyzOiWJ",
+        "title": "Desfado",
+        "artist": "Ana Moura",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "5Ok52kEHxudhX1n2RvqyIe",
+        "title": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Afrojack Remix",
+        "artist": "David Guetta, AFROJACK, Bebe Rexha, Nicki Minaj",
+        "release_date": "2015-05-04"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "0pkIJFV6mviH9dmBYsFwTM",
+        "title": "Without You",
+        "artist": "Mariah Carey",
+        "release_date": "1993-08-31"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "6lsumzVFKP9SnfKcuGwqVp",
+        "title": "Rome Wasn't Built in a Day",
+        "artist": "Morcheeba",
+        "release_date": "2000-07-10"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "1RKUoGiLEbcXN4GY4spQDx",
+        "title": "Clint Eastwood",
+        "artist": "Gorillaz, Del The Funky Homosapien",
+        "release_date": "2001-03-26"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "0GTT29VZHQY4OhbA1mh7rJ",
+        "title": "O Pastor",
+        "artist": "Madredeus",
+        "release_date": "1990"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "0JiY190vktuhSGN6aqJdrt",
+        "title": "So What",
+        "artist": "P!nk",
+        "release_date": "2008-10-24"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "0jWgAnTrNZmOGmqgvHhZEm",
+        "title": "What's Up?",
+        "artist": "4 Non Blondes",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "5CQvKyzkWI7TnUu2oB9QZ0",
+        "title": "Alright",
+        "artist": "Supergrass",
+        "release_date": "1995-07-06"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "3ErsOxqe2RmXkR65wkygDz",
+        "title": "What's Love Got to Do with It - 2015 Remaster",
+        "artist": "Tina Turner",
+        "release_date": "1984-05-29"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "4TQeNHx85xcP9YRkvJC6K1",
+        "title": "Walkin' On The Sun",
+        "artist": "Smash Mouth",
+        "release_date": "1997-07-08"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "10I09MLZCY4pK37XxAfkw0",
+        "title": "True - 2003 Remaster",
+        "artist": "Spandau Ballet",
+        "release_date": "1983-02-25"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "1qEmFfgcLObUfQm0j1W2CK",
+        "title": "Late Night Talking",
+        "artist": "Harry Styles",
+        "release_date": "2022-05-20"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "2gMXnyrvIjhVBUZwvLZDMP",
+        "title": "Before You Go",
+        "artist": "Lewis Capaldi",
+        "release_date": "2019-11-22"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "0QBzMgT7NIeoCYy3sJCof1",
+        "title": "Bam Bam (feat. Ed Sheeran)",
+        "artist": "Camila Cabello, Ed Sheeran",
+        "release_date": "2022-03-04"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "35zGjsxI020C2NPKp2fzS7",
+        "title": "It's Gonna Be Me",
+        "artist": "*NSYNC",
+        "release_date": "2000-03-21"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "1i1OuCNhNf7JwrlWlFZFu1",
+        "title": "That's Not My Name",
+        "artist": "The Ting Tings",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "1aJnGme5ZRltYTp8FJ52eZ",
+        "title": "Together Again",
+        "artist": "Janet Jackson",
+        "release_date": "1997-10-07"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "1YJ4vpxPL6Wgo8gmRnvqSp",
+        "title": "There Must Be an Angel (Playing With My Heart)",
+        "artist": "Eurythmics, Annie Lennox, Dave Stewart",
+        "release_date": "1991-02-28"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "3rUGC1vUpkDG9CZFHMur1t",
+        "title": "greedy",
+        "artist": "Tate McRae",
+        "release_date": "2023-09-15"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "3s4U7OHV7gnj42VV72eSZ6",
+        "title": "Rather Be (feat. Jess Glynne)",
+        "artist": "Clean Bandit, Jess Glynne",
+        "release_date": "2014-01-17"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "01DBoQsngOhbcVFWKkiFOz",
+        "title": "Uptown Girl",
+        "artist": "Billy Joel",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "5bcTCxgc7xVfSaMV3RuVke",
+        "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+        "artist": "Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav",
+        "release_date": "2017-06-30"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "50nfwKoDiSYg8zOCREWAm5",
+        "title": "Shivers",
+        "artist": "Ed Sheeran",
+        "release_date": "2021-10-25"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "18AXbzPzBS8Y3AkgSxzJPb",
+        "title": "In The Air Tonight - 2015 Remastered",
+        "artist": "Phil Collins",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "5FmWMU8KR5aQKjTGr50tWD",
+        "title": "Dei-Te Quase Tudo",
+        "artist": "Paulo Gonzo",
+        "release_date": "1997-05-12"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "6CRp06yrwVAWvVEeFWo04g",
+        "title": "Someone That Cannot Love",
+        "artist": "David Fonseca",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "0yvomNP4HdLSmqHXkhCsgS",
+        "title": "It Must Be Love",
+        "artist": "Madness",
+        "release_date": "1981-10-02"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "21GCq1eiiHSxqMGEfAXSld",
+        "title": "Budapeste",
+        "artist": "Mão Morta",
+        "release_date": "1992"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "0KZodeWxqxd88F9wY1cqgs",
+        "title": "My Sweet Lord - 2014 Remaster",
+        "artist": "George Harrison",
+        "release_date": "1970-11-20"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "2ukGu6BitcHW61wMPrYHy2",
+        "title": "Bohemian Like You",
+        "artist": "The Dandy Warhols",
+        "release_date": "2013-03-08"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "4mjFMScEvHeM72791mXRCW",
+        "title": "In the Navy - Original Version 1979",
+        "artist": "Village People",
+        "release_date": "1979"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "61S0mEfdRtJ62Fc7fPqx0U",
+        "title": "Feeling Good",
+        "artist": "Nina Simone",
+        "release_date": "1965-06"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "2bL2gyO6kBdLkNSkxXNh6x",
+        "title": "Animals",
+        "artist": "Maroon 5",
+        "release_date": "2014-09-02"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "2m1hi0nfMR9vdGC8UcrnwU",
+        "title": "All The Small Things",
+        "artist": "blink-182",
+        "release_date": "1999-06-01"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "4my18zj4TuucvfioH9UId9",
+        "title": "O Amor É Assim (with Carminho)",
+        "artist": "HMB, Carminho",
+        "release_date": "2017-02-10"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "5Sh9v7RwibuV34tdjscwx5",
+        "title": "Right Here, Right Now",
+        "artist": "Fatboy Slim",
+        "release_date": "1998-10-19"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "3AhXZa8sUQht0UEdBJgpGc",
+        "title": "Like a Rolling Stone",
+        "artist": "Bob Dylan",
+        "release_date": "1965-08-30"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "0vx8OkPRCI7xT6fzagmYWy",
+        "title": "O Erro Mais Bonito",
+        "artist": "Ana Bacalhau, Diogo Piçarra",
+        "release_date": "2019-04-23"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "4jDmJ51x1o9NZB5Nxxc7gY",
+        "title": "Careless Whisper",
+        "artist": "George Michael",
+        "release_date": "1998-11-09"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "748mdHapucXQri7IAO8yFK",
+        "title": "Kiss Me More (feat. SZA)",
+        "artist": "Doja Cat, SZA",
+        "release_date": "2021-04-09"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "4JGKZS7h4Qa16gOU3oNETV",
+        "title": "Dreams",
+        "artist": "The Cranberries",
+        "release_date": "1993-03-01"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "2CvOqDpQIMw69cCzWqr5yr",
+        "title": "Halo",
+        "artist": "Beyoncé",
+        "release_date": "2008"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "5qaEfEh1AtSdrdrByCP7qR",
+        "title": "Demons",
+        "artist": "Imagine Dragons",
+        "release_date": "2012-09-04"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "3QGsuHI8jO1Rx4JWLUh9jd",
+        "title": "Treat You Better",
+        "artist": "Shawn Mendes",
+        "release_date": "2017-04-20"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "5NTZM8YYeKM2YsGSffVIge",
+        "title": "Loser",
+        "artist": "Beck",
+        "release_date": "1994-03-01"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "5l3CML2OnzfNs5RfVgbcLt",
+        "title": "Talk Dirty (feat. 2 Chainz)",
+        "artist": "Jason Derulo, 2 Chainz",
+        "release_date": "2013-09-16"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "1G0kV398JWt9kB9p1wL4at",
+        "title": "Desfolhada portuguesa",
+        "artist": "Simone de Oliveira",
+        "release_date": "1972-04-21"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "59uqWPaagd0khPaauWM2lU",
+        "title": "Corazon Espinado (feat. Mana)",
+        "artist": "Santana, Maná",
+        "release_date": "1999"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "7o9uu2GDtVDr9nsR7ZRN73",
+        "title": "Time After Time",
+        "artist": "Cyndi Lauper",
+        "release_date": "1983-10-14"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "5UkoitnvaDUSsq7cVsOdOh",
+        "title": "Be My Baby",
+        "artist": "Vanessa Paradis",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "6s8nHXTJVqFjXE4yVZPDHR",
+        "title": "Troublemaker (feat. Flo Rida)",
+        "artist": "Olly Murs, Flo Rida",
+        "release_date": "2012-11-26"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "74jTexO94dFGyXGyeu8krd",
+        "title": "Beautiful Life",
+        "artist": "Ace of Base",
+        "release_date": "1995-11-07"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "1nInOsHbtotAmEOQhtvnzP",
+        "title": "Stronger (What Doesn't Kill You)",
+        "artist": "Kelly Clarkson",
+        "release_date": "2011-10-24"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "5mu40aJSlKDFY6GT7XdcrC",
+        "title": "A Cabritinha",
+        "artist": "Quim Barreiros",
+        "release_date": "2004-03-15"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "2LEF1A8DOZ9wRYikWgVlZ8",
+        "title": "Good Feeling",
+        "artist": "Flo Rida",
+        "release_date": "2012-06-22"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "3w3y8KPTfNeOKPiqUTakBh",
+        "title": "Locked out of Heaven",
+        "artist": "Bruno Mars",
+        "release_date": "2012-12-07"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "27hL8UBniU6XDVUMd8kFV9",
+        "title": "My Friends",
+        "artist": "Silence 4",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "4fxF8ljwryMZX5c9EKrLFE",
+        "title": "Boombastic",
+        "artist": "Shaggy",
+        "release_date": "1995-07-11"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "2rurDawMfoKP4uHyb2kJBt",
+        "title": "Te Felicito",
+        "artist": "Shakira, Rauw Alejandro",
+        "release_date": "2022-04-21"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "09I1TnKW1WPtD8tnQxRtkD",
+        "title": "You're Makin' Me High",
+        "artist": "Toni Braxton",
+        "release_date": "1996"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "7HBb0h45HuqUIBmVqN3s92",
+        "title": "Oquelávai",
+        "artist": "D.A.M.A",
+        "release_date": "2017-11-10"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "7BqHUALzNBTanL6OvsqmC1",
+        "title": "Happier",
+        "artist": "Marshmello, Bastille",
+        "release_date": "2018-08-17"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "0y1mX0LxNwSMRPXWutJOJu",
+        "title": "abcdefu",
+        "artist": "GAYLE",
+        "release_date": "2023-11-07"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "2VmyLy2HQlkevZYboXHM5O",
+        "title": "If You Tolerate This Your Children Will Be Next",
+        "artist": "Manic Street Preachers",
+        "release_date": "1998-09-14"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "5ICv1KTrWjFrN9aem1NlPv",
+        "title": "13 Mulheres",
+        "artist": "Expensive Soul",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "0eDCwK5yaFaZli0P8kdUbn",
+        "title": "O sopro do coração",
+        "artist": "Clã",
+        "release_date": "2000"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "2iXBZ32Fz5VDCLeE0JIdX5",
+        "title": "Better in Time",
+        "artist": "Leona Lewis",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "2aEuA8PSqLa17Y4hKPj5rr",
+        "title": "Cheri Cheri Lady",
+        "artist": "Modern Talking",
+        "release_date": "1985"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "4FBhPmWEMHyvC0w2XzFh8k",
+        "title": "Demagogia",
+        "artist": "Lena d’Água",
+        "release_date": "1981"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "5Nm9ERjJZ5oyfXZTECKmRt",
+        "title": "Stay With Me",
+        "artist": "Sam Smith",
+        "release_date": "2014-05-26"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "3TieIQTlipul7oxGldyX09",
+        "title": "Big in Japan - Single Version; 2019 Remaster",
+        "artist": "Alphaville",
+        "release_date": "1984"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "2MLHyLy5z5l5YRp7momlgw",
+        "title": "Island In The Sun",
+        "artist": "Weezer",
+        "release_date": "2001-05-15"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "67WTwafOMgegV6ABnBQxcE",
+        "title": "Some Nights",
+        "artist": "fun.",
+        "release_date": "2012-02-14"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "1oYYd2gnWZYrt89EBXdFiO",
+        "title": "Message In A Bottle",
+        "artist": "The Police",
+        "release_date": "1979-10-02"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2180 @@
+{
+  "updated_on": 1766489421,
+  "sku": "aaad0002",
+  "gameset_data": {
+    "gameset_language": "Canada",
+    "gameset_name": "Hitster Original - 100% Franco",
+    "cards": [
+      {
+        "CardNumber": "00310",
+        "Spotify": "3Ou5oCAEdzr8uzCLXzSYq8",
+        "title": "On perd la tête",
+        "artist": "LGS, Jacobus",
+        "release_date": "2018-06-30"
+      },
+      {
+        "CardNumber": "00309",
+        "Spotify": "0zIJiZObhSC1fOPj42yEyD",
+        "title": "La complainte du phoque en Alaska - 2008 Digital Remaster",
+        "artist": "Beau Dommage",
+        "release_date": "2016-09-23"
+      },
+      {
+        "CardNumber": "00308",
+        "Spotify": "5RV9TFnrDDvsDQWIssVEsB",
+        "title": "Tout le monde en même temps",
+        "artist": "Louis-Jean Cormier",
+        "release_date": "2012-09-18"
+      },
+      {
+        "CardNumber": "00307",
+        "Spotify": "3gvUS6JaXzbXNihHQlRWBW",
+        "title": "Siffler sur la colline",
+        "artist": "Joe Dassin",
+        "release_date": "1969-08-20"
+      },
+      {
+        "CardNumber": "00306",
+        "Spotify": "1TDnvCwZ4EkMGrm5Fggudo",
+        "title": "Agadou dou dou",
+        "artist": "Patrick Zabé",
+        "release_date": "1999-02-08"
+      },
+      {
+        "CardNumber": "00305",
+        "Spotify": "1aROq6EplzuRFgRLYp92XB",
+        "title": "Comme J'ai Toujours Envie D'aimer",
+        "artist": "Marc Hamilton",
+        "release_date": "2021-11-19"
+      },
+      {
+        "CardNumber": "00304",
+        "Spotify": "5KVjMgSCrWIsSOwTA60YUf",
+        "title": "Aimes-tu la vie comme moi",
+        "artist": "Boule Noire",
+        "release_date": "1976-01-01"
+      },
+      {
+        "CardNumber": "00303",
+        "Spotify": "3j7lOpzEy6VlAt37TSrfjv",
+        "title": "Louise",
+        "artist": "Michel Louvain",
+        "release_date": "2021-08-06"
+      },
+      {
+        "CardNumber": "00302",
+        "Spotify": "0RxReeVQgc3coqIVTvWaoG",
+        "title": "L'incendie à Rio",
+        "artist": "Sacha Distel",
+        "release_date": "2014-11-15"
+      },
+      {
+        "CardNumber": "00301",
+        "Spotify": "1LoXOjdFadw1zTFoPi9nJ1",
+        "title": "Alleys - Version française",
+        "artist": "Domeno, Kaïn",
+        "release_date": "2019-03-01"
+      },
+      {
+        "CardNumber": "00300",
+        "Spotify": "0a17CtZGF6yoaXgrxt7Euw",
+        "title": "Illégal",
+        "artist": "Corbeau",
+        "release_date": "1982-06-18"
+      },
+      {
+        "CardNumber": "00299",
+        "Spotify": "0mTBs1eCNvVegRzDtJljFo",
+        "title": "Feel Happy",
+        "artist": "Veronic DiCaire",
+        "release_date": "2002-04-16"
+      },
+      {
+        "CardNumber": "00298",
+        "Spotify": "4sf4Lq52b2iCoAgpge7a9g",
+        "title": "Ca Plane Pour Moi",
+        "artist": "Plastic Bertrand",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00297",
+        "Spotify": "10TsFYqusA7KKiUC1IhPDw",
+        "title": "Pour un flirt",
+        "artist": "Michel Delpech",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00296",
+        "Spotify": "5BHBYRgv6NFgrvmuvTobUf",
+        "title": "Lever l'ancre",
+        "artist": "Alfa Rococo",
+        "release_date": "2007-05-01"
+      },
+      {
+        "CardNumber": "00295",
+        "Spotify": "2QRPjxP0nJ98Xrp2cGILyz",
+        "title": "Est-ce que tu m'aimes?",
+        "artist": "Les baronets",
+        "release_date": "2000"
+      },
+      {
+        "CardNumber": "00294",
+        "Spotify": "0EaNYpdCMZEdLZqgnettIa",
+        "title": "J'accroche mes patins",
+        "artist": "Bob Bissonnette",
+        "release_date": "2012-02-20"
+      },
+      {
+        "CardNumber": "00293",
+        "Spotify": "0V5cvmTKsYmF5FmGGEAfmS",
+        "title": "Je te laisserai des mots",
+        "artist": "Patrick Watson",
+        "release_date": "2010-09-10"
+      },
+      {
+        "CardNumber": "00292",
+        "Spotify": "0GODLE3kvy2viqoL9uEfFv",
+        "title": "L'Amérique pleure",
+        "artist": "Les Cowboys Fringants",
+        "release_date": "2019-10-04"
+      },
+      {
+        "CardNumber": "00291",
+        "Spotify": "4vuENJn5KyrxZsYy5XrFk6",
+        "title": "Reste",
+        "artist": "GIMS, Sting",
+        "release_date": "2019-04-26"
+      },
+      {
+        "CardNumber": "00290",
+        "Spotify": "0HLZjlJQj7msam8bnAfDLn",
+        "title": "Good Lord",
+        "artist": "Salebarbes",
+        "release_date": "2021-08-25"
+      },
+      {
+        "CardNumber": "00289",
+        "Spotify": "4DTlwaIu79qBY6NF2gNIbg",
+        "title": "Mes blues passent pu dans'porte - Live à Sherbrooke, 1981 / remasterisé 2025",
+        "artist": "Offenbach",
+        "release_date": "1981-09-05"
+      },
+      {
+        "CardNumber": "00288",
+        "Spotify": "6ri4yWOtcfGpTcigL2YeBe",
+        "title": "Sensualité",
+        "artist": "Axelle Red",
+        "release_date": "1993-10-26"
+      },
+      {
+        "CardNumber": "00287",
+        "Spotify": "3vL2Ga7LATikzhzjGNvKL3",
+        "title": "T'aimes un bad boy",
+        "artist": "Sir Pathétik, Yvon Krevé",
+        "release_date": "2008-11-25"
+      },
+      {
+        "CardNumber": "00286",
+        "Spotify": "48qgLCKZW0rVsKSfiximrD",
+        "title": "Le monde est stone - Remasterisé en 2009",
+        "artist": "Fabienne Thibeault, Starmania",
+        "release_date": "1978-09-10"
+      },
+      {
+        "CardNumber": "00285",
+        "Spotify": "7vG6sLSHiFgTebS0TVUAjy",
+        "title": "On leur a fait croire",
+        "artist": "Alex Nevsky",
+        "release_date": "2013-08-27"
+      },
+      {
+        "CardNumber": "00284",
+        "Spotify": "4xAZV6Rotnoc1T0vIOd2ks",
+        "title": "Salut les amoureux",
+        "artist": "Joe Dassin",
+        "release_date": "2008-01-04"
+      },
+      {
+        "CardNumber": "00283",
+        "Spotify": "2LagkJEqy5ZEa0WWc8xeKM",
+        "title": "Des p'tits bouts de toi (Version 2018)",
+        "artist": "Roxane Bruneau",
+        "release_date": "2018-03-30"
+      },
+      {
+        "CardNumber": "00282",
+        "Spotify": "6VONfYwyPiTSVAkbVHMdBa",
+        "title": "80's",
+        "artist": "FouKi",
+        "release_date": "2023-01-27"
+      },
+      {
+        "CardNumber": "00281",
+        "Spotify": "5qAuvUNV3htpawKQcydNfc",
+        "title": "J'entends frapper",
+        "artist": "Michel Pagliaro",
+        "release_date": "2010"
+      },
+      {
+        "CardNumber": "00280",
+        "Spotify": "1RIz7fiEJQpty2Z93F5Q1r",
+        "title": "Lady Marmelade",
+        "artist": "Nanette Workman",
+        "release_date": "2022-04-22"
+      },
+      {
+        "CardNumber": "00279",
+        "Spotify": "2I69iebe4CftqShXyRoIZh",
+        "title": "La ballade des gens heureux",
+        "artist": "Gérard Lenorman",
+        "release_date": "1996-07-23"
+      },
+      {
+        "CardNumber": "00278",
+        "Spotify": "3lAun9V0YdTlCSIEXPvfsY",
+        "title": "La Vie en rose",
+        "artist": "Édith Piaf",
+        "release_date": "2008-10-13"
+      },
+      {
+        "CardNumber": "00277",
+        "Spotify": "6higbPkv82W1ZwCeZIVGv3",
+        "title": "Embarque ma belle",
+        "artist": "Kaïn",
+        "release_date": "2005-05-03"
+      },
+      {
+        "CardNumber": "00276",
+        "Spotify": "5rr7d0aLjuo6nYgcMZif96",
+        "title": "Sortir de l'ombre",
+        "artist": "Olivier Dion",
+        "release_date": "2014-04-15"
+      },
+      {
+        "CardNumber": "00275",
+        "Spotify": "22MpysBy1FI7PJpWAZnE23",
+        "title": "Monday, Tuesday... Laissez-moi danser",
+        "artist": "Dalida",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00274",
+        "Spotify": "6kHbaJFCpft0qtO75p7Wsb",
+        "title": "Québécois",
+        "artist": "La Révolution Française",
+        "release_date": "2022-02-25"
+      },
+      {
+        "CardNumber": "00273",
+        "Spotify": "2flivK5ivlprHRE7YNcRrj",
+        "title": "La maladie d'amour",
+        "artist": "Michel Sardou",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00272",
+        "Spotify": "4UZiZheOTdt9JYIPuRzVSz",
+        "title": "Le rital",
+        "artist": "Claude Barzotti",
+        "release_date": "1984-01-03"
+      },
+      {
+        "CardNumber": "00271",
+        "Spotify": "6IbWQwXE255QmZTBR1E5Uf",
+        "title": "Bobettes Bob",
+        "artist": "Pépé et sa guitare",
+        "release_date": "2007-12-04"
+      },
+      {
+        "CardNumber": "00270",
+        "Spotify": "5MkRyZiEyNnosHTAYs23Mx",
+        "title": "Le téléfon",
+        "artist": "Nino Ferrer",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00269",
+        "Spotify": "1GKqkGmv72DxQRfrJB29SH",
+        "title": "Les boîtes à gogo",
+        "artist": "Michèle Richard",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00268",
+        "Spotify": "5tFSMrv8NqYFJSOJo7Scjh",
+        "title": "Sunshine",
+        "artist": "SOMMM, D R M S, Ariane Moffatt, Clay and Friends, Ruffsound",
+        "release_date": "2020-04-24"
+      },
+      {
+        "CardNumber": "00267",
+        "Spotify": "70NtH3f71AOpxjMbFaZ0Le",
+        "title": "Feu de paille",
+        "artist": "Annie Major-Matte",
+        "release_date": "2003-03-18"
+      },
+      {
+        "CardNumber": "00266",
+        "Spotify": "31D1UOzjhNedhihUO8A1Zk",
+        "title": "Victoire",
+        "artist": "Shy'm",
+        "release_date": "2006-10-23"
+      },
+      {
+        "CardNumber": "00265",
+        "Spotify": "2JQkD4ogn2VYBojn5jKrK2",
+        "title": "Le feu sauvage de l'amour",
+        "artist": "Rock et Belles Oreilles",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00264",
+        "Spotify": "5a8Vv8UMT3hCGGMSCrVFZE",
+        "title": "Soirée de fille",
+        "artist": "Marie-Chantal Toupin",
+        "release_date": "2003"
+      },
+      {
+        "CardNumber": "00263",
+        "Spotify": "7dTwXBHDKx2KJ6rOxbtYg3",
+        "title": "J'm'en veux",
+        "artist": "Mélanie Renaud",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00262",
+        "Spotify": "2J8tSf2dkn1XLHoA5CBe5u",
+        "title": "Vivante",
+        "artist": "France D'Amour",
+        "release_date": "1994"
+      },
+      {
+        "CardNumber": "00261",
+        "Spotify": "5HwJtncPc86uj14ndSeH6z",
+        "title": "Quand les hommes vivront d'amour",
+        "artist": "Raymond Levesque",
+        "release_date": "2019-06-14"
+      },
+      {
+        "CardNumber": "00260",
+        "Spotify": "6FOHDv2KDRrjL7CYtPWk1H",
+        "title": "Le début d'un temps nouveau",
+        "artist": "Renée Claude",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00259",
+        "Spotify": "4kti5sAkWBOhPyCVItDYf8",
+        "title": "À cause des garçons",
+        "artist": "Yelle",
+        "release_date": "2007-08-31"
+      },
+      {
+        "CardNumber": "00258",
+        "Spotify": "7bVOm16UuDoDGg3LqnywlH",
+        "title": "On va s'aimer",
+        "artist": "Gilbert Montagné",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00257",
+        "Spotify": "0Mciv7SOw0iPOQRs6BC4ns",
+        "title": "Coton ouaté",
+        "artist": "Bleu Jeans Bleu",
+        "release_date": "2019-01-25"
+      },
+      {
+        "CardNumber": "00256",
+        "Spotify": "1sTWIzAlg8HapeWz2fXvfJ",
+        "title": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+        "artist": "Francis Cabrel",
+        "release_date": "1994"
+      },
+      {
+        "CardNumber": "00255",
+        "Spotify": "1eg2GUAxtsngVbrylDQ4tO",
+        "title": "Je reviens te chercher",
+        "artist": "Gilbert Bécaud",
+        "release_date": "2011-11-18"
+      },
+      {
+        "CardNumber": "00254",
+        "Spotify": "389IGHviIx4YjINfpMWUIH",
+        "title": "Nova",
+        "artist": "Fredz",
+        "release_date": "2022-03-11"
+      },
+      {
+        "CardNumber": "00253",
+        "Spotify": "7rAMzplSuI2rBEAXtBbgLu",
+        "title": "Confetti (VF)",
+        "artist": "Charlotte Cardin",
+        "release_date": "2023-05-05"
+      },
+      {
+        "CardNumber": "00252",
+        "Spotify": "48kDxz9xiDC5FSakCcWziG",
+        "title": "Vis ta Vinaigrette",
+        "artist": "Marc Drouin, Les Échalotes",
+        "release_date": "1983"
+      },
+      {
+        "CardNumber": "00251",
+        "Spotify": "2QSAj76Ba6aMFX9RlXdUdO",
+        "title": "J'ai demandé à la lune",
+        "artist": "Indochine",
+        "release_date": "2002-02-28"
+      },
+      {
+        "CardNumber": "00250",
+        "Spotify": "1J9by690rO1VvQGrliaR0J",
+        "title": "Bye Bye Mon Cowboy - Original Version",
+        "artist": "Mitsou",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00249",
+        "Spotify": "35pBX26EiyMXQIY8nrjx5J",
+        "title": "Ces soirées-là",
+        "artist": "Tubes variété française",
+        "release_date": "2018-03-23"
+      },
+      {
+        "CardNumber": "00248",
+        "Spotify": "0vCzNMQOqW11E9fWP5qXkF",
+        "title": "C'est le temps des vacances",
+        "artist": "Pierre Lalonde",
+        "release_date": "1997-11-11"
+      },
+      {
+        "CardNumber": "00247",
+        "Spotify": "1xLzUg2DLyVYm3r8uKAAFx",
+        "title": "Bouge ton thang",
+        "artist": "Clay and Friends",
+        "release_date": "2021-05-14"
+      },
+      {
+        "CardNumber": "00246",
+        "Spotify": "0C9qil6cXEEJ8AzrMUEHv6",
+        "title": "Confessions Nocturnes",
+        "artist": "Diam's, Vitaa",
+        "release_date": "2006-02-03"
+      },
+      {
+        "CardNumber": "00245",
+        "Spotify": "4dAUgxaXHIpkQMOhkim48V",
+        "title": "La Mauvaise Réputation",
+        "artist": "Georges Brassens",
+        "release_date": "1987"
+      },
+      {
+        "CardNumber": "00244",
+        "Spotify": "24ivGrLbmCHSoWeEQkPRuK",
+        "title": "Si exceptionnel",
+        "artist": "Andrée Watters",
+        "release_date": "2012-11-13"
+      },
+      {
+        "CardNumber": "00243",
+        "Spotify": "43THPstJP6RXLMd7ryXyNf",
+        "title": "Marcia Baïla",
+        "artist": "Les Rita Mitsouko",
+        "release_date": "1984-01-04"
+      },
+      {
+        "CardNumber": "00242",
+        "Spotify": "5rwxYvICaxJ8yTl3F85G5R",
+        "title": "Pousse, pousse",
+        "artist": "Jonathan Painchaud",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00241",
+        "Spotify": "1NwVOM0TgdsMNDIaPwHn23",
+        "title": "L'aigle noir",
+        "artist": "Marie Carmen",
+        "release_date": "1983-01-01"
+      },
+      {
+        "CardNumber": "00240",
+        "Spotify": "3W5OuigUBxCghHyRfSxC3P",
+        "title": "Manon vient danser le ska",
+        "artist": "Donald Lautrec",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00239",
+        "Spotify": "74c8FhugaKufekAOeh2dcO",
+        "title": "Calvaire",
+        "artist": "La Chicane",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00238",
+        "Spotify": "4Qzdktws811tv59fMf7CBz",
+        "title": "Je suis malade",
+        "artist": "Serge Lama",
+        "release_date": "1973"
+      },
+      {
+        "CardNumber": "00237",
+        "Spotify": "0vofVCZXJL1ED6yOw2JcUg",
+        "title": "Oxygène",
+        "artist": "Diane Dufresne",
+        "release_date": "2009-10-09"
+      },
+      {
+        "CardNumber": "00236",
+        "Spotify": "5RIxRShpKQcpnDjAhr27SP",
+        "title": "Rock with Me (Commence aujourd'hui)",
+        "artist": "Lulu Hughes",
+        "release_date": "2002-05-01"
+      },
+      {
+        "CardNumber": "00235",
+        "Spotify": "1Rx4We9Sfy9fAnZ5LKUFvm",
+        "title": "Il était une fois des gens heureux",
+        "artist": "Nicole Martin",
+        "release_date": "2015-01-01"
+      },
+      {
+        "CardNumber": "00234",
+        "Spotify": "1wthYeOSBWfUYeCqhYcGt0",
+        "title": "Parce qu'on vient de loin",
+        "artist": "Corneille",
+        "release_date": "2003"
+      },
+      {
+        "CardNumber": "00233",
+        "Spotify": "6QSwxzWUeF0w4N7qRxonbb",
+        "title": "Au bout de mes rêves",
+        "artist": "Jean-Jacques Goldman",
+        "release_date": "1982-09-27"
+      },
+      {
+        "CardNumber": "00232",
+        "Spotify": "3pxqNGtuQdRfPx5FxFJX4c",
+        "title": "Jacuzzi",
+        "artist": "Radio Radio",
+        "release_date": "2008-05-13"
+      },
+      {
+        "CardNumber": "00231",
+        "Spotify": "7aeSX96tnqVPGuiYsTAkDQ",
+        "title": "Une autre chambre d'hôtel",
+        "artist": "Gildor Roy",
+        "release_date": "1994-12-31"
+      },
+      {
+        "CardNumber": "00230",
+        "Spotify": "3GdtFyC6zlt8VpVOlw3O6v",
+        "title": "Yaya",
+        "artist": "Joel Denis",
+        "release_date": "2000-01-22"
+      },
+      {
+        "CardNumber": "00229",
+        "Spotify": "4mJueNrp4dLWHvOvkKoWVv",
+        "title": "Nous sommes les mêmes",
+        "artist": "Marc Dupré",
+        "release_date": "2013-04-15"
+      },
+      {
+        "CardNumber": "00228",
+        "Spotify": "7154OxrL7wCRPaXPnbK6I6",
+        "title": "Je vais à Londres",
+        "artist": "Renée Martel",
+        "release_date": "1999"
+      },
+      {
+        "CardNumber": "00227",
+        "Spotify": "7Jqh8o6yV7EeFokJX5gQsa",
+        "title": "Aline",
+        "artist": "Christophe",
+        "release_date": "2009-11-23"
+      },
+      {
+        "CardNumber": "00226",
+        "Spotify": "1UZGVlCoNGQ6ps64QDvydQ",
+        "title": "Mon mec à moi",
+        "artist": "Patricia Kaas",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00225",
+        "Spotify": "3wmx6vVuVu5hDnH9jTDcyx",
+        "title": "Olé Olé (Les Déesses Oubliées)",
+        "artist": "11:30",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00224",
+        "Spotify": "2W4ZxAHZAXOf6r65pCskGR",
+        "title": "Foule sentimentale",
+        "artist": "Alain Souchon",
+        "release_date": "1993-10-05"
+      },
+      {
+        "CardNumber": "00223",
+        "Spotify": "6UHqvpcUgPPb1hJLVoe3UA",
+        "title": "Douliou Douliou Saint-Tropez",
+        "artist": "Jenny Rock",
+        "release_date": "2022-12-09"
+      },
+      {
+        "CardNumber": "00222",
+        "Spotify": "2q3ChG1spGKXtqg6Ihe4pw",
+        "title": "C'est moi",
+        "artist": "Marie-Mai",
+        "release_date": "2009-11-03"
+      },
+      {
+        "CardNumber": "00221",
+        "Spotify": "1uFWyT4KLFXisiVkiBPCTb",
+        "title": "L'Aziza",
+        "artist": "Daniel Balavoine",
+        "release_date": "1985-10-01"
+      },
+      {
+        "CardNumber": "00220",
+        "Spotify": "0j0jQPWeckBN56MP8cdxHO",
+        "title": "Gens du pays",
+        "artist": "Gilles Vigneault, Les Charbonniers De L'enfer",
+        "release_date": "2007-09-25"
+      },
+      {
+        "CardNumber": "00219",
+        "Spotify": "1xGJ4I1w4QrUE2offAGgsW",
+        "title": "La ballade de Jean Batailleur",
+        "artist": "Zachary Richard",
+        "release_date": "1996-10-02"
+      },
+      {
+        "CardNumber": "00218",
+        "Spotify": "0ui0AsKMbOntbzq6j2SN9a",
+        "title": "Que je t'aime",
+        "artist": "Sylvain Cossette",
+        "release_date": "2012-11-13"
+      },
+      {
+        "CardNumber": "00217",
+        "Spotify": "13rhxRo781v6D76WLDSpMh",
+        "title": "Danser pour danser",
+        "artist": "Martine Chevrier",
+        "release_date": "1989-01-01"
+      },
+      {
+        "CardNumber": "00216",
+        "Spotify": "1lgxY0zqFcAlMClpub62pR",
+        "title": "Toujours vivant",
+        "artist": "Gerry Boulet, Michel Rivard",
+        "release_date": "1988"
+      },
+      {
+        "CardNumber": "00215",
+        "Spotify": "3nDl8sPQBSfYZRtULcONVn",
+        "title": "Me voilà",
+        "artist": "Bryan Adams",
+        "release_date": "2002-05-04"
+      },
+      {
+        "CardNumber": "00214",
+        "Spotify": "29GllYlkd8N03oDcNIxl6Z",
+        "title": "Entre Matane et Baton Rouge",
+        "artist": "Isabelle Boulay",
+        "release_date": "2007-04-17"
+      },
+      {
+        "CardNumber": "00213",
+        "Spotify": "08KzErUSdDVzjPAelX0xtE",
+        "title": "Et Cetera",
+        "artist": "Gabrielle Destroismaisons",
+        "release_date": "2005-11-22"
+      },
+      {
+        "CardNumber": "00212",
+        "Spotify": "4J0udUOzVzYmidT60SZEpL",
+        "title": "Ça va bien!",
+        "artist": "Kathleen",
+        "release_date": "1993"
+      },
+      {
+        "CardNumber": "00211",
+        "Spotify": "2dMLZBAf1mnrtviUHiwd7J",
+        "title": "J'irai où tu iras (with Jean-Jacques Goldman)",
+        "artist": "Céline Dion, Jean-Jacques Goldman",
+        "release_date": "1995"
+      },
+      {
+        "CardNumber": "00210",
+        "Spotify": "6IRA4KOVbtiGiTdYoEThJN",
+        "title": "Ne me quitte pas",
+        "artist": "Jacques Brel",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00209",
+        "Spotify": "1DKgD6CCYoDdmqvUsveE8X",
+        "title": "Soul pleureur",
+        "artist": "Dubmatique",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00208",
+        "Spotify": "61F4Rp4Kh9jQZxO9B5KDDJ",
+        "title": "La chaîne de mon tracteur",
+        "artist": "Cayouche",
+        "release_date": "2010-03-30"
+      },
+      {
+        "CardNumber": "00207",
+        "Spotify": "7xx7mUGAPcMd6gGqHzoec9",
+        "title": "For Me... Formidable",
+        "artist": "Charles Aznavour",
+        "release_date": "1963"
+      },
+      {
+        "CardNumber": "00206",
+        "Spotify": "7oG3MWyTJHJJdSgy66hv2O",
+        "title": "J'en ai plein mon cass",
+        "artist": "Émile Bilodeau",
+        "release_date": "2016-10-07"
+      },
+      {
+        "CardNumber": "00205",
+        "Spotify": "071HK2nrQvUajbjJcHANrL",
+        "title": "Tous les cris, les S.O.S.",
+        "artist": "Marie Denise Pelletier",
+        "release_date": "2015-10-30"
+      },
+      {
+        "CardNumber": "00204",
+        "Spotify": "03b24GN99vH2bKpTsL2hS5",
+        "title": "Hélène",
+        "artist": "Roch Voisine",
+        "release_date": "1989-02-03"
+      },
+      {
+        "CardNumber": "00203",
+        "Spotify": "7KGFIoJEr48EahAkDhEBR4",
+        "title": "Toutes les femmes savent danser",
+        "artist": "Loud",
+        "release_date": "2017-10-27"
+      },
+      {
+        "CardNumber": "00202",
+        "Spotify": "0YxdyPaSGBTOo2ebZzIrif",
+        "title": "Nuit magique",
+        "artist": "Catherine Lara",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00201",
+        "Spotify": "3suvu0cizxYlc4cIfDwlRY",
+        "title": "Dérangeant",
+        "artist": "Groovy Aardvark",
+        "release_date": "1996-04-12"
+      },
+      {
+        "CardNumber": "00200",
+        "Spotify": "2XZQ3OLkXWHP42IjvClGbp",
+        "title": "Méo penché",
+        "artist": "Les Jérolas",
+        "release_date": "2022-02-04"
+      },
+      {
+        "CardNumber": "00199",
+        "Spotify": "4xB3mkHK3VNQGMoIvA6s68",
+        "title": "Quand on est en amour",
+        "artist": "Patrick Norman",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00198",
+        "Spotify": "3lij9WKWJ1k89thmWGMaqr",
+        "title": "Oublie-moi - Carry On",
+        "artist": "Cœur De Pirate",
+        "release_date": "2015-01-01"
+      },
+      {
+        "CardNumber": "00197",
+        "Spotify": "1HWTp4pdI7zXa74mUal8wW",
+        "title": "Du plaisir",
+        "artist": "Jean-François Breau",
+        "release_date": "2011-01-07"
+      },
+      {
+        "CardNumber": "00196",
+        "Spotify": "6tTigltQC5EakPqUGlJEds",
+        "title": "Les Filles",
+        "artist": "Amylie",
+        "release_date": "2012-10-04"
+      },
+      {
+        "CardNumber": "00195",
+        "Spotify": "4ZHYcCwoStTE9ViUBV2WO2",
+        "title": "Étrange",
+        "artist": "Dobacaracol",
+        "release_date": "2004-10-26"
+      },
+      {
+        "CardNumber": "00194",
+        "Spotify": "3OQgX3AN2OAoWbKihL9WOd",
+        "title": "Ne me laisse pas tomber",
+        "artist": "King Melrose",
+        "release_date": "2015-01-02"
+      },
+      {
+        "CardNumber": "00193",
+        "Spotify": "34dx8DACTJsc3rsJdaEIQw",
+        "title": "Papaoutai",
+        "artist": "Stromae",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00192",
+        "Spotify": "3QNrOVu6eEgL3XGOGeDCNu",
+        "title": "Dur Dur d'être bébé !",
+        "artist": "Jordy",
+        "release_date": "2023-09-18"
+      },
+      {
+        "CardNumber": "00191",
+        "Spotify": "38PausDDlmKd6jwriKyiyF",
+        "title": "Soirs de Scotch",
+        "artist": "Luce Dufault",
+        "release_date": "2010-02-09"
+      },
+      {
+        "CardNumber": "00190",
+        "Spotify": "4DJDn5GYRgfSVm7rMjZu1X",
+        "title": "Splish splash",
+        "artist": "César et les Romains",
+        "release_date": "2010-04-20"
+      },
+      {
+        "CardNumber": "00189",
+        "Spotify": "3f9IEVdrqykoq9VqnhuxuY",
+        "title": "Les chemins d'été",
+        "artist": "Steve Fiset",
+        "release_date": "2002-01-22"
+      },
+      {
+        "CardNumber": "00188",
+        "Spotify": "7eFJXmAOFUdWOoVVhURqdj",
+        "title": "Quelqu'un m'a dit",
+        "artist": "Carla Bruni",
+        "release_date": "2020-12-11"
+      },
+      {
+        "CardNumber": "00187",
+        "Spotify": "0wpb1BHHSJKSQG1X0k2E2e",
+        "title": "Yolande Wong",
+        "artist": "André",
+        "release_date": "2006-04-04"
+      },
+      {
+        "CardNumber": "00186",
+        "Spotify": "0mmu5cVKA4KCtUt8fT1z62",
+        "title": "Je Danse dans ma Tête",
+        "artist": "Céline Dion",
+        "release_date": "1991-11-04"
+      },
+      {
+        "CardNumber": "00185",
+        "Spotify": "15XYdD283tK9iyJzL738bn",
+        "title": "Désenchantée",
+        "artist": "Mylène Farmer",
+        "release_date": "1991-04-08"
+      },
+      {
+        "CardNumber": "00184",
+        "Spotify": "0W7CaYV8o3zpqydLUBmYi1",
+        "title": "Mécaniques générales",
+        "artist": "Patrice Michaud",
+        "release_date": "2014-02-04"
+      },
+      {
+        "CardNumber": "00183",
+        "Spotify": "1cl6UxttwMTjJXsdyMDUde",
+        "title": "Toi + Moi",
+        "artist": "Grégoire",
+        "release_date": "2008"
+      },
+      {
+        "CardNumber": "00182",
+        "Spotify": "0Wr98MVkENZXddiLB3bPb0",
+        "title": "J't'emmène au vent",
+        "artist": "Louise Attaque",
+        "release_date": "1997-04-22"
+      },
+      {
+        "CardNumber": "00181",
+        "Spotify": "5iqrbO0fhuLMiy9tYGanv6",
+        "title": "C'est La Vie",
+        "artist": "Khaled",
+        "release_date": "2012-05-17"
+      },
+      {
+        "CardNumber": "00180",
+        "Spotify": "5pqhqSdrxLXDZY9eeCAtSJ",
+        "title": "Libérée, Délivrée - De \"La Reine des Neiges\"/Bande Originale Française",
+        "artist": "Anaïs Delva",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00179",
+        "Spotify": "3svXzzMFItZBmwMQT13pVN",
+        "title": "Célibataire",
+        "artist": "Hugo Lapointe",
+        "release_date": "2005"
+      },
+      {
+        "CardNumber": "00178",
+        "Spotify": "7JGmpugbdiVWskY1S3EmTY",
+        "title": "Tomber la chemise",
+        "artist": "Zebda",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00177",
+        "Spotify": "60hf8p6QGVYHNbdG82DmM3",
+        "title": "Tokébakicitte",
+        "artist": "Jérôme 50",
+        "release_date": "2021-02-11"
+      },
+      {
+        "CardNumber": "00176",
+        "Spotify": "2SjCDScvBnh6nwpJObqA1u",
+        "title": "Des croissants de soleil",
+        "artist": "Ginette Reno",
+        "release_date": "1974-01-01"
+      },
+      {
+        "CardNumber": "00175",
+        "Spotify": "2IkacfqyLwcSRDOieV8lKY",
+        "title": "Bobépine",
+        "artist": "Plume Latraverse",
+        "release_date": "1989-01-01"
+      },
+      {
+        "CardNumber": "00174",
+        "Spotify": "1tkUiDUKwPrzBmThNI5Cid",
+        "title": "La banane",
+        "artist": "Philippe Katerine",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00173",
+        "Spotify": "1eKpwfqc7mhH48miJ6PykG",
+        "title": "Y a pas grand chose dans l'ciel à soir",
+        "artist": "Paul Piché",
+        "release_date": "2012-11-20"
+      },
+      {
+        "CardNumber": "00172",
+        "Spotify": "36eHvuluPjSm7HNRLqng7R",
+        "title": "C'est zéro",
+        "artist": "Julie Masse",
+        "release_date": "1990-01-01"
+      },
+      {
+        "CardNumber": "00171",
+        "Spotify": "1Mhzg01k7na3KrK9tQrtig",
+        "title": "Pleine lune",
+        "artist": "Marie-Luce Beland",
+        "release_date": "2007-09-04"
+      },
+      {
+        "CardNumber": "00170",
+        "Spotify": "0uuFgysRgYtTEaNEbB06pk",
+        "title": "Aujourd'hui ma vie c'est d'la marde",
+        "artist": "Lisa LeBlanc",
+        "release_date": "2012-03-27"
+      },
+      {
+        "CardNumber": "00169",
+        "Spotify": "4tSffeciMCcNIvITmh6QHP",
+        "title": "I Lost My Baby",
+        "artist": "Jean Leloup",
+        "release_date": "1996-10-01"
+      },
+      {
+        "CardNumber": "00168",
+        "Spotify": "3WXD1s3xsBGydb1rgZagd6",
+        "title": "Le train",
+        "artist": "Vilain Pingouin",
+        "release_date": "1986-06-12"
+      },
+      {
+        "CardNumber": "00167",
+        "Spotify": "3NweUo7IKaALhQFdKTfVdi",
+        "title": "Cache-cache",
+        "artist": "Maxime Landry",
+        "release_date": "2019-11-22"
+      },
+      {
+        "CardNumber": "00166",
+        "Spotify": "11FBMKhiuYT4doKhC4p3i6",
+        "title": "Comme d'habitude",
+        "artist": "Claude François",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00165",
+        "Spotify": "3NGCWdZvz8jx0J5bUDc2l0",
+        "title": "Tourne la page",
+        "artist": "René Simard, Nathalie Simard",
+        "release_date": "1996-01-09"
+      },
+      {
+        "CardNumber": "00164",
+        "Spotify": "2xwJmtyYt3tJNl4Ql9DmmW",
+        "title": "Besoin de rien, envie de toi",
+        "artist": "Peter & Sloane",
+        "release_date": "1985-12-27"
+      },
+      {
+        "CardNumber": "00163",
+        "Spotify": "6fyyO9wAmiW9oEAXrOR8jQ",
+        "title": "Ella, elle l'a",
+        "artist": "France Gall",
+        "release_date": "2005-02-01"
+      },
+      {
+        "CardNumber": "00162",
+        "Spotify": "2XK2R8ElT2woHH2tfn6PgJ",
+        "title": "Je l'aime à mourir",
+        "artist": "Francis Cabrel",
+        "release_date": "2007-04-04"
+      },
+      {
+        "CardNumber": "00161",
+        "Spotify": "10pCXoG0FfFqk2ltikjuEf",
+        "title": "Pour Un Instant",
+        "artist": "Harmonium",
+        "release_date": "1974-01-01"
+      },
+      {
+        "CardNumber": "00160",
+        "Spotify": "67X7nvwWq6M3NKelIsIY2o",
+        "title": "L'oiseau",
+        "artist": "René Simard",
+        "release_date": "1971-01-05"
+      },
+      {
+        "CardNumber": "00159",
+        "Spotify": "4ArgA1vhM4y4qSd3DvYIhy",
+        "title": "Gigi l'amoroso",
+        "artist": "Dalida",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00158",
+        "Spotify": "5I1NWTW924ZKVDHkrLNY5h",
+        "title": "Pas gaie la pagaille",
+        "artist": "Maurane",
+        "release_date": "1989-01-01"
+      },
+      {
+        "CardNumber": "00157",
+        "Spotify": "0pRIVJu58Lja4I97yWmJGE",
+        "title": "Lola",
+        "artist": "Allan Theo",
+        "release_date": "2022-12-09"
+      },
+      {
+        "CardNumber": "00156",
+        "Spotify": "4CLktmKM775TQvUTSWvrVI",
+        "title": "Copilote",
+        "artist": "FouKi, Jay Scøtt",
+        "release_date": "2020-11-20"
+      },
+      {
+        "CardNumber": "00155",
+        "Spotify": "6mVZN1sguQcOC0cEAPBuq0",
+        "title": "Corps à corps",
+        "artist": "Chatelaine",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00154",
+        "Spotify": "6Xm7pVBeJPLspmrnv8cB9I",
+        "title": "Chante-La ta Chanson",
+        "artist": "Jean Lapointe",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "5vcpFz41FIfgTjv7wbrXVk",
+        "title": "Toune d'automne",
+        "artist": "Les Cowboys Fringants",
+        "release_date": "2002-03-05"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "1VOjHLyRyIqSnIrT4H1jcd",
+        "title": "Je n'ai que mon âme",
+        "artist": "Natasha St-Pier",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "0dxdKY6eoieIvPPCCiZTjZ",
+        "title": "Les ferrofluides-fleurs",
+        "artist": "Klô Pelgag",
+        "release_date": "2016-11-04"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "7pMxAUw30yMUyaU4YINjHP",
+        "title": "Le rendez-vous",
+        "artist": "Valérie Carpentier",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "0u8VoI8F0JIL2Oq240vWuV",
+        "title": "Comme Avant",
+        "artist": "Statzz",
+        "release_date": "2023-05-12"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "2RMo8LiuGhVaA0j8TlLbpK",
+        "title": "Matusalem",
+        "artist": "Koriass, Jay Scøtt",
+        "release_date": "2022-04-01"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "5zJRFnHzjYRIf4hcOJ4Lbl",
+        "title": "Itsy bitsy, petit bikini",
+        "artist": "Richard Anthony",
+        "release_date": "1993"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "6phMPtxOkjdXR8ax9xoCJ9",
+        "title": "Le pénitencier",
+        "artist": "Johnny Hallyday",
+        "release_date": "1964-10-25"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "6VZB0ttlqGjpGMAcaomXh9",
+        "title": "Sous le vent",
+        "artist": "Garou, Céline Dion",
+        "release_date": "2000-11-06"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "1ZK8WJqkD1XhEYI1AlkMHG",
+        "title": "La mer",
+        "artist": "Charles Trenet",
+        "release_date": "1992"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "2YIzmw4FfKEL0LF6EtJCxW",
+        "title": "Gros zéro",
+        "artist": "Yelo Molo",
+        "release_date": "1999-09-01"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "4FL6ttDXeXjgxXLII24wEX",
+        "title": "Je serai (ta meilleure amie)",
+        "artist": "Lorie",
+        "release_date": "2001-10-30"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "3HlOpPxZXy9ncmkFDeZDGb",
+        "title": "Quand",
+        "artist": "Martin Deschamps",
+        "release_date": "2000-02-29"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "2euBkvIUcE55BEhMNStsgM",
+        "title": "Ce soir l'amour est dans tes yeux",
+        "artist": "Martine St Clair",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "3JeI4tUr2gqkUChQO9iIAj",
+        "title": "Isabelle",
+        "artist": "Jean Leloup",
+        "release_date": "1990-08-01"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "3V6h6WqheHEvSMyYJEdw3Y",
+        "title": "On ira",
+        "artist": "William Cloutier",
+        "release_date": "2022-01-21"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "3nYFDd5TLhBkj3bJtqqK5X",
+        "title": "C'est bon pour le moral",
+        "artist": "La Compagnie Créole",
+        "release_date": "1983-01-01"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "2EEg8I06zs9s82ugYvCzIR",
+        "title": "Mon voisin",
+        "artist": "Les frères à ch'val",
+        "release_date": "2018-11-09"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "35CgPaRWgzwlB6f8UUTgNm",
+        "title": "La Rue Principale",
+        "artist": "Les Colocs",
+        "release_date": "1993-02-26"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "5LdCzn92GXvMOJ2wHMHKJh",
+        "title": "Provocante",
+        "artist": "Marjo",
+        "release_date": "1990-06-01"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "4iVnfuAmwJNAGsiHz8Po6Y",
+        "title": "Femme Like U",
+        "artist": "K.Maro",
+        "release_date": "2004-07-09"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "25Yj66WWWgyXbPNJZNNXvS",
+        "title": "Dale Hawerchuk",
+        "artist": "Les Dales Hawerchuk",
+        "release_date": "2005-08-22"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "3l65XPrGJo7LN0uphgWY1u",
+        "title": "L'amour a pris son temps",
+        "artist": "Nathalie Simard",
+        "release_date": "2019-09-20"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "0jF97xxaPRcfbxlt7TH2E8",
+        "title": "T'es dans la lune",
+        "artist": "Les BB",
+        "release_date": "1988"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "22oGdz6c3pk6xJmugX1rTQ",
+        "title": "Remède miracle",
+        "artist": "Mes Aïeux",
+        "release_date": "2000-10-10"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "7hblNUL4xYe6Dwi4eaKLZi",
+        "title": "Un amour qui ne veut pas mourir",
+        "artist": "Renée Martel",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "02wd6Q4Xhp8zeoCOCcPX3j",
+        "title": "Rêver mieux",
+        "artist": "Daniel Bélanger",
+        "release_date": "2001-10-16"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "49PbjFOCzUYDUbjUJxin8V",
+        "title": "Je voudrais voir la mer",
+        "artist": "Michel Rivard",
+        "release_date": "1987-04-01"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "4PLRzGDnoCp7zQP2w6nwIY",
+        "title": "Tous les garçons et les filles",
+        "artist": "Françoise Hardy",
+        "release_date": "2013-10-04"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "15iJ3XzSgZsYaY77jWkh9K",
+        "title": "Adieu",
+        "artist": "Cœur De Pirate",
+        "release_date": "2011-11-08"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "6YQw1sMDSbXOgk03t88DmN",
+        "title": "Trois p'tits coups",
+        "artist": "Johnny Farago",
+        "release_date": "1997"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "5DPdRHRTZHwxiz35F2FQCt",
+        "title": "Mot de passe",
+        "artist": "Damien Robitaille",
+        "release_date": "2009-09-08"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "2jOt2Y4gp9714Pf8If4dzF",
+        "title": "33 tours",
+        "artist": "2Frères",
+        "release_date": "2015-04-14"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "7zwusL31pJoJ4vnuJk1cpQ",
+        "title": "Tout le monde veut aller au ciel mais personne ne veut mourir",
+        "artist": "Petula Clark",
+        "release_date": "1988-11-18"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "16XcYQgqoNMw988Rae2YwB",
+        "title": "Monsieur Dupont",
+        "artist": "Les Milady's",
+        "release_date": "1999"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "6SQxzjbQ6rFkzFC0vbTZBL",
+        "title": "On va s'aimer encore",
+        "artist": "Vincent Vallières",
+        "release_date": "2009-09-01"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "3XEwbrHFkJOwFckzuRS0y6",
+        "title": "Tomber à l'eau",
+        "artist": "Annie Villeneuve",
+        "release_date": "2009-10-30"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "6MzHV5xFQbfUEXDVE49oFm",
+        "title": "Dominique",
+        "artist": "Soeur Sourire",
+        "release_date": "2017-04-21"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "4EetjRoeuY6HI5IdbceFew",
+        "title": "Beach bodé",
+        "artist": "Bermuda",
+        "release_date": "2020-03-13"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "3dkIE8P7hvl3tHl9KSb6dA",
+        "title": "Non, je ne regrette rien",
+        "artist": "Édith Piaf",
+        "release_date": "1987-10-31"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "1TM73fujNDKSpigPLfxCZm",
+        "title": "Il est où le bonheur",
+        "artist": "Christophe Maé",
+        "release_date": "2016-05-13"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "6g7nJF5VdDBAO2yAT4KN4V",
+        "title": "Vol à l'étalage",
+        "artist": "Les Trois Accords",
+        "release_date": "2022-10-21"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "0e3LOEZR3NwbbHFGPYr3uQ",
+        "title": "Poupée de cire, poupée de son",
+        "artist": "France Gall",
+        "release_date": "2020-04-03"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "4qqf1avpzRUnVowNQd1jFw",
+        "title": "Zou bisou bisou",
+        "artist": "Gillian Hills",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "7nZCg1jgmXIjSBRifWkmaJ",
+        "title": "Joe le taxi",
+        "artist": "Vanessa Paradis",
+        "release_date": "1987"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "5v3e1R5SojtB0F6rAT7FwI",
+        "title": "La dame en bleu",
+        "artist": "Michel Louvain",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "7fLWUJpyNbEfrLFKLo8ymN",
+        "title": "Belle",
+        "artist": "Patrick Fiori, Garou, Daniel Lavoie",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "3KbqkPNfNtKXC4lHMmI9U3",
+        "title": "Le vieux du Bas-du-Fleuve",
+        "artist": "Gaston Mandeville",
+        "release_date": "1996-12-31"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "028I09aqplLUYRJXGLAPNq",
+        "title": "Salade de fruits",
+        "artist": "Bourvil",
+        "release_date": "1959"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "7tPINSBzEWzNaw8Bw1d7pX",
+        "title": "Aux portes du matin",
+        "artist": "Richard Séguin",
+        "release_date": "1991-11-22"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "51VxAOP1hVuK6SXiP8EzL9",
+        "title": "L'amour dans le désert - Montuno, Baby",
+        "artist": "Stefie Shock",
+        "release_date": "2009-08-04"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "3d5EnRwzZ4gZFAow3X8zmN",
+        "title": "Seulement Qu'une Aventure",
+        "artist": "Offenbach",
+        "release_date": "2012-09-10"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "6T9H9EuecpuRa68W9clGDt",
+        "title": "Je Veux Tout",
+        "artist": "Ariane Moffatt",
+        "release_date": "2008-04-22"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "1u5RooX0738w3Y95V5hDGH",
+        "title": "Éloïse",
+        "artist": "Donald Lautrec",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "3YGu8R8qOorKrfhpdeluyW",
+        "title": "Le temps des cathédrales",
+        "artist": "Bruno Pelletier",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "1aKSNUoq2ppCx928PtNLE8",
+        "title": "Rien à faire",
+        "artist": "Marie-Pierre Arthur",
+        "release_date": "2015-01-27"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "7vtoX6lDC7L98nSp4a3Gib",
+        "title": "N'importe quoi",
+        "artist": "Éric Lapointe",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "4r15wsldz1AZebiXH41Z1k",
+        "title": "Hola décadence",
+        "artist": "Les Respectables",
+        "release_date": "1999-12-31"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "61Ve6CQ9sA9vt2gRNFW5Z2",
+        "title": "J'ai vu",
+        "artist": "Niagara",
+        "release_date": "1990-01-01"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "3rOrk5Acsi2Kr9DFfc3tDd",
+        "title": "Le frigidaire",
+        "artist": "Tex Lecor",
+        "release_date": "1967-01-01"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "0clO0QOJszhztY2jKzT1k3",
+        "title": "Chats sauvages",
+        "artist": "Marjo",
+        "release_date": "1985"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "3DlTgKZMiNkPa96dbLlfYO",
+        "title": "Sèche tes pleurs",
+        "artist": "Daniel Bélanger",
+        "release_date": "1992-06-01"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "5SORP4slnCCw58RNIjeQ3l",
+        "title": "Coeur de Rocker",
+        "artist": "Julien Clerc",
+        "release_date": "1998-03-22"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "2oI4kuumzZGGma6nwNdTAQ",
+        "title": "Moi mes souliers",
+        "artist": "Felix Leclerc",
+        "release_date": "1989-01-01"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "0xPZwLWGuzNvzunkc7KsE9",
+        "title": "Les femmes préfèrent les ginos",
+        "artist": "Zébulon",
+        "release_date": "1994-08-01"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "2jb1XTIgIHeYzKoCKzj6ZZ",
+        "title": "Placebo",
+        "artist": "Alexe",
+        "release_date": "2016-05-20"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "3mgFUpTSGwwyZL11YTu8cw",
+        "title": "Respect (feat. Vinia Mojica)",
+        "artist": "Alliance Ethnik, Vinia Mojica",
+        "release_date": "1995-02-16"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "5G4ePLj9Xn7JhtFiiwOkeQ",
+        "title": "L'ours",
+        "artist": "TRICOT MACHINE",
+        "release_date": "2007-03-20"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "4A5nL2BacLDU3t9j7SO1st",
+        "title": "Desert Song",
+        "artist": "Ludovick Bourgeois",
+        "release_date": "2017-10-13"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "6YWGQxQyR54ytAtg5Z59OH",
+        "title": "Ça fait rire les oiseaux",
+        "artist": "La Compagnie Créole",
+        "release_date": "1986-01-01"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "0jXXb8S1uONhNStONwhA70",
+        "title": "V'la le bon vent",
+        "artist": "Le Quatuor Alouette",
+        "release_date": "2008-12-08"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "0l90WIAkOhMlPSEvqX0YGV",
+        "title": "Je suis partie",
+        "artist": "Anik Jean",
+        "release_date": "2005"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "1v7ctPkzk1G3LXNhisLpvO",
+        "title": "Attention Mesdames et Messieurs",
+        "artist": "Michel Fugain & Le Big Bazar",
+        "release_date": "1972"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "3rHDn2iSG14TSToVvNQPNR",
+        "title": "Chanson thème (Cannelle)",
+        "artist": "Passe-Partout",
+        "release_date": "1997-09-23"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "1wAfRQ0q2FlWaKPpqedjUR",
+        "title": "D.I.S.C.O.",
+        "artist": "Ottawan",
+        "release_date": "1980-01-01"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "0WG3oLQXj9ceAl9SCG8yL1",
+        "title": "Animal",
+        "artist": "France D'Amour",
+        "release_date": "1992"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "2TVAk5RiITnidteClGBUYy",
+        "title": "Baseball",
+        "artist": "Sara Dufour",
+        "release_date": "2019-04-12"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "3pzBD8BVdrv7VJ7glRYshl",
+        "title": "Bizet: Carmen, WD 31, Act 1: Habanera. \"L'amour est un oiseau rebelle\" (Carmen, Chœur)",
+        "artist": "Georges Bizet, Michel Plasson, Angela Gheorghiu, Les Éléments, Orchestre National Du Capitole De Toulouse",
+        "release_date": "2003-02-25"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "4SUywsuljKsUnFm0sE63Mq",
+        "title": "T'as le look coco - Version originale 1984",
+        "artist": "Laroche Valmont",
+        "release_date": "2020-09-18"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "42qeNYv2wPMRVu3C2OJrHZ",
+        "title": "C'est pas sérieux",
+        "artist": "Les Chats Sauvages, Dick Rivers",
+        "release_date": "1961"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "3WP1dRyg523ZgH7PzUM8ya",
+        "title": "Marche à l'ombre",
+        "artist": "Renaud",
+        "release_date": "1980"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "734dz1YaFITwawPpM25fSt",
+        "title": "Je veux",
+        "artist": "Zaz",
+        "release_date": "2010-05-10"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "2GYHyAoLWpkxLVa4oYTVko",
+        "title": "Alors on danse - Radio Edit",
+        "artist": "Stromae",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "5CsO52MwxKrkgEMYBueBKB",
+        "title": "La danse des canards - Original Radio Edit 1980",
+        "artist": "Jj Lionel",
+        "release_date": "1980"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "64gCM9yZv2jpNflclKUnXu",
+        "title": "La tribu de Dana",
+        "artist": "Manau",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "4QJfrtZEaJ51F1drECpOIe",
+        "title": "Déjeuner en paix",
+        "artist": "Stephan Eicher",
+        "release_date": "2021-08-27"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "6FiIYaybBWpTNWA0LbAZGl",
+        "title": "Entends-tu mon coeur",
+        "artist": "Jacynthe",
+        "release_date": "1999"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "0g4oEnfURE1SW2DmaN4esx",
+        "title": "Je ne te quitte pas",
+        "artist": "Alexe",
+        "release_date": "2024-02-23"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "1y136IeBk3VVP4EYLzLiBt",
+        "title": "Piscine",
+        "artist": "Fanny Bloom",
+        "release_date": "2014-09-23"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "2StZPBvnpTBg2rGZqEdQT0",
+        "title": "Aimer d'amour",
+        "artist": "Boule Noire",
+        "release_date": "1978-01-01"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "52xWYK7IFJi9KulliMAHhj",
+        "title": "Paquetville",
+        "artist": "Édith Butler",
+        "release_date": "1985"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "245la2fLeLCOpBWDjgE8rj",
+        "title": "La poupée qui fait non",
+        "artist": "Michel Polnareff",
+        "release_date": "1966-01-01"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "0cslEN7zENvjnaSFIIkci5",
+        "title": "Pas besoin de frapper pour entrer",
+        "artist": "Jacques Michel",
+        "release_date": "1972-09-12"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "6I8zH34Y2wJYNpi08nPCpF",
+        "title": "Comme on attend le printemps",
+        "artist": "Jérôme Couture",
+        "release_date": "2014-04-29"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "2smhb0kzM0VFAzSZzHBV6p",
+        "title": "Là-Bas - Duet with Julie Masse",
+        "artist": "Corey Hart",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "2CP1DHxCO22unEssUZQhNS",
+        "title": "Heureux infidèles",
+        "artist": "Sally Folk",
+        "release_date": "2013-09-30"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "5SfcfFFIHL32dZIuIe9bGV",
+        "title": "On jase de toi",
+        "artist": "Noir Silence",
+        "release_date": "1995-10-30"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "6Lm9qvxTu2zKjCaHXAAq6r",
+        "title": "L'infidèle",
+        "artist": "Stéphanie Lapointe",
+        "release_date": "2004-04-06"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "01q2LPrDtGzsnsOXBVtTTW",
+        "title": "Lindberg",
+        "artist": "Robert Charlebois, Louise Forestier",
+        "release_date": "1968-05-01"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "7xuv8xakMFJWNiZo0QrekL",
+        "title": "Le blues du businessman - Remasterisé en 2009",
+        "artist": "Claude Dubois, Starmania",
+        "release_date": "1978-09-10"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "3xUhchyBGEUNAwelO2yzqp",
+        "title": "Elle me dit",
+        "artist": "MIKA",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "2aA0QjPKz8BDUHx2JTUVjp",
+        "title": "La grande évasion",
+        "artist": "Patrice Michaud",
+        "release_date": "2021-09-24"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "4q0xv25gZZ57kTH0aSTsnI",
+        "title": "Ça Va Venir Découragez-Vous Pas",
+        "artist": "La Bolduc",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "3WgK1nC3pQmJ9UtBF4oNMR",
+        "title": "Dégénérations / Le reel du fossé",
+        "artist": "Mes Aïeux",
+        "release_date": "2004-05-26"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "2AICWqkT2Gn6iu68a9VFOK",
+        "title": "Dors Caroline",
+        "artist": "Johanne Blouin",
+        "release_date": "2018-07-01"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "3w5bSQlQzKFUE3osgrMRBT",
+        "title": "Tassez-vous de d'là",
+        "artist": "Les Colocs",
+        "release_date": "1998-07-01"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "2iOPy2S1hF6VHzOG3kLCSQ",
+        "title": "Et c'est pas fini",
+        "artist": "Emmanuelle",
+        "release_date": "2004"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "25R7WCwwMpqTTqhbCXJWcF",
+        "title": "Montréal -40",
+        "artist": "Malajube",
+        "release_date": "2006-02-07"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "3ChTu8j7meZ1op8QtTMVfR",
+        "title": "Comme un garçon",
+        "artist": "Sylvie Vartan",
+        "release_date": "1965-10-17"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "5tolMesLH4lIK2dTrCHmXO",
+        "title": "La désise",
+        "artist": "Daniel Boucher",
+        "release_date": "1999-10-12"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "3stGdvzWseLYJllraGNwg2",
+        "title": "Pied De Poule",
+        "artist": "Geneviève Lapointe",
+        "release_date": "1982-04-01"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "52BTtBX5I2kStkSyN2WqTn",
+        "title": "Voyager sans toi",
+        "artist": "Mario Pelchat",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "09lpBY721E8K2TuOzPavFd",
+        "title": "Y'a les mots",
+        "artist": "Francine Raymond",
+        "release_date": "1993-03-02"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "4sOjKbpa7RLZVRNxcO26eb",
+        "title": "Bruxelles je t’aime",
+        "artist": "Angèle",
+        "release_date": "2021-10-21"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "13XnWxFI1NzSHF6Rsn6vVn",
+        "title": "Sur la route",
+        "artist": "Pierre Flynn",
+        "release_date": "1987-11-01"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "4GSVK8cJLGIld4sEETwLzv",
+        "title": "Pleurs Dans La Pluie",
+        "artist": "Mario Pelchat",
+        "release_date": "1993"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "0XrmPFVFpZy9ty4Rx6CG6f",
+        "title": "Cœur de loup",
+        "artist": "Philippe Lafontaine",
+        "release_date": "1989"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "0qnN7RceovLP58nCY0fdME",
+        "title": "Si j'étais un homme",
+        "artist": "Diane Tell",
+        "release_date": "1980-11-01"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "0AraxE2OAcxhZxjRs6ui8c",
+        "title": "La prison de Londres",
+        "artist": "Louise Forestier",
+        "release_date": "2013-05-07"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "6VJzONpOl2bzjOrbqJW2Sf",
+        "title": "C'est ma vie",
+        "artist": "Salvatore Adamo",
+        "release_date": "2003"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "1Bdz1n2SIbaNqeexWkFXqK",
+        "title": "Travailler",
+        "artist": "Michel Pagliaro",
+        "release_date": "2013-11-19"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "5gsIHVN8ycqXSfQnb0f0DN",
+        "title": "Donne-moi ta bouche",
+        "artist": "Pierre Lalonde",
+        "release_date": "1997-01-22"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "1P37gwlsx2ghfr8tGzJsRE",
+        "title": "Ça m'énerve - Radio Edit",
+        "artist": "Helmut Fritz",
+        "release_date": "2009-06-15"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "3DlYuIXBuq5CD9xCmD7ku1",
+        "title": "Sugar daddy",
+        "artist": "Patsy Gallant",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "7I42WGNG7oJRxEpF86aajy",
+        "title": "Groove Grave",
+        "artist": "Loco Locass",
+        "release_date": "2004-11-02"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "17vt4SGpyI9ONYIuxDbWm7",
+        "title": "J't'aime comme un fou",
+        "artist": "Robert Charlebois",
+        "release_date": "1991-04-05"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "3rOZqce1BxTwNZW92Ojtzn",
+        "title": "Fou",
+        "artist": "Andréanne A. Malette",
+        "release_date": "2017-11-03"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "28mwuJqKOjRpqo14GuKSkj",
+        "title": "Je T’aime",
+        "artist": "Lara Fabian",
+        "release_date": "1997-06-03"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "3zgQHblUM4t8JkX7rRLAZI",
+        "title": "Une chance qu'on s'a",
+        "artist": "Jean-Pierre Ferland",
+        "release_date": "1995-02-01"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "1LUPxouIVwKIbs31i9WA5s",
+        "title": "L'amour",
+        "artist": "Karim Ouellet",
+        "release_date": "2012-11-27"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "2o8RMwWhgP7jJb3JABIlvh",
+        "title": "Ton amour a changé ma vie",
+        "artist": "Les Classels",
+        "release_date": "1997"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "3pBfgbB4W6ZFW42nzg8sbn",
+        "title": "Avant de disparaître",
+        "artist": "Claude Bégin",
+        "release_date": "2015-02-03"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "7sKDftgGirHWTVFMtJoDoh",
+        "title": "Djadja",
+        "artist": "Aya Nakamura",
+        "release_date": "2018-11-02"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "1k0yZjoNO1fnSuko5vyBgY",
+        "title": "Frédéric",
+        "artist": "Claude Léveillée",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "4lHLa0Z48pb3T7iuZ6T9xR",
+        "title": "Fille de personne II",
+        "artist": "Hubert Lenoir",
+        "release_date": "2018-02-02"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "7w9jkg4L1aWdiCxkxtyUHb",
+        "title": "Tomber",
+        "artist": "Laurence Jalbert",
+        "release_date": "1990-02-01"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "6dP8GoWxIQtRDJptpgPtkh",
+        "title": "Vivre dans la nuit - Version Microsillon",
+        "artist": "Nuance",
+        "release_date": "1986-01-01"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "6OkdbK4Y1zHsDI4w5y5MY0",
+        "title": "Deux par deux rassemblés",
+        "artist": "Pierre Lapointe",
+        "release_date": "2006-03-22"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "2a5PzPvxuyWe7uBUQ2rCCf",
+        "title": "Achy Breaky Danse - Version française",
+        "artist": "Stef Carse",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "1QdFzktmKiB9IK96EAQfl8",
+        "title": "Johnny, Johnny",
+        "artist": "Jeanne Mas",
+        "release_date": "1985"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "2d8D7uk3tbAThjRkdfrx9c",
+        "title": "Voyage voyage",
+        "artist": "Desireless",
+        "release_date": "2001-01-02"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "3o8eZQuuFX8j8eqfm4Lzuu",
+        "title": "Sauvez mon âme",
+        "artist": "Luc De Larochellière",
+        "release_date": "2014-03-25"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "5od7nHxidPSj7kiUtgCCss",
+        "title": "L'amour est Là",
+        "artist": "Claire Lepage",
+        "release_date": "2021-11-19"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "7IPn7mHQjOEYFoAB3xXE6k",
+        "title": "Moi j'mange",
+        "artist": "Angèle Arsenault",
+        "release_date": "2010-07-06"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "7quS8uRNMPWff5JhxnXPYs",
+        "title": "Tue-moi",
+        "artist": "Dan Bigras",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "0L0xVMHLWOltM9d3Yssh3Y",
+        "title": "Prends ma main",
+        "artist": "Joane Labelle",
+        "release_date": "1991-09-01"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "0BUD8MCnamel6skM7YCSJJ",
+        "title": "Hawaiienne",
+        "artist": "Les Trois Accords",
+        "release_date": "2004-03-23"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "28J9fxqbDYkZLXEPwmV5Q3",
+        "title": "Sans regret",
+        "artist": "Brigitte Boisjoli",
+        "release_date": "2014-04-29"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "1lzRxwbdl86iJlYMz48KoD",
+        "title": "J'ai cherché",
+        "artist": "Amir",
+        "release_date": "2016-04-29"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "1Juv3fIdrK8rpVgGiq7RjE",
+        "title": "Donnez-moi des roses",
+        "artist": "Fernand Gignac",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "2Vmf6V7IQAVZlUcjE2FbDc",
+        "title": "La ziguezon",
+        "artist": "La Bottine Souriante",
+        "release_date": "1982"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "2NshBYcvc4uYYsBj4vHZfh",
+        "title": "Du rhum des femmes",
+        "artist": "Soldat Louis",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "4e8LJBfqbFPybUtCUnLh2E",
+        "title": "Je reviendrai à Montréal",
+        "artist": "Robert Charlebois",
+        "release_date": "2005-01-01"
+      }
+    ]
+  }
+}

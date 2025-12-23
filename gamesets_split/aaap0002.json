@@ -1,0 +1,2166 @@
+{
+  "updated_on": 1766489504,
+  "sku": "aaap0002",
+  "gameset_data": {
+    "gameset_language": "Iceland",
+    "gameset_name": "Hitster Original - Smellur 2",
+    "cards": [
+      {
+        "CardNumber": "00308",
+        "Spotify": "76okZJnl4mtO04i1I4sbQQ",
+        "title": "Hailslide",
+        "artist": "Júníus Meyvant",
+        "release_date": "2015-05-29"
+      },
+      {
+        "CardNumber": "00307",
+        "Spotify": "7fnydnyltj7Vd0LiZfBrka",
+        "title": "To Be Grateful",
+        "artist": "Trúbrot",
+        "release_date": "1971-01-01"
+      },
+      {
+        "CardNumber": "00306",
+        "Spotify": "3SHuAuKjGdwXtDZTXKRJ0e",
+        "title": "Íslensk kjötsúpa",
+        "artist": "Íslensk kjötsúpa",
+        "release_date": "1979-01-01"
+      },
+      {
+        "CardNumber": "00305",
+        "Spotify": "79lhwIL3wwQeNMtnPQeFi6",
+        "title": "Ó þú",
+        "artist": "Mannakorn",
+        "release_date": "1975-01-01"
+      },
+      {
+        "CardNumber": "00304",
+        "Spotify": "0pAXT01uehmIV1JDvPD8Wx",
+        "title": "Búkolla",
+        "artist": "Laddi",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00303",
+        "Spotify": "3PIhrKwYEbJMA4ifpB6dia",
+        "title": "Út á sjó",
+        "artist": "Guðbergur Auðunsson",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00302",
+        "Spotify": "1Cw8lMYGNpn7u6bpggf6Y5",
+        "title": "Vetrarnótt",
+        "artist": "Nútímabörn",
+        "release_date": "1969-04-28"
+      },
+      {
+        "CardNumber": "00301",
+        "Spotify": "7EnhXXXA5OHOX5prvpGOB7",
+        "title": "Dansa og bánsa",
+        "artist": "Inspector Spacetime",
+        "release_date": "2021-01-08"
+      },
+      {
+        "CardNumber": "00300",
+        "Spotify": "2v7jMyLKlbDd517QpDStya",
+        "title": "Gleðibankinn",
+        "artist": "Icy",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00299",
+        "Spotify": "7xzuMqLdb44wjjMwYxXyUx",
+        "title": "Þú komst við hjartað í mér",
+        "artist": "Hjaltalín",
+        "release_date": "2007-12-05"
+      },
+      {
+        "CardNumber": "00298",
+        "Spotify": "4novIV9nifQvvQwCcMRx1q",
+        "title": "Ekkert mál",
+        "artist": "Grýlurnar",
+        "release_date": "1982-01-01"
+      },
+      {
+        "CardNumber": "00297",
+        "Spotify": "13X6Z5Q21xl3LM7uV73ioQ",
+        "title": "Rock 'n' roll, öll mín bestu ár",
+        "artist": "Brimkló",
+        "release_date": "1976-01-01"
+      },
+      {
+        "CardNumber": "00296",
+        "Spotify": "78WfDuDCfJzUhOiD9vzsIf",
+        "title": "Ég er farinn",
+        "artist": "Úlfur Úlfur",
+        "release_date": "2011-12-10"
+      },
+      {
+        "CardNumber": "00295",
+        "Spotify": "0uoeqfcdBVPGGhUtsPXhI7",
+        "title": "Hífopp æpti karlinn",
+        "artist": "Jónas Árnason",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00294",
+        "Spotify": "1WQj91Vv1O0ucjKwgwENhU",
+        "title": "Crystals",
+        "artist": "Of Monsters and Men",
+        "release_date": "2015-06-08"
+      },
+      {
+        "CardNumber": "00293",
+        "Spotify": "4jiMBPGSOJm4DiadsA2JM9",
+        "title": "Dark Water",
+        "artist": "Agent Fresco",
+        "release_date": "2014-05-09"
+      },
+      {
+        "CardNumber": "00292",
+        "Spotify": "4zeK4Cn2CEKnsdRn2sy2VI",
+        "title": "Á óvart",
+        "artist": "Benni Hemm Hemm, Urður, Kött Grá Pjé",
+        "release_date": "2022-09-02"
+      },
+      {
+        "CardNumber": "00291",
+        "Spotify": "0ECCrsHl0PoKeCHVLdTvti",
+        "title": "Er þetta ást? - Live á RÚV",
+        "artist": "Unnsteinn",
+        "release_date": "2021-01-29"
+      },
+      {
+        "CardNumber": "00290",
+        "Spotify": "7b52kRhGxENOtAK08Zz87M",
+        "title": "Þorparinn",
+        "artist": "HÚGÓ, Þormóður",
+        "release_date": "2023-06-02"
+      },
+      {
+        "CardNumber": "00289",
+        "Spotify": "3N07AzwtLQeUZXgQxqIrTE",
+        "title": "Krókódílamaðurinn",
+        "artist": "Íkarus, Megas",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00288",
+        "Spotify": "1SS79xEkHp65joglZsqYL3",
+        "title": "Draumur um straum",
+        "artist": "Súkkat",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00287",
+        "Spotify": "4jGb5wdEXNPvrU58PgMmHM",
+        "title": "Sýn",
+        "artist": "Valdimar",
+        "release_date": "2012-10-24"
+      },
+      {
+        "CardNumber": "00286",
+        "Spotify": "0N4REH90xe9LJgigrurctF",
+        "title": "Matter Of Time",
+        "artist": "Baraflokkurinn",
+        "release_date": "1983-03-01"
+      },
+      {
+        "CardNumber": "00285",
+        "Spotify": "72SJVM9zgEp4bh8y4vNiGp",
+        "title": "Er hann birtist",
+        "artist": "Hjálmar, Mr. Silla",
+        "release_date": "2016-04-01"
+      },
+      {
+        "CardNumber": "00284",
+        "Spotify": "4w30m0iUvOQ2RX4YlAuLFa",
+        "title": "Royi Roggers",
+        "artist": "Halli og Laddi",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00283",
+        "Spotify": "6wkG9devuAF08BdPUBjIFe",
+        "title": "Ég Er Svo Flottur",
+        "artist": "Séra Bjössi",
+        "release_date": "2020-06-05"
+      },
+      {
+        "CardNumber": "00282",
+        "Spotify": "7qG2vQ0m5YmuyavrpMZM7Q",
+        "title": "Andvaka",
+        "artist": "Izleifur, Daniil",
+        "release_date": "2024-11-08"
+      },
+      {
+        "CardNumber": "00281",
+        "Spotify": "0skgC5EssdmphTZy6vjmJ9",
+        "title": "Tóm tjara",
+        "artist": "Ruth Reginalds",
+        "release_date": "1977-01-01"
+      },
+      {
+        "CardNumber": "00280",
+        "Spotify": "2Cj7cj3mHymkJkZWQB1BcY",
+        "title": "Hvers vegna varst' ekki kyrr?",
+        "artist": "Pálmi Gunnarsson",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00279",
+        "Spotify": "3lY074BgYEFfzhrpcCM9fI",
+        "title": "Ég hvísla yfir hafið",
+        "artist": "Áhöfnin á Halastjörnunni",
+        "release_date": "1980-01-01"
+      },
+      {
+        "CardNumber": "00278",
+        "Spotify": "0ycItGIOLqcrCt1tT1dDhV",
+        "title": "Dagný",
+        "artist": "Sigfús Halldórsson",
+        "release_date": "2017-11-15"
+      },
+      {
+        "CardNumber": "00277",
+        "Spotify": "3m9Iu9N4BqSO0cWU9rdDr0",
+        "title": "Búum Til Börn",
+        "artist": "Moses Hightower",
+        "release_date": "2010-07-05"
+      },
+      {
+        "CardNumber": "00276",
+        "Spotify": "68LB0XSXCn8vTyJcYsmTkd",
+        "title": "Í nótt",
+        "artist": "Fræbbblarnir",
+        "release_date": "1996-07-27"
+      },
+      {
+        "CardNumber": "00275",
+        "Spotify": "0dKq3F7rJNgJR5Ppr3kj2z",
+        "title": "Hippinn",
+        "artist": "Bjartmar Guðlaugsson",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00274",
+        "Spotify": "5hPrcUkXAuPkdONKFWDna2",
+        "title": "Þú vilt ganga þinn veg",
+        "artist": "Einar S. Ólafsson",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00273",
+        "Spotify": "3wojIo4nDTHxWJ9MYSVkWC",
+        "title": "Sandalar",
+        "artist": "Brunaliðið",
+        "release_date": "1978-01-01"
+      },
+      {
+        "CardNumber": "00272",
+        "Spotify": "08U18lLFHPtmiAei2GVuPG",
+        "title": "Það er fjör",
+        "artist": "Eiríkur Fjalar",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00271",
+        "Spotify": "6YLu5wnDpCBnDcBC7j9qSW",
+        "title": "Hello Luv",
+        "artist": "The Charlies",
+        "release_date": "2012-10-02"
+      },
+      {
+        "CardNumber": "00270",
+        "Spotify": "3L0lqXax70zhe0fA2nmcU1",
+        "title": "Leikur að vonum",
+        "artist": "Mánar",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00269",
+        "Spotify": "0Obe2nH3miDAVWfO4T41g3",
+        "title": "Þó líði ár og öld",
+        "artist": "Björgvin Halldórsson",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00268",
+        "Spotify": "5nhnK0sf8D4DCUPGeLFDvx",
+        "title": "Í larí lei",
+        "artist": "Stuðlabandið",
+        "release_date": "2022-07-22"
+      },
+      {
+        "CardNumber": "00267",
+        "Spotify": "6hlHTPyuGz05YlMp8KY7TP",
+        "title": "Supertime",
+        "artist": "Berndsen",
+        "release_date": "2011-11-11"
+      },
+      {
+        "CardNumber": "00266",
+        "Spotify": "1dSxfRxlC97ddqIcXElfQT",
+        "title": "Lengi skal manninn reyna",
+        "artist": "Megas, Ágústa Eva Erlendsdóttir, Senuþjófarnir",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00265",
+        "Spotify": "6NTgZKh7bQrWn3stTK4aSr",
+        "title": "Regina",
+        "artist": "Sykurmolarnir",
+        "release_date": "1989-01-01"
+      },
+      {
+        "CardNumber": "00264",
+        "Spotify": "35PSI14hNmI5UiKtQfsE8B",
+        "title": "Lady Fish And Chips",
+        "artist": "Memfismafían, Sigurður Guðmundsson",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00263",
+        "Spotify": "2npBKQSc894sAvRYhG3BOU",
+        "title": "The Dolphins Cry",
+        "artist": "Magni",
+        "release_date": "2010-03-23"
+      },
+      {
+        "CardNumber": "00262",
+        "Spotify": "3l1hAufuGEuzTVyWpcw3wZ",
+        "title": "Makarena",
+        "artist": "Strumparnir",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00261",
+        "Spotify": "3d9XSAhMBXwd95ZV8IP7uK",
+        "title": "Sestu hérna hjá mér",
+        "artist": "Svavar Lárusson",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00260",
+        "Spotify": "2uzaTFQRHbVW0nJJKDSPMs",
+        "title": "Eniga meniga",
+        "artist": "Olga Guðrún Árnadóttir, Ólafur Haukur Símonarson",
+        "release_date": "1976-01-01"
+      },
+      {
+        "CardNumber": "00259",
+        "Spotify": "1vRTLeWIeGMu5oVA7eR7x3",
+        "title": "Wonderful",
+        "artist": "Toggi",
+        "release_date": "2011-11-04"
+      },
+      {
+        "CardNumber": "00258",
+        "Spotify": "6R5FMXhmB7a6BVBftTlYcP",
+        "title": "Frystikistulagið",
+        "artist": "Greifarnir",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00257",
+        "Spotify": "2hk2CjRscd7YXbKRga42JC",
+        "title": "Með stjörnunum",
+        "artist": "Herbert Guðmundsson",
+        "release_date": "2021-10-22"
+      },
+      {
+        "CardNumber": "00256",
+        "Spotify": "0QkvZR2TCzUquSVYO8m9ND",
+        "title": "Eldur í mér",
+        "artist": "Írafár",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00255",
+        "Spotify": "04hQflWnYhJS4Mrze0enJE",
+        "title": "Ef ég væri ríkur",
+        "artist": "Róbert Arnfinnsson",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00254",
+        "Spotify": "3Xu8uuQvvel6vkHuuHHlRh",
+        "title": "Hún ógnar mér",
+        "artist": "FLOTT",
+        "release_date": "2023-12-30"
+      },
+      {
+        "CardNumber": "00253",
+        "Spotify": "0i4AOhWJqkedl62X2uxq4k",
+        "title": "Bleikur Range Rover",
+        "artist": "aronkristinn, Birnir",
+        "release_date": "2025-03-05"
+      },
+      {
+        "CardNumber": "00252",
+        "Spotify": "0WZAuOvK0WAWs2UsiI2YFJ",
+        "title": "Eldlagið",
+        "artist": "Todmobile",
+        "release_date": "1990-01-01"
+      },
+      {
+        "CardNumber": "00251",
+        "Spotify": "1iOpk6tXZXOuGUnQhIn9gM",
+        "title": "Keyrum yfir Ísland",
+        "artist": "Sprengjuhöllin",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00250",
+        "Spotify": "2E6eRqZZxUWpoKxGBhaHDH",
+        "title": "Sódóma",
+        "artist": "Sálin hans Jóns míns",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00249",
+        "Spotify": "1nBbQqvyl0iMlN1P2AvklU",
+        "title": "The one",
+        "artist": "Trabant",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00248",
+        "Spotify": "4MafIXP4HrqmYUFq25ByPq",
+        "title": "Bjarni bróðir minn",
+        "artist": "Savanna tríóið",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00247",
+        "Spotify": "2MCc0WbH4L39evnT4lXd8B",
+        "title": "Rúlletta",
+        "artist": "ICEGUYS",
+        "release_date": "2023-06-16"
+      },
+      {
+        "CardNumber": "00246",
+        "Spotify": "5ftdeqksXhp9s05Jpd7g2D",
+        "title": "Kleturrin",
+        "artist": "Mugison",
+        "release_date": "2012-07-01"
+      },
+      {
+        "CardNumber": "00245",
+        "Spotify": "3Ck3EHxEytUYobowrA17Dp",
+        "title": "Ég býð þér upp í dans",
+        "artist": "Sigurður Ólafsson, Soffia Karlsdottir",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00244",
+        "Spotify": "1chZ712vfU7MdatGMpSGYx",
+        "title": "Kalin Slóð",
+        "artist": "Múgsefjun",
+        "release_date": "2008-05-28"
+      },
+      {
+        "CardNumber": "00243",
+        "Spotify": "78hfEDcSj6Cb1XnQJ5e352",
+        "title": "Við erum við",
+        "artist": "Sverrir Stormsker",
+        "release_date": "1987-05-16"
+      },
+      {
+        "CardNumber": "00242",
+        "Spotify": "0hRx4k2gvo9QZJT9daWDtR",
+        "title": "Líttu sérhvert sólarlag",
+        "artist": "Sigríður Thorlacius, Valdimar Guðmundsson, Bragi Valdimar Skúlason",
+        "release_date": "2013-01-01"
+      },
+      {
+        "CardNumber": "00241",
+        "Spotify": "5fVU5drhmX2WtwjzmG5Ys0",
+        "title": "Lestin er að fara",
+        "artist": "Sálin hans Jóns míns",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00240",
+        "Spotify": "3aR6hKM8pdMGaBUO8ZISY2",
+        "title": "Vor í Vaglaskógi",
+        "artist": "Vilhjálmur Vilhjálmsson",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00239",
+        "Spotify": "1Beg5JjvJ6r4ucEJv4NCRP",
+        "title": "Sumarsykur",
+        "artist": "igore",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00238",
+        "Spotify": "3AUvWRvTByGIhn3GMF9BKo",
+        "title": "Sautjándi júní",
+        "artist": "Dúmbó og Steini",
+        "release_date": "1977-01-01"
+      },
+      {
+        "CardNumber": "00237",
+        "Spotify": "5hKx55lUytNMXRrSDhz3jY",
+        "title": "Lóa Lóa",
+        "artist": "Megas",
+        "release_date": "1986-01-01"
+      },
+      {
+        "CardNumber": "00236",
+        "Spotify": "6v5ooOOJkUPMkDNfrM1Grc",
+        "title": "Peacemaker",
+        "artist": "Mono Town",
+        "release_date": "2014-02-09"
+      },
+      {
+        "CardNumber": "00235",
+        "Spotify": "4CYIyzNVBP0osjmu5P7FeR",
+        "title": "Heilræðavísur Stanleys",
+        "artist": "Faraldur",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00234",
+        "Spotify": "6Jvf9kUiicpnyMSPBnBWFU",
+        "title": "Hold You - Original Mix",
+        "artist": "GusGus",
+        "release_date": "2007-02-26"
+      },
+      {
+        "CardNumber": "00233",
+        "Spotify": "0UVoJyBSp436Jm8AxxphKU",
+        "title": "Hesturinn",
+        "artist": "Skriðjöklar",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00232",
+        "Spotify": "2RVD8vlXKY3EIGgowWAofy",
+        "title": "Tenderloin",
+        "artist": "Tilbury",
+        "release_date": "2012-05-07"
+      },
+      {
+        "CardNumber": "00231",
+        "Spotify": "2JzBV03o0MDgklKP1dreJl",
+        "title": "Smells like teen spirit",
+        "artist": "Milljónamæringarnir, Ragnar Bjarnason",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00230",
+        "Spotify": "5EwCBtEgPT1FG62xdUMRvI",
+        "title": "Heyr mína bæn",
+        "artist": "Elly Vilhjálms",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00229",
+        "Spotify": "1uSHDCNSLvIIznJVjc7lpT",
+        "title": "Fullir vasar",
+        "artist": "Aron Can",
+        "release_date": "2017-04-28"
+      },
+      {
+        "CardNumber": "00228",
+        "Spotify": "3pDwCX2BUPyb8qHDbNCvvE",
+        "title": "Gypsy Queen",
+        "artist": "Einar Vilberg Sr.",
+        "release_date": "1972-04-26"
+      },
+      {
+        "CardNumber": "00227",
+        "Spotify": "2HAc9zgaKNAtJ9AAnIEIHj",
+        "title": "Lóan er komin",
+        "artist": "Póló, Erla Stefánsdóttir",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00226",
+        "Spotify": "7DIyOkvXx1C11mDiSg70LI",
+        "title": "Á pöbbinn",
+        "artist": "Ríó tríó",
+        "release_date": "2016-01-01"
+      },
+      {
+        "CardNumber": "00225",
+        "Spotify": "3EqjM1pPxmUXieCxC6lWZF",
+        "title": "Góða ferð",
+        "artist": "Stebbi og Eyfi",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00224",
+        "Spotify": "3SlXEas7uvYgZtRA7VElyR",
+        "title": "Endalausar nætur",
+        "artist": "Buttercup",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00223",
+        "Spotify": "6ocPBayn5yDOff54GT5pmP",
+        "title": "Hún er svo sæt",
+        "artist": "Hljómsveit Ingimars Eydal, Þorvaldur Halldórsson",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00222",
+        "Spotify": "4izLduwKbyaGX4sc1xcZ7h",
+        "title": "Too Late",
+        "artist": "Þórunn Antonía",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00221",
+        "Spotify": "4v537mXON8x9XLk53NEB7k",
+        "title": "Blekkingin",
+        "artist": "Loðin rotta",
+        "release_date": "1990-01-01"
+      },
+      {
+        "CardNumber": "00220",
+        "Spotify": "3ThtEum5ZAuIX89pvbzy7V",
+        "title": "She's Done It Again",
+        "artist": "Jóhann Helgason",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00219",
+        "Spotify": "19foZlluagZO3jaH3b9bPi",
+        "title": "Allar stelpur úr að ofan!",
+        "artist": "Dáðadrengir",
+        "release_date": "2016-05-11"
+      },
+      {
+        "CardNumber": "00218",
+        "Spotify": "4edsfs5X4f4AeAwDqjL3VI",
+        "title": "Stop In the Name of Love",
+        "artist": "Bang Gang",
+        "release_date": "2003-06-01"
+      },
+      {
+        "CardNumber": "00217",
+        "Spotify": "5Zq551a3kaOWGBrvWEAMPz",
+        "title": "Vegbúi",
+        "artist": "KK",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00216",
+        "Spotify": "1j8IqTD0ZP8ldLqbIrNP3C",
+        "title": "Komdu í partý",
+        "artist": "Funkstrasse",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00215",
+        "Spotify": "5QDTtYWSM9UNT0tCzEDACy",
+        "title": "Congratulations",
+        "artist": "Jeff who?",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00214",
+        "Spotify": "6lF5Dk8dl4kPh2XeGXLjUw",
+        "title": "Hvítir Skór",
+        "artist": "BlazRoca, Ásgeir",
+        "release_date": "2016"
+      },
+      {
+        "CardNumber": "00213",
+        "Spotify": "7h8goS9PMOTzDTGQ8jMfIs",
+        "title": "Breaking the Waves",
+        "artist": "Dikta",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00212",
+        "Spotify": "3TvizEezFZVVx6YqncsAyy",
+        "title": "Kavíar",
+        "artist": "Klamedía X",
+        "release_date": "1999-02-01"
+      },
+      {
+        "CardNumber": "00211",
+        "Spotify": "5RHz6VwbAB0qA1z9lnkxdH",
+        "title": "Ég vil ei vera væminn",
+        "artist": "Tvíhöfði",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00210",
+        "Spotify": "5wkprGgzjPELQd4Q3vjd2a",
+        "title": "Flökku Jói",
+        "artist": "KK Sextettinn, Ragnar Bjarnason",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00209",
+        "Spotify": "66tHt5j6dCBt3Gom4lZbIh",
+        "title": "Logn á undan storminum",
+        "artist": "Skytturnar",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00208",
+        "Spotify": "02g28UoJxsGqA7XI889M8Q",
+        "title": "Húfan",
+        "artist": "Guðjón Rúdolf",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00207",
+        "Spotify": "15tD3ZNK4c4aAjoymAqroy",
+        "title": "Heimilisfriður",
+        "artist": "Hljómsveit Svavars Gests, Anna Vilhjálms, Berti Möller",
+        "release_date": "2017-11-15"
+      },
+      {
+        "CardNumber": "00206",
+        "Spotify": "1Nsjktpk26QZqCMKgHV4Fl",
+        "title": "LSMLÍ (lífið sem mig langar í)",
+        "artist": "Hipsumhaps",
+        "release_date": "2019-09-22"
+      },
+      {
+        "CardNumber": "00205",
+        "Spotify": "69sjJ7X3JDmlWZWPle3frm",
+        "title": "Ólafía og Óliver",
+        "artist": "Björgvin Halldórsson, Sigga Beinteins",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00204",
+        "Spotify": "7cjeomeZqZTeLPTucL2heE",
+        "title": "Maður með mönnum",
+        "artist": "Vinir vors & blóma",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00203",
+        "Spotify": "2t2n5aiKrkWEWEVJuhodl8",
+        "title": "Hugarró",
+        "artist": "GDRN",
+        "release_date": "2020-02-21"
+      },
+      {
+        "CardNumber": "00202",
+        "Spotify": "58FXPUhTwmMJzLh7m7CLwy",
+        "title": "1700 vindstig",
+        "artist": "Karl Örvarsson",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00201",
+        "Spotify": "6SmzAzqDdlc3TMurzeAWZ6",
+        "title": "Dag sem dimma nátt",
+        "artist": "Í svörtum fötum",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00200",
+        "Spotify": "5PWI8roCBKsQW3IyvkdRuW",
+        "title": "Í Kjallaranum",
+        "artist": "Óðinn Valdimarsson, KK Sextettinn",
+        "release_date": "2017-11-15"
+      },
+      {
+        "CardNumber": "00199",
+        "Spotify": "0t7xmgCMxhKxS8kwnsIDg3",
+        "title": "Dagar",
+        "artist": "Eyjólfur Kristjánsson",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00198",
+        "Spotify": "4wBY9TNUoxtKiRh4JjAS7x",
+        "title": "Í Átt Að Tunglinu",
+        "artist": "JóiPé, Króli",
+        "release_date": "2018-04-18"
+      },
+      {
+        "CardNumber": "00197",
+        "Spotify": "2J33JrmHThZzY3Nt1arKyN",
+        "title": "Five 2 Love",
+        "artist": "Motion Boys",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00196",
+        "Spotify": "6Du9VMlYJgxpWeeVkBqbUz",
+        "title": "Aheybaró",
+        "artist": "Nolem, Kött Grá Pjé",
+        "release_date": "2015-05-20"
+      },
+      {
+        "CardNumber": "00195",
+        "Spotify": "7eCyFwpklzYkm5L953zIWi",
+        "title": "Lukkutroll",
+        "artist": "Ljótu hálfvitarnir",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00194",
+        "Spotify": "3bzP8lZJWmuhpdnfDP1rTq",
+        "title": "Enginn eins og þú",
+        "artist": "Auður",
+        "release_date": "2019-06-07"
+      },
+      {
+        "CardNumber": "00193",
+        "Spotify": "33ggvrvjr7rdguDdya2CnE",
+        "title": "Ástin á sér stað",
+        "artist": "Sverrir Bergmann, Friðrik Dór, Albatross",
+        "release_date": "2016-06-29"
+      },
+      {
+        "CardNumber": "00192",
+        "Spotify": "7eNi4r8aIbna6Cq2E3u1nO",
+        "title": "Vilt þú?",
+        "artist": "Reggae on Ice",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00191",
+        "Spotify": "3ebObrieCWyI2KSZbqyTSe",
+        "title": "Lífið er lotterí",
+        "artist": "Papar, Einar Ágúst",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00190",
+        "Spotify": "7dEMOynMeQ5sN4fFFZec8M",
+        "title": "Ef þú vilt verða mín",
+        "artist": "Björn R. Einarsson, Sextett Ólafs Gauks",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00189",
+        "Spotify": "3IIRpeY7NNnHqcvjR94fXq",
+        "title": "Heim í Búðardal",
+        "artist": "Ðe lónlí blú bojs",
+        "release_date": "1975-01-01"
+      },
+      {
+        "CardNumber": "00188",
+        "Spotify": "4kr3k6lztCfduRP8AzKDWk",
+        "title": "Gremja",
+        "artist": "Dabbi T",
+        "release_date": "2008-09-02"
+      },
+      {
+        "CardNumber": "00187",
+        "Spotify": "7Edh8xsa1KsjzYpDwyfUHK",
+        "title": "Niðrá Strönd",
+        "artist": "Prins Póló",
+        "release_date": "2010-11-01"
+      },
+      {
+        "CardNumber": "00186",
+        "Spotify": "1MdcBNiwBQXmFm8KBE5VFi",
+        "title": "Hope",
+        "artist": "Risaeðlan",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00185",
+        "Spotify": "2lWCsl6t2X4Tb0VoMFYXRA",
+        "title": "Eyjólfur hressist",
+        "artist": "Sniglabandið",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00184",
+        "Spotify": "2c6crYBm4crHo88DITHcOD",
+        "title": "My Heart Beats for You",
+        "artist": "Sycamore Tree ",
+        "release_date": "2017-09-21"
+      },
+      {
+        "CardNumber": "00183",
+        "Spotify": "2mUUJKd084mG4bTJfpSuVk",
+        "title": "Qween",
+        "artist": "Retro Stefson",
+        "release_date": "2012-05-25"
+      },
+      {
+        "CardNumber": "00182",
+        "Spotify": "1E0NfiWTUY2rzo4HTEGHWw",
+        "title": "Ast A Pobbnum,Kopavogi",
+        "artist": "Leoncie",
+        "release_date": "2011-09-10"
+      },
+      {
+        "CardNumber": "00181",
+        "Spotify": "5Xx8krVxg1pRy6CXieB7FS",
+        "title": "No Good",
+        "artist": "KALEO, Vinyl on HBO",
+        "release_date": "2015-08-05"
+      },
+      {
+        "CardNumber": "00180",
+        "Spotify": "2c7XNuLk0WlKbEYldBFdj6",
+        "title": "Vígin falla 2017",
+        "artist": "Jónas Sig",
+        "release_date": "2017-02-07"
+      },
+      {
+        "CardNumber": "00179",
+        "Spotify": "6Vjeimoxj5H6lE720rb5Rz",
+        "title": "Thorparinn",
+        "artist": "Hermigervill",
+        "release_date": "2009-06-16"
+      },
+      {
+        "CardNumber": "00178",
+        "Spotify": "38HM2VxfMH475MP2v9Mw3g",
+        "title": "Guru Jamm",
+        "artist": "Einar Ágúst, Love Guru, Eva Maria Þórainsdóttir Lange",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00177",
+        "Spotify": "09Vj1BAk2Hi8BLvbzjg5ua",
+        "title": "Hafið eða fjöllin",
+        "artist": "Gísli Ægir Agústsson",
+        "release_date": "2023-06-02"
+      },
+      {
+        "CardNumber": "00176",
+        "Spotify": "3iEQY5PKSxw00yE7J8yo6x",
+        "title": "Ég gef þér allt mitt líf",
+        "artist": "Ragnhildur Gísladóttir, Björgvin Halldórsson",
+        "release_date": "1980-01-01"
+      },
+      {
+        "CardNumber": "00175",
+        "Spotify": "7iX2ZreSof0HLfT0cR6kNw",
+        "title": "Hiroshima",
+        "artist": "Utangarðsmenn",
+        "release_date": "1980-01-01"
+      },
+      {
+        "CardNumber": "00174",
+        "Spotify": "2ssAicz7Gbuj44IsNP1bMn",
+        "title": "Louder",
+        "artist": "DJ Muscleboy",
+        "release_date": "2014-03-14"
+      },
+      {
+        "CardNumber": "00173",
+        "Spotify": "1aHPuLXGzYfF3oxz0SUBb0",
+        "title": "Sunnanvindur",
+        "artist": "Örvar Kristjánsson, Hjördís Geirs",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00172",
+        "Spotify": "0zeoiXnLJchOHrGvXlXUSt",
+        "title": "It's oh so quiet",
+        "artist": "Björk",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00171",
+        "Spotify": "295X5ZRgFrGkAauJXM6wYi",
+        "title": "Ocean",
+        "artist": "Leaves",
+        "release_date": "2013-10-11"
+      },
+      {
+        "CardNumber": "00170",
+        "Spotify": "7LyQvc6mjRxBS5XRC0bTHV",
+        "title": "Silfurskotta",
+        "artist": "Emmsjé Gauti, Aron Can",
+        "release_date": "2016-07-07"
+      },
+      {
+        "CardNumber": "00169",
+        "Spotify": "042i6fcnyaDOqDyn7BjAQA",
+        "title": "Atvinnukrimmi",
+        "artist": "Móri",
+        "release_date": "2002-10-15"
+      },
+      {
+        "CardNumber": "00168",
+        "Spotify": "5z8REuY4e2WKN76iOIMlVE",
+        "title": "Hausverkun",
+        "artist": "Botnleðja",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00167",
+        "Spotify": "5O4ttH5s38CngchB8NXugY",
+        "title": "Skynja Mig",
+        "artist": "Gísli Pálmi",
+        "release_date": "2013-04-14"
+      },
+      {
+        "CardNumber": "00166",
+        "Spotify": "6yI5FqKLuvlqYLIaDWKZGj",
+        "title": "Sem kóngur ríkti hann",
+        "artist": "Þrjú á palli",
+        "release_date": "1970-01-01"
+      },
+      {
+        "CardNumber": "00165",
+        "Spotify": "0M0T3rUQa81Zlt0tbgDKfL",
+        "title": "Allt sem ég þrái",
+        "artist": "Stjórnin",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00164",
+        "Spotify": "0BwKosK1X5S9RYhnvgpC28",
+        "title": "Danska lagið",
+        "artist": "Bítlavinafélagið",
+        "release_date": "1989-01-01"
+      },
+      {
+        "CardNumber": "00163",
+        "Spotify": "1K77msqu3OEnP3XaRqZ9YG",
+        "title": "Ekkert þras",
+        "artist": "Guðrún Gunnars, Egill Ólafsson",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00162",
+        "Spotify": "1QazWT876LgCHNo6qbrbM1",
+        "title": "Snertu mig",
+        "artist": "Bubbi Morthens, Das Kapital",
+        "release_date": "1984-01-01"
+      },
+      {
+        "CardNumber": "00161",
+        "Spotify": "0d7BIXhqthth9cYf66ud2x",
+        "title": "Hið ljúfa líf",
+        "artist": "Þú og ég",
+        "release_date": "1979-01-01"
+      },
+      {
+        "CardNumber": "00160",
+        "Spotify": "0rsg33yiTnsYdHHe18ZQpY",
+        "title": "Betri bílar, yngri konur",
+        "artist": "Geimsteinn",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00159",
+        "Spotify": "3Ig12cyfGfveeGhEGCOdtk",
+        "title": "Tunglið, tunglið taktu mig",
+        "artist": "Ljósin í bænum",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00158",
+        "Spotify": "2I98PgEa0Zw8mBmCoD7OtQ",
+        "title": "Taboo",
+        "artist": "Spoon Iceland",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00157",
+        "Spotify": "0ImdyPpPWCWK5O2MrosL6x",
+        "title": "Let's get to get her",
+        "artist": "Iceguys",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00156",
+        "Spotify": "6pl6s8A3YRX3CKSEFGbKbM",
+        "title": "Rósin",
+        "artist": "GDRN, Magnús Jóhann",
+        "release_date": "2022-09-16"
+      },
+      {
+        "CardNumber": "00155",
+        "Spotify": "63jDcVB4jsCVAPDry1eAxN",
+        "title": "Af því að pabbi vildi'ða - Live",
+        "artist": "Jonee Jonee",
+        "release_date": "1982-01-01"
+      },
+      {
+        "CardNumber": "00154",
+        "Spotify": "5anY1yZ2jhFRERLFP6ZQZQ",
+        "title": "Rabbabara-Rúna",
+        "artist": "Sigurður Dagbjartsson",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "1z3R7XvZt5kO4lfDEYGiwl",
+        "title": "Underwear",
+        "artist": "FM Belfast",
+        "release_date": "2008-10-01"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "6pOxTbhJhjv7VBjPc5Xscf",
+        "title": "Með þér",
+        "artist": "Ragga Gröndal",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "5pDApaHpmw7ttT4zq8HLjP",
+        "title": "Ó, Herjólfur",
+        "artist": "SZK",
+        "release_date": "2019-07-19"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "1QbQwxATl8CwcpTtWF5PIG",
+        "title": "Neinei",
+        "artist": "Attan",
+        "release_date": "2017-02-17"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "6GX49qhB0OKvZ60f92jHIi",
+        "title": "Sexy Ru",
+        "artist": "Sexy Ru, ICEGUYS",
+        "release_date": "2024-11-15"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "43iIQbw5hx986dUEZbr3eN",
+        "title": "From The Start",
+        "artist": "Laufey",
+        "release_date": "2023-09-08"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "6jMi2JXIvJYW3P2wlBB3EV",
+        "title": "Manstu ekki vinur (Í rökkurró)",
+        "artist": "Helena Eyjólfsdóttir",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "46bt4PukxzHvg0wUTW9n2n",
+        "title": "Leyndarmál",
+        "artist": "Dátar",
+        "release_date": "1966-01-01"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "7ikgFjsZbMJrHatqJShhwc",
+        "title": "Eiður Smári Guðjohnsen",
+        "artist": "Hljómsveitin Ég",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "5S2vSl3ocZp7wAPW8uhC8P",
+        "title": "Hraustir menn",
+        "artist": "Sigmund Romberg, Karlakór Reykjavíkur, Guðmundur Jónsson",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "5ZGJMxfKqcXYsEJxHWUSAS",
+        "title": "Kárahnjúkar",
+        "artist": "Rass",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "5sP3Tbb9wRZC8NTMCHQrj3",
+        "title": "Sprettur",
+        "artist": "Forgotten lores",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "0yQPpUq5BJyqah5m2Q5Stt",
+        "title": "Hoppípolla",
+        "artist": "Sigur Rós",
+        "release_date": "2005-09-12"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "19Wn5r4uLFxIMjKIKubu2h",
+        "title": "Ég held ég gangi heim",
+        "artist": "Valgeir Guðjónsson",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "5pFKYNi7TVujekMb3tmoBZ",
+        "title": "Lay down (Candles in the rain)",
+        "artist": "Emilíana Torrini",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "6dqtXAD7TqlhZVroaUigVC",
+        "title": "Elli Egils",
+        "artist": "Herra Hnetusmjör",
+        "release_date": "2024-08-16"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "6pF66bRp8CdXzq0WBeHOPz",
+        "title": "Öxnadalsheiði",
+        "artist": "S.H. Draumur",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "37NhroGVr6AIrxII55iPeS",
+        "title": "Djammið",
+        "artist": "Hlynur Ben, Gleðisveit Ingólfs",
+        "release_date": "2023-01-12"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "12mx3IxymMRxDQQi9x1GVh",
+        "title": "Allt sem þú lest er lygi",
+        "artist": "Maus",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "2CxbWGxTvhwT6lXcXey3Pd",
+        "title": "Paradís",
+        "artist": "Stefán Hilmarsson",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "52C4cZ2JgYW9hNU5vQOaEW",
+        "title": "Í hjarta þér",
+        "artist": "Sigríður Thorlacius, Heiðurspiltar",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "5MWaQRrCeDIysTLNw8UMVi",
+        "title": "This Is Where We Kill More Than Time",
+        "artist": "Cliff Clavin",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "4wBCmToO2fmHmHpKmy68BE",
+        "title": "Sólarsamba",
+        "artist": "Bræðrabandið",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "3zpSVSgldOCIFl4NftmzIb",
+        "title": "Kinky",
+        "artist": "Tennurnar Hans Afa",
+        "release_date": "2019-11-08"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "1g6lfKPL9yPznPjiype8SF",
+        "title": "Gets Me Down",
+        "artist": "Ampop",
+        "release_date": "2007-12-01"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "2VuGJqwDYw6untVmb6Xt7t",
+        "title": "Fiskurinn hennar Stínu",
+        "artist": "Haukar",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "68vGmIwHkcoCkAjoXVKkwE",
+        "title": "Kokaloca",
+        "artist": "Dr. Mister & Mr. Handsome",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "18BVktRzUWMI2EtGa0SnYs",
+        "title": "Þjóðhátíð í Eyjum",
+        "artist": "Geirmundur Valtýsson, Eyjólfur Kristjánsson",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "5rJzY4x13T4A0yjY8EBGWu",
+        "title": "Sveitaball",
+        "artist": "Ómar Ragnarsson",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "6Vejmu5dz6MMOnn2pIko9q",
+        "title": "Forest Fires",
+        "artist": "Axel Flóvent",
+        "release_date": "2015"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "3CFg8aK0jxy5HkFSvsgivc",
+        "title": "Superman",
+        "artist": "Paradís",
+        "release_date": "2015-04-06"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "5k3TZwLOkYCur41AkZYCSF",
+        "title": "Á rauðum sandi",
+        "artist": "Ylja",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "2sKpSzsMArPbuajW6m1AoR",
+        "title": "Leiðin heim",
+        "artist": "Lights on the highway",
+        "release_date": "2018-08-29"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "5OOgRttehgLyhQ99T5et8j",
+        "title": "Undarlegt með unga menn",
+        "artist": "Rúnar Gunnarsson, Sextett Ólafs Gauks",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "71C3IqqKfIk3ceuElGoGSM",
+        "title": "Á Sprengisandi",
+        "artist": "Pelican",
+        "release_date": "1974-01-01"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "5ogo5kRor9BN1RhNqQj3li",
+        "title": "Glaðasti Hundur Í Heimi",
+        "artist": "Friðrik Dór",
+        "release_date": "2013-07-08"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "5hPYIwyaRCCrOq78Ij4y6Y",
+        "title": "Lala... lagið",
+        "artist": "Hvanndalsbræður",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "6yM9pZui6XdToovbA6Drhv",
+        "title": "Vertu ekki að horfa svona alltaf á mig",
+        "artist": "Ragnar Bjarnason",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "6kzqyQTd2SOyMml8ikEZi5",
+        "title": "Mávar",
+        "artist": "FM95BLÖ, Steindi Jr.",
+        "release_date": "2022-12-09"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "3qZDVO4l1KiIdJIR0T9Si5",
+        "title": "Þrek og tár",
+        "artist": "Haukur Morthens, Erla Þorsteinsdóttir",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "4I6E6Tku36NOmDNL7LcIw9",
+        "title": "Falskar ástir",
+        "artist": "Floni",
+        "release_date": "2019-01-31"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "3M9CDeth4DHI7TWkdoMuDv",
+        "title": "Skína",
+        "artist": "PATR!K, Luigi",
+        "release_date": "2023-07-21"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "3h5tCIHP8IiVk8ucW5NkFu",
+        "title": "Léttur í lundu",
+        "artist": "Ponik, Einar",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "1FZDJmdpasDQe6VVImg3Bd",
+        "title": "Ó, nema ég",
+        "artist": "Skapti Ólafsson",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "5v5v3yt4XDJKI4YRnwYWo4",
+        "title": "Taumlaus trans",
+        "artist": "Páll Óskar",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "7KUupIh6IgrxYvQLnqp3j1",
+        "title": "Stórir strákar fá raflost",
+        "artist": "Egó",
+        "release_date": "1982-01-01"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "7iDGVSvD5PeUdznwLnfS6l",
+        "title": "Við erum kúl",
+        "artist": "Grease",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "79MRngm6Z26a20hEBrJZTP",
+        "title": "Vertu ekki að plata mig",
+        "artist": "HLH flokkurinn",
+        "release_date": "1984-01-01"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "0rO0NyxPfBMjsEspKGsAtq",
+        "title": "Við gengum tvö",
+        "artist": "Ingibjörg Smith",
+        "release_date": "1990-12-31"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "51X8byWkRcDGPRMzodWkzG",
+        "title": "Hæð í húsi",
+        "artist": "200.000 naglbítar",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "3UkzB3UBs9WpZZbSxg0AJR",
+        "title": "Prinsessan mín",
+        "artist": "Buff",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "1br5FbOwrtJNZnigYFRc2V",
+        "title": "Sagan af Nínu og Geira",
+        "artist": "Rokklingarnir",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "4jSbzEn6pUSLwTgX2l6WlV",
+        "title": "Weekends",
+        "artist": "Kiriyama Family",
+        "release_date": "2012-05-16"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "4pCrHkyh5ZZ8HqZ9XcSwTz",
+        "title": "Lína langsokkur",
+        "artist": "Alli Rúts",
+        "release_date": "1972-01-01"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "2Kfd0YVAot4BHEeskTqWBI",
+        "title": "Mess It Up",
+        "artist": "Quarashi, OP",
+        "release_date": "2021-12-17"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "4y8RFndmUhCv8wTdeVIhE8",
+        "title": "Sumargleðin (feat. Gummi Tóta & Ingó Veðurguð)",
+        "artist": "Doctor Victor, Gummi Tóta, Ingó Veðurguð",
+        "release_date": "2019-05-24"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "7dmsNOhNTfXtW9ax7Gv6YU",
+        "title": "Respect yourself",
+        "artist": "Selma Björnsdóttir",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "6NpuWntvTORDkiyks4mmt2",
+        "title": "Lög unga fólsins",
+        "artist": "Nylon",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "1LrsJIvkHoXEzyA9wwBQRD",
+        "title": "Polyesterday",
+        "artist": "GusGus",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "1HAb6Q4i6U0oq8xTlfocuV",
+        "title": "Lazy Daisy",
+        "artist": "Spilverk þjóðanna",
+        "release_date": "1975-01-01"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "649Hon9ANUcPy5BPeMesGY",
+        "title": "Ég er ennþá þessi asni sem þú kysstir þá",
+        "artist": "Sléttuúlfarnir",
+        "release_date": "1990-01-01"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "0TkLEeyYfWxigYY4HOPtpj",
+        "title": "Real Good Time",
+        "artist": "Alda Björk Ólafsdóttir",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "7kP6PJqv42x50grjeybWFE",
+        "title": "Rauður bíll",
+        "artist": "Geiri Sæm",
+        "release_date": "1987-11-22"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "4g5ixppPWGZKkN032uatoq",
+        "title": "Bjössi kvennagull",
+        "artist": "Haukur Morthens",
+        "release_date": "2016-01-01"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "7zxsIsq3wlxn4xYvvrfJZv",
+        "title": "Hárfinnur hárfíni",
+        "artist": "Eggert Þorleifsson",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "7ao2Vmi6K4yx04cCuD1urm",
+        "title": "Sugar",
+        "artist": "Elísabet",
+        "release_date": "2019-10-25"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "1kKp6b2IzlIelp5rFRvrdw",
+        "title": "Kumbh mela",
+        "artist": "Daysleeper",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "3fZ5jRC2ljNb1qnvTvbxSQ",
+        "title": "Gull af mönnum",
+        "artist": "Steindinn okkar, Steindi Jr., Matti Matt",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "0OPovMMeRCDlI8lBH6V6Hs",
+        "title": "Í kvöld er gigg",
+        "artist": "Ingó Veðurguð",
+        "release_date": "2020-02-01"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "203uQ5u5ZLiNC4g5zSG0vR",
+        "title": "Ofboðslega frægur",
+        "artist": "Stuðmenn",
+        "release_date": "1990-01-01"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "3hI1KKYA1Sgqf12K5Hnycb",
+        "title": "Hamraborgin",
+        "artist": "Einar Kristjánsson",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "0tFSTgpnHsqTj4ViiEWyuy",
+        "title": "You Belong To Me",
+        "artist": "Björgvin Halldórsson, Krummi",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "7ylGs80FErr0AB5U45TcfY",
+        "title": "Afasöngur",
+        "artist": "Hrekkjusvín",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "53UXY91LLMuISer0X8RsWq",
+        "title": "Rómeó og Júlía",
+        "artist": "Bubbi Morthens",
+        "release_date": "1985-06-06"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "48Xbs4RbhSU8GVSSP7cWXn",
+        "title": "Pamela",
+        "artist": "Dúkkulísurnar",
+        "release_date": "1984-01-01"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "03606qnb7hAbFrcdl5LLww",
+        "title": "Ástarfár",
+        "artist": "Land og synir",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "55CSBM2ebqdGhLwpyZfl07",
+        "title": "Rangur Maður",
+        "artist": "Ingi Bauer",
+        "release_date": "2021-03-05"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "6UffkHYeCR2dyXpZSqhnL1",
+        "title": "Á Sprengisandi",
+        "artist": "Sigvaldi Kaldalóns, Eggert Stefánsson",
+        "release_date": "1990-01-01"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "3glmaPg0u7Sw3fmC0T45Ju",
+        "title": "Á fjöllum",
+        "artist": "Kátir piltar",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "41hiCUfI5uYn5xOf2k4STw",
+        "title": "Þú ert ungur enn",
+        "artist": "Erling Ágústsson",
+        "release_date": "1990-01-01"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "33YcrHMLeuZS7V6EcKbK3u",
+        "title": "Þúsund sinnum segðu já",
+        "artist": "Grafík",
+        "release_date": "1984-01-01"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "1wsHXAu7flPD93VcynB0U4",
+        "title": "Stara",
+        "artist": "HubbaBubba, Luigi",
+        "release_date": "2025-02-20"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "7xgxHsLmpYuIUTotc6sb6B",
+        "title": "Gaia",
+        "artist": "AmabAdamA",
+        "release_date": "2014-11-05"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "6uUl9jlookW6iMnOQapsb3",
+        "title": "Út á gólfið",
+        "artist": "Hemmi Gunn",
+        "release_date": "1984-01-01"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "0E8SYaDyKEta4tNLAY8M9T",
+        "title": "Gleðitímar",
+        "artist": "Kalli Bjarni",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "6QX8TpNXupILEvRz4lkFIt",
+        "title": "Freedom",
+        "artist": "Jet Black Joe",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "0qPoZOvfhNrsRik5Q8KGHB",
+        "title": "Drugs",
+        "artist": "Cynic Guru",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "6WTwzEaZ4abERnVbUfDXgX",
+        "title": "Before",
+        "artist": "Vök",
+        "release_date": "2015-03-09"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "4Wf9YlNBj8VOYpI20wbKsA",
+        "title": "Þú fullkomnar mig",
+        "artist": "Bjartar Sveiflur",
+        "release_date": "2018-08-18"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "0Dm4Kq28lux0JESHpFkoVD",
+        "title": "Ástardúett",
+        "artist": "Stuðmenn",
+        "release_date": "1982-01-01"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "1PwRARDoVtjMdX0ZeWMgVP",
+        "title": "Pósturinn Páll",
+        "artist": "Magnús Þór Sigmundsson",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "6BWXkgoTjm7V4APeirfZMt",
+        "title": "Þín innsta þrá",
+        "artist": "B.G., Ingibjörg",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "1apQxsvk7XygfcpwYKvUX0",
+        "title": "Röndótta mær",
+        "artist": "Jakob Frímann Magnússon",
+        "release_date": "1976-01-01"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "7wTNteQiMaQd5sVTcu6bXj",
+        "title": "Clubbed Up",
+        "artist": "ClubDub, Ra:tio",
+        "release_date": "2018-06-14"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "1EvYOyC3LnXVvpeTDKqnft",
+        "title": "Ferð án enda",
+        "artist": "Súellen",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "34NDLYy3CHf0LrkFiCVDQT",
+        "title": "Joey Cypher (feat. Herra Hnetusmjör, Aron Can & Birnir)",
+        "artist": "Joey Christ, Herra Hnetusmjör, Aron Can, Birnir",
+        "release_date": "2017-07-11"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "2zGwTIyGGOhKk4eBAckIF2",
+        "title": "Sigga-la-fó",
+        "artist": "Búdrýgindi",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "0neLKjpBsXLaCosHzDpPzt",
+        "title": "Sumarsaga",
+        "artist": "Þorvaldur Davíð",
+        "release_date": "2023-05-12"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "4lSRV62VALD2MXtxk9BGJS",
+        "title": "Bíddu pabbi",
+        "artist": "Vilhjálmur Vilhjálmsson",
+        "release_date": "1972-01-01"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "16oO2Xw6O8G5LSVDGHS6xn",
+        "title": "Á puttanum",
+        "artist": "Þorgeir Ástvaldsson",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "77319oJc2Oje41jrhLBcgy",
+        "title": "Ég fer á Land Rover frá Mývatni á Kópasker",
+        "artist": "Helgi Björns",
+        "release_date": "2014-01-01"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "1rtqbbF3ZN7KprgC2kkJE2",
+        "title": "Slaki Babarinn",
+        "artist": "BlazRoca, Egill Ólafsson",
+        "release_date": "2022-02-17"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "7uoaRDCuJrrjBsLFxvVNLs",
+        "title": "Í fjarlægð",
+        "artist": "Stefán Islandi",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "1ZEMTdLxac8BndOJEh4nbx",
+        "title": "Sjomleh",
+        "artist": "Friðrik Dór, Sveppi, Auðunn Blöndal",
+        "release_date": "2011-12-16"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "39uv4zDmCkfJxKRzSutHSz",
+        "title": "Stanslaust stuð",
+        "artist": "Páll Óskar",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "51qJsEObQw21Sv56SjwVY3",
+        "title": "Sunnudagsmorgunn",
+        "artist": "Jón Ólafsson",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "2zULVOeSPwQCUN0UX8dblX",
+        "title": "Einsetumaður einu sinni",
+        "artist": "Þursaflokkurinn",
+        "release_date": "1978-01-01"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "3Rny8Y3heicCPpVnjMQcC3",
+        "title": "113 Vælubíllinn",
+        "artist": "Pollapönk",
+        "release_date": "2010-05-31"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "5xjsbXthCaLpC5T7JkCB1n",
+        "title": "Kalli sæti",
+        "artist": "Tilvera",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "47iwDsZiokVgf1J7dr9mlr",
+        "title": "Pabbi þarf að vinna í nótt",
+        "artist": "Baggalútur",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "5ISybs2vbug7VQREBppFeD",
+        "title": "Ástar óður",
+        "artist": "Pétur W. Kristjánsson, Bjartmar Guðlaugsson",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "5eb5OkH93qSHI05j2zMAWn",
+        "title": "Ég vissi það",
+        "artist": "Pláhnetan, Björgvin Halldórsson",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "2k3Y97ETwFLIeQwWQG0pkC",
+        "title": "Tell Me (Eurovision Iceland 2000) Orginal Version",
+        "artist": "August & Telma",
+        "release_date": "2010-09-10"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "2EBBCNkrmPM4IagcLa5ysg",
+        "title": "ALEINN",
+        "artist": "Daniil, Friðrik Dór",
+        "release_date": "2023-03-24"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "15TsqIuM5YKosoHH3ForKs",
+        "title": "Kaupmaðurinn á horninu",
+        "artist": "GCD, Rúnar, Bubbi Morthens",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "2Fk6zyOjA09RyYjKSu2SVu",
+        "title": "Hjálpum þeim",
+        "artist": "Hjálparsveitin",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "2y3My5zCw3kbJNdREhQDdW",
+        "title": "Nostalgía",
+        "artist": "Ingibjörg Stefánsdóttir, SSSól",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "18omya4OlylLstBEdazWFW",
+        "title": "Into the burning moon",
+        "artist": "Rikshaw",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "2RvscXxHMmvGDZyEWLNSV2",
+        "title": "Nú liggur vel á mér",
+        "artist": "Lummurnar, Gunnar Þórðarson",
+        "release_date": "1977-01-01"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "3a8aKjXeDjAp6sNAn7AQOE",
+        "title": "Meet Me After Midnight",
+        "artist": "Jakob Frímann Magnússon",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "6gmd03RUtwsq84y4InQD66",
+        "title": "Kittý",
+        "artist": "Oxsmá",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "3umtYna7B2Ald0W3ZUkPgo",
+        "title": "Það er svo geggjað",
+        "artist": "Pops, Flosi Ólafsson",
+        "release_date": "1970-01-01"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "5IHbiWtWk5WTuN1moesh2m",
+        "title": "Þú ert mín",
+        "artist": "Valdimar Guðmundsson, Helgi Júlíus Óskarsson",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "3kJnKiUcU3ItaqOBlM1e9T",
+        "title": "Sekur",
+        "artist": "Start",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "5jtmSuK5MbqAR3HNtsyHgw",
+        "title": "Viltu Dick?",
+        "artist": "Sykur",
+        "release_date": "2009-10-14"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "43vYHDXzYgByJSG2xkmzNY",
+        "title": "Skyttan",
+        "artist": "Bubbi, MX-21",
+        "release_date": "1986-11-13"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "1Riv4d4nqpQVxArPLsk4s0",
+        "title": "Rólegur kúreki",
+        "artist": "BRÍET",
+        "release_date": "2020-10-10"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "5nPTD92TTlAFWdR3tZZwiF",
+        "title": "Svört sól",
+        "artist": "Soldogg",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "63o8du1yboIcFNRkFvxOKX",
+        "title": "Bent nálgast",
+        "artist": "XXX Rottweiler hundar",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "3AzYkEHbpBaS0t5VTatA3y",
+        "title": "San Francisco",
+        "artist": "Sturla Atlas",
+        "release_date": "2015-06-04"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "3ek8oOAynxraGVDzvkpmqD",
+        "title": "Fyrsti kossinn",
+        "artist": "Hljómar",
+        "release_date": "1965-03-12"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "50HR9Fz0u7FyQrN4IKZmAZ",
+        "title": "Kúst og fæjó",
+        "artist": "Heimilistónar",
+        "release_date": "2018-01-20"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "5VrbuzqAjCAFSa7MpGRXWI",
+        "title": "Spurningar (feat. Páll Óskar)",
+        "artist": "Birnir, Páll Óskar",
+        "release_date": "2021-01-15"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "4dcdKyG4L8ewcUrk2Lq9Mg",
+        "title": "Spánarljóð",
+        "artist": "Jonas Jonasson",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "3EJGZE2615pS0Z8gePaE27",
+        "title": "Feel the Love",
+        "artist": "Daði Freyr, ÁSDÍS",
+        "release_date": "2021-01-01"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "0IIkR1hNuu8dRI6CwQVp3M",
+        "title": "Lollypops",
+        "artist": "Tweety",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "4VKjza4t2rohXshGOrfC7G",
+        "title": "Stæltir strákar",
+        "artist": "Jojo",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "7I4HZpznRAFB1O4AjK1auq",
+        "title": "When You're Around",
+        "artist": "Jón Jónsson",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "5RXUGtmyudRHaFTnQhiLXx",
+        "title": "Vínrauðvín",
+        "artist": "Ensími",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "788ZLrVdXC3CdL1gCtR13E",
+        "title": "Nostradamus",
+        "artist": "Nýdönsk",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "0LiZZlSYfjwEojZg6dbagC",
+        "title": "Kvöldsigling",
+        "artist": "Ólafur Þórarinsson",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "7JFzfxAbkjRD5530SRqDrj",
+        "title": "Ástin dugir",
+        "artist": "Páll Óskar, Unun",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "2oYaHR5CXpxsytLDScIGv1",
+        "title": "The Booser",
+        "artist": "Roof Tops",
+        "release_date": "1974-01-01"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "4TR7GOZkb9YtPtu85J7leb",
+        "title": "Endurfundir",
+        "artist": "Upplyfting",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "5ImH27sWu2XLyTzDWlIReO",
+        "title": "Þú veist hvað ég meina, mær",
+        "artist": "Skítamórall",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "5kShVfG3Z8Nndq0xhwuRMw",
+        "title": "Djöfull Er Ég Flottur",
+        "artist": "Á Móti Sól",
+        "release_date": "2010-06-22"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "0KnjbOCGPq0bP7yWPbJBjE",
+        "title": "Party at the White House",
+        "artist": "The Viking Giant Show",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "5Cf5TGPdkKeicSchZ4O7C9",
+        "title": "Út í geim",
+        "artist": "Birnir",
+        "release_date": "2018-08-20"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "3ue7p5SNZYEcAXhvgkZmep",
+        "title": "Sorry Mamma",
+        "artist": "Herra Hnetusmjör, Huginn",
+        "release_date": "2019-03-01"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "0sa2llpScjfQp3wBt01FIJ",
+        "title": "Í dag skein sól",
+        "artist": "Páll Ísólfsson, Sigurveig Hjaltested",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "0HBn58jQlaNbZkXxk0T86j",
+        "title": "Bara ég og þú",
+        "artist": "Bjarni Arason",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "4kvhY3WrhFUswSQmW9tg9G",
+        "title": "Töfrar",
+        "artist": "Silfurtónar",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "5nhEMF1BqtNLQo5mmrnaTE",
+        "title": "Á ferðalagi",
+        "artist": "Sumargleðin",
+        "release_date": "1981-01-01"
+      }
+    ]
+  }
+}

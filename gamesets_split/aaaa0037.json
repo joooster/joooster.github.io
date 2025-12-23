@@ -1,0 +1,1088 @@
+{
+  "updated_on": 1766489278,
+  "sku": "aaaa0037",
+  "gameset_data": {
+    "gameset_language": "Netherlands",
+    "gameset_name": "Hitster Original - Christmas (Exp.)",
+    "cards": [
+      {
+        "CardNumber": "00154",
+        "Spotify": "7xapw9Oy21WpfEcib2ErSA",
+        "title": "Mistletoe",
+        "artist": "Justin Bieber",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "3NGOcEDHZiM7vgh0JAdznY",
+        "title": "Why Couldn't It Be Christmas Everyday?",
+        "artist": "Bianca Ryan",
+        "release_date": "2023-11-17"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "2MZg8AD2iw6XR2BsIZqOvf",
+        "title": "A Winter's Tale",
+        "artist": "David Essex",
+        "release_date": "1983-01-01"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "3OOVf70oWhCKTGTDNLfcXL",
+        "title": "Merry Christmas Everyone",
+        "artist": "Shakin' Stevens",
+        "release_date": "2023-11-17"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "7vQbuQcyTflfCIOu3Uzzya",
+        "title": "Jingle Bell Rock",
+        "artist": "Bobby Helms",
+        "release_date": "1957-12-02"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "7xZsOJBebpV9lsX3XUV7x3",
+        "title": "What Christmas Means To Me",
+        "artist": "Stevie Wonder",
+        "release_date": "1967"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "030mot3ZKR3oskfMsqDB2R",
+        "title": "Have Yourself A Merry Little Christmas",
+        "artist": "Judy Garland",
+        "release_date": "1944-01-01"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "3nhzTOc939C4v4ecTEZTPl",
+        "title": "Christmas Wrapping",
+        "artist": "The Waitresses",
+        "release_date": "1990-10-23"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "2SpxCxwl7naL1IkcK1FlCU",
+        "title": "Ho Ho Ho",
+        "artist": "De Jeugd Van Tegenwoordig, Katja Schuurman",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "1mH6tZC6iXIHPI6EixCwxw",
+        "title": "I Wish It Could Be Christmas Everyday",
+        "artist": "Wizzard",
+        "release_date": "2007-11-19"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "5AtfkuG2OZOxeq9PBD9bNV",
+        "title": "A Christmas Song",
+        "artist": "Shawn Phillips",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "1cwvUJSIW0Qx6zkxZ1ZXEa",
+        "title": "Where The Light Goes",
+        "artist": "Krezip",
+        "release_date": "2023-12-01"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "1yxcKrEcxt4O03IIC25yHk",
+        "title": "Winter Wonderland",
+        "artist": "Tony Bennett",
+        "release_date": "1968-10-06"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "73ye7F9Ub51dQ3CrnCHFhr",
+        "title": "A Nonsense Christmas",
+        "artist": "Sabrina Carpenter",
+        "release_date": "2023-11-17"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "2OQ6a4CfUeYskpTTgyawyJ",
+        "title": "You Make It Feel Like Christmas (feat. Blake Shelton)",
+        "artist": "Gwen Stefani, Blake Shelton",
+        "release_date": "2017-10-06"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "5jthdI5ERsY2WH7FMXR2jw",
+        "title": "Papa, Met Kerst Ben Ik Bij Je",
+        "artist": "Frans Bauer",
+        "release_date": "2011-05-30"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "1pztMwju9F3oI9vdmCcd2t",
+        "title": "Wonderful Christmastime - Remastered",
+        "artist": "Paul McCartney",
+        "release_date": "2020-10-30"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "24lCPIiEWKg9K7k1Gh1h8q",
+        "title": "Grown-Up Christmas List",
+        "artist": "Amy Grant",
+        "release_date": "1992"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "0sfETdT3iZMCuh38fCoz1X",
+        "title": "Maar 1 Wens Met Kerstmis",
+        "artist": "Jaap Reesema",
+        "release_date": "2023-11-10"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "2pnPe4pJtq7689i5ydzvJJ",
+        "title": "Run Rudolph Run",
+        "artist": "Chuck Berry",
+        "release_date": "1986-01-01"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "42N4LeElVg2oqaFa8TH3t8",
+        "title": "Kerstmis In De Jordaan - Remastered 2022",
+        "artist": "Johnny Jordaan",
+        "release_date": "2022-10-28"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "5kHihDHj4QyRinrA2RStBz",
+        "title": "Christmas on the Dance Floor",
+        "artist": "Gerard Joling",
+        "release_date": "2018-11-23"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "3BCm3udamUhdr48vTGjZWE",
+        "title": "Santa Baby (with Henri René & His Orchestra)",
+        "artist": "Eartha Kitt, Henri René and His Orchestra",
+        "release_date": "2021-11-19"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "1msuiw6pnXYfxZ7Edyit9U",
+        "title": "Where Are You Christmas - From \"Dr. Seuss' How The Grinch Stole Christmas\" Soundtrack",
+        "artist": "Faith Hill",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "2GLXv5Z7hEGMLByhnySNH2",
+        "title": "It's Gonna Be a Cold, Cold Christmas",
+        "artist": "Dana",
+        "release_date": "2019-12-13"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "5xjj2WjQVC4Ar8UNIvSUiL",
+        "title": "Every Day's Like Christmas",
+        "artist": "Kylie Minogue",
+        "release_date": "2015-11-13"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "3QiAAp20rPC3dcAtKtMaqQ",
+        "title": "Blue Christmas",
+        "artist": "Elvis Presley",
+        "release_date": "1957-10-15"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "3VXnZxQ2dGhxwIxiMGxIj9",
+        "title": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
+        "artist": "Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",
+        "release_date": "2023-11-17"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "7GCSESX5qmHhk8JwKpR8VL",
+        "title": "Het Is Weer Kerstfeest Dit Jaar",
+        "artist": "Ome Henk",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "3kfMNt37CYyct1ql9txmNI",
+        "title": "All I Want for Christmas Is a Real Good Tan",
+        "artist": "Kenny Chesney",
+        "release_date": "2023-04-14"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "4uiATJ7kvp79R30tsOfTX5",
+        "title": "Wonderland",
+        "artist": "Heidi Klum",
+        "release_date": "2021-11-12"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "6JRVgGubYFxk9zHPSlZtrL",
+        "title": "A Spaceman Came Travelling",
+        "artist": "Chris de Burgh",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "0uTVChzibEWKrXojPaJ9y1",
+        "title": "Hard Candy Christmas",
+        "artist": "Dolly Parton",
+        "release_date": "1984-10-29"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "3CPbJHMcmZQRhkvkj3kmRZ",
+        "title": "Christmas Nite - Remastered",
+        "artist": "RuPaul, Latasha Spencer, Michael Hacker, Michael Rosenman",
+        "release_date": "2023-11-10"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "27qAMKrDdKEs8HDXcvR24R",
+        "title": "Driving Home for Christmas - 2019 Remaster",
+        "artist": "Chris Rea",
+        "release_date": "1987-08-02"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "41onDks2UPbyjer5fMeUWf",
+        "title": "Christmas In Hollis",
+        "artist": "Run–D.M.C.",
+        "release_date": "1988-09-16"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "1MAly7tAaoNpvTRHwfukN3",
+        "title": "Het Mooiste Kerstfeest",
+        "artist": "Manke Nelis",
+        "release_date": "1989-11-05"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "2ZFHIBeuhi0zpB43k6ZcGn",
+        "title": "Mistletoe",
+        "artist": "Colbie Caillat",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "5pkZIlms2sef2ek4G7bapm",
+        "title": "Christmas (Baby Please Come Home)",
+        "artist": "Darlene Love",
+        "release_date": "2021-11-19"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "19FsNaSqd0CwsATF6Ojhyx",
+        "title": "Niets is Cooler dan Kerstmis",
+        "artist": "Kinderen voor Kinderen",
+        "release_date": "2016-12-11"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "5DMItYJluCFc7YtFdP4aXo",
+        "title": "Lonely This Christmas",
+        "artist": "Mud",
+        "release_date": "2005-12-20"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "02FaKXXL7KUtRc7K0k54tL",
+        "title": "Cozy Little Christmas",
+        "artist": "Katy Perry",
+        "release_date": "2018-11-15"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "5ASM6Qjiav2xPe7gRkQMsQ",
+        "title": "Sleigh Ride",
+        "artist": "The Ronettes",
+        "release_date": "1963"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "5zqJlEJcn0EfnvAScH8swK",
+        "title": "All You Need Is Love",
+        "artist": "The Beatles",
+        "release_date": "1999-09-13"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "25leEEaz1gIpp7o21Fqyjo",
+        "title": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
+        "artist": "Gene Autry",
+        "release_date": "1947"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "5LcXgvFrPx26X8ZexNMT0s",
+        "title": "All Alone on Christmas",
+        "artist": "Darlene Love",
+        "release_date": "2016-09-09"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "24yGxqQeuIZAp122sgzLXP",
+        "title": "Santa's Party",
+        "artist": "Nick & Simon",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "0wDKteaNLe3xkaFtj6tH5h",
+        "title": "My Only Wish (This Year)",
+        "artist": "Britney Spears",
+        "release_date": "2019-12-13"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "3ZnUqE5rsaJOHKgSCGao08",
+        "title": "Met Kerst Ben Ik Alleen",
+        "artist": "Andre Hazes",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "4v8uXWtFns5JciNfdtIcs6",
+        "title": "I Wish Everyday Could Be Like Christmas",
+        "artist": "J.Bon Jovi, KnightsBridge",
+        "release_date": "2019-12-02"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "1QZTVx3jXqMGVA1R5mSVe7",
+        "title": "Being Alone At Christmas",
+        "artist": "Miss Montreal",
+        "release_date": "2009"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "1QLZKzC2pjP4ySf4ALrNhm",
+        "title": "Christmas Without You",
+        "artist": "Ava Max",
+        "release_date": "2020-10-15"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "46w8k81V0eSBx64XuVHxT2",
+        "title": "Christmas Time (Don't Let the Bells End)",
+        "artist": "The Darkness",
+        "release_date": "2004-09-27"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "0LJeYKW6TA2Om5ZBZ9wG7e",
+        "title": "Step Into Christmas - Remastered",
+        "artist": "Elton John",
+        "release_date": "2020-10-30"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "4HhWKMSr1VvAjUwcflwwNn",
+        "title": "Beuk De Ballen Uit De Boom",
+        "artist": "Snollebollekes",
+        "release_date": "2020-11-27"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "5xGgJRgmqE8YaWZ548Gat4",
+        "title": "My Christmas Card to You",
+        "artist": "The Partridge Family",
+        "release_date": "1971-11-01"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "0LXwJFtBFYnglsSNxxI4up",
+        "title": "Christmas In Jamaica (feat. Shaggy)",
+        "artist": "Toni Braxton, Shaggy",
+        "release_date": "2001-10-23"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "1NghHeg0wE32eBYrQBVQXL",
+        "title": "Shake Up Christmas",
+        "artist": "Train",
+        "release_date": "2010-12-01"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "632gXr9GJAsy7UBd7Dg7G4",
+        "title": "One I've Been Missing",
+        "artist": "Little Mix",
+        "release_date": "2020-12-11"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "7H36edyR2mNd1Fr6tDDMUg",
+        "title": "I'll Be Home",
+        "artist": "Meghan Trainor",
+        "release_date": "2014-11-24"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "4NsAGsVJO2oLZgDhZUKX6E",
+        "title": "All I Need Is Love (feat. Disney's the Muppets)",
+        "artist": "CeeLo Green, Bill Baretta, Dave Goelz, Disney's the Muppets, Eric Jacobson, Frank Oz, Peter Linz, Steve Whitmire",
+        "release_date": "2012-10-29"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "5tyUybCkA2M0YHBe5ajIxM",
+        "title": "The Christmas Song (Merry Christmas To You)",
+        "artist": "Nat King Cole Trio",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "3bH2Eu9A9ymI4UnGHRmoXg",
+        "title": "Merry Christmas",
+        "artist": "Ed Sheeran, Elton John",
+        "release_date": "2021-12-03"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "1PM6q8qUcd7L1KToUCU18U",
+        "title": "This Christmas",
+        "artist": "Georgina Verbaan",
+        "release_date": "2015-07-17"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "3Bvzxos6OqXt2ysKD2RQeB",
+        "title": "Santa Looked A Lot Like Daddy (Daddy Looked A Lot Like Him)",
+        "artist": "Buck Owens",
+        "release_date": "1990-08-27"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "20b2OrVHdLKo2hBkMPk9H2",
+        "title": "Deze Kerst Ben Je Bij Mij",
+        "artist": "Jannes",
+        "release_date": "2006-12-04"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "3i8j2dKXChkErfi8jsDDuH",
+        "title": "Frosty the Snowman (with The Cass County Boys) - 78rpm Version",
+        "artist": "Gene Autry, Cass County Boys",
+        "release_date": "1947"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "7rhR9N6XUp4xnc1lJbzAFK",
+        "title": "Waarom ben ik met Kerstmis zo alleen",
+        "artist": "Koos Alberts",
+        "release_date": "2011-11-11"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "7fDAriz5Ivea0Oy6VFuz4K",
+        "title": "Ik ben een kerstbal",
+        "artist": "Sesamstraat, Bert en Ernie",
+        "release_date": "2021-08-25"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "1jM3o9gnyKfMT6U7HCNpSB",
+        "title": "Morgen wordt de boom versierd",
+        "artist": "Heintje",
+        "release_date": "2011-11-11"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "12HWTqP3GWqzyyKrpkhojF",
+        "title": "A Winter's Tale - 2011 Remaster",
+        "artist": "Queen",
+        "release_date": "1995-11-06"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "1ikChqDqJkqCW2rHpSvqTA",
+        "title": "One Wish (For Christmas)",
+        "artist": "Whitney Houston",
+        "release_date": "2019-12-13"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "38xhBO2AKrJnjdjVnhJES6",
+        "title": "This Christmas",
+        "artist": "Donny Hathaway",
+        "release_date": "1990-04-03"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "6lC7PGSkhtnEykKakCYhUY",
+        "title": "Christmas Around Me",
+        "artist": "The Common Linnets",
+        "release_date": "2014-11-14"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "4wYCe9tSmUolNU4WmJKbZy",
+        "title": "Stay Another Day",
+        "artist": "East 17",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "1kCMRwtyaXZRWhe2scYcBL",
+        "title": "One More Sleep",
+        "artist": "Leona Lewis",
+        "release_date": "2019-12-13"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "18f32hJ93bPYhEe3dy3q7W",
+        "title": "Kerst Voor Iedereen",
+        "artist": "Jan Smit, Monique Smit",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "7asEcsd7iTWAwYlOegmsX5",
+        "title": "Eenzame Kerst",
+        "artist": "Andre Hazes",
+        "release_date": "1977-01-01"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "4fzyvSu73BhGvi96p2zwjL",
+        "title": "Christmas Lights",
+        "artist": "Coldplay",
+        "release_date": "2010-12-01"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "5DlR0BZUWHZ07U84UJ8hjs",
+        "title": "Santa Claus Lane",
+        "artist": "Hilary Duff",
+        "release_date": "2002"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "0bYg9bo50gSsH3LtXe2SQn",
+        "title": "All I Want for Christmas Is You",
+        "artist": "Mariah Carey",
+        "release_date": "1994-10-28"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "2xqYT7aaAlFextvR1TgV6x",
+        "title": "Christmas Is Finally Here",
+        "artist": "Milow",
+        "release_date": "2024-08-30"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "5hslUAKq9I9CG2bAulFkHN",
+        "title": "It's the Most Wonderful Time of the Year",
+        "artist": "Andy Williams",
+        "release_date": "1963-11-24"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "49l7BvSo6MeWBEUEmHPT5Y",
+        "title": "Christmas Is Just Around The Corner (From \"Cranberry Christmas\")",
+        "artist": "Barry Manilow",
+        "release_date": "2023-10-24"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "0M4DYvoG4oDKzub8j48AsG",
+        "title": "Kerstvakantie",
+        "artist": "Guillermo, Tropical Danny",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "2FRnf9qhLbvw8fu4IBXx78",
+        "title": "Last Christmas",
+        "artist": "Wham!",
+        "release_date": "1984-11-29"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "5gC7cwZNKqaNLlvHlLjjqE",
+        "title": "Macarena Christmas - Joy Mix",
+        "artist": "Los Del Rio",
+        "release_date": "2016-09-09"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "78bDGxqn2KF2VU1G3Kz6J0",
+        "title": "This One's for the Children",
+        "artist": "New Kids On The Block",
+        "release_date": "1989"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "0OdTRhhGt8aq4UXh67CKQg",
+        "title": "Someday At Christmas",
+        "artist": "Stevie Wonder",
+        "release_date": "1967"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "1nQfnLRh4MZv8rfhOdIrFb",
+        "title": "It May Be Winter Outside (But in My Heart It's Spring)",
+        "artist": "Felice Taylor",
+        "release_date": "2016-09-09"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "6wK35dLj3fBL9OXbWsXjPr",
+        "title": "Hoe Dan Ook",
+        "artist": "Guus Meeuwis, Acda en de Munnik",
+        "release_date": "2023-11-24"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "6yAFbVqLLB4CHLMr73Nq2n",
+        "title": "2000 Miles",
+        "artist": "Pretenders",
+        "release_date": "1987-10-26"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "27RYrbL6S02LNVhDWVl38b",
+        "title": "Happy Xmas (War Is Over) - Remastered 2010",
+        "artist": "John Lennon, Yoko Ono",
+        "release_date": "2010-10-05"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "7d8QLPRntvLJAykHGyBjza",
+        "title": "Everyday Is Christmas",
+        "artist": "Do",
+        "release_date": "2004-11-22"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "0cmsqrKB3J96EHDE020pAW",
+        "title": "De Kerstezel",
+        "artist": "Kinderen voor Kinderen",
+        "release_date": "1990-08-01"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "6YH4GanBHEi4oRsqvKFMwv",
+        "title": "Christmas Through Your Eyes",
+        "artist": "Gloria Estefan",
+        "release_date": "1993-09-27"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "5t24nshFUVmDJp8IYEOg14",
+        "title": "Kerstcadeau",
+        "artist": "Nielson",
+        "release_date": "2022-10-14"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "6JPVuvsPhQ6EMwdpGSjIn2",
+        "title": "The Power of Christmas",
+        "artist": "OG3NE",
+        "release_date": "2015-11-20"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "0z5jr9YE1siursT3dJUwDV",
+        "title": "Merry Xmas Everybody",
+        "artist": "Slade",
+        "release_date": "1973-11-07"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "77khP2fIVhSW23NwxrRluh",
+        "title": "A Holly Jolly Christmas",
+        "artist": "Burl Ives",
+        "release_date": "1965-10-01"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "6PiOlFSX06npr0YXexWkrg",
+        "title": "I Met an Angel (on Christmas Day)",
+        "artist": "Céline Dion",
+        "release_date": "1998-10-30"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "3wV9G5BhrJ1ntlCQYko0if",
+        "title": "Fairytale of New York (feat. Kirsty MacColl)",
+        "artist": "The Pogues, Kirsty MacColl",
+        "release_date": "2006-12-04"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "4KV9bM7a1KDc7b7OakFZic",
+        "title": "Jingle Bells",
+        "artist": "Frank Sinatra",
+        "release_date": "2017-10-06"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "0cwealcvftIKDBFJh1X014",
+        "title": "Please Come Home For Christmas",
+        "artist": "Charles Brown",
+        "release_date": "1976"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "4lftz0V8DZhWSVtL4GrzMH",
+        "title": "I'll Be Home For Christmas",
+        "artist": "Bing Crosby",
+        "release_date": "1945-01-01"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "69ozbSmiU02mwqhxaqymNC",
+        "title": "Rockin' Around the Christmas Tree - Remastered",
+        "artist": "Brenda Lee",
+        "release_date": "2012-11-22"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "6zlY4xmlgqvn4LxjzoS2mz",
+        "title": "The Prayer",
+        "artist": "Céline Dion, Andrea Bocelli",
+        "release_date": "1998-10-30"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "4GX4BuYcFiLw75vJjOIWQG",
+        "title": "I Saw Mommy Kissing Santa Claus",
+        "artist": "Jimmy Boyd",
+        "release_date": "1953-10-12"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "3E7lUMdZK5H52CHFemrTt7",
+        "title": "Flappie",
+        "artist": "Youp van 't Hek",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "3juzPzMchvEQxcTCMZczPt",
+        "title": "Ik Vraag Aan Sinterklaas Een Heel Gelukkig Kerstfeest",
+        "artist": "Henk Temming",
+        "release_date": "2012"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "4Yg2w0P29BBBMixyeNjDtj",
+        "title": "Do They Know It's Christmas? - 1984 Version",
+        "artist": "Band Aid",
+        "release_date": "1984-11-25"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "1Umw3vhysHBodpBFpFsVgK",
+        "title": "God Only Knows",
+        "artist": "The Beach Boys",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "7LoFMtL7hxP9tr5HYyyUrJ",
+        "title": "Christmas Time",
+        "artist": "Bryan Adams",
+        "release_date": "2019-11-15"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "615AG06dFtktRXxsT4VTrK",
+        "title": "Early Christmas Morning",
+        "artist": "Cyndi Lauper",
+        "release_date": "2019-12-13"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "5zqzV32ifPJ9XhqfyjYrBy",
+        "title": "Dear Santa",
+        "artist": "OneRepublic",
+        "release_date": "2023-10-20"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "7uyIOiGyIpOR6OGz8UHBuq",
+        "title": "We Need a Little Christmas",
+        "artist": "Johnny Mathis",
+        "release_date": "1986-09-23"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "2u1LRzjVPmAdmU9V8D4ERE",
+        "title": "Een Kaartje Met Kerstmis",
+        "artist": "Corry Konings",
+        "release_date": "1978-01-01"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "7tsWdPHVsMrpCQYCxj4Ekr",
+        "title": "Best Time of the Year",
+        "artist": "Nick & Simon",
+        "release_date": "2013-11-01"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "0QtJZpyfZF67QF32p41NXa",
+        "title": "Thank God It's Christmas",
+        "artist": "Queen",
+        "release_date": "1999-11-09"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "7f4zVC7NpraLjXjFx9DNDt",
+        "title": "The More You Give (The More You'll Have)",
+        "artist": "Michael Bublé",
+        "release_date": "2015-11-30"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "5WoYLgoJekr3ZL9uJcHXgJ",
+        "title": "The Little Drummer Boy - 1965 Version",
+        "artist": "Harry Simeone Chorale",
+        "release_date": "1965-11-01"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "2fCtjxEqTdCGizJtF65Xim",
+        "title": "Als De Eerste Sneeuw Valt",
+        "artist": "Emma Heesters",
+        "release_date": "2020-11-20"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "6sSzHqqEYj3iHbCckchnxi",
+        "title": "Honky Tonk Christmas",
+        "artist": "Alan Jackson",
+        "release_date": "1993-10-11"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "5ZXc11zN1Er2oleBlljUU1",
+        "title": "Deze Kerst Ben Ik Bij Jou",
+        "artist": "André Hazes Jr.",
+        "release_date": "2019-11-22"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "0sBOvlnBokSDsVMb35a7Ds",
+        "title": "Kerstdagen Van Toen",
+        "artist": "Benny Neyman",
+        "release_date": "2002"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "7xQmVmSfCt4LD9H2uFoWOO",
+        "title": "Feliz Navidad",
+        "artist": "José Feliciano",
+        "release_date": "2019-12-13"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "1OjmlSFuzYflWjSMTCyTJv",
+        "title": "Like It's Christmas",
+        "artist": "Jonas Brothers",
+        "release_date": "2019-11-08"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "3VpY2SUf41sVpVYwLO4uyg",
+        "title": "Wishes Come True",
+        "artist": "Duncan Laurence",
+        "release_date": "2021-11-26"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "1QYtTi0cJa8vrgiPfLkkN6",
+        "title": "Let It Snow! Let It Snow! Let It Snow!",
+        "artist": "Vaughn Monroe",
+        "release_date": "2011-11-08"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "2QpN1ZVw8eJO5f7WcvUA1k",
+        "title": "Santa Claus Is Coming To Town",
+        "artist": "The Jackson 5",
+        "release_date": "1970-10-15"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "2mvabkN1i2gLnGAPUVdwek",
+        "title": "Christmas Tree Farm",
+        "artist": "Taylor Swift",
+        "release_date": "2019-12-06"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "3d0j6AKMqHLMmsOEUbxFa0",
+        "title": "Natte Kerst - Bonus Track",
+        "artist": "Rob De Nijs",
+        "release_date": "2005-11-01"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "2PgKbWOFWbOq6ciSRkKF6l",
+        "title": "Hoog Daar Aan De Hemel",
+        "artist": "Corry en de Rekels",
+        "release_date": "2013-03-08"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "47pNnxBCldnanuusnicSuA",
+        "title": "Underneath the Tree",
+        "artist": "Kelly Clarkson",
+        "release_date": "2021-11-19"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "3AgiRs3oxc2dFh0CPUHXJs",
+        "title": "Mistletoe and Wine",
+        "artist": "Cliff Richard",
+        "release_date": "1991-11-18"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "0SvD6EdetxVtXei2JhkV4B",
+        "title": "Wonderful Dream (Holidays Are Coming) - Radio Version",
+        "artist": "Melanie Thornton",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "2X52KrYNzuCRhzXoW4u8QU",
+        "title": "The Message Is Love",
+        "artist": "Arthur Baker And The Backbeat Disciples, Al Green",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "2qqZ5fOGuNvYVzgPFDLQ4l",
+        "title": "Mary's Boy Child / Oh My Lord",
+        "artist": "Boney M.",
+        "release_date": "2017-11-10"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "7wC5eZcFS1Q1BsQ35DU6H4",
+        "title": "come out and play",
+        "artist": "Billie Eilish",
+        "release_date": "2018-11-20"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "0lizgQ7Qw35od7CYaoMBZb",
+        "title": "Santa Tell Me",
+        "artist": "Ariana Grande",
+        "release_date": "2014-11-24"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "2O3MQ6H3gjrIWDcpeTrikT",
+        "title": "Santa, Can’t You Hear Me",
+        "artist": "Kelly Clarkson, Ariana Grande",
+        "release_date": "2021-10-15"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "2QLiKt9ki3mw9gF046MTyb",
+        "title": "Ring, Ring, Ring",
+        "artist": "Vader Abraham",
+        "release_date": "2011-11-11"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "55k81Sv1beBPBdfU1c4F2g",
+        "title": "Merry Christmas, Happy Holidays",
+        "artist": "*NSYNC",
+        "release_date": "2019-12-13"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "0mX9lqCl7GuPDA4XJ9DQoQ",
+        "title": "Christmas Was a Friend of Mine",
+        "artist": "Fay Lovsky",
+        "release_date": "1983"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "3C2Hgznk2u3DijmCd8FdKT",
+        "title": "This Christmas - Radio Version",
+        "artist": "Charly Lownoise & Mental Theo",
+        "release_date": "1995-08-01"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "7jIUGfIXGhynzkW8CFCnnV",
+        "title": "This Is Christmas Night",
+        "artist": "BZN",
+        "release_date": "1985-01-01"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "0OT0cgd702jNs5N8ejqQQB",
+        "title": "Stop the Cavalry - Remastered",
+        "artist": "Jona Lewie",
+        "release_date": "2020-10-30"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "6ptuydzFXlq7WDsYveeDcT",
+        "title": "That's Christmas to Me",
+        "artist": "Pentatonix",
+        "release_date": "2023-04-14"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "5tLnPET7IK07qLHQTPvBfY",
+        "title": "Vrolijk Kerstfeest",
+        "artist": "Zangeres Zonder Naam, Telstar Koor en Orkest",
+        "release_date": "1997-10-01"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "7uoFMmxln0GPXQ0AcCBXRq",
+        "title": "Snowman",
+        "artist": "Sia",
+        "release_date": "2018-11-01"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "2jMp2Gd6ASs6GYA5NVZQrH",
+        "title": "Baby, It's Cold Outside",
+        "artist": "Margaret Whiting, Johnny Mercer",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "3hScEmuagcQ0TvoJa5oFyI",
+        "title": "White Christmas",
+        "artist": "Bing Crosby",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "7o4HtESXicUqk3oRqngIsS",
+        "title": "8 Days of Christmas",
+        "artist": "Destiny's Child",
+        "release_date": "2001-10-30"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "5pDiT08BvoTLf6ukdoWN6j",
+        "title": "Mary, Did You Know?",
+        "artist": "Michael English",
+        "release_date": "1992-02-18"
+      }
+    ]
+  }
+}

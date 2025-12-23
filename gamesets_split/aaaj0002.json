@@ -1,0 +1,2166 @@
+{
+  "updated_on": 1766489478,
+  "sku": "aaaj0002",
+  "gameset_data": {
+    "gameset_language": "Israel",
+    "gameset_name": "Hitster Original - 100% Israeli",
+    "cards": [
+      {
+        "CardNumber": "00308",
+        "Spotify": "0r0PXtu5Q6TOmOfwK9GRgT",
+        "title": "קרמלה",
+        "artist": "Moshe Peretz",
+        "release_date": "2017-06-09"
+      },
+      {
+        "CardNumber": "00307",
+        "Spotify": "2jMgv2F3fWC8FKRueqia6z",
+        "title": "ערב של יום בהיר",
+        "artist": "Efraim Shamir",
+        "release_date": "1977-01-01"
+      },
+      {
+        "CardNumber": "00306",
+        "Spotify": "4iz0MlMVGk3Mif3jCQTOk8",
+        "title": "ערב אבוד",
+        "artist": "Gidi Gov",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00305",
+        "Spotify": "3PxO1vqS4Pp0GTOFz224Gk",
+        "title": "הנה ימים באים",
+        "artist": "Ilanit",
+        "release_date": "1978-12-03"
+      },
+      {
+        "CardNumber": "00304",
+        "Spotify": "6urrsu4nNYXRfIx0d8gGsQ",
+        "title": "הורה",
+        "artist": "אבי טולדנו",
+        "release_date": "1992-06-01"
+      },
+      {
+        "CardNumber": "00303",
+        "Spotify": "7ANIQb1CfvmmqErAMXApuF",
+        "title": "אני רואה אותך בדרך לגימנסיה",
+        "artist": "Arik Einstein, Miki Gavrielov",
+        "release_date": "1971"
+      },
+      {
+        "CardNumber": "00302",
+        "Spotify": "7AurZ2nhhxRGS1tbseL3fb",
+        "title": "נח - Remastered",
+        "artist": "Matti Caspi, Chocolate Menta Mastik",
+        "release_date": "1974-07-01"
+      },
+      {
+        "CardNumber": "00301",
+        "Spotify": "2XNXcmwubbt8MJYlQRb4V2",
+        "title": "אינטלקטוערס",
+        "artist": "אודיה",
+        "release_date": "2022-07-19"
+      },
+      {
+        "CardNumber": "00300",
+        "Spotify": "2R62VOGlwUU2SKI1qVKHHa",
+        "title": "סוד",
+        "artist": "Adam",
+        "release_date": "1987-01-01"
+      },
+      {
+        "CardNumber": "00299",
+        "Spotify": "7pB0NZuggjYNGXipzdTMff",
+        "title": "רכבת לצפון",
+        "artist": "Assaf Amdursky",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00298",
+        "Spotify": "2M1FmvnqEawqjpULGLfj6E",
+        "title": "אני בא הביתה מהלילה",
+        "artist": "Danny Robas",
+        "release_date": "1983-01-01"
+      },
+      {
+        "CardNumber": "00297",
+        "Spotify": "7sccKKi7RwTWEPt4K46Cwm",
+        "title": "טרמינל לומינלט",
+        "artist": "Meir Ariel",
+        "release_date": "1979-03-01"
+      },
+      {
+        "CardNumber": "00296",
+        "Spotify": "7hyle4lmxpFkhKOv2NxTiL",
+        "title": "כמו כל יום",
+        "artist": "Idan Rafael Haviv",
+        "release_date": "2013-08-06"
+      },
+      {
+        "CardNumber": "00295",
+        "Spotify": "3Nc7GfiHjrdIpDQcisMYMf",
+        "title": "המגפיים של ברוך",
+        "artist": "Kaveret",
+        "release_date": "1973-11-01"
+      },
+      {
+        "CardNumber": "00294",
+        "Spotify": "3hay408PSjTAxPn5TPxzyh",
+        "title": "חלק מהזמן",
+        "artist": "Idan Amedi",
+        "release_date": "2018-08-22"
+      },
+      {
+        "CardNumber": "00293",
+        "Spotify": "5shn2i4JvFfzNlqeljroXn",
+        "title": "השעות הקטנות",
+        "artist": "ניב דמירל",
+        "release_date": "2017-01-01"
+      },
+      {
+        "CardNumber": "00292",
+        "Spotify": "6ClLC1FYoL8orfOrcknQkk",
+        "title": "מה לעשות עם הזאב",
+        "artist": "Alma Gov",
+        "release_date": "2023-05-12"
+      },
+      {
+        "CardNumber": "00291",
+        "Spotify": "4RyMByXc5HfKc3b8wqwOso",
+        "title": "אהבה חולה",
+        "artist": "פאר טסי",
+        "release_date": "2022-11-10"
+      },
+      {
+        "CardNumber": "00290",
+        "Spotify": "4DKH1iLhp007TVLURYtmeC",
+        "title": "מה יהיה מחר",
+        "artist": "פאר טסי",
+        "release_date": "2024-05-26"
+      },
+      {
+        "CardNumber": "00289",
+        "Spotify": "6ettvQ2WI3nHAG9HeH3kYh",
+        "title": "אנשי הגשם",
+        "artist": "Orna & Moshe Datz",
+        "release_date": "1994-01-10"
+      },
+      {
+        "CardNumber": "00288",
+        "Spotify": "5t4ZZMHoLNgLlf32E109RP",
+        "title": "יום מעונן",
+        "artist": "Hi Five",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00287",
+        "Spotify": "1Po1x9y7SCwmLfiXIfBSvC",
+        "title": "מתנות קטנות",
+        "artist": "Rami Kleinstein",
+        "release_date": "2014"
+      },
+      {
+        "CardNumber": "00286",
+        "Spotify": "7CatCiW8BrIXSDw7JS5ICg",
+        "title": "חי",
+        "artist": "Ofra Haza",
+        "release_date": "1983-03-01"
+      },
+      {
+        "CardNumber": "00285",
+        "Spotify": "3JKmuy1QHelqkxrnPhROxC",
+        "title": "עשיתי",
+        "artist": "Jimbo J",
+        "release_date": "2017-06-05"
+      },
+      {
+        "CardNumber": "00284",
+        "Spotify": "68DQgjdbRjLq3a97nQEam1",
+        "title": "רוני",
+        "artist": "Gazoz",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00283",
+        "Spotify": "3scEZ2JrbtrqfUvgHrPnSt",
+        "title": "אפס מאמץ",
+        "artist": "Static & Ben El, Netta",
+        "release_date": "2021-06-30"
+      },
+      {
+        "CardNumber": "00282",
+        "Spotify": "2dqnv5Z2g28hlbF06lWlOO",
+        "title": "היה נחמד",
+        "artist": "Yuval Gold",
+        "release_date": "2025-02-06"
+      },
+      {
+        "CardNumber": "00281",
+        "Spotify": "1T7TSRc6saBgcJmoalNVAu",
+        "title": "צליל מכוון",
+        "artist": "Tuned Tone, Itzhak Klepter, Shem-Tov Levy, Shlomo Ydov",
+        "release_date": "1979-01-01"
+      },
+      {
+        "CardNumber": "00280",
+        "Spotify": "0YSR0iVIHh4UfV18qd4GxU",
+        "title": "סיבה טובה",
+        "artist": "Arik Sinai",
+        "release_date": "1981-07-01"
+      },
+      {
+        "CardNumber": "00279",
+        "Spotify": "06PB01Msj1QthShnpvcUar",
+        "title": "אני וסימון ומואיז הקטן",
+        "artist": "Yossi Banai",
+        "release_date": "1979-01-01"
+      },
+      {
+        "CardNumber": "00278",
+        "Spotify": "23KiELGaEcQ77LR9cKd2Sh",
+        "title": "אהבת פועלי הבניין",
+        "artist": "Shlishiyat gesher hayarkon",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00277",
+        "Spotify": "4K1tIgGH3tAfWWB1xCNqLy",
+        "title": "אחלה חמודה",
+        "artist": "Beni Bashan, Boom Pam",
+        "release_date": "2010-09-13"
+      },
+      {
+        "CardNumber": "00276",
+        "Spotify": "6ZjlDyt3vq4PP9bV24Z3fW",
+        "title": "עודני ילד",
+        "artist": "Hakol Over Habibi",
+        "release_date": "2020-02-17"
+      },
+      {
+        "CardNumber": "00275",
+        "Spotify": "0IakCcCMKc03TvTmsfk8zL",
+        "title": "האורח",
+        "artist": "Hakol Over Habibi",
+        "release_date": "1984-01-01"
+      },
+      {
+        "CardNumber": "00274",
+        "Spotify": "3wfUX6BrG5z4WDJpowBztb",
+        "title": "רציתי שתדע",
+        "artist": "Uzi Hitman",
+        "release_date": "2019-10-27"
+      },
+      {
+        "CardNumber": "00273",
+        "Spotify": "1ZY43CYjtadBvPSWO0ohbk",
+        "title": "בלדה לנאיבית",
+        "artist": "Yael Levi",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00272",
+        "Spotify": "5WCuVRAW1WLYZGI0LAMKnO",
+        "title": "אור",
+        "artist": "Shoshana Damari",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00271",
+        "Spotify": "2kFigDb0zeSkZlXzxDRNp0",
+        "title": "תם ולא נשלם",
+        "artist": "Elai Botner and Yaldei Hachutz, Elai Botner",
+        "release_date": "2013"
+      },
+      {
+        "CardNumber": "00270",
+        "Spotify": "2kM3mUQGKfY0dSOdg2C4Yq",
+        "title": "תן לשים ת'ראש על דיונה",
+        "artist": "Naftali Alter, HaGashash HaHiver",
+        "release_date": "1976-01-01"
+      },
+      {
+        "CardNumber": "00269",
+        "Spotify": "5LcJmCO4h3UPAOIuI1FbVX",
+        "title": "תמיד עולה המנגינה",
+        "artist": "Lehakat Heil Ha'avir",
+        "release_date": "1975-01-01"
+      },
+      {
+        "CardNumber": "00268",
+        "Spotify": "3Au0H4VhjcXZ5HGOHo8Nc3",
+        "title": "רונדלים",
+        "artist": "Static",
+        "release_date": "2023-02-22"
+      },
+      {
+        "CardNumber": "00267",
+        "Spotify": "3efgeyuxkQlUjocVEomWcU",
+        "title": "אף אחד לא בא לי",
+        "artist": "Karolina",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00266",
+        "Spotify": "4nMxpuGZwC3u3yOECONK76",
+        "title": "לתת ולקחת",
+        "artist": "Shlomo Artzi, Dudu Tassa",
+        "release_date": "2012"
+      },
+      {
+        "CardNumber": "00265",
+        "Spotify": "6HjAwBTrEMjPhAximoGzJc",
+        "title": "ציפור מדבר",
+        "artist": "Ethnix",
+        "release_date": "1990-01-01"
+      },
+      {
+        "CardNumber": "00264",
+        "Spotify": "348rUXIKEw4DYw7R0oIYNu",
+        "title": "כל השבוע מרגיש כמו שבת",
+        "artist": "Boaz Banai",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00263",
+        "Spotify": "3JiGneAiwjQ1yuYvW1jUuA",
+        "title": "שלוש חברות",
+        "artist": "Adi Himelbloy, Shira Vilenski, Don Lenny Gabai",
+        "release_date": "2006-12-01"
+      },
+      {
+        "CardNumber": "00262",
+        "Spotify": "3mvVb3dFiHyXG86N3gVYja",
+        "title": "כמו סינדרלה",
+        "artist": "Sarit Hadad",
+        "release_date": "1999-01-21"
+      },
+      {
+        "CardNumber": "00261",
+        "Spotify": "21TQjzNCKzlnYbQ2vsyw4P",
+        "title": "כל השבוע לך",
+        "artist": "The High Windows",
+        "release_date": "1967-04-01"
+      },
+      {
+        "CardNumber": "00260",
+        "Spotify": "61Ozkao9beGZYBHsHEHcYe",
+        "title": "שיר אהבה בדואי",
+        "artist": "David Broza, Yehonatan Geffen",
+        "release_date": "2019-05-29"
+      },
+      {
+        "CardNumber": "00259",
+        "Spotify": "1sS99wFHRPu3HxkmU4vpiZ",
+        "title": "לא נורמלי",
+        "artist": "E-Z, עידו בן דב, Zooki",
+        "release_date": "2013-05-01"
+      },
+      {
+        "CardNumber": "00258",
+        "Spotify": "3AusbfBVvwjSr9Mc5ddMbD",
+        "title": "רוחות הצפון",
+        "artist": "Ehud Banai",
+        "release_date": "2015-07-12"
+      },
+      {
+        "CardNumber": "00257",
+        "Spotify": "5A3bEckI7AjWTguGqZOzUm",
+        "title": "פנתרה",
+        "artist": "Noa Kirel",
+        "release_date": "2022-08-11"
+      },
+      {
+        "CardNumber": "00256",
+        "Spotify": "1a4NIJGblE2czG34gcGmJO",
+        "title": "פרפרים",
+        "artist": "Uri Banai",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00255",
+        "Spotify": "500GwsM2SobavijzAoZjxl",
+        "title": "שיר של יום חולין",
+        "artist": "Ilanit",
+        "release_date": "2009-09-01"
+      },
+      {
+        "CardNumber": "00254",
+        "Spotify": "16HcSqHWoJn7Be4T2MOCZ4",
+        "title": "גן עדן של משוגעים",
+        "artist": "ששון איפרם שאולוב",
+        "release_date": "2023-12-21"
+      },
+      {
+        "CardNumber": "00253",
+        "Spotify": "42jtELiUhOQ9hiWjPyV0ih",
+        "title": "לא לפנות אליי",
+        "artist": "Nasrin Kadri",
+        "release_date": "2025-01-07"
+      },
+      {
+        "CardNumber": "00252",
+        "Spotify": "4ZDWwAy3XQfWjyNfIGq3CF",
+        "title": "שוב לא שקט",
+        "artist": "Rockfour",
+        "release_date": "1991-09-01"
+      },
+      {
+        "CardNumber": "00251",
+        "Spotify": "201btQ2Q0QqOqKuIHy2LWv",
+        "title": "משהו חדש מתחיל",
+        "artist": "Danny Robas",
+        "release_date": "2008-04-15"
+      },
+      {
+        "CardNumber": "00250",
+        "Spotify": "3LJ9DTfTlqUjb5U9vsqaEZ",
+        "title": "קשה לי",
+        "artist": "Avi Peretz",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00249",
+        "Spotify": "3ebNscPWQkFlMaOB2DlOqF",
+        "title": "מסע ומתן",
+        "artist": "Mosh Ben Ari",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00248",
+        "Spotify": "5PpVy99qqeeWxq9twQGoyH",
+        "title": "יום יבוא",
+        "artist": "Uzi Fux, Ruthi Navon, Dudu Zar, Erela Bar Lev, Rafi Ginai, Yael Stern, Avaraham Perera",
+        "release_date": "1972-01-01"
+      },
+      {
+        "CardNumber": "00247",
+        "Spotify": "34KzX8fwFPLchmOvYBDap0",
+        "title": "אין אותי",
+        "artist": "Osher Cohen, Noa Kirel",
+        "release_date": "2024-07-21"
+      },
+      {
+        "CardNumber": "00246",
+        "Spotify": "6uWUsqSzbYxGhRJHNI7xPE",
+        "title": "סן דייגו",
+        "artist": "Elisha Banai",
+        "release_date": "2012-02-01"
+      },
+      {
+        "CardNumber": "00245",
+        "Spotify": "7JB4mboAYxW7PVUlPKy5WL",
+        "title": "רק בישראל",
+        "artist": "Lehakat Heyl Hayam",
+        "release_date": "1968-01-01"
+      },
+      {
+        "CardNumber": "00244",
+        "Spotify": "4McgrQq4cgdEX4Ohvkc843",
+        "title": "הזמן עושה את שלו",
+        "artist": "Avraham Tal",
+        "release_date": "2008-09-18"
+      },
+      {
+        "CardNumber": "00243",
+        "Spotify": "24j34slfjWviF2fExByXHu",
+        "title": "לונדון",
+        "artist": "Chava Alberstein",
+        "release_date": "1989-08-01"
+      },
+      {
+        "CardNumber": "00242",
+        "Spotify": "0rXOX9yyDrbDRXVrBtb3Qa",
+        "title": "יום שישי",
+        "artist": "Hadag Nahash, Izhak Klepter",
+        "release_date": "2013-03-20"
+      },
+      {
+        "CardNumber": "00241",
+        "Spotify": "2tDSNTrNlMw34wWFAwH9Kc",
+        "title": "לא מחכה יותר לדוור",
+        "artist": "Iggy Waxman",
+        "release_date": "1997-01-01"
+      },
+      {
+        "CardNumber": "00240",
+        "Spotify": "6TKk1FHRs8IpfoDHgtqSQI",
+        "title": "מי ידע שכך יהיה",
+        "artist": "Boaz Sharabi",
+        "release_date": "2013-04-01"
+      },
+      {
+        "CardNumber": "00239",
+        "Spotify": "6NMXueYXvUAKmDYISUehwy",
+        "title": "סיגפו",
+        "artist": "Beit Habubot, אמיר אטיאס",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00238",
+        "Spotify": "4znsr6bI2rBaQNPYuO2aLK",
+        "title": "לקחת את ידי בידך",
+        "artist": "Yehudit Ravitz",
+        "release_date": "1979-09-01"
+      },
+      {
+        "CardNumber": "00237",
+        "Spotify": "05Hz5L84SJL5QHXLE1wx7A",
+        "title": "שיר השיירה",
+        "artist": "Arik Einstein, Miki Gavrielov",
+        "release_date": "1987-11-01"
+      },
+      {
+        "CardNumber": "00236",
+        "Spotify": "6Rc5boKJDErHgjO52ht0qB",
+        "title": "ימים יפים",
+        "artist": "Avihu Pinhasov Rhythm Club",
+        "release_date": "2017-07-18"
+      },
+      {
+        "CardNumber": "00235",
+        "Spotify": "3QFP66Buz8yw4pSpg8Jwob",
+        "title": "גיבור גדול",
+        "artist": "Si Himan",
+        "release_date": "1987-09-01"
+      },
+      {
+        "CardNumber": "00234",
+        "Spotify": "7lZ7N6NtmnpfiPSsLSHZc8",
+        "title": "נצמדנו",
+        "artist": "Shlomo Artzi",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00233",
+        "Spotify": "4yV0ZbsvYaKPMoa6VIgnWZ",
+        "title": "גשם",
+        "artist": "Meir Banai",
+        "release_date": "1987-12-01"
+      },
+      {
+        "CardNumber": "00232",
+        "Spotify": "7MAzRpjDMz2lXud79eIBpD",
+        "title": "קצת אהבה לא תזיק",
+        "artist": "Alon Eder",
+        "release_date": "2014-09-09"
+      },
+      {
+        "CardNumber": "00231",
+        "Spotify": "1v2rGTdrdO7rvYelyJp1SS",
+        "title": "בשבילה אתה מלך העולם",
+        "artist": "Shlomo Artzi",
+        "release_date": "2000"
+      },
+      {
+        "CardNumber": "00230",
+        "Spotify": "0CHCDOv64645Y1R4Zqvu4b",
+        "title": "יש לי חג",
+        "artist": "HaGashash HaHiver",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00229",
+        "Spotify": "0I6rh1Fz1zmJZARsxyo7v6",
+        "title": "צבעים",
+        "artist": "Gil Vain, Ron Buhnik",
+        "release_date": "2019-10-22"
+      },
+      {
+        "CardNumber": "00228",
+        "Spotify": "4Np19DerN4g7dvZsL7R8KC",
+        "title": "אני אשיר לך שיר",
+        "artist": "Aric Lavie",
+        "release_date": "1978-06-03"
+      },
+      {
+        "CardNumber": "00227",
+        "Spotify": "3HErSD0hE3PAqOwKBPFh4k",
+        "title": "אחכה לך",
+        "artist": "The Pure Souls",
+        "release_date": "1974-01-01"
+      },
+      {
+        "CardNumber": "00226",
+        "Spotify": "2pC1T4ojYpsBXsx1hAuRzy",
+        "title": "מה תאמרי",
+        "artist": "Izhar Ashdot",
+        "release_date": "1992-03-01"
+      },
+      {
+        "CardNumber": "00225",
+        "Spotify": "1yaOECQyHIyuLScFJiieor",
+        "title": "בואי נעזוב",
+        "artist": "Elai Botner, Ran Danker",
+        "release_date": "2007"
+      },
+      {
+        "CardNumber": "00224",
+        "Spotify": "578bVOsA4o5gNKsTXTNw28",
+        "title": "יום הולדת",
+        "artist": "Eden Band",
+        "release_date": "1999"
+      },
+      {
+        "CardNumber": "00223",
+        "Spotify": "2pu4aAoPyBolPCRYHtB6JG",
+        "title": "שש עשרה מלאו לנער",
+        "artist": "Gabi Shoshan",
+        "release_date": "2020-02-09"
+      },
+      {
+        "CardNumber": "00222",
+        "Spotify": "3pQyEDHwgxiK3z0j2jIZKW",
+        "title": "דברי איתי יותר",
+        "artist": "Nathan Goshen",
+        "release_date": "2015-01-01"
+      },
+      {
+        "CardNumber": "00221",
+        "Spotify": "2Zkp6NoZiY0TJ4if2GV0KM",
+        "title": "ככה וככה",
+        "artist": "Shalom Hanoch",
+        "release_date": "1991-03-01"
+      },
+      {
+        "CardNumber": "00220",
+        "Spotify": "4XvOVo7Sxsz2eNIy8y1AG7",
+        "title": "Sivan",
+        "artist": "Igal Bashan, Lehakat Brosh",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00219",
+        "Spotify": "4xT26VW5ForxSDbMQP8T8v",
+        "title": "אתה תותח",
+        "artist": "Sarit Hadad",
+        "release_date": "2002-03-01"
+      },
+      {
+        "CardNumber": "00218",
+        "Spotify": "5f0Zv5UQhxrvIh9bFZjOvr",
+        "title": "בלבלי אותו",
+        "artist": "Kobi Peretz",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00217",
+        "Spotify": "62fIKAt8RWWaNge2162yHh",
+        "title": "הוא (בואי כלה)",
+        "artist": "Noa, Gil Dor",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00216",
+        "Spotify": "3JYl8RFEzfCLMDWwJuCxNo",
+        "title": "מה שעובר עלי",
+        "artist": "Eifo HaYeled",
+        "release_date": "1993-01-01"
+      },
+      {
+        "CardNumber": "00215",
+        "Spotify": "3gbGCWT9fx7178ISZBvDUr",
+        "title": "שיר אהבה אינדיאני (מיגל)",
+        "artist": "Alma Zohar",
+        "release_date": "2008"
+      },
+      {
+        "CardNumber": "00214",
+        "Spotify": "4qSauJzB88rkLHr7pt1Bl7",
+        "title": "ילד של אבא",
+        "artist": "Mooki",
+        "release_date": "2014-02-07"
+      },
+      {
+        "CardNumber": "00213",
+        "Spotify": "77KWLGuKJTk5OtE0mmQ7KT",
+        "title": "רבות הדרכים",
+        "artist": "Daniel Salomon",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00212",
+        "Spotify": "4WJtNwFxid2a4F1wvbj2LQ",
+        "title": "יהודה יהודה",
+        "artist": "Hasmachot",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00211",
+        "Spotify": "5RuB1T9EofYspUdfbB7HBA",
+        "title": "גאולה",
+        "artist": "Hemi Rudner",
+        "release_date": "2000-01-01"
+      },
+      {
+        "CardNumber": "00210",
+        "Spotify": "5EDbxuj2fcVqHK1k1Xhjzr",
+        "title": "אני אצבע את השלכת בירוק",
+        "artist": "Yoram Arbel",
+        "release_date": "1969-10-01"
+      },
+      {
+        "CardNumber": "00209",
+        "Spotify": "2mfeCfef9TEDZE3qjvSFaE",
+        "title": "חייב למות עליי",
+        "artist": "חמסה",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00208",
+        "Spotify": "1Pgu858j6xB8mkKbQjODom",
+        "title": "מה שאת אוהבת",
+        "artist": "Gali Atari",
+        "release_date": "2003-09-10"
+      },
+      {
+        "CardNumber": "00207",
+        "Spotify": "5chx57IOPfJ4nzhdiEJyI2",
+        "title": "הרקדן האוטומטי",
+        "artist": "Svika Pick",
+        "release_date": "1999-08-01"
+      },
+      {
+        "CardNumber": "00206",
+        "Spotify": "78Wu7Y2s6agIhfgoNyAeGg",
+        "title": "רסיסים",
+        "artist": "רביב כנר",
+        "release_date": "2022-04-10"
+      },
+      {
+        "CardNumber": "00205",
+        "Spotify": "7daiGUS9YXOOHFg8PzN2eh",
+        "title": "מיליארד טועים",
+        "artist": "Aviv Geffen",
+        "release_date": "1992-05-28"
+      },
+      {
+        "CardNumber": "00204",
+        "Spotify": "2yBhkks90HqXOKhNCQimYW",
+        "title": "האם להיות בך מאוהב",
+        "artist": "Aviv Geffen",
+        "release_date": "1994-01-04"
+      },
+      {
+        "CardNumber": "00203",
+        "Spotify": "1peEkDKW4oCV3qzpuIiN3H",
+        "title": "מועבט",
+        "artist": "Eden Ben Zaken, Itay Galo",
+        "release_date": "2021-04-23"
+      },
+      {
+        "CardNumber": "00202",
+        "Spotify": "4avMHkfO03hfONwfKftyGr",
+        "title": "רומיאו",
+        "artist": "Yehudit Tamir",
+        "release_date": "1991-05-01"
+      },
+      {
+        "CardNumber": "00201",
+        "Spotify": "046I7gtYpYJ3gvMUrTQnrq",
+        "title": "איזה יום היה לי סמואל",
+        "artist": "Hasmachot",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00200",
+        "Spotify": "54A4aB7hghCDuIflySLhuQ",
+        "title": "חסקה",
+        "artist": "Lehakat Heyl Hayam",
+        "release_date": "1968-01-01"
+      },
+      {
+        "CardNumber": "00199",
+        "Spotify": "2FhOv6KWD0HrHRbtd3FTYi",
+        "title": "Shula",
+        "artist": "Atraf",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00198",
+        "Spotify": "6V9doxBqWIdHujB55uxOiL",
+        "title": "שבט אחים ואחיות",
+        "artist": "שבט אחים ואחיות",
+        "release_date": "2019-04-18"
+      },
+      {
+        "CardNumber": "00197",
+        "Spotify": "0V0XTJKyq8reOPsuCFsVup",
+        "title": "מבול",
+        "artist": "Keren Peles",
+        "release_date": "2008-02-04"
+      },
+      {
+        "CardNumber": "00196",
+        "Spotify": "2PpTUW96jjJYr8ib8RUnUu",
+        "title": "י'א 2",
+        "artist": "Tuna",
+        "release_date": "2017-09-07"
+      },
+      {
+        "CardNumber": "00195",
+        "Spotify": "3dTOO0ebNTy82CELpxXU2T",
+        "title": "מקום לצידך",
+        "artist": "Dor Daniel",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00194",
+        "Spotify": "4Ow0gCGxYfOcyiCuZOt9mp",
+        "title": "שבוע טוב",
+        "artist": "Avraham Tal",
+        "release_date": "2020-04-15"
+      },
+      {
+        "CardNumber": "00193",
+        "Spotify": "691Tx41oL0SPUv0kUAVmmn",
+        "title": "מישהו איתי כאן",
+        "artist": "בניה ברבי",
+        "release_date": "2019-05-23"
+      },
+      {
+        "CardNumber": "00192",
+        "Spotify": "3esdtJNbspJtPffrdRSeqA",
+        "title": "תתקעו בחצוצרה",
+        "artist": "Shabak Samech",
+        "release_date": "1997-08-01"
+      },
+      {
+        "CardNumber": "00191",
+        "Spotify": "6XUbLIdcxlCuQzKX6UUWuq",
+        "title": "באושר ובעוני",
+        "artist": "Shay Amar",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00190",
+        "Spotify": "5tsfVzf0P0nKigvmA7WIvK",
+        "title": "אשליות",
+        "artist": "נסים סרוסי",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00189",
+        "Spotify": "1F9Ye3UgMgcRcsuOYFmI2E",
+        "title": "הילדה הכי יפה בגן",
+        "artist": "Yehudit Ravitz",
+        "release_date": "1978-11-01"
+      },
+      {
+        "CardNumber": "00188",
+        "Spotify": "0yoIIjvXx2We56XSd0m0gM",
+        "title": "נערה חשמלית",
+        "artist": "Dana Frider",
+        "release_date": "2007-12-01"
+      },
+      {
+        "CardNumber": "00187",
+        "Spotify": "6IaeEPNhjgvtuPvzbAcJr3",
+        "title": "בניתי עלייך",
+        "artist": "Omer Adam",
+        "release_date": "2012-01-30"
+      },
+      {
+        "CardNumber": "00186",
+        "Spotify": "5mw0CuWqR4bBZ7OFFSCTMP",
+        "title": "עונות",
+        "artist": "Aviv Geffen",
+        "release_date": "1996-01-05"
+      },
+      {
+        "CardNumber": "00185",
+        "Spotify": "5kKme9GCKnjKWC16Lb8cER",
+        "title": "עוד סיפור אחד של אהבה",
+        "artist": "Shimi Tavori",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00184",
+        "Spotify": "1QHK3rRp4PB3HhkXASTlNO",
+        "title": "באת לי פתאום",
+        "artist": "Keren Peles, Roni Alter",
+        "release_date": "2020-11-01"
+      },
+      {
+        "CardNumber": "00183",
+        "Spotify": "4uhnhRlZ1Jq5zN7VOxqHeW",
+        "title": "הכי ישראלי",
+        "artist": "Hatikva 6",
+        "release_date": "2015-01-14"
+      },
+      {
+        "CardNumber": "00182",
+        "Spotify": "6G9nY0aJNcQ8BHJjgRCgZ5",
+        "title": "יצאנו לרקוד",
+        "artist": "HaDorbanim",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00181",
+        "Spotify": "52n4gF126eIllrGuc9Zus6",
+        "title": "לשוב הביתה",
+        "artist": "Ishay Ribo",
+        "release_date": "2018-02-23"
+      },
+      {
+        "CardNumber": "00180",
+        "Spotify": "75jbU4EOtaWvYGpgF7fj1n",
+        "title": "מה את מרגישה",
+        "artist": "Idan Amedi",
+        "release_date": "2019-01-22"
+      },
+      {
+        "CardNumber": "00179",
+        "Spotify": "2eZ8hAr63IdY4g0SjXX1Vo",
+        "title": "הבלדה למחלקה להלבשה תחתונה",
+        "artist": "Mercedes Band",
+        "release_date": "2009-03-31"
+      },
+      {
+        "CardNumber": "00178",
+        "Spotify": "3mIZQJWFdwTDCXcA5H8w2N",
+        "title": "השיר הזה",
+        "artist": "Sharona Pick, Daniella Pick",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00177",
+        "Spotify": "3FihyZ7YA7vrNiSUfWww10",
+        "title": "באמפרים",
+        "artist": "סטילה, Ness",
+        "release_date": "2024-05-28"
+      },
+      {
+        "CardNumber": "00176",
+        "Spotify": "7cIuyxHBQ8vrE9bUXoV3I9",
+        "title": "אין לי רגע דל",
+        "artist": "Rivka Michaeli",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00175",
+        "Spotify": "1ULIV1CKNqeTc7YENZrdIP",
+        "title": "זה היה ביתי",
+        "artist": "Menny Begger",
+        "release_date": "1981-01-01"
+      },
+      {
+        "CardNumber": "00174",
+        "Spotify": "1fGMTdilaUFQ0RUxlxrkOd",
+        "title": "סלסולים",
+        "artist": "Static & Ben El, Static, Ben El Tavori",
+        "release_date": "2016-06-14"
+      },
+      {
+        "CardNumber": "00173",
+        "Spotify": "5Fiyz2LF09CWJMF48W3M0y",
+        "title": "גלשן",
+        "artist": "Danny Sanderson",
+        "release_date": "1982-01-01"
+      },
+      {
+        "CardNumber": "00172",
+        "Spotify": "4gJcV0Ul0AksQPlrAqHS0Y",
+        "title": "יש לי חברה",
+        "artist": "Teapacks",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00171",
+        "Spotify": "4pQo5w8RjtfTRZB2QSxs8e",
+        "title": "מלכת השושנים",
+        "artist": "Eden Ben Zaken",
+        "release_date": "2015"
+      },
+      {
+        "CardNumber": "00170",
+        "Spotify": "3RRmCLgJ7g0vhTMrpLCGNM",
+        "title": "אולי נדבר",
+        "artist": "Nadav Guedj",
+        "release_date": "2017-01-01"
+      },
+      {
+        "CardNumber": "00169",
+        "Spotify": "7jbmHNja5Ifm14GCKa3CFO",
+        "title": "יאללה לך הביתה מוטי",
+        "artist": "Sarit Hadad",
+        "release_date": "2001-04-03"
+      },
+      {
+        "CardNumber": "00168",
+        "Spotify": "7vTRkExoufNELbEFqLi9x4",
+        "title": "זה הילד שבך",
+        "artist": "Yehuda Poliker",
+        "release_date": "1995-12-01"
+      },
+      {
+        "CardNumber": "00167",
+        "Spotify": "5Ow4BJa1CvGTYQflgsxkE2",
+        "title": "אור",
+        "artist": "Eliad",
+        "release_date": "2016-03-14"
+      },
+      {
+        "CardNumber": "00166",
+        "Spotify": "4McnwZSWIUsFW6XSheLTuz",
+        "title": "סוף עונת התפוזים",
+        "artist": "Tamuz",
+        "release_date": "1976-01-01"
+      },
+      {
+        "CardNumber": "00165",
+        "Spotify": "2JgH4aj4Afie8gZa4T6vmG",
+        "title": "אהבה קצרה",
+        "artist": "Meir Banai",
+        "release_date": "1992-03-01"
+      },
+      {
+        "CardNumber": "00164",
+        "Spotify": "2kmTNBAdOG7TQE3MhNeeZr",
+        "title": "פחות אבל כואב",
+        "artist": "Yehuda Poliker",
+        "release_date": "1990-12-01"
+      },
+      {
+        "CardNumber": "00163",
+        "Spotify": "64ytSB0mJV5vhcZA3yS54Q",
+        "title": "תותים",
+        "artist": "Ethnix",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00162",
+        "Spotify": "6JjUUrvkIkwenuaI3RHu67",
+        "title": "אני חוזר הביתה",
+        "artist": "Doron Mazar",
+        "release_date": "2012-02-24"
+      },
+      {
+        "CardNumber": "00161",
+        "Spotify": "57SljNRET3a0stk5gkhavJ",
+        "title": "יחד",
+        "artist": "Halav Ve'Dvash",
+        "release_date": "2017-03-21"
+      },
+      {
+        "CardNumber": "00160",
+        "Spotify": "3DczK9W32LbRORCP80kz6o",
+        "title": "טוליק",
+        "artist": "Oshik Levy",
+        "release_date": "1980-01-01"
+      },
+      {
+        "CardNumber": "00159",
+        "Spotify": "6Jc05V2tP7BXlE3a1L81BT",
+        "title": "דרך הכורכר",
+        "artist": "Arik Sinai",
+        "release_date": "1980-04-01"
+      },
+      {
+        "CardNumber": "00158",
+        "Spotify": "4BNpJrbRTv51XWlPCLh7pC",
+        "title": "על הרצפה",
+        "artist": "Monica Sex",
+        "release_date": "1995-02-01"
+      },
+      {
+        "CardNumber": "00157",
+        "Spotify": "4DEqXFBuMKWRSHCKaxgAv7",
+        "title": "עכשיו טוב",
+        "artist": "Gilad Segev",
+        "release_date": "2004-10-15"
+      },
+      {
+        "CardNumber": "00156",
+        "Spotify": "1jCAwxwhHIrtWzGeF6WfJ7",
+        "title": "פחד אלוהים",
+        "artist": "Kfir Tsafrir",
+        "release_date": "2023-02-13"
+      },
+      {
+        "CardNumber": "00155",
+        "Spotify": "72l6Gsn2SLQV0gioCgud1V",
+        "title": "רואים רחוק רואים שקוף",
+        "artist": "Shmulik Kraus",
+        "release_date": "1982-01-01"
+      },
+      {
+        "CardNumber": "00154",
+        "Spotify": "68eBVkhZPzjkQ3hnG401Bl",
+        "title": "רוקד לקול הבנות",
+        "artist": "Efraim Shamir",
+        "release_date": "1983-01-01"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "44CnbJqmDm3ou9bOL6xUFM",
+        "title": "מה שהלב בחר",
+        "artist": "Kobi Aflalo",
+        "release_date": "2005-02-09"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "2FMwWEcq2uWnc6ILvodlta",
+        "title": "מעליות",
+        "artist": "Dudu Tassa, Roni Alter",
+        "release_date": "2006-07-05"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "6aYvWy72gVdkip3Yco9osi",
+        "title": "חתולים",
+        "artist": "Jimbo J, Ravid Plotnik",
+        "release_date": "2021-05-27"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "4cD66ZifK0A1taOJIoHBin",
+        "title": "שני משוגעים",
+        "artist": "Omer Adam",
+        "release_date": "2018-01-15"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "5jvU0fxQllEi4IOhBhuU35",
+        "title": "תן לי זמן",
+        "artist": "נועם קלינשטיין",
+        "release_date": "2025-02-06"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "6Xg2Ir8Go9giAzRxW4Jaze",
+        "title": "גיבורי על",
+        "artist": "Hatikva 6",
+        "release_date": "2024-02-19"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "0gttE084FoiMUvgmmowsd9",
+        "title": "אני חולם על נעמי - Original",
+        "artist": "Hedva Amrani",
+        "release_date": "2012-12-30"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "3wWhgDOlW4HVSqaCc6jGT0",
+        "title": "לו יהי",
+        "artist": "Chava Alberstein",
+        "release_date": "1973-01-01"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "0FLFEa0I3hiNAEomZrVkW4",
+        "title": "השקט שנשאר",
+        "artist": "Shiri Maimon",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "5v7Ay1i5C1qjBUbLI8AsiO",
+        "title": "שיר השכונה",
+        "artist": "The Roosters",
+        "release_date": "1963-10-01"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "3jsG1Pnk6mP2mbHl98L0Yi",
+        "title": "ניסים",
+        "artist": "Ivri Lider",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "4tUUXGFvMnbwNqr6VFYRS7",
+        "title": "שיר אהבה פשוט",
+        "artist": "Aya Korem",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "3aOi9yoYkQxCZgL0ztEA1k",
+        "title": "אדוני",
+        "artist": "Roni Duani",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "0LUGBbUeMaIc7z2ZQAIp9j",
+        "title": "ציירי לך שפם",
+        "artist": "Noar Shulaim",
+        "release_date": "1990-01-01"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "1dfxW50qMClI8brrVWMqzG",
+        "title": "תמיד יחכו לך",
+        "artist": "Lea Shabat",
+        "release_date": "1997-05-18"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "7rdPtMBZmQpSBraOq8ppuI",
+        "title": "למה את?",
+        "artist": "ילד.",
+        "release_date": "2024-04-14"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "0vuEfVj3R5l6KVl12n8PKK",
+        "title": "ריקדי",
+        "artist": "ישי לוי",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "5BnZHxXDZ87148wAIo6pgC",
+        "title": "אם תלך",
+        "artist": "Idan Raichel",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "2eq2T5nu5NBvHYKzDatmt3",
+        "title": "ככה זה (לאהוב אותך)",
+        "artist": "Berry Sakharof",
+        "release_date": "1998-12-03"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "2gwt8KRW2OpN6GDnYSDg7l",
+        "title": "כבר עכשיו - מתוך \"הפוך\"",
+        "artist": "Yermi Kaplan",
+        "release_date": "1995-09-01"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "5dlEgrCOjy9FTcQM1vrrh5",
+        "title": "עד מחר",
+        "artist": "Eviatar Banai",
+        "release_date": "2009-07-09"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "1FmUxy2igihTMGw3G7XM1E",
+        "title": "תן",
+        "artist": "רוני דלומי",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "6M5vTjhUZCq4gS1IMnTdH5",
+        "title": "אדון שוקו",
+        "artist": "Arik Einstein, Yoni Rechter",
+        "release_date": "1989-12-01"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "35jJYOQXBRIuh6IZafuo6z",
+        "title": "אני לא רוקד כשעצוב",
+        "artist": "The Friends of Natasha",
+        "release_date": "1994-09-26"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "0hgtyNXiugG2XWWjmm7JG4",
+        "title": "היא יודעת",
+        "artist": "Ninet Tayeb",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "22BOvWJlyggv3cHSas2RM1",
+        "title": "חלומות",
+        "artist": "Ruchama Raz",
+        "release_date": "1979"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "61aQkXEhkbqMiNm4lISEYv",
+        "title": "מוכרת לי מפעם",
+        "artist": "Din Din Aviv",
+        "release_date": "2006-01-01"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "3FuJ1e5yAS2n3x6FvPGZ3I",
+        "title": "זן נדיר - Remastered",
+        "artist": "Korin Allal",
+        "release_date": "1992-05-01"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "0FjqOitsnu29GVp8yuzeLq",
+        "title": "הבלדה על חדוה ושלומיק",
+        "artist": "Miri Aloni",
+        "release_date": "2008-05-15"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "5sDmKgymW1DCuatEZV2z15",
+        "title": "החיים שלנו תותים",
+        "artist": "חנן בן ארי",
+        "release_date": "2016-02-03"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "1BOOu08pnZt5XAaPJojhgo",
+        "title": "בלעדייך",
+        "artist": "Gidi Gov",
+        "release_date": "1978-06-01"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "5NLXBAQK3cw8MxHlUZ47IF",
+        "title": "Ihiye Beseder",
+        "artist": "Café Shahor Hazak, Ravid Plotnik",
+        "release_date": "2015-10-11"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "406GxF9gnDjRwsy5wqLpOh",
+        "title": "תל אביב זה אני ואת",
+        "artist": "Amir Ve Ben, Jane Bordeaux, Amir Sade",
+        "release_date": "2021-05-31"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "01Mto5l1IlVrFLnZPnarBL",
+        "title": "חשמל בכפות ידיך",
+        "artist": "Ruthi Navon",
+        "release_date": "1974-01-01"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "62SYSvz33LJfz6AemSSaqX",
+        "title": "משבר אמון",
+        "artist": "Danny Littany",
+        "release_date": "1978-03-01"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "3p28r5siIqR7TuNZyeS6Rh",
+        "title": "חלום של כל גבר",
+        "artist": "Subliminal, Gilad Vital",
+        "release_date": "2015"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "04yfprdwbPNibN8M6vE8NQ",
+        "title": "Hopa",
+        "artist": "Omer Adam",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "3O6lvNbXuFYBHz7pmrbBqX",
+        "title": "פמלה חלק 1",
+        "artist": "Boaz Sharabi",
+        "release_date": "2013-04-01"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "4wEFTT1fmFfsLY1K7Y40Cy",
+        "title": "עזבת ת'בית",
+        "artist": "Peled, Nastia Rod",
+        "release_date": "2023-02-27"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "1j8JPytXu6v7PWjq2ndANb",
+        "title": "שירו של צנחן",
+        "artist": "להקת פיקוד מרכז",
+        "release_date": "2012-11-01"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "3yyHRwblo5kk0fH9pfMP6M",
+        "title": "ביחד",
+        "artist": "Marina Maximilian, Guy Mentesh",
+        "release_date": "2021-08-23"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "6g84RaMubeO44LyTDghqUB",
+        "title": "נאדי באדי",
+        "artist": "שחר טבוך, Agam Buhbut",
+        "release_date": "2024-03-13"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "6bmFicZxvhWn3wYScYhKfy",
+        "title": "יונתן סע הביתה",
+        "artist": "Oshik Levy",
+        "release_date": "1975-01-01"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "2iqvOr8XyhkExYjFoKWjXz",
+        "title": "כשאת בוכה את לא יפה",
+        "artist": "Arik Einstein",
+        "release_date": "2008-06-01"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "2LQZIDvQ9fVNASLu6yNi9Q",
+        "title": "חזקה מהרוח",
+        "artist": "Gali Atari",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "08S3ytnliGU6q1IfN90Ezh",
+        "title": "ילד השדה",
+        "artist": "Gideon Kapan",
+        "release_date": "2014-05-01"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "3Zcm1DH6YSlU9y0WAz8F3i",
+        "title": "אני רץ",
+        "artist": "Dudu Tassa",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "4BKuMUGuRZWRyn2ri3BlTh",
+        "title": "מריומה",
+        "artist": "Jeki Mekayten",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "5GYPBShQsC1cRbGv5vGR6K",
+        "title": "מחר",
+        "artist": "Lehakat HaNachal",
+        "release_date": "1964-01-01"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "6M41kHmvaXsDJALUQ5cnec",
+        "title": "נשקי אותי",
+        "artist": "Sivan Shavit",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "0dhTeU87tEbBwplgPe2NVd",
+        "title": "רוב השעות",
+        "artist": "Idan Raichel",
+        "release_date": "2008-01-01"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "6dMsWeQ2vCXOroR5dL84Wf",
+        "title": "זה הכל בשבילך",
+        "artist": "Danny Sanderson, Mazi Cohen",
+        "release_date": "1990-12-01"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "5UTASY1feroQggKyga3HvI",
+        "title": "בור ועם הארץ",
+        "artist": "Ravid Plotnik, Tuna",
+        "release_date": "2013-05-12"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "4Z0I5eJf44BJWHMbTbx67B",
+        "title": "אותך",
+        "artist": "Ilana Avital",
+        "release_date": "1978-08-02"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "007zS9D5eVODpGqsEZhPXy",
+        "title": "עירומים",
+        "artist": "Shahar Even Tzur",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "7vn9SIc4NraLuIMzUeCK2o",
+        "title": "שרק תחייך",
+        "artist": "Yuval Dayan",
+        "release_date": "2020-08-24"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "6ayaPJ9EoOU2QYUizYVmGY",
+        "title": "בחולצת פסים",
+        "artist": "Ivri Lider",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "576xPFmqv6Rk2TENEkPh2X",
+        "title": "מי אוהב אותך יותר ממני?",
+        "artist": "Arkadi Duchin",
+        "release_date": "2004-01-01"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "1P6UlVYFHyLo102LDrLVBr",
+        "title": "מהרי נא",
+        "artist": "Ehud Banai",
+        "release_date": "1996-12-01"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "2wg5c9Q09bKqiM4TSKNxgl",
+        "title": "מוסיקה (מעלה מעלה)",
+        "artist": "Svika Pick",
+        "release_date": "1978-12-01"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "1pdOQHjJ8LaJpateMP9MMC",
+        "title": "החדר האינטימי שלי",
+        "artist": "Taarovet Eskot",
+        "release_date": "1991-01-01"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "57aqwB6tGV9XdxcvlEqPAn",
+        "title": "מתי נתנשק",
+        "artist": "Eviatar Banai",
+        "release_date": "1997-07-01"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "4C0beau7NVWpQnUQdGAQi2",
+        "title": "עוד יהיה לי",
+        "artist": "Margalit Tzan'ani",
+        "release_date": "1989-01-01"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "0ALzamKfboXFBErNK3qMyC",
+        "title": "כל הכבוד",
+        "artist": "Yehoram Gaon, The Brilliantines",
+        "release_date": "1973-07-01"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "2ZfNiKLdWS1HGovs70yFIB",
+        "title": "היינו עושים אהבה",
+        "artist": "Knesiyat Hasechel",
+        "release_date": "2007-03-11"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "74pfNNxGlwSyokwtqxHcDa",
+        "title": "שקיעות אדומות",
+        "artist": "Eden Hason",
+        "release_date": "2020-10-25"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "51ghqqIf8SixdZsPxGdhCT",
+        "title": "היא לא דומה",
+        "artist": "Arkadi Duchin",
+        "release_date": "2001-01-01"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "44a0iyAfqhRnL5IV0oMPEx",
+        "title": "מישהו פעם",
+        "artist": "Ivri Lider",
+        "release_date": "2012-01-01"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "350IXqajzWTMSpNT4dxhbU",
+        "title": "הולכת איתך",
+        "artist": "Narkis",
+        "release_date": "2021-05-10"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "10vgCNT548dyi85HoJqGWF",
+        "title": "כאן",
+        "artist": "Orna & Moshe Datz",
+        "release_date": "1994-01-10"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "3Wo2bJP3GrjSOdmegFtmVh",
+        "title": "ונצואלה",
+        "artist": "Green Onion",
+        "release_date": "1959-01-01"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "3rKq9QQzb28Klhwh1LK9nn",
+        "title": "אור גדול",
+        "artist": "Amir Dadon",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "0G8ooolx3x5DNkKkcZ19zp",
+        "title": "שוב היא כאן",
+        "artist": "Yoni Rechter",
+        "release_date": "1979-01-01"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "1E5fBKwn2qRqrCUxnqKzSs",
+        "title": "שביל הבריחה",
+        "artist": "Rita",
+        "release_date": "1986-01-01"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "7xpB1D0cHHVkoXNuzdhg8W",
+        "title": "לא תנצחו אותי",
+        "artist": "Yehoram Gaon",
+        "release_date": "1984-07-15"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "2aClpKyOQF2mQE5arIemZQ",
+        "title": "איזה עולם",
+        "artist": "Teapacks",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "67PF7VLcYEKKF82ziNf9Ur",
+        "title": "דובשנייה",
+        "artist": "שחר סאול, Agam Buhbut, NOROZ",
+        "release_date": "2022-01-19"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "0UYrRkIuPsLprlmpYa0EQA",
+        "title": "האמיני יום יבוא",
+        "artist": "Yaffa Yarkoni",
+        "release_date": "1998-01-03"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "282wgtQaJ0ElJrxiCoVv8n",
+        "title": "אחכה לך בשדות",
+        "artist": "Mashina",
+        "release_date": "1990-07-01"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "2n4xXxALUAkrwFVxkKos2v",
+        "title": "פרחים בקנה",
+        "artist": "יהודית שוורץ, להקת התותחנים",
+        "release_date": "2012-11-01"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "15ENJFQW6QUa4IyVI8FES0",
+        "title": "עולה עולה",
+        "artist": "Izhar Cohan",
+        "release_date": "1985-05-01"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "1ngnjDXlTLdzdQOCjjBbQm",
+        "title": "דדי דדון - מתוקה מהחיים",
+        "artist": "ארץ נהדרת",
+        "release_date": "2016-05-23"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "4JmmjsGmOED0sn0Le3r84u",
+        "title": "עולם משוגע",
+        "artist": "Tuna, Ravid Plotnik",
+        "release_date": "2015-08-06"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "4soE3IjXQtXXInOjHkauIw",
+        "title": "עוד נגיע",
+        "artist": "Yardena Arazi",
+        "release_date": "1984-01-01"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "4qqgGwBMczLVx1tCvOron9",
+        "title": "הלב",
+        "artist": "Maya Buskila",
+        "release_date": "2004-04-16"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "1dH0PtefI2rKwTLfXxZSyE",
+        "title": "היא לא יודעת מה עובר עליי",
+        "artist": "Shlomo Artzi",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "3AeSYOcsPR1a87YYTaGZl6",
+        "title": "אמצע הלילה בכפר",
+        "artist": "Harel Moyal",
+        "release_date": "2005-01-02"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "7jdvibTKMCbIP2B77ayD8Q",
+        "title": "עד המדבר",
+        "artist": "דיג'יי אונלי, טליסמאן, Omri Sabach",
+        "release_date": "2016-02-14"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "2z8Pw4rciTCjB1urO5oU0g",
+        "title": "יש לי חור בלב בצורה שלך",
+        "artist": "Girafot, אלמוג",
+        "release_date": "2019-11-11"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "2DTFbqvTWZKn3FPW5Sm0Jb",
+        "title": "בחברה להגנת הטבע",
+        "artist": "Ariel Zilber",
+        "release_date": "1983-01-01"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "2jdfJyoKHfeYfcWdGBy5Hf",
+        "title": "בא לשכונה בחור חדש",
+        "artist": "Alon Oleartchik",
+        "release_date": "1985-01-01"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "4Zj8BDuffWpOD3vauIKbL9",
+        "title": "את ואני",
+        "artist": "Shlomo Artzi",
+        "release_date": "1975-01-01"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "2RO2aKh9zxNybDzB5Q8lIB",
+        "title": "נולדתי לשלום - הכל זהב",
+        "artist": "Sexta",
+        "release_date": "2016-10-04"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "3I9q8UVSS6CYls7ue4KdKr",
+        "title": "אח שלי מתחתן",
+        "artist": "Doli & Penn, Mosh Ben Ari",
+        "release_date": "2020-11-12"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "5TwAuMaXxJ5dBSN76rRc4x",
+        "title": "ניצחת איתי הכל",
+        "artist": "Amir Benayoun",
+        "release_date": "2019-11-18"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "4sOdOmDAfJWeJPha9mL3EP",
+        "title": "Maman",
+        "artist": "Stephane Legar, Itay Levi",
+        "release_date": "2018-01-01"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "6eyWTvNuLnJqfhuQNEuRaJ",
+        "title": "נופל וקם",
+        "artist": "Shabak Samech",
+        "release_date": "2000-01-19"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "4a79nfLv9E7yUT43oHtDs9",
+        "title": "תגידו לה",
+        "artist": "דודו אהרון",
+        "release_date": "2010-08-23"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "5YSrCGvXUtiTxWSxRpvNdS",
+        "title": "עוד לא אהבתי די",
+        "artist": "Yehoram Gaon",
+        "release_date": "1977-12-01"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "1UDHre6s0QYylS1uDggWnF",
+        "title": "שירים פשוטים",
+        "artist": "Shlomo Gronich",
+        "release_date": "1995-01-01"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "5ssJOZG26gyonC1XCChoEQ",
+        "title": "עור ברווז",
+        "artist": "Arutz Hakibud",
+        "release_date": "2016-02-16"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "3iJQ54fGO6CyP374UzvDJu",
+        "title": "מי זאת",
+        "artist": "Anna Zak",
+        "release_date": "2022-05-22"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "1kQyTibzAdPb0uAGJmudIa",
+        "title": "הורה האחזות",
+        "artist": "Lehakat HaNachal",
+        "release_date": "1956-01-01"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "0n2BeC9E0M7fC2jbKBYetu",
+        "title": "כאלו מילים",
+        "artist": "Tomer Yosef",
+        "release_date": "2011"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "0H4lxKrO1uEiHY4YByNzsu",
+        "title": "עד העונג הבא",
+        "artist": "The Witches",
+        "release_date": "1994-07-01"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "4J5HgYfF7EJqbZhxtkjzpP",
+        "title": "לעוף",
+        "artist": "Harel Skaat",
+        "release_date": "2004-12-01"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "1StiuY1sBbsuRRMxCA6ASr",
+        "title": "אני הולך לבית שאן",
+        "artist": "Gary Eckstein",
+        "release_date": "1979-01-01"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "3cmplhlwMZyQbuTHThyGe7",
+        "title": "מחכה",
+        "artist": "Idan Rafael Haviv",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "7ATf4cbQytQ6itLAbtwS7p",
+        "title": "ציפור קטנה בלב",
+        "artist": "Yigal Bashan",
+        "release_date": "1975-01-01"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "0kz1BWeXgQHPb6LkuQ9zkw",
+        "title": "לשם",
+        "artist": "Miri Mesika",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "4q9FNCWCEigN2rCvII7EWm",
+        "title": "עיר מקלט",
+        "artist": "Ehud Banai",
+        "release_date": "1987-08-01"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "32q5jL4gY8SBUVAFy0bSUv",
+        "title": "נר על החלון",
+        "artist": "Stella Maris",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "3MmS5PUDmiytamWpZi2q1P",
+        "title": "שיר לאהבה",
+        "artist": "Gaya",
+        "release_date": "1999-01-01"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "0E9S1H3TktlpHmGyuKEfkL",
+        "title": "לצאת מדיכאון",
+        "artist": "יגל אושרי",
+        "release_date": "2023-08-15"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "5dU27KKMETXnsbzPRNPaZt",
+        "title": "הכל מבינה",
+        "artist": "Portrait",
+        "release_date": "1992-01-01"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "3iwcWCnR7notjhXwfO2NNJ",
+        "title": "שלל שרב",
+        "artist": "Gidi Gov",
+        "release_date": "1987-04-01"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "5th2HgJ4B4Qrkxs5gdAVph",
+        "title": "שישי שבת",
+        "artist": "Zikney Tzfat",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "0O39bLHAGjH56HwSpU8tP8",
+        "title": "אין לי ארץ אחרת",
+        "artist": "Gali Atari",
+        "release_date": "1986-03-01"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "557ZG0nAvOppPxR3e1DP42",
+        "title": "הללויה",
+        "artist": "חלב ודבש, Gali Atari",
+        "release_date": "1995"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "4dUsH8qTQM792u7K2Jac4Z",
+        "title": "האהבה שלי היא לא האהבה שלו",
+        "artist": "Itzhak Klepter",
+        "release_date": "1981"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "5zuaPsToImY4cmOfMgZ7ek",
+        "title": "תודה",
+        "artist": "Haim Moshe",
+        "release_date": "1986-01-01"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "1rsnnM7vH8MgNUzHNk3vz6",
+        "title": "היא כל כך יפה",
+        "artist": "Kaveret",
+        "release_date": "1975-01-01"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "7o6UDPFWtYrjUZnRvi1dvO",
+        "title": "איך אפשר",
+        "artist": "Jane Bordeaux",
+        "release_date": "2014-12-17"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "38Yux0O5qRPP0dNP5kSGy4",
+        "title": "חפשי זה לגמרי לבד",
+        "artist": "Benzin",
+        "release_date": "1982-07-01"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "7f6Bkdh4flhzfeUcMeuBjY",
+        "title": "הגשמה עצמית",
+        "artist": "Eric Berman",
+        "release_date": "2009-01-01"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "7un2vJRBTZe2xWQyaFyisA",
+        "title": "נגד הרוח",
+        "artist": "Shalom Hanoch",
+        "release_date": "1988-09-01"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "0FQ7tcdBk5d9s7juYV2QQj",
+        "title": "מדליקה לי הכל",
+        "artist": "Eden Hason",
+        "release_date": "2021-10-26"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "0xUXXTQmGeUgncqpuSMFP3",
+        "title": "מדברים על שלום",
+        "artist": "Mooki",
+        "release_date": "2002-01-01"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "1sm4a8jowfbPHI4yTOQ5wH",
+        "title": "לכל אחד יש",
+        "artist": "Shlomi Shabat, ליאור נרקיס",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "4SGzFRK9CfD0x4ba1GPiut",
+        "title": "ישראלה",
+        "artist": "The Ultras, Eli Perez",
+        "release_date": "2020-12-14"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "4nvhqRjU0YeSY7xSDu2Ynn",
+        "title": "ברוש",
+        "artist": "Ariel Zilber",
+        "release_date": "1976-01-01"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "4wsc8OzliQP9P2ZiuevaBn",
+        "title": "הזוג הזה",
+        "artist": "Mergui",
+        "release_date": "2019-01-06"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "0tIQwXFOyQjd6K7w7PIBrn",
+        "title": "יש בך הכל",
+        "artist": "Akiva",
+        "release_date": "2022-02-20"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "5XbOvcOkvDCW8OMwdsJu2N",
+        "title": "Chofshi Umeushar",
+        "artist": "Ilan & Ilanit",
+        "release_date": "2013-04-01"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "7DS5SpsWS7rtKeAfe9rbfn",
+        "title": "Cute Boy",
+        "artist": "Nunu, Sagi Kariv, Forever Tel Aviv",
+        "release_date": "2022-06-06"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "3yWWNB1ESnafJRbTXOJ3sI",
+        "title": "קח אותי",
+        "artist": "Hayehudim",
+        "release_date": "1995-01-08"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "00xs7k5koiCAGvxhXUMYZv",
+        "title": "עוד פגישה",
+        "artist": "T-Slam",
+        "release_date": "1982-11-01"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "5UEnnrjmKyyReW8OY8FuvN",
+        "title": "ללכת",
+        "artist": "Liran Danino",
+        "release_date": "2012"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "0NnecF2AT3b6qCJHOIATJ3",
+        "title": "זה כל הקסם",
+        "artist": "Nimrod Lev, Orly Perl",
+        "release_date": "1998-01-01"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "6wUq2YM9Bb2pQKm4bC3UC7",
+        "title": "תמונה אימפרסיוניסטית",
+        "artist": "Carmella Gross & Wagner, Eran Tzur",
+        "release_date": "1991-08-02"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "1UqARS50UENashmHmp7gmQ",
+        "title": "חלליות",
+        "artist": "Berry Sakharof",
+        "release_date": "1991-08-02"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "3DHZLmyvG9oaA9SVh7ezcj",
+        "title": "תפוחים ותמרים",
+        "artist": "Rami Kleinstein, Hamoatza",
+        "release_date": "1995"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "6J2D59vEFMqc7w0MGl9ug5",
+        "title": "ילד רע",
+        "artist": "Riki Gal",
+        "release_date": "1994-01-01"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "3Pk4Syzj6jaTYijHYChvhm",
+        "title": "כבר עברו השנים",
+        "artist": "Zohar Argov",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "1KGlS4VoXnhUg2GmUPCMiM",
+        "title": "אהוב יקר",
+        "artist": "Ronit Shahar",
+        "release_date": "1996-01-01"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "0Cu4xIg9PZjFcXXZgUlVpF",
+        "title": "מעביר דף",
+        "artist": "Nurit Galron",
+        "release_date": "1996-03-01"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "4kZ0qv0CBrq7KRhhNxz8UG",
+        "title": "יסמין",
+        "artist": "הפיל הכחול - Hapil",
+        "release_date": "2009-09-25"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "3Y4G4E7EVomTWTFSFS0Sn5",
+        "title": "אלוף העולם",
+        "artist": "חנן בן ארי",
+        "release_date": "2019-02-17"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "24wHONpAy1krWVz9rhx8Q9",
+        "title": "מסיבה",
+        "artist": "Jasmin Moallem, Shekel",
+        "release_date": "2020-01-14"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "0FLOMD95axrNm7B9RZf6SL",
+        "title": "יש לי יום הולדת",
+        "artist": "Apocalypse",
+        "release_date": "1972-01-01"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "11VncaJPafOGuNfpLYWrUU",
+        "title": "אני חיה לי מיום ליום",
+        "artist": "Rita",
+        "release_date": "1988-01-01"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "611YfaO9iUILOPghQSVJEB",
+        "title": "נגעה בשמיים",
+        "artist": "Mashina",
+        "release_date": "1993-07-01"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "5gC7xyoKdYiw9l7XSASA8L",
+        "title": "גבריאל",
+        "artist": "Ofra Haza",
+        "release_date": "1982-05-01"
+      }
+    ]
+  }
+}
