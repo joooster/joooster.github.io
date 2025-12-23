@@ -1,0 +1,2166 @@
+{
+  "updated_on": 1766489518,
+  "sku": "aaat0001",
+  "gameset_data": {
+    "gameset_language": "Japan",
+    "gameset_name": "Hitster Original",
+    "cards": [
+      {
+        "CardNumber": "00308",
+        "Spotify": "6FHgHDXiGnRfhrSok9xAz3",
+        "title": "ともに",
+        "artist": "WANIMA",
+        "release_date": "2018-01-17"
+      },
+      {
+        "CardNumber": "00307",
+        "Spotify": "0viNHqrS9gdIY0Qh0VJGJY",
+        "title": "なごり雪 （シングルバージョン）",
+        "artist": "Iruka",
+        "release_date": "2020-05-01"
+      },
+      {
+        "CardNumber": "00306",
+        "Spotify": "5KuVjlt9P9MXDrJ1sTsiw6",
+        "title": "北酒場",
+        "artist": "Takashi Hosokawa",
+        "release_date": "2025-06-15"
+      },
+      {
+        "CardNumber": "00305",
+        "Spotify": "4MSauDmuhCUv1jYzlBiFUr",
+        "title": "チャンピオン",
+        "artist": "ALICE",
+        "release_date": "1979-06-05"
+      },
+      {
+        "CardNumber": "00304",
+        "Spotify": "2FRnf9qhLbvw8fu4IBXx78",
+        "title": "Last Christmas",
+        "artist": "Wham!",
+        "release_date": "1984-11-29"
+      },
+      {
+        "CardNumber": "00303",
+        "Spotify": "4YsgmDiRlo9i10ooIDyPKf",
+        "title": "君といつまでも",
+        "artist": "Yuzo Kayama",
+        "release_date": "2001-11-21"
+      },
+      {
+        "CardNumber": "00302",
+        "Spotify": "4a3j6ihh8BnYY3fcovqWdb",
+        "title": "神田川 (シングルバージョン)",
+        "artist": "Kaguyahime",
+        "release_date": "2010"
+      },
+      {
+        "CardNumber": "00301",
+        "Spotify": "2uMNMcjjUz8oNIxjIu20qE",
+        "title": "Habit",
+        "artist": "SEKAI NO OWARI",
+        "release_date": "2022-04-28"
+      },
+      {
+        "CardNumber": "00300",
+        "Spotify": "0HMSTmDVXtCSauJvu8nnfs",
+        "title": "I LOVE YOU",
+        "artist": "Yutaka Ozaki",
+        "release_date": "1983"
+      },
+      {
+        "CardNumber": "00299",
+        "Spotify": "7DbvctWZTusuih57vHRgW4",
+        "title": "青いベンチ",
+        "artist": "Sasuke",
+        "release_date": "0000"
+      },
+      {
+        "CardNumber": "00298",
+        "Spotify": "2WyKYQD4jFhHwJfWCVM8yc",
+        "title": "フレンズ",
+        "artist": "レベッカ",
+        "release_date": "1985-11-01"
+      },
+      {
+        "CardNumber": "00297",
+        "Spotify": "59kcIJpn03CfqFyZRuiRrm",
+        "title": "異邦人",
+        "artist": "Saki Kubota",
+        "release_date": "2002"
+      },
+      {
+        "CardNumber": "00296",
+        "Spotify": "53uaNqloMXC475JtyDdJaK",
+        "title": "潮騒のメモリー",
+        "artist": "天野春子（小泉今日子）",
+        "release_date": "2013-07-31"
+      },
+      {
+        "CardNumber": "00295",
+        "Spotify": "7Ln3laykz1gVmiBWIndyGh",
+        "title": "伊勢佐木町ブルース",
+        "artist": "Mina Aoe",
+        "release_date": "2009"
+      },
+      {
+        "CardNumber": "00294",
+        "Spotify": "6sIx7Cn37DGEhjy9hBP8Gx",
+        "title": "猫",
+        "artist": "DISH//",
+        "release_date": "2017-08-15"
+      },
+      {
+        "CardNumber": "00293",
+        "Spotify": "6bfjEGSR7DyC8MK8cp3ZCp",
+        "title": "シュガーソングとビターステップ",
+        "artist": "UNISON SQUARE GARDEN",
+        "release_date": "2016-07-06"
+      },
+      {
+        "CardNumber": "00292",
+        "Spotify": "3gmn76fCtpDazGMnN0QMHX",
+        "title": "NIGHT DANCER",
+        "artist": "imase",
+        "release_date": "2022-11-09"
+      },
+      {
+        "CardNumber": "00291",
+        "Spotify": "3GGOKTfxgyluPvAFnB30zE",
+        "title": "第ゼロ感",
+        "artist": "10-FEET",
+        "release_date": "2022-11-08"
+      },
+      {
+        "CardNumber": "00290",
+        "Spotify": "7KExqPOvjFzAI4d49mQxt9",
+        "title": "ビリミリオン",
+        "artist": "Yuuri",
+        "release_date": "2023-01-19"
+      },
+      {
+        "CardNumber": "00289",
+        "Spotify": "1zg3S9jjRaKG3O9TMU6Cnh",
+        "title": "MARIONETTE",
+        "artist": "BOØWY",
+        "release_date": "1987-09-05"
+      },
+      {
+        "CardNumber": "00288",
+        "Spotify": "23atyJacJVHvB9RHBNhr35",
+        "title": "小さな恋のうた",
+        "artist": "MONGOL800",
+        "release_date": "2001-09-16"
+      },
+      {
+        "CardNumber": "00287",
+        "Spotify": "5Px6UA0dmCRZeScW9HZ5re",
+        "title": "Let It Go - Japanese Version",
+        "artist": "Takako Matsu",
+        "release_date": "2014-03-19"
+      },
+      {
+        "CardNumber": "00286",
+        "Spotify": "37ZJ0p5Jm13JPevGcx4SkF",
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "release_date": "1986-08-16"
+      },
+      {
+        "CardNumber": "00285",
+        "Spotify": "04TshWXkhV1qkqHzf31Hn6",
+        "title": "Lemon",
+        "artist": "Kenshi Yonezu",
+        "release_date": "2020-08-05"
+      },
+      {
+        "CardNumber": "00284",
+        "Spotify": "74E2o7gPc7auKY71mLSfa1",
+        "title": "昴-すばる-",
+        "artist": "Shinji Tanimura",
+        "release_date": "1995-08-25"
+      },
+      {
+        "CardNumber": "00283",
+        "Spotify": "6c5GqVWU3yFDgPkgBB0MGg",
+        "title": "I'm a mess",
+        "artist": "MY FIRST STORY",
+        "release_date": "2021-07-14"
+      },
+      {
+        "CardNumber": "00282",
+        "Spotify": "5eY7692tmgHB9dbmq6wa2M",
+        "title": "晴る",
+        "artist": "ヨルシカ",
+        "release_date": "2024-01-05"
+      },
+      {
+        "CardNumber": "00281",
+        "Spotify": "4a6Tpe4ke7vPXkYSYo2lBn",
+        "title": "セーラー服と機関銃",
+        "artist": "Hiroko Yakushimaru",
+        "release_date": "2011-03-02"
+      },
+      {
+        "CardNumber": "00280",
+        "Spotify": "07aCNKvztkev8NvHWOTp8R",
+        "title": "飾りじゃないのよ涙は",
+        "artist": "Akina Nakamori",
+        "release_date": "1994-11-30"
+      },
+      {
+        "CardNumber": "00279",
+        "Spotify": "2iCmi85cq1crvP1akxIl91",
+        "title": "ギザギザハートの子守唄",
+        "artist": "The Checkers",
+        "release_date": "1983-09-01"
+      },
+      {
+        "CardNumber": "00278",
+        "Spotify": "0wutDcv83A1T1JtevE18LI",
+        "title": "お祭りマンボ",
+        "artist": "Hibari Misora",
+        "release_date": "2012-05-29"
+      },
+      {
+        "CardNumber": "00277",
+        "Spotify": "6lEQQ4PJNJrF2Sp9AjaC67",
+        "title": "Born This Way",
+        "artist": "Lady Gaga",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00276",
+        "Spotify": "7FGbwJMZxCbW6U8aGNBgOm",
+        "title": "CAT'S EYE",
+        "artist": "Anri",
+        "release_date": "1988-07-21"
+      },
+      {
+        "CardNumber": "00275",
+        "Spotify": "5boa5pUNMOHjpXuKyIGcXj",
+        "title": "Get Wild",
+        "artist": "TM NETWORK",
+        "release_date": "1987"
+      },
+      {
+        "CardNumber": "00274",
+        "Spotify": "6RuyBH55zQPdCQXCCyekLk",
+        "title": "津軽海峡・冬景色",
+        "artist": "Sayuri Ishikawa",
+        "release_date": "2011-08-24"
+      },
+      {
+        "CardNumber": "00273",
+        "Spotify": "4nuIZjFLSGPExAYzmoIk14",
+        "title": "ツッパリHigh School Rock'n Roll(登校編)",
+        "artist": "横浜銀蝿40th",
+        "release_date": "2020-02-19"
+      },
+      {
+        "CardNumber": "00272",
+        "Spotify": "745Y2xbeGh56xF97j4Fz1N",
+        "title": "WON'T BE LONG",
+        "artist": "Da Bubble Gum Brothers",
+        "release_date": "1987"
+      },
+      {
+        "CardNumber": "00271",
+        "Spotify": "2AVA9gTyJsZaan4PcsNHSn",
+        "title": "R.Y.U.S.E.I.",
+        "artist": "J SOUL BROTHERS III",
+        "release_date": "2015-01-28"
+      },
+      {
+        "CardNumber": "00270",
+        "Spotify": "12BgPmkISRCRO6qx60SHc6",
+        "title": "年下の男の子",
+        "artist": "キャンディーズ",
+        "release_date": "2008-09-03"
+      },
+      {
+        "CardNumber": "00269",
+        "Spotify": "2YgyW0CWOD7vMrgbB68LQk",
+        "title": "夢の中へ - 2017 Remaster",
+        "artist": "Yosui Inoue",
+        "release_date": "2017-02-15"
+      },
+      {
+        "CardNumber": "00268",
+        "Spotify": "2cxcqKwQtfKq7giphxjzOu",
+        "title": "晩餐歌 - Bansanka",
+        "artist": "tuki.",
+        "release_date": "2023-09-29"
+      },
+      {
+        "CardNumber": "00267",
+        "Spotify": "3hlQBw2Z5YQQqIiX9JmLG4",
+        "title": "ありがとう",
+        "artist": "Ikimonogakari",
+        "release_date": "2010-12-01"
+      },
+      {
+        "CardNumber": "00266",
+        "Spotify": "0PTGYdQvnVQ1YJ65jxBNoT",
+        "title": "スターラブレイション",
+        "artist": "Kera Kera",
+        "release_date": "2013-10-16"
+      },
+      {
+        "CardNumber": "00265",
+        "Spotify": "17rp2hE745diMPkToqvun0",
+        "title": "BOY MEETS GIRL",
+        "artist": "TRF",
+        "release_date": "2007-02-07"
+      },
+      {
+        "CardNumber": "00264",
+        "Spotify": "0GUOuy3DhaFdr7YgAxslOE",
+        "title": "Baby",
+        "artist": "Justin Bieber, Ludacris",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00263",
+        "Spotify": "1WdkBwAsdznWw9xM69KmvR",
+        "title": "ブルーバード",
+        "artist": "Ikimonogakari",
+        "release_date": "2008-12-24"
+      },
+      {
+        "CardNumber": "00262",
+        "Spotify": "1NSXboYS5U32lBLPEheWbm",
+        "title": "Life goes on",
+        "artist": "Dragon Ash",
+        "release_date": "2007-09-05"
+      },
+      {
+        "CardNumber": "00261",
+        "Spotify": "1nFAXtEW47rwNFcjFP5yQr",
+        "title": "銀座の恋の物語",
+        "artist": "Yujiro Ishihara, 牧村旬子",
+        "release_date": "2001-07-17"
+      },
+      {
+        "CardNumber": "00260",
+        "Spotify": "07dut38KBuz2lYDyym4VPU",
+        "title": "贈る言葉",
+        "artist": "Kaientai",
+        "release_date": "1979-12-01"
+      },
+      {
+        "CardNumber": "00259",
+        "Spotify": "4fdB7D3ie0C6HZLEb8VTHA",
+        "title": "インベーダーインベーダー",
+        "artist": "Kyary Pamyu Pamyu",
+        "release_date": "2013-06-26"
+      },
+      {
+        "CardNumber": "00258",
+        "Spotify": "1XS2YCEvJA4xCczBwaUl9F",
+        "title": "Choo Choo TRAIN",
+        "artist": "ZOO",
+        "release_date": "1993-05-21"
+      },
+      {
+        "CardNumber": "00257",
+        "Spotify": "0YFMapfLahq8cxBIEy70Z2",
+        "title": "わたしの一番かわいいところ",
+        "artist": "FRUITS ZIPPER",
+        "release_date": "2022-04-29"
+      },
+      {
+        "CardNumber": "00256",
+        "Spotify": "1E529ug6zRzAs8lk6DAXMs",
+        "title": "楽園ベイベー",
+        "artist": "RIP SLYME",
+        "release_date": "2005"
+      },
+      {
+        "CardNumber": "00255",
+        "Spotify": "0GjEhVFGZW8afUYGChu3Rr",
+        "title": "Dancing Queen",
+        "artist": "ABBA",
+        "release_date": "1976"
+      },
+      {
+        "CardNumber": "00254",
+        "Spotify": "2VBLFxCUyFp5BfmsZpxcis",
+        "title": "絆ノ奇跡",
+        "artist": "MAN WITH A MISSION, milet",
+        "release_date": "2023-04-10"
+      },
+      {
+        "CardNumber": "00253",
+        "Spotify": "7rA2RuTx1dHadrZcoKh8O9",
+        "title": "GOAT",
+        "artist": "Number_i",
+        "release_date": "2024-09-23"
+      },
+      {
+        "CardNumber": "00252",
+        "Spotify": "4QXpGTmnWwftsbcSVhBeAm",
+        "title": "Hello,Again～昔からある場所～",
+        "artist": "My Little Lover",
+        "release_date": "1995-12-05"
+      },
+      {
+        "CardNumber": "00251",
+        "Spotify": "7CmWXD3w1xOO53AAO4LRVQ",
+        "title": "愛をこめて花束を",
+        "artist": "Superfly",
+        "release_date": "2007-04-04"
+      },
+      {
+        "CardNumber": "00250",
+        "Spotify": "6cmMao3yvpoaYVqutyqS5V",
+        "title": "ガッツだぜ!!",
+        "artist": "Ulfuls",
+        "release_date": "2001-04-28"
+      },
+      {
+        "CardNumber": "00249",
+        "Spotify": "5ROSTSAuEHPc1fp5SzV4y5",
+        "title": "千の風になって",
+        "artist": "秋川雅史",
+        "release_date": "2006-05-24"
+      },
+      {
+        "CardNumber": "00248",
+        "Spotify": "05Cq4aOvke2kso2G8FwU0O",
+        "title": "好きになった人",
+        "artist": "Harumi Miyako",
+        "release_date": "2013-08-21"
+      },
+      {
+        "CardNumber": "00247",
+        "Spotify": "7ovUcF5uHTBRzUpB6ZOmvt",
+        "title": "アイドル",
+        "artist": "YOASOBI",
+        "release_date": "2023-04-12"
+      },
+      {
+        "CardNumber": "00246",
+        "Spotify": "2jdbZGFp8KVTuk0YxDNL4l",
+        "title": "高嶺の花子さん",
+        "artist": "back number",
+        "release_date": "2014-03-26"
+      },
+      {
+        "CardNumber": "00245",
+        "Spotify": "0JLL1Ys4XhdcRgKkk7OP99",
+        "title": "Love Me Tender",
+        "artist": "Elvis Presley",
+        "release_date": "2009-06-16"
+      },
+      {
+        "CardNumber": "00244",
+        "Spotify": "6zJ3yMfQXJ8pYrjNl52vzy",
+        "title": "また君に恋してる",
+        "artist": "Fuyumi Sakamoto",
+        "release_date": "2009-10-07"
+      },
+      {
+        "CardNumber": "00243",
+        "Spotify": "1W0XDAaJDrCL50LOy7uL4E",
+        "title": "慟哭",
+        "artist": "Shizuka Kudo",
+        "release_date": "1993-04-01"
+      },
+      {
+        "CardNumber": "00242",
+        "Spotify": "7facNrW6VRW8s3ICZ8G1uW",
+        "title": "RPG",
+        "artist": "SEKAI NO OWARI",
+        "release_date": "2015-01-14"
+      },
+      {
+        "CardNumber": "00241",
+        "Spotify": "7lUaEsQVwvNEjaJNcvc1CN",
+        "title": "サウダージ",
+        "artist": "PornoGraffitti",
+        "release_date": "2004-07-28"
+      },
+      {
+        "CardNumber": "00240",
+        "Spotify": "5gjgDz31KDH4Y0sccfCjN1",
+        "title": "走れコウタロー",
+        "artist": "ソルティー・シュガー",
+        "release_date": "2005-11-18"
+      },
+      {
+        "CardNumber": "00239",
+        "Spotify": "5rfUCmoI7axj6mjpu1Rto5",
+        "title": "さくら",
+        "artist": "Ketsumeishi",
+        "release_date": "2005-06-29"
+      },
+      {
+        "CardNumber": "00238",
+        "Spotify": "0b5iSriqvDLmd6QSWkalr3",
+        "title": "赤いスイートピー",
+        "artist": "Seiko Matsuda",
+        "release_date": "1980"
+      },
+      {
+        "CardNumber": "00237",
+        "Spotify": "3A6uq9eWVRYnRWNakGJn5B",
+        "title": "ラブ・ストーリーは突然に",
+        "artist": "Kazumasa Oda",
+        "release_date": "2002"
+      },
+      {
+        "CardNumber": "00236",
+        "Spotify": "5Hu29JT4xtbRUBTZeOAjxW",
+        "title": "恋",
+        "artist": "Gen Hoshino",
+        "release_date": "2016-10-05"
+      },
+      {
+        "CardNumber": "00235",
+        "Spotify": "6ddbslC9nFUFgscup9R2j3",
+        "title": "壊れかけのRadio",
+        "artist": "Hideaki Tokunaga",
+        "release_date": "1990"
+      },
+      {
+        "CardNumber": "00234",
+        "Spotify": "6qt4DNJ94JlcYw5aZJP9D1",
+        "title": "愛のうた",
+        "artist": "Kumi Koda",
+        "release_date": "2008-01-30"
+      },
+      {
+        "CardNumber": "00233",
+        "Spotify": "4feDzcxtXRU8clyOluco5Y",
+        "title": "どんなときも。",
+        "artist": "Noriyuki Makihara",
+        "release_date": "1991-09-25"
+      },
+      {
+        "CardNumber": "00232",
+        "Spotify": "5ifBjexppI1XZOx5eBqnJZ",
+        "title": "Darling",
+        "artist": "Kana Nishino",
+        "release_date": "2014-11-12"
+      },
+      {
+        "CardNumber": "00231",
+        "Spotify": "25xeEeTt3uWyC0iHsCPHKn",
+        "title": "♡桃色片想い♡",
+        "artist": "松浦亜弥",
+        "release_date": "2003-01-29"
+      },
+      {
+        "CardNumber": "00230",
+        "Spotify": "30lACulyQSKKOtnrQQScuj",
+        "title": "恋の季節",
+        "artist": "ピンキーとキラーズ",
+        "release_date": "2023-12-06"
+      },
+      {
+        "CardNumber": "00229",
+        "Spotify": "3oYD2O31b05fILFpv0AXRI",
+        "title": "さよならエレジー",
+        "artist": "SUDA MASAKI",
+        "release_date": "2018-03-21"
+      },
+      {
+        "CardNumber": "00228",
+        "Spotify": "15tMFCvZxzi01VlIzQ3jM1",
+        "title": "勝手にしやがれ",
+        "artist": "Kenji Sawada",
+        "release_date": "2005-03-02"
+      },
+      {
+        "CardNumber": "00227",
+        "Spotify": "323T2HbSmP5c3S8IdFSa6H",
+        "title": "また逢う日まで",
+        "artist": "Kiyohiko Ozaki",
+        "release_date": "2003-01-01"
+      },
+      {
+        "CardNumber": "00226",
+        "Spotify": "3re0DUUcXeh7x64cC142lo",
+        "title": "JAM",
+        "artist": "THE YELLOW MONKEY",
+        "release_date": "1996-02-29"
+      },
+      {
+        "CardNumber": "00225",
+        "Spotify": "2bzdhN6Y5AP1zRRf12QwJq",
+        "title": "キセキ",
+        "artist": "GReeeeN",
+        "release_date": "2008-06-04"
+      },
+      {
+        "CardNumber": "00224",
+        "Spotify": "6aLnEfXkfdMCIJjxdG7RsC",
+        "title": "涙そうそう",
+        "artist": "Rimi Natsukawa",
+        "release_date": "2001-03-23"
+      },
+      {
+        "CardNumber": "00223",
+        "Spotify": "7iN1s7xHE4ifF5povM6A48",
+        "title": "Let It Be - Remastered 2009",
+        "artist": "The Beatles",
+        "release_date": "1970-05-08"
+      },
+      {
+        "CardNumber": "00222",
+        "Spotify": "0CpElcrLvqZyGUa4tc3Zcn",
+        "title": "瞳",
+        "artist": "Sakurako Ohara",
+        "release_date": "2015-03-25"
+      },
+      {
+        "CardNumber": "00221",
+        "Spotify": "6L5vNyxLzaFGYlgPwsdOkt",
+        "title": "TRUE BLUE",
+        "artist": "LUNA SEA",
+        "release_date": "1994"
+      },
+      {
+        "CardNumber": "00220",
+        "Spotify": "1tXOIRwKnvUvlXK5w1oAjv",
+        "title": "つぐない",
+        "artist": "Teresa Teng",
+        "release_date": "1980"
+      },
+      {
+        "CardNumber": "00219",
+        "Spotify": "5Qw9zrdPMjZISaWhfpQ6Ro",
+        "title": "花",
+        "artist": "ORANGE RANGE",
+        "release_date": "2004-10-20"
+      },
+      {
+        "CardNumber": "00218",
+        "Spotify": "0JAQpusQK6R7w07s0UgcU3",
+        "title": "瞳をとじて",
+        "artist": "Ken Hirai",
+        "release_date": "2004-11-24"
+      },
+      {
+        "CardNumber": "00217",
+        "Spotify": "5zydI0vRlMI6mrEKgZR8zq",
+        "title": "そばかす",
+        "artist": "JUDY AND MARY",
+        "release_date": "1997"
+      },
+      {
+        "CardNumber": "00216",
+        "Spotify": "5nqxwVnuNX39NzJDov7PFX",
+        "title": "I'm proud",
+        "artist": "KAHALA TOMOMI",
+        "release_date": "1996-06-03"
+      },
+      {
+        "CardNumber": "00215",
+        "Spotify": "63G3Lynpoq1Y6kOJguaYFm",
+        "title": "嘘",
+        "artist": "SID",
+        "release_date": "2009-04-29"
+      },
+      {
+        "CardNumber": "00214",
+        "Spotify": "786dSB84yrSaICJwCT7VxP",
+        "title": "香水",
+        "artist": "Eito",
+        "release_date": "2020-12-24"
+      },
+      {
+        "CardNumber": "00213",
+        "Spotify": "4kWPNCY1JZEqJq9Vcjrfpz",
+        "title": "蕾(つぼみ)",
+        "artist": "KOBUKURO",
+        "release_date": "2007-03-21"
+      },
+      {
+        "CardNumber": "00212",
+        "Spotify": "2ejAVjIO8yiedyxnwLw4Hr",
+        "title": "ultra soul",
+        "artist": "B'z",
+        "release_date": "2008-06-18"
+      },
+      {
+        "CardNumber": "00211",
+        "Spotify": "27XsYzgyVpkA9txTRWVYwz",
+        "title": "きよしのズンドコ節",
+        "artist": "Kiyoshi Hikawa",
+        "release_date": "2002-05-22"
+      },
+      {
+        "CardNumber": "00210",
+        "Spotify": "7BIj2EumM3JA6NmxPcF6C5",
+        "title": "上を向いて歩こう",
+        "artist": "Kyu Sakamoto",
+        "release_date": "2009-09-09"
+      },
+      {
+        "CardNumber": "00209",
+        "Spotify": "1Vimcaq6kgTq6xgHSnr4pS",
+        "title": "粉雪",
+        "artist": "Remioromen",
+        "release_date": "2006-05-17"
+      },
+      {
+        "CardNumber": "00208",
+        "Spotify": "5VocjmDAGy8bXTXWxho2No",
+        "title": "マツケンサンバⅡ",
+        "artist": "Ken Matsudaira",
+        "release_date": "2004-07-07"
+      },
+      {
+        "CardNumber": "00207",
+        "Spotify": "18djqpleUjBr6zO6tW3HSM",
+        "title": "ブルー・ライト・ヨコハマ",
+        "artist": "Ayumi Ishida",
+        "release_date": "2012-08-08"
+      },
+      {
+        "CardNumber": "00206",
+        "Spotify": "7dH0dpi751EoguDDg3xx6J",
+        "title": "ドライフラワー",
+        "artist": "Yuuri",
+        "release_date": "2020-10-25"
+      },
+      {
+        "CardNumber": "00205",
+        "Spotify": "4weY9jkPw2d1daBnhHhacD",
+        "title": "夢見る少女じゃいられない",
+        "artist": "Nanase Aikawa",
+        "release_date": "1996-07-03"
+      },
+      {
+        "CardNumber": "00204",
+        "Spotify": "649bQvPsCrBYxk8s8lXHbn",
+        "title": "White Love",
+        "artist": "SPEED",
+        "release_date": "1998-04-29"
+      },
+      {
+        "CardNumber": "00203",
+        "Spotify": "3L7ISJTvKx56uhsF28aJ4p",
+        "title": "きらり",
+        "artist": "Fujii Kaze",
+        "release_date": "2022-03-23"
+      },
+      {
+        "CardNumber": "00202",
+        "Spotify": "5o6L2m6fgpVvTWwhvCuMhE",
+        "title": "今夜はブギー・バック smooth rap",
+        "artist": "SCHA DARA PARR, Ozawa Kenji",
+        "release_date": "1994"
+      },
+      {
+        "CardNumber": "00201",
+        "Spotify": "22uQDAWeupUDmr3Qit0abI",
+        "title": "夏の思い出",
+        "artist": "Ketsumeishi",
+        "release_date": "2003-10-01"
+      },
+      {
+        "CardNumber": "00200",
+        "Spotify": "6EdSN1iGtLPhcz43QDRkdK",
+        "title": "Help!",
+        "artist": "The Beatles",
+        "release_date": "2006-11-17"
+      },
+      {
+        "CardNumber": "00199",
+        "Spotify": "3liCKCPEavLxzTdlyAw9kl",
+        "title": "負けないで",
+        "artist": "ZARD",
+        "release_date": "1993-07-10"
+      },
+      {
+        "CardNumber": "00198",
+        "Spotify": "5vsM9UppL2iTgOfenMB6Gz",
+        "title": "飛行艇",
+        "artist": "King Gnu",
+        "release_date": "2020-01-15"
+      },
+      {
+        "CardNumber": "00197",
+        "Spotify": "6WYirtXQjDJpCQkv4XTBxY",
+        "title": "春夏秋冬",
+        "artist": "Hilcrhyme",
+        "release_date": "2010-01-13"
+      },
+      {
+        "CardNumber": "00196",
+        "Spotify": "4zViPPzngXnYTsiwXkOSqX",
+        "title": "EXCITE",
+        "artist": "Daichi Miura",
+        "release_date": "2017-01-18"
+      },
+      {
+        "CardNumber": "00195",
+        "Spotify": "7H6LXMHH7EFesfQxeBHafZ",
+        "title": "行くぜっ!怪盗少女",
+        "artist": "Momoiro Clover Z",
+        "release_date": "2010-01-01"
+      },
+      {
+        "CardNumber": "00194",
+        "Spotify": "2RbVD1IgXtyQFlLtbthaZ3",
+        "title": "Stand by me, Stand by you.",
+        "artist": "HIRAIDAI",
+        "release_date": "2020-09-09"
+      },
+      {
+        "CardNumber": "00193",
+        "Spotify": "2cKiHG16JBiqHdi7Llq0r7",
+        "title": "マリーゴールド",
+        "artist": "Aimyon",
+        "release_date": "2019-02-13"
+      },
+      {
+        "CardNumber": "00192",
+        "Spotify": "7gpVG8fQjh5YLViIWy3HHh",
+        "title": "桜坂",
+        "artist": "Masaharu Fukuyama",
+        "release_date": "2001-04-25"
+      },
+      {
+        "CardNumber": "00191",
+        "Spotify": "7x0ZuC7zKDiAzGfVVJYf83",
+        "title": "さくら - 独唱",
+        "artist": "Naotaro Moriyama",
+        "release_date": "2006-01-11"
+      },
+      {
+        "CardNumber": "00190",
+        "Spotify": "27QjKcmynbw887xhiXg0Mg",
+        "title": "真夏の出来事",
+        "artist": "Miki Hirayama",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00189",
+        "Spotify": "4MpIgtozqPyjH2BJEa05yO",
+        "title": "時間よ止まれ - Remastered 2022",
+        "artist": "Eikichi Yazawa",
+        "release_date": "1978-06-01"
+      },
+      {
+        "CardNumber": "00188",
+        "Spotify": "631B0Vtr5oMc6GJJNXZLnp",
+        "title": "崖の上のポニョ",
+        "artist": "藤岡藤巻と大橋のぞみ",
+        "release_date": "2008-03-05"
+      },
+      {
+        "CardNumber": "00187",
+        "Spotify": "3ou1fnaevjh2rj6gSNLTim",
+        "title": "つけまつける",
+        "artist": "Kyary Pamyu Pamyu",
+        "release_date": "2012-01-11"
+      },
+      {
+        "CardNumber": "00186",
+        "Spotify": "5AL6qrKkqvs5WHTPpVTJ0J",
+        "title": "Love, Day After Tomorrow",
+        "artist": "Mai Kuraki",
+        "release_date": "2000-06-28"
+      },
+      {
+        "CardNumber": "00185",
+        "Spotify": "6DJ3dfsY7fOU161ZMjzWIH",
+        "title": "Automatic",
+        "artist": "Hikaru Utada",
+        "release_date": "1999-03-10"
+      },
+      {
+        "CardNumber": "00184",
+        "Spotify": "7mSVOYRseiZi20xtBKhHnF",
+        "title": "アイノカタチ",
+        "artist": "MISIA, HIDE (GReeeeN)",
+        "release_date": "2018-12-26"
+      },
+      {
+        "CardNumber": "00183",
+        "Spotify": "45jGOHwYKgsRYbAJ8DR61d",
+        "title": "ひまわりの約束",
+        "artist": "Motohiro Hata",
+        "release_date": "2015-12-16"
+      },
+      {
+        "CardNumber": "00182",
+        "Spotify": "6LtgrHfq3Q7O9PHcAZxkEH",
+        "title": "栄光の架橋",
+        "artist": "YUZU",
+        "release_date": "2017-04-26"
+      },
+      {
+        "CardNumber": "00181",
+        "Spotify": "0PAyiPTz8gL0udQnSasc5G",
+        "title": "TT - Japanese ver.",
+        "artist": "TWICE",
+        "release_date": "2017-06-28"
+      },
+      {
+        "CardNumber": "00180",
+        "Spotify": "60t5lev16eczZXurTNf56k",
+        "title": "パプリカ",
+        "artist": "Foorin",
+        "release_date": "2018-08-13"
+      },
+      {
+        "CardNumber": "00179",
+        "Spotify": "1YbqEpGIo3lsq32f2evqgG",
+        "title": "ミスター",
+        "artist": "KARA",
+        "release_date": "2010-08-11"
+      },
+      {
+        "CardNumber": "00178",
+        "Spotify": "42rv9MGtyeFmIEtlUP0M6e",
+        "title": "BLUE BIRD",
+        "artist": "Ayumi Hamasaki",
+        "release_date": "2006-11-29"
+      },
+      {
+        "CardNumber": "00177",
+        "Spotify": "5oQpH1uuZte4axR411rIlN",
+        "title": "SPECIALZ",
+        "artist": "King Gnu",
+        "release_date": "2023-11-29"
+      },
+      {
+        "CardNumber": "00176",
+        "Spotify": "0rOxufJJIVwmmwJ7n5FKZi",
+        "title": "メリーアン",
+        "artist": "THE ALFEE",
+        "release_date": "1983-09"
+      },
+      {
+        "CardNumber": "00175",
+        "Spotify": "0nzXwgSPtW41HDgmZe19iA",
+        "title": "2億4千万の瞳 -エキゾチック・ジャパン-",
+        "artist": "Hiromi Go",
+        "release_date": "1985-11-21"
+      },
+      {
+        "CardNumber": "00174",
+        "Spotify": "2IwBJv9KZb486qnRTUchWf",
+        "title": "FLASH",
+        "artist": "Perfume",
+        "release_date": "2016-03-16"
+      },
+      {
+        "CardNumber": "00173",
+        "Spotify": "1xKvK6t2HbqYgMZClqIYzL",
+        "title": "セーラー服を脱がさないで",
+        "artist": "Onyanko Club",
+        "release_date": "2001-12-05"
+      },
+      {
+        "CardNumber": "00172",
+        "Spotify": "1U2It4ydGIJ9L2LKyyRYCc",
+        "title": "Time goes by",
+        "artist": "Every Little Thing",
+        "release_date": "2016-12-14"
+      },
+      {
+        "CardNumber": "00171",
+        "Spotify": "4IqBRdBiSN251FuHM8k4Bp",
+        "title": "あなたに恋をしてみました",
+        "artist": "chay",
+        "release_date": "2015-04-15"
+      },
+      {
+        "CardNumber": "00170",
+        "Spotify": "7z0HnNeAREuJmRvQtpQIz0",
+        "title": "ようこそジャパリパークへ",
+        "artist": "Doubutsu Biscuits, PPP",
+        "release_date": "2017-02-08"
+      },
+      {
+        "CardNumber": "00169",
+        "Spotify": "5U1xJmlRimUm6DtRd0kM6f",
+        "title": "さくらんぼ",
+        "artist": "Ai Otsuka",
+        "release_date": "2004-03-31"
+      },
+      {
+        "CardNumber": "00168",
+        "Spotify": "2Os0vzke5CakbU3dkSHckx",
+        "title": "カブトムシ",
+        "artist": "aiko",
+        "release_date": "1999-11-17"
+      },
+      {
+        "CardNumber": "00167",
+        "Spotify": "23b0C1AE9Jt408lzWIvPSn",
+        "title": "トリセツ",
+        "artist": "Kana Nishino",
+        "release_date": "2015-09-09"
+      },
+      {
+        "CardNumber": "00166",
+        "Spotify": "51zZ2PGmL2n79muJpBWbjb",
+        "title": "港のヨーコ・ヨコハマ・ヨコスカ",
+        "artist": "Downtown Boogie Woogie Band",
+        "release_date": "2007-12-19"
+      },
+      {
+        "CardNumber": "00165",
+        "Spotify": "5dEojWGT3junlaa989hzGL",
+        "title": "LA･LA･LA LOVE SONG",
+        "artist": "Toshinobu Kubota, Naomi Campbell",
+        "release_date": "1996-05-13"
+      },
+      {
+        "CardNumber": "00164",
+        "Spotify": "5DEb6u4nukTgZh4fF9JNNx",
+        "title": "世界中の誰よりきっと",
+        "artist": "中山美穂, WANDS",
+        "release_date": "2015-07-22"
+      },
+      {
+        "CardNumber": "00163",
+        "Spotify": "2zntBR9UDPSvQCuXlFJpD5",
+        "title": "PRIDE",
+        "artist": "Miki Imai",
+        "release_date": "1997-07-16"
+      },
+      {
+        "CardNumber": "00162",
+        "Spotify": "09X1rFzgdHuX0PjOabAL4z",
+        "title": "抱きしめてTONIGHT",
+        "artist": "Toshihiko Tahara",
+        "release_date": "2014-08-06"
+      },
+      {
+        "CardNumber": "00161",
+        "Spotify": "1nKxXvdSodwk3UbPnTReR6",
+        "title": "め組のひと",
+        "artist": "Rats & Star",
+        "release_date": "1983"
+      },
+      {
+        "CardNumber": "00160",
+        "Spotify": "77MYgI1cBT0KhjszObXZTN",
+        "title": "ラヴ・イズ・オーヴァー",
+        "artist": "FeiFei Ou-Yang",
+        "release_date": "1982-09-01"
+      },
+      {
+        "CardNumber": "00159",
+        "Spotify": "2SeVaPeYLvZoNbfp154YxR",
+        "title": "待つわ",
+        "artist": "あみん",
+        "release_date": "1982-07-21"
+      },
+      {
+        "CardNumber": "00158",
+        "Spotify": "06m8KKTa6rAYJ5I6l2gZgS",
+        "title": "糸",
+        "artist": "中島みゆき",
+        "release_date": "1998-02-04"
+      },
+      {
+        "CardNumber": "00157",
+        "Spotify": "4wOgBRh7btZbfiERDDYweM",
+        "title": "恋におちたら",
+        "artist": "Crystal Kay",
+        "release_date": "2005-04-01"
+      },
+      {
+        "CardNumber": "00156",
+        "Spotify": "4NaaF28BeO9WzjDrSS71Nz",
+        "title": "ダンスホール",
+        "artist": "Mrs. GREEN APPLE",
+        "release_date": "2022-05-23"
+      },
+      {
+        "CardNumber": "00155",
+        "Spotify": "6xQJ0y5wkcma2j4grfV1Qz",
+        "title": "恋におちて -Fall in love 2013-",
+        "artist": "Akiko Kobayashi",
+        "release_date": "2013-10-23"
+      },
+      {
+        "CardNumber": "00154",
+        "Spotify": "0OWgeWt4Vy4niKdHbMKS3x",
+        "title": "My Revolution",
+        "artist": "Misato Watanabe",
+        "release_date": "1985"
+      },
+      {
+        "CardNumber": "00153",
+        "Spotify": "1OiKgvbwehchswoMFmBBlb",
+        "title": "やさしさで溢れるように",
+        "artist": "JUJU",
+        "release_date": "2009-03-04"
+      },
+      {
+        "CardNumber": "00152",
+        "Spotify": "66NAy1FnkkF7Phkpkg52nA",
+        "title": "366日",
+        "artist": "HY, 與那城奨",
+        "release_date": "2024-04-22"
+      },
+      {
+        "CardNumber": "00151",
+        "Spotify": "1Vqs0lXeJafYZz2sxnfB3V",
+        "title": "シンデレラボーイ",
+        "artist": "Saucy Dog",
+        "release_date": "2021-08-25"
+      },
+      {
+        "CardNumber": "00150",
+        "Spotify": "3PK5ERLCyMuQ5Cb89GbZVL",
+        "title": "魔法の絨毯",
+        "artist": "川崎鷹也",
+        "release_date": "2018-03-14"
+      },
+      {
+        "CardNumber": "00149",
+        "Spotify": "5skCbGGAnc7Ns18Figz54h",
+        "title": "Bunny Girl",
+        "artist": "AKASAKI",
+        "release_date": "2024-10-02"
+      },
+      {
+        "CardNumber": "00148",
+        "Spotify": "00Q3uYmFKFVYTRjbsnUq7H",
+        "title": "I wonder",
+        "artist": "Da-iCE",
+        "release_date": "2024-04-17"
+      },
+      {
+        "CardNumber": "00147",
+        "Spotify": "5S59A1VzjLyjwp9iEfx2ou",
+        "title": "見上げてごらん夜の星を",
+        "artist": "Kyu Sakamoto",
+        "release_date": "2009-09-09"
+      },
+      {
+        "CardNumber": "00146",
+        "Spotify": "32utPOqeZOhVzqxeAukEPf",
+        "title": "黒ネコのタンゴ",
+        "artist": "皆川おさむ",
+        "release_date": "2020-09-09"
+      },
+      {
+        "CardNumber": "00145",
+        "Spotify": "4wLQr28uORriOx5rNM8by7",
+        "title": "Lovers Again",
+        "artist": "EXILE",
+        "release_date": "2007-03-07"
+      },
+      {
+        "CardNumber": "00144",
+        "Spotify": "1EsTrIYGCFpKOATG8naWEU",
+        "title": "憧れのハワイ航路",
+        "artist": "岡晴夫",
+        "release_date": "2023-12-06"
+      },
+      {
+        "CardNumber": "00143",
+        "Spotify": "69lyoI73JEsQr93FXs9CE1",
+        "title": "純恋歌",
+        "artist": "Shonan No Kaze",
+        "release_date": "2006-03-08"
+      },
+      {
+        "CardNumber": "00142",
+        "Spotify": "1Rvh5RimhF3ndpclBmIdeJ",
+        "title": "そばにいるね",
+        "artist": "Thelma Aoyama, SoulJa",
+        "release_date": "2008-01-23"
+      },
+      {
+        "CardNumber": "00141",
+        "Spotify": "5OsK9mvF3a0YkPQ9eUZ4BM",
+        "title": "ポリリズム",
+        "artist": "Perfume",
+        "release_date": "2008-04-16"
+      },
+      {
+        "CardNumber": "00140",
+        "Spotify": "47wkGrU4Rxv5VbNfHmEqw4",
+        "title": "Tomorrow never knows",
+        "artist": "Mr.Children",
+        "release_date": "1997-03-05"
+      },
+      {
+        "CardNumber": "00139",
+        "Spotify": "37wZDW2UoJHpzG5xJyBpgn",
+        "title": "ウィーアー!",
+        "artist": "Hiroshi Kitadani",
+        "release_date": "1999-11-20"
+      },
+      {
+        "CardNumber": "00138",
+        "Spotify": "41xGcFvQsGYQs0RDFvPfv3",
+        "title": "はいよろこんで",
+        "artist": "Kocchi no Kento",
+        "release_date": "2024-05-27"
+      },
+      {
+        "CardNumber": "00137",
+        "Spotify": "0xYSgQHddr1lh6IfqWgn2W",
+        "title": "ロマンスの神様",
+        "artist": "Kohmi Hirose",
+        "release_date": "1993-12-16"
+      },
+      {
+        "CardNumber": "00136",
+        "Spotify": "5RbMlPFL4gVyEHW2lEOuzG",
+        "title": "奏(かなで)",
+        "artist": "Sukima Switch",
+        "release_date": "2004-06-23"
+      },
+      {
+        "CardNumber": "00135",
+        "Spotify": "3hRRYgBeunE3PTmnzATTS0",
+        "title": "天体観測",
+        "artist": "BUMP OF CHICKEN",
+        "release_date": "2002-02-20"
+      },
+      {
+        "CardNumber": "00134",
+        "Spotify": "2n85jrwWWqTVHrSUXxvMs8",
+        "title": "本能",
+        "artist": "Sheena Ringo",
+        "release_date": "1999-10-27"
+      },
+      {
+        "CardNumber": "00133",
+        "Spotify": "7jqRTdBUqNhJaI0fKdOClO",
+        "title": "Monster",
+        "artist": "ARASHI",
+        "release_date": "2010-05-19"
+      },
+      {
+        "CardNumber": "00132",
+        "Spotify": "64awLoKSPoQ5M6YulMsyCe",
+        "title": "家族になろうよ",
+        "artist": "Masaharu Fukuyama",
+        "release_date": "2011-08-31"
+      },
+      {
+        "CardNumber": "00131",
+        "Spotify": "1xPJyWU404xqHVnvNhvVZ6",
+        "title": "YAH YAH YAH",
+        "artist": "CHAGE and ASKA",
+        "release_date": "1993-10-10"
+      },
+      {
+        "CardNumber": "00130",
+        "Spotify": "0wMfMGp7nz7JMNw7tei9f5",
+        "title": "今宵の月のように",
+        "artist": "Elephant Kashimashi",
+        "release_date": "1997"
+      },
+      {
+        "CardNumber": "00129",
+        "Spotify": "6PBBGlTEVfUyfnmemrnhbp",
+        "title": "CHE.R.RY",
+        "artist": "YUI",
+        "release_date": "2007-04-04"
+      },
+      {
+        "CardNumber": "00128",
+        "Spotify": "7alh4faMaiSHeXQSRa0ZjR",
+        "title": "おもいで酒",
+        "artist": "Sachiko Kobayashi",
+        "release_date": "1985-04-25"
+      },
+      {
+        "CardNumber": "00127",
+        "Spotify": "7iXHLtPosbHvglVSJ4rxLq",
+        "title": "愛唄",
+        "artist": "GReeeeN",
+        "release_date": "2007-01-01"
+      },
+      {
+        "CardNumber": "00126",
+        "Spotify": "0b2PHexDZWgFbvRRswrfRk",
+        "title": "田園",
+        "artist": "Koji Tamaki",
+        "release_date": "1996"
+      },
+      {
+        "CardNumber": "00125",
+        "Spotify": "6PvSSxbaGltkL4tboGND85",
+        "title": "夜霧よ今夜も有難う",
+        "artist": "Yujiro Ishihara",
+        "release_date": "1989-06-25"
+      },
+      {
+        "CardNumber": "00124",
+        "Spotify": "6b8Be6ljOzmkOmFslEb23P",
+        "title": "24K Magic",
+        "artist": "Bruno Mars",
+        "release_date": "2016-11-17"
+      },
+      {
+        "CardNumber": "00123",
+        "Spotify": "0GSwex3tYTo70YONCB0JCv",
+        "title": "舟唄",
+        "artist": "Aki Yashiro",
+        "release_date": "2017-11-22"
+      },
+      {
+        "CardNumber": "00122",
+        "Spotify": "4a48lWUd64bZgHUDx0GZlj",
+        "title": "新宝島",
+        "artist": "sakanaction",
+        "release_date": "2019-06-19"
+      },
+      {
+        "CardNumber": "00121",
+        "Spotify": "0qMip0B2D4ePEjBJvAtYre",
+        "title": "紅蓮華",
+        "artist": "LiSA",
+        "release_date": "2020-10-14"
+      },
+      {
+        "CardNumber": "00120",
+        "Spotify": "1zXZ0iqgR5Sd7RlPtiW1Oy",
+        "title": "わたしの彼は左きき",
+        "artist": "Megumi Asaoka",
+        "release_date": "1973"
+      },
+      {
+        "CardNumber": "00119",
+        "Spotify": "3ZvePx4621Dba7s3arI0rR",
+        "title": "プレイバック part 2",
+        "artist": "Momoe Yamaguchi",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00118",
+        "Spotify": "0ve9Tpz8Yw0I4eXhWsy21o",
+        "title": "ワタリドリ",
+        "artist": "[Alexandros]",
+        "release_date": "2015-06-17"
+      },
+      {
+        "CardNumber": "00117",
+        "Spotify": "67hqNYkYImuoGwtXE6HYnI",
+        "title": "マル・マル・モリ・モリ！ - フルサイズ",
+        "artist": "Kaorutotomoki Tamani Mukku.",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00116",
+        "Spotify": "3DyU9NobsAncxLYbMh8oBm",
+        "title": "想い出の渚",
+        "artist": "ザ・ワイルドワンズ",
+        "release_date": "1967-06-15"
+      },
+      {
+        "CardNumber": "00115",
+        "Spotify": "0teqQ0PYqVDyyXJuPOyMhu",
+        "title": "ケセラセラ",
+        "artist": "Mrs. GREEN APPLE",
+        "release_date": "2023-07-04"
+      },
+      {
+        "CardNumber": "00114",
+        "Spotify": "70noGa1oDVWTLM2wGd9Q0h",
+        "title": "いつでも夢を",
+        "artist": "Yukio Hashi, Sayuri Yoshinaga",
+        "release_date": "2019-07-03"
+      },
+      {
+        "CardNumber": "00113",
+        "Spotify": "72IwoG8tqvIWV10IHjpNNA",
+        "title": "Dynamite",
+        "artist": "BTS",
+        "release_date": "2020-08-28"
+      },
+      {
+        "CardNumber": "00112",
+        "Spotify": "0kdqcbwei4MDWFEX5f33yG",
+        "title": "Bling-Bang-Bang-Born",
+        "artist": "Creepy Nuts",
+        "release_date": "2024-01-07"
+      },
+      {
+        "CardNumber": "00111",
+        "Spotify": "41MccGiifvAeNrZ9CAgzcB",
+        "title": "どうにもとまらない",
+        "artist": "山本リンダ",
+        "release_date": "2008-04-02"
+      },
+      {
+        "CardNumber": "00110",
+        "Spotify": "0wz1LjDb9ZNEYwOmDJ3Q4b",
+        "title": "Surfin' U.S.A. - Remastered 2001",
+        "artist": "The Beach Boys",
+        "release_date": "1963-03-25"
+      },
+      {
+        "CardNumber": "00109",
+        "Spotify": "1NF6koRrvqGD77tHfLQh8N",
+        "title": "DEPARTURES",
+        "artist": "globe",
+        "release_date": "2002-11-27"
+      },
+      {
+        "CardNumber": "00108",
+        "Spotify": "23a4YCoujGcwDqbD9HWLrC",
+        "title": "ff(ﾌｫﾙﾃｨｼﾓ)",
+        "artist": "大友康平",
+        "release_date": "2009-05-20"
+      },
+      {
+        "CardNumber": "00107",
+        "Spotify": "30WNOfFRiqgebO4eRkCii8",
+        "title": "GO!!!",
+        "artist": "FLOW",
+        "release_date": "2004"
+      },
+      {
+        "CardNumber": "00106",
+        "Spotify": "1oqoXgWdAtce5vp0mGlJ7C",
+        "title": "DIAMONDS (ダイアモンド)",
+        "artist": "PRINCESS PRINCESS",
+        "release_date": "1988"
+      },
+      {
+        "CardNumber": "00105",
+        "Spotify": "4wGpLqA2HEq6DHaFFWSGdQ",
+        "title": "スーダラ節",
+        "artist": "Hitoshi Ueki",
+        "release_date": "2006-05-24"
+      },
+      {
+        "CardNumber": "00104",
+        "Spotify": "1cqpwSj2BFeKYKavle5FYL",
+        "title": "SEASONS",
+        "artist": "Ayumi Hamasaki",
+        "release_date": "2000-09-27"
+      },
+      {
+        "CardNumber": "00103",
+        "Spotify": "4oYLy9WmdaisOWo06v4RbG",
+        "title": "Gee",
+        "artist": "Girls' Generation",
+        "release_date": "2011-01-01"
+      },
+      {
+        "CardNumber": "00102",
+        "Spotify": "05sAiE8Cg4njAkvzLEVCRt",
+        "title": "True Love",
+        "artist": "Fumiya Fujii",
+        "release_date": "1994"
+      },
+      {
+        "CardNumber": "00101",
+        "Spotify": "3JrxNi0sQ1Lnx8eGonp3Ma",
+        "title": "にじいろ",
+        "artist": "ayaka",
+        "release_date": "2015-04-15"
+      },
+      {
+        "CardNumber": "00100",
+        "Spotify": "77lDtM6G8ocXrlvriWgZBW",
+        "title": "渚のシンドバッド",
+        "artist": "Pink Lady",
+        "release_date": "1981"
+      },
+      {
+        "CardNumber": "00099",
+        "Spotify": "0V2axJ946WH1vt9t5SGMLV",
+        "title": "Story",
+        "artist": "AI",
+        "release_date": "2006-09-27"
+      },
+      {
+        "CardNumber": "00098",
+        "Spotify": "4fMewVWtew1oB6d3E8x9pp",
+        "title": "オトナブルー",
+        "artist": "ATARASHII GAKKO!",
+        "release_date": "2020-02-28"
+      },
+      {
+        "CardNumber": "00097",
+        "Spotify": "0SO2mCbYsQn4KLuoxe3r2V",
+        "title": "One Night Carnival",
+        "artist": "Kishidan",
+        "release_date": "2003-03-26"
+      },
+      {
+        "CardNumber": "00096",
+        "Spotify": "3BhkAZ3ifGAPTxXSOeB7JJ",
+        "title": "三日月 - 2016 ver.",
+        "artist": "ayaka",
+        "release_date": "2016-07-13"
+      },
+      {
+        "CardNumber": "00095",
+        "Spotify": "3HJ0g0jfIehSzGOGpnlvRp",
+        "title": "あなたのキスを数えましょう 〜You were mine〜 - Single Version",
+        "artist": "Yuki Koyanagi",
+        "release_date": "2001-11-28"
+      },
+      {
+        "CardNumber": "00094",
+        "Spotify": "2eTFeq3uicvq8wzG00JMQx",
+        "title": "銀河鉄道999",
+        "artist": "Godiego",
+        "release_date": "1979-07-01"
+      },
+      {
+        "CardNumber": "00093",
+        "Spotify": "3dDZFJSvdT9N2nNAdsE9j2",
+        "title": "残酷な天使のテーゼ",
+        "artist": "Yoko Takahashi",
+        "release_date": "1995-10-25"
+      },
+      {
+        "CardNumber": "00092",
+        "Spotify": "6bkJ4p6uSKmSnKxYpmB4aG",
+        "title": "Everything",
+        "artist": "MISIA",
+        "release_date": "2013-02-20"
+      },
+      {
+        "CardNumber": "00091",
+        "Spotify": "1puct9lpI0X9Qjt1y3uuE0",
+        "title": "島唄",
+        "artist": "THE BOOM",
+        "release_date": "2012-11-07"
+      },
+      {
+        "CardNumber": "00090",
+        "Spotify": "0OZqpGWjAjSIgzP1XpCUfE",
+        "title": "高原列車は行く",
+        "artist": "岡本敦郎",
+        "release_date": "2007-11-21"
+      },
+      {
+        "CardNumber": "00089",
+        "Spotify": "6OxxzC0HsX7zK3ZO3q79H6",
+        "title": "traveling",
+        "artist": "Hikaru Utada",
+        "release_date": "2002-06-19"
+      },
+      {
+        "CardNumber": "00088",
+        "Spotify": "6EzZn96uOc9JsVGNRpx06n",
+        "title": "うっせぇわ",
+        "artist": "Ado",
+        "release_date": "2020-10-23"
+      },
+      {
+        "CardNumber": "00087",
+        "Spotify": "0TwBtDAWpkpM3srywFVOV5",
+        "title": "Crazy In Love (feat. JAY-Z)",
+        "artist": "Beyoncé, JAY-Z",
+        "release_date": "2003-03-10"
+      },
+      {
+        "CardNumber": "00086",
+        "Spotify": "37yHxMij3cpN8SdO915LUI",
+        "title": "恋するフォーチュンクッキー",
+        "artist": "AKB48",
+        "release_date": "2014-01-22"
+      },
+      {
+        "CardNumber": "00085",
+        "Spotify": "5W7Y92LB4jWvu9NeEQ0GZl",
+        "title": "なんでもないよ、",
+        "artist": "Macaroni Empitsu",
+        "release_date": "2022-01-12"
+      },
+      {
+        "CardNumber": "00084",
+        "Spotify": "3SOlzWZQ604wzUPxF8RfLg",
+        "title": "LOVE PHANTOM",
+        "artist": "B'z",
+        "release_date": "1995-10-11"
+      },
+      {
+        "CardNumber": "00083",
+        "Spotify": "2Zw2H4WE6fDrA2QTrPb1RZ",
+        "title": "東京ブギウギ",
+        "artist": "笠置シヅ子",
+        "release_date": "2023-07-19"
+      },
+      {
+        "CardNumber": "00082",
+        "Spotify": "4XkqVSWIPb07iLEDvAPq93",
+        "title": "やさしくなりたい",
+        "artist": "Kazuyoshi Saito",
+        "release_date": "2013-10-23"
+      },
+      {
+        "CardNumber": "00081",
+        "Spotify": "0aRPz0c89bqxTA5spi8iZ7",
+        "title": "守ってあげたい",
+        "artist": "Yumi Matsutoya",
+        "release_date": "1981-11-01"
+      },
+      {
+        "CardNumber": "00080",
+        "Spotify": "71wqxjVuvyswfxMzO7rtB5",
+        "title": "川の流れのように",
+        "artist": "Hibari Misora",
+        "release_date": "1989-04-21"
+      },
+      {
+        "CardNumber": "00079",
+        "Spotify": "1PO6RtRTJTm9g1sMBCSeFN",
+        "title": "愛が止まらない ～TURN IT INTO LOVE～",
+        "artist": "Wink",
+        "release_date": "1988-11-16"
+      },
+      {
+        "CardNumber": "00078",
+        "Spotify": "78LQTUp1f8APWgFNZNOD5y",
+        "title": "if...",
+        "artist": "DA PUMP",
+        "release_date": "2000-09-27"
+      },
+      {
+        "CardNumber": "00077",
+        "Spotify": "28MATCYDctW5EiBa2repxb",
+        "title": "新時代",
+        "artist": "Ado",
+        "release_date": "2022-08-09"
+      },
+      {
+        "CardNumber": "00076",
+        "Spotify": "0Iy4hpltUgfZfvyZbH6LA3",
+        "title": "東京ラプソディー",
+        "artist": "Fujiyama Ichiro",
+        "release_date": "2021-08-25"
+      },
+      {
+        "CardNumber": "00075",
+        "Spotify": "4CV3yauEfKZObKt1Zp2hgy",
+        "title": "真夏の夜の夢",
+        "artist": "Yumi Matsutoya",
+        "release_date": "1993-11-26"
+      },
+      {
+        "CardNumber": "00074",
+        "Spotify": "5SkmsuNc2qQTJZh92Ihm1j",
+        "title": "恋のバカンス",
+        "artist": "The Peanuts",
+        "release_date": "2009-05-27"
+      },
+      {
+        "CardNumber": "00073",
+        "Spotify": "00ReSyZX36w9I0WWCgycGJ",
+        "title": "未来予想図Ⅱ",
+        "artist": "DREAMS COME TRUE",
+        "release_date": "1989"
+      },
+      {
+        "CardNumber": "00072",
+        "Spotify": "1ORkFlSSZwpReXTUXfMI0i",
+        "title": "PPAP(Pen-Pineapple-Apple-Pen)",
+        "artist": "PIKOTARO",
+        "release_date": "2016-12-07"
+      },
+      {
+        "CardNumber": "00071",
+        "Spotify": "1KKc8f9ZiKFzOeRJJ3SYn7",
+        "title": "STAY TUNE",
+        "artist": "Suchmos",
+        "release_date": "2017-01-25"
+      },
+      {
+        "CardNumber": "00070",
+        "Spotify": "6OtnbgflPOmeW5Nr7ZFc6T",
+        "title": "大迷惑 (シングル・ヴァージョン)",
+        "artist": "UNICORN",
+        "release_date": "2012-11-07"
+      },
+      {
+        "CardNumber": "00069",
+        "Spotify": "7fVuFTodvQPM5LKpT5vdFM",
+        "title": "GLAMOROUS SKY",
+        "artist": "NANA, Mika Nakashima",
+        "release_date": "2006"
+      },
+      {
+        "CardNumber": "00068",
+        "Spotify": "4eL14qmwVFFgXoOqy9fWOt",
+        "title": "Driver's High - Remastered 2022",
+        "artist": "L'Arc-en-Ciel",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00067",
+        "Spotify": "10G6iBGzoMi9qXgDV9qyBy",
+        "title": "Love so sweet",
+        "artist": "ARASHI",
+        "release_date": "2007-02-21"
+      },
+      {
+        "CardNumber": "00066",
+        "Spotify": "5zanzrQqTwZoSaEsWGnKRs",
+        "title": "君がくれた夏",
+        "artist": "Leo Ieiri",
+        "release_date": "2015-08-19"
+      },
+      {
+        "CardNumber": "00065",
+        "Spotify": "3dPtXHP0oXQ4HCWHsOA9js",
+        "title": "夜に駆ける",
+        "artist": "YOASOBI",
+        "release_date": "2019-12-15"
+      },
+      {
+        "CardNumber": "00064",
+        "Spotify": "1mbFlmyw5rJua63zNeDeO2",
+        "title": "シーズン・イン・ザ・サン",
+        "artist": "TUBE",
+        "release_date": "1986-06-01"
+      },
+      {
+        "CardNumber": "00063",
+        "Spotify": "3igzzZE41AOz8aHFMGRsqi",
+        "title": "元気を出して",
+        "artist": "Mariya Takeuchi",
+        "release_date": "1987-08-12"
+      },
+      {
+        "CardNumber": "00062",
+        "Spotify": "5pdXvqbNN5kdR3yP28kbZE",
+        "title": "グッド・バイ・マイ・ラブ",
+        "artist": "Ann Lewis",
+        "release_date": "1974-07-05"
+      },
+      {
+        "CardNumber": "00061",
+        "Spotify": "5Xme5o8eaH89vTEqYaB5Fn",
+        "title": "乾杯",
+        "artist": "Tsuyoshi Nagabuchi",
+        "release_date": "2014-07-02"
+      },
+      {
+        "CardNumber": "00060",
+        "Spotify": "55Ww4Pa1iIQMhh0MLMetjo",
+        "title": "まちがいさがし",
+        "artist": "SUDA MASAKI",
+        "release_date": "2019-07-10"
+      },
+      {
+        "CardNumber": "00059",
+        "Spotify": "3Ztjw8utVpcrzms1RrsJvR",
+        "title": "全力少年",
+        "artist": "Sukima Switch",
+        "release_date": "2005-07-20"
+      },
+      {
+        "CardNumber": "00058",
+        "Spotify": "4qZyuyqLoZ3CaH79rGvJFR",
+        "title": "U.S.A.",
+        "artist": "DA PUMP",
+        "release_date": "2018-06-06"
+      },
+      {
+        "CardNumber": "00057",
+        "Spotify": "41nBBliSNmH1Qv9HSjHF9l",
+        "title": "島人ぬ宝",
+        "artist": "BEGIN",
+        "release_date": "2002-07-03"
+      },
+      {
+        "CardNumber": "00056",
+        "Spotify": "38mUTswfszVFQ952r89AP8",
+        "title": "千本桜",
+        "artist": "KuroUsa(WhiteFlame)",
+        "release_date": "2012-02-29"
+      },
+      {
+        "CardNumber": "00055",
+        "Spotify": "4LbkztX6uFkCqar3yPDagN",
+        "title": "愛のメモリー",
+        "artist": "Shigeru Matsuzaki",
+        "release_date": "1988-05-11"
+      },
+      {
+        "CardNumber": "00054",
+        "Spotify": "237tJYVU76qhKPdiohaOYz",
+        "title": "時の流れに身をまかせ",
+        "artist": "Teresa Teng",
+        "release_date": "1980"
+      },
+      {
+        "CardNumber": "00053",
+        "Spotify": "3OWQGA40CgyZ7AHhVTOe34",
+        "title": "前前前世",
+        "artist": "RADWIMPS",
+        "release_date": "2016-11-23"
+      },
+      {
+        "CardNumber": "00052",
+        "Spotify": "4JAAPHvBxmRsSXeu9gVdxc",
+        "title": "ミックスナッツ",
+        "artist": "OFFICIAL HIGE DANDISM",
+        "release_date": "2024-07-24"
+      },
+      {
+        "CardNumber": "00051",
+        "Spotify": "3DzDdKh0Txo88G5zHbri2h",
+        "title": "リンゴの唄",
+        "artist": "並木路子",
+        "release_date": "2014-11-19"
+      },
+      {
+        "CardNumber": "00050",
+        "Spotify": "6Ko5MADnkgh7GZJfieBnln",
+        "title": "ヒカリヘ",
+        "artist": "miwa",
+        "release_date": "2013-05-22"
+      },
+      {
+        "CardNumber": "00049",
+        "Spotify": "59loZd2i4qNyyeWeW51lB5",
+        "title": "硝子の少年",
+        "artist": "KinKi Kids",
+        "release_date": "1997-07-21"
+      },
+      {
+        "CardNumber": "00048",
+        "Spotify": "6Qq8UOS6QzeSYFUVXC5wEB",
+        "title": "何度でも",
+        "artist": "DREAMS COME TRUE",
+        "release_date": "2005-01-01"
+      },
+      {
+        "CardNumber": "00047",
+        "Spotify": "2LlQb7Uoj1kKyGhlkBf9aC",
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "release_date": "1982-11-30"
+      },
+      {
+        "CardNumber": "00046",
+        "Spotify": "75sVhuWjMLCtihbXY6TNKk",
+        "title": "フライングゲット",
+        "artist": "AKB48",
+        "release_date": "2012-08-15"
+      },
+      {
+        "CardNumber": "00045",
+        "Spotify": "0SglZnioHhx5BQPHvDD4Ew",
+        "title": "時代 - ライヴ2010～11",
+        "artist": "中島みゆき",
+        "release_date": "2012-10-10"
+      },
+      {
+        "CardNumber": "00044",
+        "Spotify": "7tkfkqKfWtU1GIoV9IY9rQ",
+        "title": "気分上々↑↑",
+        "artist": "Mihimaru GT",
+        "release_date": "2006-09-13"
+      },
+      {
+        "CardNumber": "00043",
+        "Spotify": "3gWJIQefaaSuOU6RJlDLm9",
+        "title": "君がいるだけで",
+        "artist": "Kome Kome Club",
+        "release_date": "1991"
+      },
+      {
+        "CardNumber": "00042",
+        "Spotify": "3nYe3TNoETmeXkseSdnUFz",
+        "title": "夏色",
+        "artist": "YUZU",
+        "release_date": "1998-07-23"
+      },
+      {
+        "CardNumber": "00041",
+        "Spotify": "477CB93mH986mrIheQD0RR",
+        "title": "come again",
+        "artist": "m-flo",
+        "release_date": "2001-03-28"
+      },
+      {
+        "CardNumber": "00040",
+        "Spotify": "2EmkTBTh964LQen4Vz0svg",
+        "title": "花になって - Be a flower",
+        "artist": "Ryokuoushoku Shakai",
+        "release_date": "2023-10-29"
+      },
+      {
+        "CardNumber": "00039",
+        "Spotify": "19oxKZQilcf3pGhduW6TPg",
+        "title": "WOW WAR TONIGHT〜時には起こせよムーヴメント〜 - TWO MILLION MIX",
+        "artist": "H Jungle With t",
+        "release_date": "1995-03-15"
+      },
+      {
+        "CardNumber": "00038",
+        "Spotify": "6XRIhZzGGr4CPRdsecaXOG",
+        "title": "今すぐKiss Me",
+        "artist": "LINDBERG",
+        "release_date": "1993-06-05"
+      },
+      {
+        "CardNumber": "00037",
+        "Spotify": "5EjvlyjMwqmabXgFDD8D2x",
+        "title": "シーソーゲーム～勇敢な恋の歌～",
+        "artist": "Mr.Children",
+        "release_date": "1997-03-05"
+      },
+      {
+        "CardNumber": "00036",
+        "Spotify": "4lPEdvGVptFXUMk8DKMLnF",
+        "title": "浪漫飛行",
+        "artist": "Kome Kome Club",
+        "release_date": "1987"
+      },
+      {
+        "CardNumber": "00035",
+        "Spotify": "0d44Njo4glyy97W6AvvMLT",
+        "title": "ルビーの指環",
+        "artist": "Akira Terao",
+        "release_date": "1981-04-05"
+      },
+      {
+        "CardNumber": "00034",
+        "Spotify": "10nE6yd1TUUtjpuLeapZmN",
+        "title": "ワインレッドの心",
+        "artist": "Anzen Chitai",
+        "release_date": "1984"
+      },
+      {
+        "CardNumber": "00033",
+        "Spotify": "3AVLsBieDGotYuo5RPEL64",
+        "title": "真夏の果実",
+        "artist": "サザンオールスターズ",
+        "release_date": "1990-07-25"
+      },
+      {
+        "CardNumber": "00032",
+        "Spotify": "0fmIa7k7fSfpPYrJIKzgvT",
+        "title": "およげ!たいやきくん",
+        "artist": "Masato Shimon",
+        "release_date": "2008-03-05"
+      },
+      {
+        "CardNumber": "00031",
+        "Spotify": "5WuBu7WHqaDAIs5dikGclg",
+        "title": "Shake It Off",
+        "artist": "Taylor Swift",
+        "release_date": "2014-10-27"
+      },
+      {
+        "CardNumber": "00030",
+        "Spotify": "6RmzpEI2Weg2omlrvOQ1jz",
+        "title": "まつり",
+        "artist": "Saburo Kitajima",
+        "release_date": "2022-01-01"
+      },
+      {
+        "CardNumber": "00029",
+        "Spotify": "2FfU6BLvwYySpKnVmG2XJh",
+        "title": "Rising Sun",
+        "artist": "EXILE",
+        "release_date": "2016-09-27"
+      },
+      {
+        "CardNumber": "00028",
+        "Spotify": "66YLc8VbZSm4FH9uauxlrs",
+        "title": "少年時代 - Remastered 2018",
+        "artist": "Yosui Inoue",
+        "release_date": "1990"
+      },
+      {
+        "CardNumber": "00027",
+        "Spotify": "2cErTn7DU75ZILisPP34TB",
+        "title": "残響散歌",
+        "artist": "Aimer",
+        "release_date": "2023-07-26"
+      },
+      {
+        "CardNumber": "00026",
+        "Spotify": "0h9VlXphgiAHN1gQ9xtnNa",
+        "title": "ハナミズキ",
+        "artist": "Yo Hitoto",
+        "release_date": "2004-04-07"
+      },
+      {
+        "CardNumber": "00025",
+        "Spotify": "369Hij6w8bRwahCIlhYW5A",
+        "title": "大切なもの",
+        "artist": "Road Of Major",
+        "release_date": "2005-08-22"
+      },
+      {
+        "CardNumber": "00024",
+        "Spotify": "7pcTLUekZJQnzDOUDuExVJ",
+        "title": "打上花火",
+        "artist": "Daoko, Kenshi Yonezu",
+        "release_date": "2017-08-16"
+      },
+      {
+        "CardNumber": "00023",
+        "Spotify": "5QJpzet9iIGMuGZLNTYn8v",
+        "title": "グッド・ナイト・ベイビー",
+        "artist": "The King Tones",
+        "release_date": "1995"
+      },
+      {
+        "CardNumber": "00022",
+        "Spotify": "5LkWXxDxUTwEVHL0pfKL55",
+        "title": "Pretender",
+        "artist": "OFFICIAL HIGE DANDISM",
+        "release_date": "2019-05-15"
+      },
+      {
+        "CardNumber": "00021",
+        "Spotify": "6IwQAPovmEz5ft8bDUKLrj",
+        "title": "勿忘",
+        "artist": "Awesome City Club",
+        "release_date": "2021-01-27"
+      },
+      {
+        "CardNumber": "00020",
+        "Spotify": "0Bxf7R4iTQu48aNIQ48XrP",
+        "title": "帰って来たヨッパライ",
+        "artist": "The Folk Crusaders",
+        "release_date": "1968"
+      },
+      {
+        "CardNumber": "00019",
+        "Spotify": "6ybLgHBGIxR8R6IIVmaipO",
+        "title": "W / X / Y",
+        "artist": "Tani Yuuki",
+        "release_date": "2021-05-26"
+      },
+      {
+        "CardNumber": "00018",
+        "Spotify": "1HqDxJI4vF0dloG1gKDJ2o",
+        "title": "長い間",
+        "artist": "Kiroro",
+        "release_date": "2002-02-21"
+      },
+      {
+        "CardNumber": "00017",
+        "Spotify": "3v8jueMBhMF6fxcVlvZAR7",
+        "title": "KISS ME",
+        "artist": "Kyosuke Himuro",
+        "release_date": "1993-01-07"
+      },
+      {
+        "CardNumber": "00016",
+        "Spotify": "7jhhXXvjfuTdUS8gUSHKOk",
+        "title": "ぐるぐるカーテン",
+        "artist": "Nogizaka46",
+        "release_date": "2015-01-07"
+      },
+      {
+        "CardNumber": "00015",
+        "Spotify": "2AQnmlCTT1DCuqQHyB0ryf",
+        "title": "PIECES OF A DREAM",
+        "artist": "CHEMISTRY",
+        "release_date": "2001"
+      },
+      {
+        "CardNumber": "00014",
+        "Spotify": "7M3oRWV8h3ssMjNP24jJCF",
+        "title": "シングルベッド",
+        "artist": "Sharam Q",
+        "release_date": "1994"
+      },
+      {
+        "CardNumber": "00013",
+        "Spotify": "3P2aSkjcbUYbcYr13EFE8n",
+        "title": "空も飛べるはず",
+        "artist": "SPITZ",
+        "release_date": "2006-03-25"
+      },
+      {
+        "CardNumber": "00012",
+        "Spotify": "39ctCzopDN0dYr26AKmQOP",
+        "title": "愛のしるし",
+        "artist": "Puffy AmiYumi",
+        "release_date": "1998"
+      },
+      {
+        "CardNumber": "00011",
+        "Spotify": "1X7VQFZ23MgWshmLHYFRsZ",
+        "title": "勝手にシンドバッド",
+        "artist": "サザンオールスターズ",
+        "release_date": "1978-06-25"
+      },
+      {
+        "CardNumber": "00010",
+        "Spotify": "4TaW3Rr7Dmb55yNDzbuPCp",
+        "title": "Romanticが止まらない - Remix Version",
+        "artist": "C-C-B",
+        "release_date": "2005-07-01"
+      },
+      {
+        "CardNumber": "00009",
+        "Spotify": "37G8WNh16c68VN0z8NNoPd",
+        "title": "ちょこっとLOVE",
+        "artist": "プッチモニ",
+        "release_date": "1999-11-25"
+      },
+      {
+        "CardNumber": "00008",
+        "Spotify": "2iXZA6Ecf9AZHw92tZBNLv",
+        "title": "TSUNAMI",
+        "artist": "サザンオールスターズ",
+        "release_date": "2000-01-26"
+      },
+      {
+        "CardNumber": "00007",
+        "Spotify": "1z9sbRTej9JymuzC65xFlS",
+        "title": "女々しくて",
+        "artist": "GOLDEN BOMBER",
+        "release_date": "2010-01-06"
+      },
+      {
+        "CardNumber": "00006",
+        "Spotify": "0iniTNHwqBiP4UDE1dgUpD",
+        "title": "馬と鹿",
+        "artist": "Kenshi Yonezu",
+        "release_date": "2020-08-05"
+      },
+      {
+        "CardNumber": "00005",
+        "Spotify": "7dTW21YAJxnAOiUh7Rtu9S",
+        "title": "怪獣の花唄",
+        "artist": "Vaundy",
+        "release_date": "2020-05-27"
+      },
+      {
+        "CardNumber": "00004",
+        "Spotify": "7LAJECZgRzFxig0yTh0ofN",
+        "title": "ブルー・シャトウ",
+        "artist": "ジャッキー吉川とブルー・コメッツ",
+        "release_date": "2013-12-18"
+      },
+      {
+        "CardNumber": "00003",
+        "Spotify": "5FJho22sdsYoBFeuov4myw",
+        "title": "あなたに会えてよかった",
+        "artist": "Kyoko Koizumi",
+        "release_date": "1991-07-26"
+      },
+      {
+        "CardNumber": "00002",
+        "Spotify": "019oDnXj3TCond0iuRa5QR",
+        "title": "HOWEVER",
+        "artist": "GLAY",
+        "release_date": "2000-11-29"
+      },
+      {
+        "CardNumber": "00001",
+        "Spotify": "0cfLPiGhPmlyUAKK0eNKrd",
+        "title": "タッチ",
+        "artist": "Yoshimi Iwasaki",
+        "release_date": "1985-03-21"
+      }
+    ]
+  }
+}
