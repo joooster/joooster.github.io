@@ -1253,13 +1253,14 @@ async function fetchAltPreviewUrl(artist, title) {
     // ---------- 1️⃣ Search song on NetEase ----------
     const searchUrl =
       "https://api-v1.cenguigui.cn/api/music/netease/WyY_Dg.php" +
-      `?type=json&msg=${encodeURIComponent(artist + " " + title)}&num=1&n=`;
+      `?type=json&msg=${encodeURIComponent(artist + " " + title)}&num=2&n=`;
 
     const searchRes = await fetch(searchUrl);
     const searchData = await searchRes.json();
 
     // Correct field: songid (NOT id)
-    const songId = searchData?.data?.[0]?.songid;
+    let songId = searchData?.data?.[0]?.songid;
+    const songId1 = searchData?.data?.[1]?.songid;
     if (!songId) return null;
 
     // ---------- 2️⃣ Fetch preview MP3 ----------
@@ -1267,6 +1268,10 @@ async function fetchAltPreviewUrl(artist, title) {
     //   `https://api.cenguigui.cn/api/netease/music_v1.php?id=${songId}&type=json`
     // );
     // const previewData = await previewRes.json();
+
+    if (parseInt(songId1) < parseInt(songId)) {
+      songId = songId1 
+    };
 
     const res = await fetch(
       `https://api.cenguigui.cn/api/netease/music_v1.php?id=${songId}&type=json`
