@@ -1615,8 +1615,8 @@
 
             try {
                 const token = await getAccessToken();
-                // const query = `artist:"${artist}" track:"${title}"`;
-                const query = `${artist} - ${title}`;
+                const query = `artist:"${artist}" track:"${title}"`;
+                //const query = `${artist} - ${title}`;
                 const sbase1 = atob("aHR0cHM6Ly9hcGkuc3BvdGlmeS5jb20vdjEvc2VhcmNoP3E9");
                 const url = `${sbase1}${encodeURIComponent(query)}&type=track&limit=1`;
 
