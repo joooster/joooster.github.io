@@ -1253,41 +1253,85 @@
         songListSortSelect.addEventListener("change", renderSongList);
 
 
-        async function fetchAltPreviewUrl(artist, title) {
+        async function fetchAltPreviewUrl(artist, title, isrc) {
             try {
-                // ---------- 1️⃣ Search song on NetEase ----------
-                const searchUrl =
-                    "https://api-v1.cenguigui.cn/api/music/netease/WyY_Dg.php" +
-                    `?type=json&msg=${encodeURIComponent(artist + " " + title)}&num=1&n=`;
+                const AP = atob("Nzk4MjczMDU3");
 
-                const searchRes = await fetch(searchUrl);
-                const searchData = await searchRes.json();
+                if (isrc == "") {
+                    isrc = await searchISRC(artist, title); // needs s
+                    // console.log(isrc);
+                };
 
-                // Correct field: songid (NOT id)
-                const songId = searchData?.data?.[0]?.songid;
-                if (!songId) return null;
+                
+                
+                const SEA_BASE = atob("aHR0cHM6Ly93d3cucW9idXouY29tL2FwaS5qc29uLzAuMi90cmFjay9zZWFyY2g/cXVlcnk9");
+                const STR_BASE = atob("aHR0cHM6Ly9kYWJtdXNpYy54eXovYXBpL3N0cmVhbT90cmFja0lkPQ==")
 
-                // ---------- 2️⃣ Fetch preview MP3 ----------
-                // const previewRes = await fetch(
-                //   `https://api.cenguigui.cn/api/netease/music_v1.php?id=${songId}&type=json`
-                // );
-                // const previewData = await previewRes.json();
+                // Step 1: Search track by ISRC
+                const searchUrl = `${SEA_BASE}${encodeURIComponent(isrc)}&limit=1&app_id=${AP}`;
+                const searchResp = await fetch(searchUrl);
+                if (!searchResp.ok) throw new Error(`Search API error: ${searchResp.status}`);
+                const searchData = await searchResp.json();
 
-                const res = await fetch(
-                    `https://api.cenguigui.cn/api/netease/music_v1.php?id=${songId}&type=json`
-                );
-
-                const rawText = await res.text();
-
-                const jsonStart = rawText.indexOf('{');
-                if (jsonStart === -1) {
-                    throw new Error('Invalid API response');
+                if (!searchData.tracks.items.length) {
+                    status.textContent = "Track not found.";
+                    return;
                 }
 
-                const previewData = JSON.parse(rawText.slice(jsonStart));
+                const track = searchData.tracks.items[0];
+               
+
+                // 5 = mp3
+                const streamUrl = `${STR_BASE}${track.id}&quality=5`;
+                const streamResp = await fetch(streamUrl);
+                if (!streamResp.ok) throw new Error(`Stream API error: ${streamResp.status}`);
+                const streamData = await streamResp.json();
+                const mp3Url = streamData.url;
+
+                // if (!streamData.url) {
+                //     status.textContent = "Streaming URL not available.";
+                //     return;
+                // }
+
+
+
+
+
+
+
+                // // ---------- 1️⃣ Search song on NetEase ----------
+                // const searchUrl =
+                //     "https://api-v1.cenguigui.cn/api/music/netease/WyY_Dg.php" +
+                //     `?type=json&msg=${encodeURIComponent(artist + " " + title)}&num=1&n=`;
+
+                // const searchRes = await fetch(searchUrl);
+                // const searchData = await searchRes.json();
+
+                // // Correct field: songid (NOT id)
+                // const songId = searchData?.data?.[0]?.songid;
+                // if (!songId) return null;
+
+                // // ---------- 2️⃣ Fetch preview MP3 ----------
+                // // const previewRes = await fetch(
+                // //   `https://api.cenguigui.cn/api/netease/music_v1.php?id=${songId}&type=json`
+                // // );
+                // // const previewData = await previewRes.json();
+
+                // const res = await fetch(
+                //     `https://api.cenguigui.cn/api/netease/music_v1.php?id=${songId}&type=json`
+                // );
+
+                // const rawText = await res.text();
+
+                // const jsonStart = rawText.indexOf('{');
+                // if (jsonStart === -1) {
+                //     throw new Error('Invalid API response');
+                // }
+
+                // const previewData = JSON.parse(rawText.slice(jsonStart));
 
                 // Correct field: data.url
-                const mp3Url = previewData?.data?.url;
+                // const mp3Url = previewData?.data?.url;
                 if (!mp3Url) return null;
 
                 return mp3Url;
@@ -1305,7 +1349,8 @@
 
             const altUrl = await fetchAltPreviewUrl(
                 song.artistName,
-                song.trackName
+                song.trackName,
+                ""// song.isrc
             );
 
             return altUrl || song.previewUrl; // fallback safely
@@ -1464,7 +1509,8 @@
 
                 return {
                     artist: card.artist,
-                    title: card.title
+                    title: card.title,
+                    isrc: card.isrc
                 };
             } catch (err) {
                 console.error("Hitster lookup failed:", err);
@@ -1499,7 +1545,7 @@
                     previewUrl = result.previewUrl;
                 } else {
                     // 🎵 Alternative preview
-                    previewUrl = await fetchAltPreviewUrl(song.artist, song.title);
+                    previewUrl = await fetchAltPreviewUrl(song.artist, song.title, song.isrc);
                     if (!previewUrl) throw "No alt preview";
                 }
 
@@ -1535,6 +1581,136 @@
 
             // Otherwise, return as-is
             return url;
+        }
+
+
+
+
+        // const ci = atob("NWY1NzNjOTYyMDQ5NGJhZTg3ODkwYzBmMDhhNjAyOTM=");
+        // const cs = atob("MjEyNDc2ZDliMGYzNDcyZWFhNzYyZDkwYjE5YjBiYTg=");
+
+        const ci = atob("NDg5MmVkYTA0ODI1NGQxZmI2MWY4NmQ0Y2RjM2MyOTQ=");
+        const cs = atob("OTU4Mjc2Y2NhZjY5NGMzMjgyMDM4YWIxMTJlYjFlYmM=");
+
+        // Fetch access token
+        async function getAccessToken() {
+            const auth = btoa(ci + ":" + cs);
+
+            const stok = atob("aHR0cHM6Ly9hY2NvdW50cy5zcG90aWZ5LmNvbS9hcGkvdG9rZW4=");
+            const res = await fetch(stok, {
+                method: "POST",
+                headers: {
+                    "Authorization": "Basic " + auth,
+                    "Content-Type": "application/x-www-form-urlencoded"
+                },
+                body: "grant_type=client_credentials"
+            });
+
+            const data = await res.json();
+            return data.access_token;
+        }
+
+        // Search by artist + track
+        async function searchISRC(artist, title) {
+
+            try {
+                const token = await getAccessToken();
+                // const query = `artist:"${artist}" track:"${title}"`;
+                const query = `${artist} - ${title}`;
+                const sbase1 = atob("aHR0cHM6Ly9hcGkuc3BvdGlmeS5jb20vdjEvc2VhcmNoP3E9");
+                const url = `${sbase1}${encodeURIComponent(query)}&type=track&limit=1`;
+
+                const res = await fetch(url, {
+                    headers: { "Authorization": "Bearer " + token }
+                });
+
+                const data = await res.json();
+
+                if (data.tracks && data.tracks.items.length > 0) {
+                    const t = data.tracks.items[0];
+                    const isrc = t.external_ids.isrc;
+                    // console.log(isrc);
+                    return isrc
+                } else {
+                    return "No track found";
+                }
+            } catch (err) {
+                return "Error: " + err.message;
+            }
+        }
+
+        // async function searchISRC(artist, title) {
+        //         try {
+        //             // 1. Search for a recording
+        //             const query = `artist:"${artist}" AND recording:"${title}"`;
+        //             const searchUrl =
+        //                 `https://musicbrainz.org/ws/2/recording` +
+        //                 `?query=${encodeURIComponent(query)}` +
+        //                 `&limit=1&fmt=json`;
+
+        //             const searchRes = await fetch(searchUrl, {
+        //                 headers: {
+        //                     "User-Agent": "YourAppName/1.0 (your@email.com)"
+        //                 }
+        //             });
+
+        //             const searchData = await searchRes.json();
+
+        //             if (!searchData.recordings || searchData.recordings.length === 0) {
+        //                 return "No track found";
+        //             }
+
+        //             const recordingId = searchData.recordings[0].id;
+
+        //             // 2. Fetch ISRCs for the recording
+        //             const recordingUrl =
+        //                 `https://musicbrainz.org/ws/2/recording/${recordingId}` +
+        //                 `?inc=isrcs&fmt=json`;
+
+        //             const recordingRes = await fetch(recordingUrl, {
+        //                 headers: {
+        //                     "User-Agent": "YourAppName/1.0 (your@email.com)"
+        //                 }
+        //             });
+
+        //             const recordingData = await recordingRes.json();
+
+        //             if (recordingData.isrcs && recordingData.isrcs.length > 0) {
+        //                 const isrc = recordingData.isrcs[0]; // take first ISRC
+        //                 console.log(isrc);
+        //                 return isrc;
+        //             } else {
+        //                 return "ISRC not found";
+        //             }
+
+        //         } catch (err) {
+        //             return "Error: " + err.message;
+        //         }
+        //     }
+
+
+        // Get ISRC by S Track ID
+        async function getISRCById(trackId) {
+
+            try {
+                const sbase = atob("aHR0cHM6Ly9hcGkuc3BvdGlmeS5jb20vdjEvdHJhY2tzLw==");
+                const token = await getAccessToken();
+                const url = `${sbase}${encodeURIComponent(trackId)}`;
+
+                const res = await fetch(url, {
+                    headers: { "Authorization": "Bearer " + token }
+                });
+
+                const data = await res.json();
+
+                if (data && data.external_ids && data.external_ids.isrc) {
+                    return data.external_ids.isrc;
+                } else {
+                    return "ISRC not found for this track.";
+                }
+            } catch (err) {
+                return "Error: " + err.message;
+            }
         }
 
 
